@@ -51,8 +51,6 @@ ZSH_THEME="gentoo"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git github zsh-syntax-highlighting zsh-autosuggestions extract osx python pip fasd)
 
-bindkey '^ ' autosuggest-clear
-
 # User configuration
 
 export PATH="/Library/Frameworks/Python.framework/Versions/3.5/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/mysql/bin"
@@ -85,3 +83,5 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export PATH=/usr/local/bin:$PATH
+
+bindkey '^z' autosuggest-clear
