@@ -82,6 +82,8 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias lazygit="git add *; git commit -m 'updated: $(date +"%Y-%m-%d %T")'; git push;"
+
 export PATH=/usr/local/bin:$PATH
 
 bindkey '^z' autosuggest-clear
