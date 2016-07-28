@@ -2,7 +2,7 @@
 
 if [ $UID -eq 0 ]; then NCOLOR="red"; else NCOLOR="white"; fi
 
-local ret_status="%(?:%{$fg_bold[green]%}> :%{$fg_bold[red]%}> )"
+local ret_status="%(?:%{$fg[green]%}%B>%b :%{$fg[red]%}%B>%b )"
 
 PROMPT='%{$fg[$NCOLOR]%}%B%n%b%{$reset_color%}:%{$fg[blue]%}%B%c%b%{$reset_color%}$(git_prompt_info) ${ret_status}'
 
