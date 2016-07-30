@@ -5,12 +5,16 @@
 
 a free, open source, and cross-platform media player
 
+![](https://github.com/ykqmain/my-tools/blob/master/picture/TheLittlePrince.png)
+
 <br><br>
 
 
 ### oh-my-zsh ([preferences](https://github.com/ykqmain/my-tools/tree/master/oh-my-zsh), [More](https://github.com/robbyrussell/oh-my-zsh))
 
 Oh My Zsh is a way of life.Each time you interact with your command prompt, you'll be able to take advantage of the hundreds of bundled plugins and pretty themes. 
+
+![](https://github.com/ykqmain/my-tools/blob/master/picture/zsh.png)
 
 **plugins:**
 * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
@@ -24,5 +28,7 @@ Oh My Zsh is a way of life.Each time you interact with your command prompt, you'
 Vim - the ubiquitous text editor
 
 Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.
+
+![](https://github.com/ykqmain/my-tools/blob/master/picture/vim.png)
 
 <br><br>
