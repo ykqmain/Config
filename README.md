@@ -23,4 +23,6 @@ Oh My Zsh is a way of life.Each time you interact with your command prompt, you'
 
 Vim - the ubiquitous text editor
 
+Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.
+
 <br><br>
