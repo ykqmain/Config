@@ -1,7 +1,7 @@
 ## The preferences of my tools
 
 
-### MPV ([preferences](https://github.com/ykqmain/my-tools/tree/master/MPV), [More](https://mpv.io))
+### mpv ([preferences](https://github.com/ykqmain/my-tools/tree/master/mpv), [More](https://mpv.io))
 
 a free, open source, and cross-platform media player
 
@@ -19,7 +19,7 @@ Oh My Zsh is a way of life.Each time you interact with your command prompt, you'
 <br><br>
 
 
-### vim ([preferences](https://github.com/ykqmain/my-tools/blob/master/vim/.vimrc), [More](http://www.vim.org))
+### Vim ([preferences](https://github.com/ykqmain/my-tools/blob/master/Vim/.vimrc), [More](http://www.vim.org))
 
 Vim - the ubiquitous text editor
 
