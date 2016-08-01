@@ -83,6 +83,10 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+alias p3="python3"
+alias cl="clang"
+alias c+="clang++ -std=c++11"
+
 function lazygit() {
     git add .
     git commit -m "updated: $(date +"%Y-%m-%d %T")"
