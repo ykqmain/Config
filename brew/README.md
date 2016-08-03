@@ -54,6 +54,8 @@
 
 * mysql
 
+    `mysql.server start`
+
 * tree
 
 * wget
