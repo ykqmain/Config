@@ -1,6 +1,14 @@
 ## The preferences of my tools
 
 
+### Homebrew ([use](https://github.com/ykqmain/my-tools/tree/master/brew), [More](http://brew.sh/index_zh-cn.html))
+
+
+The missing package manager for OS X
+
+<br><br>
+
+
 ### mpv ([preferences](https://github.com/ykqmain/my-tools/tree/master/mpv), [More](https://mpv.io))
 
 a free, open source, and cross-platform media player
