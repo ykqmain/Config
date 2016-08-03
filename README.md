@@ -5,6 +5,11 @@
 
 a free, open source, and cross-platform media player
 
+```
+brew install mpv --with-bundle
+brew linkapps mpv
+```
+
 ![](https://github.com/ykqmain/my-tools/blob/master/picture/TheLittlePrince.png)
 
 <br><br>
