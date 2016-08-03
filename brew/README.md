@@ -4,6 +4,7 @@
 
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
+<br>
 
 ### 常用命令
 
@@ -36,3 +37,23 @@
     * `brew cleanup` 清理不需要的版本极其安装包缓存
 
 7. 卸载 `brew uninstall`
+
+<br>
+
+### List
+
+* ffmpeg
+
+* mpv
+
+    ```
+    brew install mpv --with-bundle
+    brew linkapps mpv
+    ```
+
+
+* mysql
+
+* tree
+
+* wget
