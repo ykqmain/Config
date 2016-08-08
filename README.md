@@ -1,7 +1,11 @@
 ## The preferences of my tools
 
 
-### Atom ([preferences](https://github.com/ykqmain/my-tools/tree/master/brew), [More](http://brew.sh/index_zh-cn.html))
+### Atom ([preferences](https://github.com/ykqmain/my-tools/tree/master/Atom), [More](https://atom.io))
+
+A hackable text editor for the 21st Century
+
+<br><br>
 
 
 ### Homebrew ([use](https://github.com/ykqmain/my-tools/tree/master/brew), [More](http://brew.sh/index_zh-cn.html))
