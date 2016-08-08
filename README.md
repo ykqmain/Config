@@ -1,6 +1,9 @@
 ## The preferences of my tools
 
 
+### Atom ([preferences](https://github.com/ykqmain/my-tools/tree/master/brew), [More](http://brew.sh/index_zh-cn.html))
+
+
 ### Homebrew ([use](https://github.com/ykqmain/my-tools/tree/master/brew), [More](http://brew.sh/index_zh-cn.html))
 
 
