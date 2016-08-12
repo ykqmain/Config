@@ -1,7 +1,7 @@
 ## The preferences of my tools
 
 
-### Atom ([preferences](https://github.com/ykqmain/My-tools/tree/master/Atom), [More](https://atom.io))
+### Atom ([config](https://github.com/ykqmain/My-tools/tree/master/Atom), [More](https://atom.io))
 
 A hackable text editor for the 21st Century
 
@@ -16,7 +16,7 @@ The missing package manager for OS X
 <br><br>
 
 
-### mpv ([preferences](https://github.com/ykqmain/My-tools/tree/master/mpv), [More](https://mpv.io))
+### mpv ([config](https://github.com/ykqmain/My-tools/tree/master/mpv), [More](https://mpv.io))
 
 a free, open source, and cross-platform media player
 
@@ -30,7 +30,14 @@ brew linkapps mpv
 <br><br>
 
 
-### oh-my-zsh ([preferences](https://github.com/ykqmain/My-tools/tree/master/oh-my-zsh), [More](https://github.com/robbyrussell/oh-my-zsh))
+### nginx ([config](https://github.com/ykqmain/My-tools/blob/master/nginx/nginx.conf), [More](https://nginx.org/en/))
+
+nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
+
+<br><br>
+
+
+### oh-my-zsh ([config](https://github.com/ykqmain/My-tools/tree/master/oh-my-zsh), [More](https://github.com/robbyrussell/oh-my-zsh))
 
 Oh My Zsh is a way of life.Each time you interact with your command prompt, you'll be able to take advantage of the hundreds of bundled plugins and pretty themes. 
 
@@ -43,7 +50,7 @@ Oh My Zsh is a way of life.Each time you interact with your command prompt, you'
 <br><br>
 
 
-### Vim ([preferences](https://github.com/ykqmain/My-tools/blob/master/Vim/.vimrc), [More](http://www.vim.org))
+### Vim ([config](https://github.com/ykqmain/My-tools/blob/master/Vim/.vimrc), [More](http://www.vim.org))
 
 Vim - the ubiquitous text editor
 
