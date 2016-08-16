@@ -59,6 +59,8 @@
 
 * openssl
 
+* p7zip
+
 * tree
 
 * wget
