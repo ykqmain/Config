@@ -55,6 +55,7 @@
 * mysql
 
     `mysql.server start`
+    
     `brew services start mysql`
 
 * openssl
