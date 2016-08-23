@@ -8,6 +8,13 @@ A hackable text editor for the 21st Century
 <br><br>
 
 
+### Hexo ([More](https://hexo.io))
+
+A fast, simple & powerful blog framework
+
+<br><br>
+
+
 ### Homebrew ([use](https://github.com/ykqmain/My-tools/tree/master/brew), [More](http://brew.sh/index_zh-cn.html))
 
 
