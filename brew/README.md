@@ -42,6 +42,8 @@
 
 ### List
 
+* Aria2
+
 * ffmpeg
 
 * mpv
