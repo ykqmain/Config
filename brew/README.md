@@ -70,7 +70,10 @@
 
 * Wireshark
 
-    `brew install wireshark --with-qt`
+    ```
+    brew install wireshark --with-qt
+    brew linkapps wireshark
+    ```
 
 * wget
 
