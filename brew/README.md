@@ -70,7 +70,7 @@
 
 * Wireshark
 
-    `brew cask install wireshark-chmodbpf`
+    `brew install wireshark --with-qt`
 
 * wget
 
