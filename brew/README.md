@@ -60,7 +60,6 @@
     
     `brew services start mysql`
 
-* openssl
 
 * p7zip
 
