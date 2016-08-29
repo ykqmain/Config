@@ -66,5 +66,9 @@
 
 * tree
 
+* Wireshark
+
+    `brew cask install wireshark-chmodbpf`
+
 * wget
 
