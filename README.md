@@ -66,3 +66,23 @@ Vim is a highly configurable text editor built to make creating and changing any
 ![](https://github.com/ykqmain/My-tools/blob/master/picture/vim.png)
 
 <br><br>
+
+
+## Browser Extensions
+
+### Safari
+
+* ClickToFlash
+
+* AdBlock
+
+* Stylish
+
+
+### Chrome
+
+* [网盘助手](https://github.com/acgotaku/BaiduExporter)
+
+* AdBlock
+
+* Google翻译
