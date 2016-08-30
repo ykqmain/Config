@@ -78,6 +78,7 @@ Vim is a highly configurable text editor built to make creating and changing any
 
 * Stylish
 
+<br>
 
 ### Chrome
 
