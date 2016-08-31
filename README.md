@@ -5,6 +5,20 @@
 
 A hackable text editor for the 21st Century
 
+**plugins:**
+* atom-beautify (Glavin001)
+* autocomplete-swift (steelbrain)
+* dash (blakeembrey)
+* file-icons (DanBrooker)
+* highlight-line (richrace)
+* highlight-selected (richrace)
+* language-swift (freebroccolo)
+* activate-power-mode (JoelBesada)
+
+**Disable:**
+* whitespace
+* spell-check
+
 <br><br>
 
 
