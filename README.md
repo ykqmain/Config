@@ -29,6 +29,8 @@ A hackable text editor for the 21st Century
 
 distributed is the new centralized
 
+(`git config --global core.excludesfile ~/.gitignore_global`)
+
 <br><br>
 
 

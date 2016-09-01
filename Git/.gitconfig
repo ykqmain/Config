@@ -1,0 +1,11 @@
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
+[user]
+	name = Yang
+	email = ykqmain@gmail.com
+[push]
+	default = simple
+[core]
+	excludesfile = /Users/Yang/.gitignore_global
