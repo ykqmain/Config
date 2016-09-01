@@ -25,6 +25,13 @@ A hackable text editor for the 21st Century
 <br><br>
 
 
+### Git ([config](), [More](https://git-scm.com))
+
+distributed is the new centralized
+
+<br><br>
+
+
 ### Hexo ([config](https://github.com/ykqmain/My-tools/tree/master/Hexo)，[More](https://hexo.io))
 
 A fast, simple & powerful blog framework
