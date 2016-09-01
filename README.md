@@ -19,6 +19,9 @@ A hackable text editor for the 21st Century
 * whitespace
 * spell-check
 
+**Ignored Names:**
+`.git, .hg, .svn, .DS_Store, ._*, Thumbs.db, *替身, *.app, *.pdf`
+
 <br><br>
 
 
