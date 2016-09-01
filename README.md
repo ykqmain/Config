@@ -25,7 +25,7 @@ A hackable text editor for the 21st Century
 <br><br>
 
 
-### Git ([config](), [More](https://git-scm.com))
+### Git ([config](https://github.com/ykqmain/My-tools/tree/master/Git), [More](https://git-scm.com))
 
 distributed is the new centralized
 
