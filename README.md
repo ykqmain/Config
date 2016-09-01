@@ -1,4 +1,4 @@
-## The my preferences of Software
+## The preferences of Software
 
 
 ### Atom ([config](https://github.com/ykqmain/Preference/tree/master/Atom), [More](https://atom.io))
