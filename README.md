@@ -94,6 +94,18 @@ Vim is a highly configurable text editor built to make creating and changing any
 <br><br>
 
 
+### Shell
+
+Calculate MD5 checksum:
+`md5`
+
+Calculate SHA-1 checksum:
+`shasum -a 1`
+
+Calculate SHA-256 checksum:
+`shasum -a 256`
+
+
 ## Browser Extensions
 
 ### Safari
