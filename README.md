@@ -92,7 +92,7 @@ Vim is a highly configurable text editor built to make creating and changing any
 ![](https://github.com/ykqmain/Preference/blob/master/picture/vim.png)
 
 <br><br>
-
+<br><br>
 
 ### Shell
 
@@ -104,6 +104,8 @@ Calculate SHA-1 checksum:
 
 Calculate SHA-256 checksum:
 `shasum -a 256`
+
+<br><br>
 
 
 ## Browser Extensions
