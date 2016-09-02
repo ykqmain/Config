@@ -92,7 +92,7 @@ Vim is a highly configurable text editor built to make creating and changing any
 ![](https://github.com/ykqmain/Preference/blob/master/picture/vim.png)
 
 <br><br>
-<br><br>
+
 
 ### Shell
 
