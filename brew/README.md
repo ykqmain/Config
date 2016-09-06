@@ -12,6 +12,7 @@
 
 2. 安装 `brew instal XXXX`
 
+    * 安装路径 `/usr/local/Cellar`
     * Homebrew 会将套件安装到独立目录，并将文件软链接至 `/usr/local`
 
 3. 搜索 `brew search`
@@ -38,7 +39,6 @@
 
 7. 卸载 `brew uninstall`
 
-* 安装路径 `/usr/local/Cellar`
 
 * `brew` 下载命令行下的工具和第三方库 (./configure && make install)
 * `brew cask` 下载一些带界面的应用软件，下载好后会自动安装 (.dmg / .pkg)
