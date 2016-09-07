@@ -60,9 +60,10 @@
 
 * mysql
 
-    `mysql.server start`
-    
-    `brew services start mysql`
+    ```
+    mysql.server start
+    brew services start mysql
+    ```
 
 
 * tree
