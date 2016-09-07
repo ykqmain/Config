@@ -65,9 +65,9 @@
     `brew services start mysql`
 
 
-* p7zip
-
 * tree
+
+* qt
 
 * Wireshark
 
