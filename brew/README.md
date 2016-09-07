@@ -69,12 +69,13 @@
     brew linkapps wireshark
     ```
 
-    * mysql
 
-        ```
-        mysql.server start
-        brew services start mysql
-        ```
+* mysql
+
+    ```
+    mysql.server start
+    brew services start mysql
+    ```
 
 * wget
 
