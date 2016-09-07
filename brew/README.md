@@ -58,14 +58,6 @@
     ```
 
 
-* mysql
-
-    ```
-    mysql.server start
-    brew services start mysql
-    ```
-
-
 * tree
 
 * qt
@@ -76,6 +68,13 @@
     brew install wireshark --with-qt
     brew linkapps wireshark
     ```
+
+    * mysql
+
+        ```
+        mysql.server start
+        brew services start mysql
+        ```
 
 * wget
 
