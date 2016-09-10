@@ -95,4 +95,4 @@ function lazygit() {
 
 export PATH=/usr/local/bin:$PATH
 
-bindkey '^z' autosuggest-clear
+bindkey '^ ' autosuggest-clear
