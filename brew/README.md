@@ -50,25 +50,15 @@
 
 * Aria2
 
-* ffmpeg
+* tree
+
+* wget
 
 * mpv
 
     ```
     brew install mpv --with-bundle
     brew linkapps mpv
-    ```
-
-
-* tree
-
-* qt
-
-* Wireshark
-
-    ```
-    brew install wireshark --with-qt
-    brew linkapps wireshark
     ```
 
 
@@ -79,5 +69,11 @@
     brew services start mysql
     ```
 
-* wget
+
+* Wireshark
+
+    ```
+    brew install wireshark --with-qt
+    brew linkapps wireshark
+    ```
 
