@@ -14,6 +14,7 @@
 
 2. 安装 `brew instal XXXX`
 
+    * 权限 `chown -R $(whoami) /usr/local` (zsh)
     * 安装路径 `/usr/local/Cellar`
     * Homebrew 会将套件安装到独立目录，并将文件软链接至 `/usr/local`
     * `brew` 下载命令行下的工具和第三方库 (./configure && make install)
