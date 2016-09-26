@@ -55,6 +55,8 @@
 
 * wget
 
+* uncrustify
+
 * mpv
 
     ```
