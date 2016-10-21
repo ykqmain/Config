@@ -85,6 +85,7 @@ source $ZSH/oh-my-zsh.sh
 
 alias p3="python3"
 alias clang++="clang++ -std=c++11"
+alias ygm="you-get -p mpv"
 
 function lazygit() {
     git add .
