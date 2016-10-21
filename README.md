@@ -41,7 +41,7 @@ brew install mpv --with-bundle
 brew linkapps mpv
 ```
 
-![](https://github.com/ykqmain/my-config/blob/master/picture/mpv.png)
+![](https://github.com/ykqmain/my-config/blob/master/picture/mpv.jpg)
 
 <br><br>
 
