@@ -44,39 +44,3 @@
 
 7. 卸载 `brew uninstall`
 
-
-<br>
-
-### List
-
-* Aria2
-
-* tree
-
-* wget
-
-* uncrustify
-
-* mpv
-
-    ```
-    brew install mpv --with-bundle
-    brew linkapps mpv
-    ```
-
-
-* mysql
-
-    ```
-    mysql.server start
-    brew services start mysql
-    ```
-
-
-* Wireshark
-
-    ```
-    brew install wireshark --with-qt
-    brew linkapps wireshark
-    ```
-
