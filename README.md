@@ -5,23 +5,6 @@
 
 A hackable text editor for the 21st Century
 
-**plugins:**
-* atom-beautify (Glavin001)
-* autocomplete-swift (steelbrain)
-* dash (blakeembrey)
-* file-icons (DanBrooker)
-* highlight-line (richrace)
-* highlight-selected (richrace)
-* language-swift (freebroccolo)
-* activate-power-mode (JoelBesada)
-
-**Disable:**
-* whitespace
-* spell-check
-
-**Ignored Names:**
-`.git, .hg, .svn, .DS_Store, ._*, Thumbs.db, *替身, *.app, *.pdf`
-
 <br><br>
 
 
@@ -58,7 +41,7 @@ brew install mpv --with-bundle
 brew linkapps mpv
 ```
 
-![](https://github.com/ykqmain/my-config/blob/master/picture/TheLittlePrince.png)
+![](https://github.com/ykqmain/my-config/blob/master/picture/mpv.png)
 
 <br><br>
 
@@ -73,8 +56,6 @@ nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a
 ### oh-my-zsh ([config](https://github.com/ykqmain/my-config/tree/master/oh-my-zsh), [More](https://github.com/robbyrussell/oh-my-zsh))
 
 Oh My Zsh is a way of life.Each time you interact with your command prompt, you'll be able to take advantage of the hundreds of bundled plugins and pretty themes. 
-
-![](https://github.com/ykqmain/my-config/blob/master/picture/zsh.png)
 
 **plugins:**
 * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
