@@ -17,13 +17,6 @@ distributed is the new centralized
 <br><br>
 
 
-### Hexo ([config](https://github.com/ykqmain/my-config/tree/master/Hexo)，[More](https://hexo.io))
-
-A fast, simple & powerful blog framework
-
-<br><br>
-
-
 ### <u>Homebrew</u> ([use](https://github.com/ykqmain/my-config/tree/master/brew), [More](http://brew.sh/index_zh-cn.html))
 
 
@@ -55,7 +48,7 @@ nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a
 
 ### oh-my-zsh ([config](https://github.com/ykqmain/my-config/tree/master/oh-my-zsh), [More](https://github.com/robbyrussell/oh-my-zsh))
 
-Oh My Zsh is a way of life.Each time you interact with your command prompt, you'll be able to take advantage of the hundreds of bundled plugins and pretty themes. 
+Oh My Zsh is a way of life.Each time you interact with your command prompt, you'll be able to take advantage of the hundreds of bundled plugins and pretty themes.
 
 **plugins:**
 * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
