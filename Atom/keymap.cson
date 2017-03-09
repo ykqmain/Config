@@ -31,9 +31,6 @@
 # Atom Flight Manual:
 # https://atom.io/docs/latest/using-atom-basic-customization#cson
 
-'atom-text-editor':
-  'ctrl-z': 'dash:shortcut'
-
 
 'body':
   'ctrl-tab': 'pane:show-next-item'
