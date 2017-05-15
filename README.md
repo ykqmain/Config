@@ -31,7 +31,6 @@ a free, open source, and cross-platform media player
 
 ```
 brew install mpv --with-bundle
-brew linkapps mpv
 ```
 
 ![](https://github.com/ykqmain/my-config/blob/master/picture/mpv.jpg)
