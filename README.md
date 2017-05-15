@@ -85,9 +85,11 @@ Calculate SHA-256 checksum:
 
 ### Safari
 
-* ClickToFlash
-
 * AdBlock
+
+* Evernote Web Clipper
+
+* [ClickToFlash](http://hoyois.github.io/safariextensions/clicktoplugin/)
 
 * Stylish
 
@@ -95,8 +97,6 @@ Calculate SHA-256 checksum:
 
 ### Chrome
 
-* [网盘助手](https://github.com/acgotaku/BaiduExporter)
-
 * AdBlock
 
-* Google翻译
+* [网盘助手](https://github.com/acgotaku/BaiduExporter)
