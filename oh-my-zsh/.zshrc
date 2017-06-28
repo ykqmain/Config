@@ -87,6 +87,11 @@ alias p3="python3"
 alias clang++="clang++ -std=c++11"
 alias ygm="you-get -p mpv"
 
+alias bud="brew update"
+alias bod="brew outdated"
+alias bug="brew upgrade"
+alias bcu="brew cleanup"
+
 function lazygit() {
     git add .
     git commit -m "updated: $(date +"%Y-%m-%d %T")"
@@ -96,3 +101,4 @@ function lazygit() {
 export PATH=/usr/local/bin:$PATH
 
 bindkey '^ ' autosuggest-clear
+export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles
