@@ -87,6 +87,8 @@ alias p3="python3"
 alias clang++="clang++ -std=c++11"
 alias ygm="you-get -p mpv"
 
+alias proxy="export http_proxy=http://127.0.0.1:1087;export https_proxy=http://127.0.0.1:1087;"
+
 alias bud="brew update"
 alias bod="brew outdated"
 alias bug="brew upgrade"
@@ -101,4 +103,4 @@ function lazygit() {
 export PATH=/usr/local/bin:$PATH
 
 bindkey '^ ' autosuggest-clear
-export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles
+
