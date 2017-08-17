@@ -89,10 +89,10 @@ alias ygm="you-get -p mpv"
 
 alias proxy="export http_proxy=http://127.0.0.1:1087;export https_proxy=http://127.0.0.1:1087;"
 
-alias bud="brew update"
-alias bod="brew outdated"
-alias bug="brew upgrade"
-alias bcu="brew cleanup"
+alias b1="brew update"
+alias b2="brew outdated"
+alias b3="brew upgrade"
+alias b4="brew cleanup"
 
 function lazygit() {
     git add .
