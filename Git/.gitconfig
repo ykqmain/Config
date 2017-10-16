@@ -8,4 +8,4 @@
 [push]
 	default = simple
 [core]
-	excludesfile = /Users/Yang/.gitignore_global
+	excludesfile = /Users/yang/.gitignore_global
