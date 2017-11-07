@@ -83,7 +83,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias p3="python3"
 alias clang++="clang++ -std=c++11"
 alias ygm="you-get -p mpv"
 
