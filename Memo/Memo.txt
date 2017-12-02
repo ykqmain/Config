@@ -13,7 +13,7 @@ mysql -u root -p
 mysql.server star
 mysql.server restart
 
-ALTER USER 'root'@'localhost' IDENTIFIED BY 'main';
+ALTER USER 'root'@'localhost' IDENTIFIED BY '';
 ----------------------------------------
 Apache
 
