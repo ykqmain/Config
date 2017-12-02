@@ -1,0 +1,80 @@
+
+[a-zA-z]+://[^\s]*
+----------------------------------------
+头像
+https://avatars1.githubusercontent.com/u/15179473?s=460&v=4
+----------------------------------------
+ffmpeg -i input.flv output.mp4
+
+ffmpeg -ss 0:0:0(起点时间) -t 00:10:00(持续时间) -i in.mp4 -c copy /Users/yang/Desktop/out.mp4
+----------------------------------------
+mysql -u root -p
+
+mysql.server star
+mysql.server restart
+
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'main';
+----------------------------------------
+Apache
+
+http://127.0.0.1:81
+
+sudo apachectl start
+启动
+
+sudo apachectl restart
+重启
+
+sudo apachectl stop
+停止
+
+sudo apachectl －v
+查看版本
+
+Include /private/etc/apache2/extra/httpd-vhosts.conf
+----------------------------------------
+
+Mac自启项目
+
+~/Library/LaunchAgents/
+/Library/LaunchAgents/
+/Library/LaunchDaemons/
+----------------------------------------
+
+允许任何来源
+
+sudo spctl --master-disable
+----------------------------------------
+
+Calculate MD5 checksum:
+md5
+
+Calculate SHA-1 checksum:
+shasum -a 1
+
+Calculate SHA-256 checksum:
+shasum -a 256
+----------------------------------------
+代理
+
+export http_proxy='127.0.0.1:1087'
+如果已经启用ss 本地地址为 socks5://127.0.0.1:1080
+在终端下使用 export  ALL_PROXY=socks5://127.0.0.1:1080
+清除~ unset ALL_PROXY
+
+curl -i http://ip.cn 查看ip
+----------------------------------------
+#include <stdio.h>
+int main()
+{
+    double world;
+    unsigned letter;
+    short stay;
+    long memories;
+    printf("I miss you.\n");
+    return 0;
+}
+
+//两个人的世界，一封没有署名的信，短暂的重逢后，留下的只是回忆，我想你.
+----------------------------------------
+

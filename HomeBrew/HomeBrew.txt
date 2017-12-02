@@ -1,0 +1,15 @@
+HomeBrew
+
+/usr/local/
+
+brew update
+
+brew outdated
+
+brew upgrade
+
+brew cleanup
+
+brew cask outdated
+
+brew cask cleanup
