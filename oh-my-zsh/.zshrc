@@ -86,7 +86,6 @@ source $ZSH/oh-my-zsh.sh
 alias clang++="clang++ -std=c++11"
 alias ygm="you-get -p mpv"
 alias sha256="shasum -a 256"
-alias wsk="wireshark"
 
 alias proxy="export http_proxy=http://127.0.0.1:1087;export https_proxy=http://127.0.0.1:1087;"
 
@@ -94,8 +93,6 @@ alias b1="brew update"
 alias b2="brew outdated"
 alias b3="brew upgrade"
 alias b4="brew cleanup"
-alias b5="brew cask outdated"
-alias b6="brew cask cleanup"
 
 function lazygit() {
     git add .
