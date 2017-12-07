@@ -84,7 +84,6 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias clang++="clang++ -std=c++11"
-alias ygm="you-get -p mpv"
 alias sha256="shasum -a 256"
 
 alias proxy="export http_proxy=http://127.0.0.1:1087;export https_proxy=http://127.0.0.1:1087;"
