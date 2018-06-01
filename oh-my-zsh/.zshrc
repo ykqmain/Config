@@ -53,7 +53,9 @@ plugins=(git github zsh-syntax-highlighting zsh-autosuggestions extract osx pyth
 
 # User configuration
 
-export PATH="/Library/Frameworks/Python.framework/Versions/3.5/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/mysql/bin"
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/mysql/bin"
+
+export PATH=/usr/local/bin:$PATH
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
@@ -99,7 +101,4 @@ function lazygit() {
     git push
 }
 
-export PATH=/usr/local/bin:$PATH
-
 bindkey '^z' autosuggest-clear
-
