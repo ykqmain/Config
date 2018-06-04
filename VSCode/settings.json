@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "python.pythonPath": "/usr/local/bin/python3",
+    
+    "editor.fontFamily": "SourceCodePro-Regular",
+    "editor.fontSize": 13,
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrap": "bounded",
+    "workbench.startupEditor": "newUntitledFile",
+
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+}
