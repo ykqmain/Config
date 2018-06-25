@@ -11,10 +11,7 @@
     * file-types
     * highlight-line
     * highlight-selected
-    * minimap
-    * minimap-cursorline
-    * minimap-highlight-selected
-    * minimap-find-and-replace
+    * [minimap](https://atom.io/users/atom-minimap/packages) (共7个)
 
 * _Ignored Names_ (Packages/Tree-View)
 
