@@ -8,7 +8,6 @@
 * _Plugin_ (~/.atom/packages)
 
     * file-icons
-    * file-types
     * highlight-line
     * highlight-selected
     * [minimap](https://atom.io/users/atom-minimap/packages) (共7个)
