@@ -49,7 +49,7 @@ ZSH_THEME="preference"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git github zsh-syntax-highlighting zsh-autosuggestions extract osx python pip fasd)
+plugins=(git github zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search extract osx python pip fasd)
 
 # User configuration
 
@@ -103,3 +103,5 @@ function lazygit() {
 }
 
 bindkey '^z' autosuggest-clear
+bindkey '^[[A' history-substring-search-up
+bindkey '^[[B' history-substring-search-down
