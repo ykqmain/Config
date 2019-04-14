@@ -3,20 +3,20 @@
     * _Plugin_ (~/.atom/packages)
         * sync-settings
         * file-icons
-        * highlight-line
         * highlight-selected
+        * highlight-line
         * script
-        * autocomplete-paths
         * [minimap](https://atom.io/users/atom-minimap/packages) (共7个)
         * linter
             * minimap-linter
             * linter-flake8
             * linter-shellcheck
-            * linter-javac
             * linter-clang
+            * linter-javac
             * linter-eslint
             * linter-htmlhint
             * linter-csslint
+        * autocomplete-paths
 
     * _Disable_
         * spell-check
