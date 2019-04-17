@@ -3,3 +3,4 @@
 	email = i@ykqmain.com
 [core]
 	excludesfile = /Users/yang/.gitignore_global
+	autocrlf = input

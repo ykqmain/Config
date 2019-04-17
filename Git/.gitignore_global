@@ -9,7 +9,7 @@ Thumbs.db
 *.xcodeproj/xcuserdata/
 
 # for IDEA
-*/build/*
 .idea/*
 *.iml
+*/build/*
 /out/*
