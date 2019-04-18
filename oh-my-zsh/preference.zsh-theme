@@ -8,6 +8,10 @@ local ret_status="%(?:%{$fg[green]%}%B>%b :%{$fg[red]%}%B>%b )"
 
 PROMPT='%{$fg[$NCOLOR]%}%B%n%b%{$reset_color%}:%{$fg[blue]%}%B%c%b%{$reset_color%}$(git_prompt_info) ${ret_status}'
 
+# 颜色
+# black, red, green, yellow, blue, magenta, cyan, white
+# 黑，红，绿，黄，蓝，洋红(紫)，青色，白色
+
 # --------------------- 
 # %n  你的用户名
 # %M  计算机的主机名
