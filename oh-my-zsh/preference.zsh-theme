@@ -7,6 +7,12 @@ local ret_status="%(?:%{$fg[green]%}%B>%b :%{$fg[red]%}%B>%b )"
 # 命令正确则为绿色，否则为红色
 
 PROMPT='%{$fg[$NCOLOR]%}%B%n%b%{$reset_color%}:%{$fg[blue]%}%B%c%b%{$reset_color%}$(git_prompt_info) ${ret_status}'
+# Mac本地版
+
+
+# PROMPT='%{$fg[$NCOLOR]%}%n%{$reset_color%}@%{$fg[white]%}%m%{$reset_color%}:%{$fg[blue]%}%B%c%b%{$reset_color%}$(git_prompt_info) ${ret_status}'
+# 服务器版
+
 
 # 颜色
 # black, red, green, yellow, blue, magenta, cyan, white
