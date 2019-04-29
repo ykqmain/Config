@@ -55,7 +55,7 @@ plugins=(git github zsh-syntax-highlighting zsh-autosuggestions zsh-completions 
 
 export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/mysql/bin"
 
-export PATH=/usr/local/bin:$PATH
+export PATH=/usr/local/bin:/usr/local/sbin:$PATH
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
@@ -105,3 +105,4 @@ function lazygit() {
 bindkey '^z' autosuggest-clear
 bindkey '^[[A' history-substring-search-up
 bindkey '^[[B' history-substring-search-down
+
