@@ -1,0 +1,24 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"font_face": "SourceCodePro-Regular",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"ConvertToUTF8",
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"update_check": false,
+	"word_wrap": "true"
+}
