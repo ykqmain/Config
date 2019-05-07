@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/Yang/.oh-my-zsh
+export ZSH=~/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
@@ -50,9 +50,9 @@ ZSH_THEME="preference"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 
-plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search extract z git github python pip thefuck web-search osx sublime iterm2 dash)
+plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search extract z python pip git osx sublime iterm2 dash web-search thefuck)
 
-# plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search extract z git github python pip thefuck web-search systemd firewalld docker redis-cli)
+# plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search extract z python pip git systemd firewalld docker redis-cli thefuck)
 
 
 
