@@ -92,7 +92,7 @@ source $ZSH/oh-my-zsh.sh
 
 alias clang++="clang++ -std=c++11"
 alias p3="python3"
-alias sha256="shasum -a 256"
+alias td="tldr"
 
 alias proxy='export ALL_PROXY=socks5://127.0.0.1:1086'
 alias ip='curl cip.cc'
