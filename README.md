@@ -1,6 +1,6 @@
 ## The config of Software
 
-![](https://github.com/ykqmain/my-config/blob/master/picture/vim.png)
+![](https://github.com/ykqmain/my-config/blob/master/screenshots/vim.png)
 <br><br>
 
 
@@ -30,11 +30,11 @@
 
 **macOS Mojave 10.14**
 
-<img src="https://ianna.oss-cn-hangzhou.aliyuncs.com/MAIN/macOS10.14.png!shuiyin"  alt="" />
+![](https://github.com/ykqmain/my-config/blob/master/screenshots/macOS10.14.png)
 
-<img src="https://ianna.oss-cn-hangzhou.aliyuncs.com/MAIN/desktop1.png!shuiyin"  alt="" />
+![](https://github.com/ykqmain/my-config/blob/master/screenshots/desktop1.png)
 
-<img src="https://ianna.oss-cn-hangzhou.aliyuncs.com/MAIN/desktop2.png!shuiyin"  alt="" />
+![](https://github.com/ykqmain/my-config/blob/master/screenshots/desktop2.png)
 
 1. 神器: [**iTerm2**](https://www.iterm2.com)  [~~Terminal.app~~ (需要用到`lrzsz`，自带终端不支持)]
     * Xcode命令行工具 `xcode-select --install`
