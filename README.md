@@ -139,8 +139,8 @@
             * spell-check
             * whitespace
 
-        主题 **One Dark**
-        字体 [SourceCodePro 14](https://github.com/adobe-fonts/source-code-pro)
+        * 主题 **One Dark**
+        * 字体 [SourceCodePro 14](https://github.com/adobe-fonts/source-code-pro)
         ![](https://ianna.oss-cn-hangzhou.aliyuncs.com/MAIN/c.png!shuiyin)
 <br>
 
