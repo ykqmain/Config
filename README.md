@@ -30,7 +30,11 @@
 
 **macOS Mojave 10.14**
 
-![](http://seopic.699pic.com/photo/50035/0520.jpg_wh1200.jpg)
+![](https://ianna.oss-cn-hangzhou.aliyuncs.com/MAIN/macOS10.14.png!shuiyin)
+
+![](https://ianna.oss-cn-hangzhou.aliyuncs.com/MAIN/desktop1.png!shuiyin)
+
+![](https://ianna.oss-cn-hangzhou.aliyuncs.com/MAIN/desktop2.png!shuiyin)
 
 1. 神器: [**iTerm2**](https://www.iterm2.com)  [~~Terminal.app~~ (需要用到`lrzsz`，自带终端不支持)]
     * Xcode命令行工具 `xcode-select --install`
