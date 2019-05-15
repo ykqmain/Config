@@ -29,12 +29,8 @@
 **_在满足自己所需要功能的前提下，将自己的互联网帐号降到最低，涉及到的平台和APP减到最少。_**
 
 **macOS Mojave 10.14**
-![](https://ianna.oss-cn-hangzhou.aliyuncs.com/MAIN/macOS10.14.png!shuiyin)
 
-![](https://ianna.oss-cn-hangzhou.aliyuncs.com/MAIN/desktop1.png!shuiyin)
-
-![](https://ianna.oss-cn-hangzhou.aliyuncs.com/MAIN/desktop2.png!shuiyin)
-
+![](http://seopic.699pic.com/photo/50035/0520.jpg_wh1200.jpg)
 
 1. 神器: [**iTerm2**](https://www.iterm2.com)  [~~Terminal.app~~ (需要用到`lrzsz`，自带终端不支持)]
     * Xcode命令行工具 `xcode-select --install`
