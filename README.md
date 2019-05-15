@@ -123,7 +123,7 @@
             * Sass
             * LESS
             * Terminal
-
+<br>
     * [**Atom**](https://atom.io)
 
         * _Plugin_ (`~/.atom/packages`)
@@ -186,12 +186,12 @@
     * 照片.app
     * GarageBand [App Store]
     * iMovie [App Store]
-    <br>
+<br>
     * [**QQ音乐**](https://y.qq.com/download/mac.html)
     * 腾讯视频 [App Store]
     * 爱奇艺 [App Store]
     * 优酷 [App Store]
-    <br>
+<br>
     * [VLC](http://www.videolan.org)  (播放器)
     * [**IINA**](https://github.com/lhc70000/iina) (播放器)
     * QuickTime (~~音乐播放，录音，录屏~~)
