@@ -1,0 +1,86 @@
+磁盘信息
+diskutil list
+
+----------------------------------------------------------------------------------------------------
+头像
+
+https://avatars1.githubusercontent.com/u/15179473?s=460&v=4
+
+----------------------------------------------------------------------------------------------------
+浏览器
+
+headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'}
+
+----------------------------------------------------------------------------------------------------
+Homebrew
+
+安装路径
+/usr/local/Cellar
+
+brew search
+brew info
+
+brew list
+brew deps
+
+用浏览器打开
+brew home
+
+brew doctor
+
+----------------------------------------------------------------------------------------------------
+
+FFMPEG
+
+ffmpeg -i input.flv output.mp4
+
+ffmpeg -ss 0:0:0(起点时间) -t 00:10:00(持续时间) -i in.mp4 -c copy /Users/yang/Desktop/out.mp4
+
+----------------------------------------------------------------------------------------------------
+pip升级所有包
+
+pip3 list --uptodate
+
+pip3 freeze --local | grep -v '^-e' | cut -d = -f 1 | xargs -n1 pip3 install -U
+
+----------------------------------------------------------------------------------------------------
+MySQL
+
+mysql -u root -p
+
+mysql.server star
+mysql.server restart
+
+ALTER USER 'root'@'localhost' IDENTIFIED BY '';
+
+----------------------------------------------------------------------------------------------------
+删除最后一次远程提交
+
+git rev-parse HEAD
+
+git revert <commit_id>
+
+----------------------------------------------------------------------------------------------------
+
+Apache
+
+http://127.0.0.1:81
+
+sudo apachectl start
+
+sudo apachectl restart
+
+sudo apachectl stop
+
+sudo apachectl －v
+
+Include /private/etc/apache2/extra/httpd-vhosts.conf
+
+----------------------------------------------------------------------------------------------------
+Tomcat
+
+cd /usr/local/tomcat/bin
+./startup.sh
+./shutdown.sh
+
+
