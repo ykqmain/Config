@@ -33,8 +33,11 @@ PROMPT='%{$fg[$NCOLOR]%}%B%n%b%{$reset_color%}:%{$fg[blue]%}%B%c%b%{$reset_color
 # %U - %u 开始到结束使用下划线打印
 # --------------------- 
 
+
 # git theming
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[white]%}(%{$fg_bold[yellow]%}%B"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%b%{$fg_bold[white]%})%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg_bold[green]%} ✔"
 ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg_bold[red]%} ✗"
+
+
