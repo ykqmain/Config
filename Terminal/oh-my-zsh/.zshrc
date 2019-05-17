@@ -92,26 +92,57 @@ source $ZSH/oh-my-zsh.sh
 
 alias clang++="clang++ -std=c++11"
 alias p3="python3"
-alias td="tldr"
-
-alias sha1='shasum -a 1'
-alias sha256='shasum -a 256'
-
-alias proxy='export ALL_PROXY=socks5://127.0.0.1:1086'
-alias ip='curl cip.cc'
 
 alias b1="brew update"
 alias b2="brew outdated"
 alias b3="brew upgrade"
 alias b4="brew cleanup"
 
-function lazygit() {
+
+alias td='tldr'
+alias img='imgcat'
+
+alias proxy='export ALL_PROXY=socks5://127.0.0.1:1086'
+alias ip='curl cip.cc'
+
+alias sha1='shasum -a 1'
+alias sha256='shasum -a 256'
+
+
+
+function buo(){
+    proxy
+    ip
+    echo ''
+    brew update
+    brew outdated
+}
+
+function buc(){
+    brew upgrade
+    brew cleanup
+}
+
+
+function lazygit(){
     git add .
     git commit -m "updated: $(date +"%Y-%m-%d %T")"
     git push
 }
 
+alias hd='hexo d -g'
+function hcd(){
+    hexo clean
+    echo ''
+    hexo g
+    hexo d
+}
+
+
 bindkey '^z' autosuggest-clear
 bindkey '^[[A' history-substring-search-up
 bindkey '^[[B' history-substring-search-down
+
+
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
