@@ -93,12 +93,6 @@ source $ZSH/oh-my-zsh.sh
 alias clang++="clang++ -std=c++11"
 alias p3="python3"
 
-alias b1="brew update"
-alias b2="brew outdated"
-alias b3="brew upgrade"
-alias b4="brew cleanup"
-
-
 alias td='tldr'
 alias img='imgcat'
 
@@ -107,7 +101,6 @@ alias ip='curl cip.cc'
 
 alias sha1='shasum -a 1'
 alias sha256='shasum -a 256'
-
 
 
 function buo(){
