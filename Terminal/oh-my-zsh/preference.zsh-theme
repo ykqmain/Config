@@ -3,14 +3,12 @@
 if [ $UID -eq 0 ]; then NCOLOR="red"; else NCOLOR="white"; fi
 # 如果UID等于0(root)，则为红色，否则为白色
 
-local ret_status="%(?:%{$fg[green]%}%B>%b :%{$fg[red]%}%B>%b )"
-# 命令正确则为绿色，否则为红色
 
-PROMPT='%{$fg[$NCOLOR]%}%B%n%b%{$reset_color%}:%{$fg[blue]%}%B%c%b%{$reset_color%}$(git_prompt_info) ${ret_status}'
+PROMPT='%{$fg[$NCOLOR]%}%B%n%b%{$reset_color%}:%{$fg[blue]%}%B%c%b%{$reset_color%}$(git_prompt_info) %{$fg[green]%}%B>%b%{$reset_color%} '
 # Mac本地版
 
 
-# PROMPT='%{$fg[$NCOLOR]%}%n%{$reset_color%}@%{$fg[white]%}%m%{$reset_color%}:%{$fg[blue]%}%B%c%b%{$reset_color%}$(git_prompt_info) ${ret_status}'
+# PROMPT='%{$fg[$NCOLOR]%}%n%{$reset_color%}@%{$fg[white]%}%m%{$reset_color%}:%{$fg[blue]%}%B%c%b%{$reset_color%}$(git_prompt_info) %{$fg[green]%}%B>%b%{$reset_color%} '
 # 服务器版
 
 
