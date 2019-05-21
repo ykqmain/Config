@@ -2,7 +2,7 @@
 
 ![](https://github.com/ykqmain/my-config/blob/master/screenshots/vim.png)
 
-<br><br>
+<br>
 
 
 [**The software and tools I am using**](http://blog.ykqmain.com/liqi/)
