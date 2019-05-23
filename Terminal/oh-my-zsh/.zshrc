@@ -102,17 +102,20 @@ alias ip='curl cip.cc'
 alias sha1='shasum -a 1'
 alias sha256='shasum -a 256'
 
+alias Anna2='ssh Anna2'
 
 function buo(){
     proxy
     ip
     echo ''
     brew update
+    echo ''
     brew outdated
 }
 
 function buc(){
     brew upgrade
+    echo ''
     brew cleanup
 }
 
