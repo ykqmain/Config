@@ -126,6 +126,7 @@ function lazygit(){
     git push
 }
 
+alias hs='hexo s'
 alias hd='hexo d -g'
 function hcd(){
     hexo clean
