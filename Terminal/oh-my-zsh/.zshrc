@@ -93,6 +93,7 @@ source $ZSH/oh-my-zsh.sh
 alias clang++="clang++ -std=c++11"
 alias p3="python3"
 
+alias dl='wget'
 alias td='tldr'
 alias img='imgcat'
 
