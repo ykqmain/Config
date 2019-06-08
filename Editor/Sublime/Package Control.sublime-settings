@@ -10,20 +10,17 @@
 		"ConvertToUTF8",
 		"Emmet",
 		"FileIcons",
-		"LESS",
 		"Package Control",
-		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-clang",
-		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-contrib-htmllint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-shellcheck",
-		"Sync Settings",
-		"Terminal"
+		"SublimeLinter-xmllint",
 	],
 
 	// If packages should be automatically upgraded when ST starts
