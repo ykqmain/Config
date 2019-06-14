@@ -65,6 +65,16 @@ export PATH=/usr/local/bin:/usr/local/sbin:$PATH
 
 source $ZSH/oh-my-zsh.sh
 
+# COLOR
+
+export RED="\033[1;31m"    #红
+export GREEN="\033[1;32m"  #绿
+export YELOW="\033[1;33m"  #黄
+export BLUE="\033[1;34m"   #蓝
+export PINK="\033[1;35m"   #粉红
+export RES="\033[0m"
+
+
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
 
@@ -92,6 +102,7 @@ source $ZSH/oh-my-zsh.sh
 
 alias clang++="clang++ -std=c++11"
 alias p3="python3"
+alias pip3update="pip3 freeze --local | grep -v '^-e' | cut -d = -f 1 | xargs -n1 pip3 install -U"
 
 alias dl='wget'
 alias td='tldr'
@@ -133,7 +144,6 @@ function hcd(){
     hexo g
     hexo d
 }
-
 
 bindkey '^z' autosuggest-clear
 bindkey '^[[A' history-substring-search-up
