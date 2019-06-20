@@ -50,10 +50,7 @@ ZSH_THEME="preference"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 
-plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search extract z git python pip systemadmin osx sublime iterm2 dash web-search)
-
-# plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search extract z git python pip systemadmin systemd firewalld docker redis-cli)
-
+plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search extract z git python pip systemadmin systemd firewalld osx sublime iterm2 dash web-search)
 
 
 # User configuration
