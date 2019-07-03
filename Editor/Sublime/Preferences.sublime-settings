@@ -15,6 +15,7 @@
 	[
 		80
 	],
+	"scroll_past_end": true,
 	"show_encoding": true,
 	"show_line_endings": true,
 	"theme": "Adaptive.sublime-theme",
