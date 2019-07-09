@@ -1,12 +1,12 @@
 {
-        "codeintel_language_settings": {
+    "codeintel_language_settings": {
         "Python3": {
             "python3": "/usr/local/bin/python3",
             "codeintel_scan_extra_dir": [
                 "/Applications/Sublime Text.app/Contents/MacOS",
                 "~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
                 "~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs",
-                "/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7",
+                "/usr/local/Cellar/python",
                 "/usr/local/lib/python3.7/site-packages"
             ],
             "codeintel_scan_files_in_project": true,
