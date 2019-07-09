@@ -7,14 +7,10 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"ConvertToUTF8",
 		"Vintage"
 	],
 	"open_files_in_new_window": false,
-	"rulers":
-	[
-		80
-	],
+	"rulers": [100],
 	"scroll_past_end": true,
 	"show_encoding": true,
 	"show_line_endings": true,
