@@ -122,7 +122,6 @@ function buo(){
 }
 
 function buc(){
-    echo -e "------------\n${RED}brew upgrade\n${RES}"
     brew upgrade
     echo -e "------------\n${GREEN}brew cleanup\n${RES}"
     brew cleanup
