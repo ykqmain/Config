@@ -104,6 +104,7 @@ alias pip3update="pip3 freeze --local | grep -v '^-e' | cut -d = -f 1 | xargs -n
 alias dl='wget'
 alias td='tldr'
 alias img='imgcat'
+alias Anna2='ssh Anna2'
 
 alias proxy='export ALL_PROXY=socks5://127.0.0.1:1086'
 alias ip='curl cip.cc'
@@ -114,15 +115,16 @@ alias sha256='shasum -a 256'
 function buo(){
     proxy
     ip
-    echo ''
+    echo -e "------------\n${BLUE}brew update\n${RES}"
     brew update
-    echo ''
+    echo -e "------------\n${YELOW}brew outdated\n${RES}"
     brew outdated
 }
 
 function buc(){
+    echo -e "------------\n${RED}brew upgrade\n${RES}"
     brew upgrade
-    echo ''
+    echo -e "------------\n${GREEN}brew cleanup\n${RES}"
     brew cleanup
 }
 
@@ -139,6 +141,7 @@ function hcd(){
     hexo clean
     echo ''
     hexo g
+    echo ''
     hexo d
 }
 
