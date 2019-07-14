@@ -24,6 +24,7 @@
             "args": [],
             "filter_errors": [
                 "SC2034",
+                "SC2148",
             ]
         },
     }
