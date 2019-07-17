@@ -106,7 +106,7 @@ alias td='tldr'
 alias img='imgcat'
 alias Anna2='ssh Anna2'
 
-alias proxy='export ALL_PROXY=socks5://127.0.0.1:1086'
+alias proxy='export ALL_PROXY=http://127.0.0.1:1087'
 alias ip='curl cip.cc'
 
 alias sha1='shasum -a 1'
