@@ -1,11 +1,8 @@
-## The config of Software
+## [**The config of Software**](https://blog.ykqmain.com/liqi/)
 
 ![](https://github.com/ykqmain/my-config/blob/master/screenshots/vim.png)
 
 <br>
-
-
-[**The software and tools I am using**](http://blog.ykqmain.com/liqi/)
 
 **macOS Mojave 10.14**
 
