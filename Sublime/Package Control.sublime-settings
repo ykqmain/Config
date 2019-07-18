@@ -1,5 +1,8 @@
 {
+	"auto_upgrade": false,
 	"bootstrapped": true,
+	"http_proxy": "127.0.0.1:1087",
+	"https_proxy": "127.0.0.1:1087",
 	"in_process_packages":
 	[
 	],
@@ -7,6 +10,7 @@
 	[
 		"BracketHighlighter",
 		"ChineseLocalizations",
+		"Codecs33",
 		"ConvertToUTF8",
 		"Emmet",
 		"FileIcons",
@@ -20,28 +24,8 @@
 		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-shellcheck",
-		"SublimeLinter-xmllint",
+		"SublimeLinter-xmllint"
 	],
-
-	// If packages should be automatically upgraded when ST starts
-	"auto_upgrade": false,
-
-	// An HTTP proxy server to use for requests. Not normally used on Windows
-	// since the system proxy configuration is utilized via WinINet. However,
-	// if WinINet is not working properly, this will be used by the Urllib
-	// downloader, which acts as a fallback.
-	"http_proxy": "127.0.0.1:1087",
-	// An HTTPS proxy server to use for requests - this will inherit from
-	// http_proxy if it is set to "" or null and http_proxy has a value. You
-	// can set this to false to prevent inheriting from http_proxy. Not
-	// normally used on Windows since the system proxy configuration is
-	// utilized via WinINet. However, if WinINet is not working properly, this
-	// will be used by the Urllib downloader, which acts as a fallback.
-	"https_proxy": "127.0.0.1:1087",
-
-	// Username and password for both http_proxy and https_proxy. May be used
-	// with WinINet to set credentials for system-level proxy config.
-	"proxy_username": "",
 	"proxy_password": "",
-
+	"proxy_username": ""
 }
