@@ -140,9 +140,7 @@ alias hd='hexo d -g'
 function hcd(){
     hexo clean
     echo ''
-    hexo g
-    echo ''
-    hexo d
+    hexo d -g
 }
 
 bindkey '^z' autosuggest-clear
