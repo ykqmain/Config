@@ -2,5 +2,5 @@
 
 ![](https://github.com/ykqmain/Config/blob/master/screenshots/vim.png)
 
-<br><br>
+<br>
 
