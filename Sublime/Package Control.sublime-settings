@@ -19,8 +19,6 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-clang",
-		"SublimeLinter-contrib-htmllint",
-		"SublimeLinter-csslint",
 		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-shellcheck",
