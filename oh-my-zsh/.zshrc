@@ -50,14 +50,13 @@ ZSH_THEME="preference"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 
-plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search extract z git python pip systemadmin systemd firewalld osx sublime iterm2 dash web-search)
+plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search extract z osx sublime iterm2 git python pip web-search)
 
 
 # User configuration
 
-export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/mysql/bin"
+export PATH="$PATH:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin:/usr/local/mysql/bin"
 
-export PATH=/usr/local/bin:/usr/local/sbin:$PATH
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
@@ -104,7 +103,6 @@ alias pip3update="pip3 freeze --local | grep -v '^-e' | cut -d = -f 1 | xargs -n
 alias td='tldr'
 alias dl='wget'
 alias img='imgcat'
-alias Anna2='ssh Anna2'
 
 alias proxy='export ALL_PROXY=http://127.0.0.1:1087'
 alias ip='curl cip.cc'
