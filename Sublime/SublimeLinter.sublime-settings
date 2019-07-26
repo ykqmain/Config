@@ -27,5 +27,13 @@
                 "SC2148",
             ]
         },
+
+        "eslint": {
+            "disable": false,
+            "args": [],
+            "filter_errors": [
+                "no-unused-vars",
+            ]
+        },
     }
 }
