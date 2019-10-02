@@ -50,7 +50,7 @@ ZSH_THEME="preference"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 
-plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search extract z osx sublime iterm2 git python pip web-search)
+plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search extract z osx sublime git python pip web-search)
 
 
 # User configuration
@@ -96,13 +96,10 @@ export RES="\033[0m"
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+alias td='tldr'
 alias clang++="clang++ -std=c++11"
 alias p3="python3"
 alias pip3update="pip3 freeze --local | grep -v '^-e' | cut -d = -f 1 | xargs -n1 pip3 install -U"
-
-alias td='tldr'
-alias dl='wget'
-alias img='imgcat'
 
 alias proxy='export ALL_PROXY=http://127.0.0.1:1087'
 alias ip='curl cip.cc'
@@ -144,7 +141,4 @@ function hcd(){
 bindkey '^z' autosuggest-clear
 bindkey '^[[A' history-substring-search-up
 bindkey '^[[B' history-substring-search-down
-
-
-test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
