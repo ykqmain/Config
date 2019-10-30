@@ -1,6 +1,0 @@
-[    
-    { "keys": ["ctrl+tab"], "command": "next_view" },
-    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
-
-    { "keys": ["ctrl+shift+o"], "command": "open_in_browser" },
-]
