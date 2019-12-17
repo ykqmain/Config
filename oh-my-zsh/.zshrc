@@ -101,8 +101,13 @@ alias clang++="clang++ -std=c++11"
 alias p3="python3"
 alias pip3update="pip3 freeze --local | grep -v '^-e' | cut -d = -f 1 | xargs -n1 pip3 install -U"
 
-alias proxy='export ALL_PROXY=http://127.0.0.1:1087'
 alias ip='curl cip.cc'
+function proxy(){
+    export ALL_PROXY=http://127.0.0.1:1087
+    echo ''
+    ip
+}
+
 
 alias sha1='shasum -a 1'
 alias sha256='shasum -a 256'
@@ -131,7 +136,6 @@ function lazygit(){
 }
 
 alias hs='hexo s'
-alias hd='hexo d -g'
 function hcd(){
     hexo clean
     echo ''
