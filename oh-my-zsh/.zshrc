@@ -104,7 +104,6 @@ alias pip3update="pip3 freeze --local | grep -v '^-e' | cut -d = -f 1 | xargs -n
 alias ip='curl cip.cc'
 function proxy(){
     export ALL_PROXY=http://127.0.0.1:1087
-    echo ''
     ip
 }
 
