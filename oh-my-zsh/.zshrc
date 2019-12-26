@@ -107,6 +107,11 @@ function proxy(){
     ip
 }
 
+function proxySS(){
+    export ALL_PROXY=socks5://127.0.0.1:1086
+    ip
+}
+
 
 alias sha1='shasum -a 1'
 alias sha256='shasum -a 256'
