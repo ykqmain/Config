@@ -118,7 +118,6 @@ alias sha256='shasum -a 256'
 
 function buo(){
     proxy
-    ip
     echo -e "------------\n${BLUE}brew update\n${RES}"
     brew update
     echo -e "------------\n${YELOW}brew outdated\n${RES}"
