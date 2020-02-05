@@ -97,24 +97,28 @@ export RES="\033[0m"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias td='tldr'
+alias sha1='shasum -a 1'
+alias sha256='shasum -a 256'
+
 alias clang++="clang++ -std=c++11"
 alias p3="python3"
 alias pip3update="pip3 freeze --local | grep -v '^-e' | cut -d = -f 1 | xargs -n1 pip3 install -U"
+
+function lazygit(){
+    git add .
+    git commit -m "updated: $(date +"%Y-%m-%d %T")"
+    git push
+}
 
 alias ip='curl cip.cc'
 function proxy(){
     export ALL_PROXY=http://127.0.0.1:1087
     ip
 }
-
 function proxySS(){
     export ALL_PROXY=socks5://127.0.0.1:1086
     ip
 }
-
-
-alias sha1='shasum -a 1'
-alias sha256='shasum -a 256'
 
 function buo(){
     proxy
@@ -132,18 +136,13 @@ function buc(){
 }
 
 
-function lazygit(){
-    git add .
-    git commit -m "updated: $(date +"%Y-%m-%d %T")"
-    git push
-}
-
 alias hs='hexo s'
 function hcd(){
     hexo clean
     echo ''
     hexo d -g
 }
+
 
 bindkey '^z' autosuggest-clear
 bindkey '^[[A' history-substring-search-up
