@@ -135,6 +135,11 @@ function buc(){
     brew cleanup
 }
 
+function launchAPP(){
+    open /Library/LaunchDaemons
+    open /Library/LaunchAgents
+    open ~/Library/LaunchAgents
+}
 
 alias hs='hexo s'
 function hcd(){
