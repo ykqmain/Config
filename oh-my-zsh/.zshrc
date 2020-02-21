@@ -110,7 +110,7 @@ function lazygit(){
     git push
 }
 
-alias ip='curl myip.ipip.net'
+alias ip='curl cip.cc'
 function proxy(){
     export ALL_PROXY=http://127.0.0.1:1087
     ip
