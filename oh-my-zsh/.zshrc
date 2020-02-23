@@ -110,15 +110,17 @@ function lazygit(){
     git push
 }
 
+function launchAPP(){
+    open /Library/LaunchDaemons
+    open /Library/LaunchAgents
+    open ~/Library/LaunchAgents
+}
+
+
 alias ip='curl cip.cc'
-function proxy(){
-    export ALL_PROXY=http://127.0.0.1:1087
-    ip
-}
-function proxySS(){
-    export ALL_PROXY=socks5://127.0.0.1:1086
-    ip
-}
+
+alias proxy="export ALL_PROXY=http://127.0.0.1:1087"
+alias proxySS="export ALL_PROXY=socks5://127.0.0.1:1086"
 
 function buo(){
     proxy
@@ -135,11 +137,6 @@ function buc(){
     brew cleanup
 }
 
-function launchAPP(){
-    open /Library/LaunchDaemons
-    open /Library/LaunchAgents
-    open ~/Library/LaunchAgents
-}
 
 alias hs='hexo s'
 function hcd(){
