@@ -57,9 +57,10 @@ plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-sub
 # export MANPATH="/usr/local/man:$MANPATH"
 
 export MAVEN_HOME="/usr/local/apache-maven-3.6.3"
+export TOMCAT_HOME="/usr/local/apache-tomcat-8.5.51"
 
 
-export PATH="$PATH:/usr/local/sbin:/usr/local/mysql/bin:$MAVEN_HOME/bin"
+export PATH="$PATH:/usr/local/sbin:/usr/local/mysql/bin:$MAVEN_HOME/bin:$TOMCAT_HOME/bin"
 # export PATH="$PATH:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin"
 
 
