@@ -54,10 +54,14 @@ plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-sub
 
 
 # User configuration
-
-export PATH="$PATH:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin:/usr/local/mysql/bin"
-
 # export MANPATH="/usr/local/man:$MANPATH"
+
+export MAVEN_HOME="/usr/local/apache-maven-3.6.3"
+
+
+export PATH="$PATH:/usr/local/sbin:/usr/local/mysql/bin:$MAVEN_HOME/bin"
+# export PATH="$PATH:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin"
+
 
 source $ZSH/oh-my-zsh.sh
 
