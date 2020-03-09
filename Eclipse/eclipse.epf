@@ -1,4 +1,4 @@
-#Tue Mar 03 18:39:18 CST 2020
+#Mon Mar 09 15:02:09 CST 2020
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.core.net/proxyData/HTTP/hasAuth=false
@@ -31,6 +31,7 @@
 /instance/org.eclipse.ant.ui/org.eclipse.ant.ui.tagsColor_bold=true
 /instance/org.eclipse.ant.ui/org.eclipse.ant.ui.textColor=217,232,247
 /instance/org.eclipse.ant.ui/overriddenByCSS=,org.eclipse.ant.ui.commentsColor,org.eclipse.ant.ui.constantStringsColor,org.eclipse.ant.ui.constantStringsColor_italic,org.eclipse.ant.ui.dtdColor,org.eclipse.ant.ui.processingInstructionsColor,org.eclipse.ant.ui.processingInstructionsColor_bold,org.eclipse.ant.ui.tagsColor,org.eclipse.ant.ui.tagsColor_bold,org.eclipse.ant.ui.textColor,org.eclipse.ant.ui.debugColor,org.eclipse.ant.ui.errorColor,org.eclipse.ant.ui.informationColor,
+/instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /instance/org.eclipse.core.resources/version=1
 /instance/org.eclipse.core.variables/org.eclipse.core.variables.valueVariables=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<valueVariables>\n<valueVariable description\="ChromeDevTools Protocol connection target host" name\="org.eclipse.wst.jsdt.chromium.debug.ui.chromium_debug_host" readOnly\="false" value\="localhost"/>\n<valueVariable description\="ChromeDevTools Protocol connection port" name\="org.eclipse.wst.jsdt.chromium.debug.ui.chromium_debug_port" readOnly\="false" value\="9222"/>\n</valueVariables>\n
 /instance/org.eclipse.debug.core/org.eclipse.debug.core.PREF_DELETE_CONFIGS_ON_PROJECT_DELETE=false
@@ -286,7 +287,7 @@
 /instance/org.eclipse.ui.genericeditor/matchingBracketsColor=249,250,244
 /instance/org.eclipse.ui.genericeditor/overriddenByCSS=,matchingBracketsColor,
 /instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
-/instance/org.eclipse.ui.ide/platformState=1583122171759
+/instance/org.eclipse.ui.ide/platformState=1583736109670
 /instance/org.eclipse.ui.ide/quickStart=false
 /instance/org.eclipse.ui.ide/tipsAndTricks=true
 /instance/org.eclipse.ui.trace/tracingEnabled=false
@@ -411,7 +412,6 @@
 /instance/org.eclipse.wst.jsdt.ui/content_assist_proposals_background=52,57,61
 /instance/org.eclipse.wst.jsdt.ui/content_assist_proposals_foreground=238,238,238
 /instance/org.eclipse.wst.jsdt.ui/fontPropagated=true
-/instance/org.eclipse.wst.jsdt.ui/javaScriptOccurrenceIndicationColor=18,79,120
 /instance/org.eclipse.wst.jsdt.ui/java_bracket=249,250,244
 /instance/org.eclipse.wst.jsdt.ui/java_comment_task_tag=154,140,124
 /instance/org.eclipse.wst.jsdt.ui/java_default=217,232,247
@@ -498,6 +498,7 @@
 /instance/org.eclipse.wst.xml.ui/tagName=\#03a8d8 | null | true | false | false | false
 /instance/org.eclipse.wst.xml.ui/xmlContent=\#D9E8F7 | null | false | false | false | false
 @org.eclipse.ant.ui=3.7.600.v20191122-2102
+@org.eclipse.core.net=1.3.700.v20191122-2107
 @org.eclipse.core.resources=3.13.600.v20191122-2104
 @org.eclipse.core.variables=3.4.700.v20191114-1848
 @org.eclipse.debug.core=3.14.100.v20191115-1406
