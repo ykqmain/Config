@@ -126,16 +126,18 @@ function ff(){
 }
 
 
-alias ip='curl cip.cc'
+alias ip1='curl myip.ipip.net'
+alias ip2='curl cip.cc'
+alias ip3='curl -L tool.lu/ip'
 
 function proxy(){
     export ALL_PROXY=http://127.0.0.1:1087
-    ip
+    ip1
 }
 
 function proxySS(){
     export ALL_PROXY=socks5://127.0.0.1:1086
-    ip
+    ip1
 }
 
 
