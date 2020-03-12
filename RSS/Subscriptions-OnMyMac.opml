@@ -5,59 +5,56 @@
 		<title>Subscriptions-OnMyMac.opml</title>
 	</head>
 <body>
+	<outline text="知乎日报" title="知乎日报" description="" type="rss" version="RSS" htmlUrl="https://news-at.zhihu.com/api/4/stories/latest?client=0" xmlUrl="http://feeds.feedburner.com/zhihu-daily"/>
 	<outline text="秋风木叶 的收藏" title="秋风木叶 的收藏" description="" type="rss" version="RSS" htmlUrl="https://www.douban.com/people/212266624/" xmlUrl="https://www.douban.com/feed/people/212266624/interests"/>
-	<outline text="好奇心日报" title="好奇心日报" description="" type="rss" version="RSS" htmlUrl="http://www.qdaily.com/" xmlUrl="http://www.qdaily.com/feed.xml"/>
-	<outline text="知乎每日精选" title="知乎每日精选" description="" type="rss" version="RSS" htmlUrl="http://www.zhihu.com/" xmlUrl="https://www.zhihu.com/rss"/>
 	<outline text="iAnna" title="iAnna" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://blog.ykqmain.com/atom.xml"/>
 	<outline text="历史上的今天" title="历史上的今天" description="" type="rss" version="RSS" htmlUrl="https://www.wikipedia.org/" xmlUrl="https://feedx.net/rss/wikihistory.xml"/>
 	<outline text="每日古诗文" title="每日古诗文" description="" type="rss" version="RSS" htmlUrl="https://www.gushiwen.org/" xmlUrl="https://feedx.net/rss/shiwen.xml"/>
-	<outline text="知乎日报" title="知乎日报" description="" type="rss" version="RSS" htmlUrl="https://news-at.zhihu.com/api/4/stories/latest?client=0" xmlUrl="http://feeds.feedburner.com/zhihu-daily"/>
-	<outline text="软件" title="软件">
-		<outline text="异次元软件世界" title="异次元软件世界" description="" type="rss" version="RSS" htmlUrl="https://www.iplaysoft.com/" xmlUrl="https://feed.iplaysoft.com"/>
-		<outline text="Eclipse Foundation blogs" title="Eclipse Foundation blogs" description="" type="rss" version="RSS" htmlUrl="https://blogs.eclipse.org/blog" xmlUrl="https://blogs.eclipse.org/blog/feed"/>
-		<outline text="小众软件" title="小众软件" description="" type="rss" version="RSS" htmlUrl="https://www.appinn.com/" xmlUrl="https://www.appinn.com/feed/"/>
-		<outline text="Newest Python PEPs" title="Newest Python PEPs" description="" type="rss" version="RSS" htmlUrl="http://www.python.org/dev/peps" xmlUrl="https://www.python.org/dev/peps/peps.rss/"/>
-		<outline text="Eclipse News" title="Eclipse News" description="" type="rss" version="RSS" htmlUrl="http://www.eclipse.org/" xmlUrl="https://feeds.feedburner.com/eclipse/fnews"/>
-		<outline text="DBeaver Community" title="DBeaver Community" description="" type="rss" version="RSS" htmlUrl="https://dbeaver.io/" xmlUrl="https://dbeaver.io/feed/"/>
-		<outline text="Python Insider" title="Python Insider" description="" type="rss" version="RSS" htmlUrl="https://pythoninsider.blogspot.com/" xmlUrl="http://feeds.feedburner.com/PythonInsider"/>
-		<outline text="Sublime Blog" title="Sublime Blog" description="" type="rss" version="RSS" htmlUrl="http://www.sublimetext.com/blog" xmlUrl="https://www.sublimetext.com/blog/feed"/>
-		<outline text="SourceTree by Atlassian" title="SourceTree by Atlassian" description="" type="rss" version="RSS" htmlUrl="https://blog.sourcetreeapp.com/" xmlUrl="https://blog.sourcetreeapp.com/feed/"/>
-		<outline text="NetNewsWire" title="NetNewsWire" description="" type="rss" version="RSS" htmlUrl="https://nnw.ranchero.com/" xmlUrl="https://nnw.ranchero.com/feed.json"/>
-	</outline>
-	<outline text="科技" title="科技">
-		<outline text="爱范儿" title="爱范儿" description="" type="rss" version="RSS" htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=/" xmlUrl="https://www.ifanr.com/feed"/>
-		<outline text="虎嗅" title="虎嗅" description="" type="rss" version="RSS" htmlUrl="https://www.huxiu.com/" xmlUrl="https://rss.huxiu.com/"/>
-		<outline text="湾区日报" title="湾区日报" description="" type="rss" version="RSS" htmlUrl="https://wanqu.co/issues/1355?s=rss" xmlUrl="https://wanqu.co/feed/"/>
-		<outline text="Solidot" title="Solidot" description="" type="rss" version="RSS" htmlUrl="https://www.solidot.org/" xmlUrl="https://www.solidot.org/index.rss"/>
-		<outline text="分享发现" title="分享发现" description="" type="rss" version="RSS" htmlUrl="https://www.v2ex.com/go/share" xmlUrl="https://www.v2ex.com/feed/share.json"/>
-		<outline text="V2EX" title="V2EX" description="" type="rss" version="RSS" htmlUrl="https://www.v2ex.com/" xmlUrl="https://www.v2ex.com/index.xml"/>
-		<outline text="cnBeta" title="cnBeta" description="" type="rss" version="RSS" htmlUrl="https://www.cnbeta.com/" xmlUrl="https://www.cnbeta.com/backend.php"/>
-		<outline text="Apple" title="Apple" description="" type="rss" version="RSS" htmlUrl="https://www.v2ex.com/go/apple" xmlUrl="https://www.v2ex.com/feed/apple.json"/>
-		<outline text="36氪" title="36氪" description="" type="rss" version="RSS" htmlUrl="https://36kr.com/" xmlUrl="https://36kr.com/feed"/>
-		<outline text="钛媒体" title="钛媒体" description="" type="rss" version="RSS" htmlUrl="http://www.tmtpost.com/" xmlUrl="https://www.tmtpost.com/rss.xml"/>
-		<outline text="少数派" title="少数派" description="" type="rss" version="RSS" htmlUrl="https://sspai.com/" xmlUrl="https://sspai.com/feed"/>
-		<outline text="瘾科技" title="瘾科技" description="" type="rss" version="RSS" htmlUrl="https://cn.engadget.com/" xmlUrl="https://feedx.net/rss/engadget.xml"/>
-		<outline text="IT之家" title="IT之家" description="" type="rss" version="RSS" htmlUrl="http://www.ithome.com/" xmlUrl="https://www.ithome.com/rss/"/>
-		<outline text="PingWest" title="PingWest" description="" type="rss" version="RSS" htmlUrl="https://www.pingwest.com/" xmlUrl="https://www.pingwest.com/feed/all"/>
-		<outline text="InfoQ" title="InfoQ" description="" type="rss" version="RSS" htmlUrl="https://www.infoq.cn/" xmlUrl="https://www.infoq.cn/feed/"/>
-		<outline text="极客公园" title="极客公园" description="" type="rss" version="RSS" htmlUrl="http://main_test.geekpark.net/rss.rss" xmlUrl="http://feed.geekpark.net/"/>
+	<outline text="知乎每日精选" title="知乎每日精选" description="" type="rss" version="RSS" htmlUrl="http://www.zhihu.com/" xmlUrl="https://www.zhihu.com/rss"/>
+	<outline text="好奇心日报" title="好奇心日报" description="" type="rss" version="RSS" htmlUrl="http://www.qdaily.com/" xmlUrl="http://www.qdaily.com/feed.xml"/>
+	<outline text="游戏" title="游戏">
+		<outline text="触乐" title="触乐" description="" type="rss" version="RSS" htmlUrl="http://www.chuapp.com/" xmlUrl="http://www.chuapp.com/feed"/>
+		<outline text="ACGx" title="ACGx" description="" type="rss" version="RSS" htmlUrl="http://acgxclub.com/" xmlUrl="http://acgxclub.com/feed"/>
+		<outline text="The Battle for Wesnoth Forums" title="The Battle for Wesnoth Forums" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://forums.wesnoth.org/feed.php?f=62"/>
+		<outline text="游研社" title="游研社" description="" type="rss" version="RSS" htmlUrl="https://www.yystv.cn/" xmlUrl="https://www.yystv.cn/rss/feed"/>
 	</outline>
 	<outline text="Blog" title="Blog">
 		<outline text="Six Colors" title="Six Colors" description="" type="rss" version="RSS" htmlUrl="https://sixcolors.com/" xmlUrl="https://sixcolors.com/feed.json"/>
 		<outline text="动漫技术宅" title="动漫技术宅" description="" type="rss" version="RSS" htmlUrl="http://www.dmjsz.com/" xmlUrl="http://www.dmjsz.com/feed/"/>
-		<outline text="Dmcimi" title="Dmcimi" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://dmcimi.github.io/atom.xml"/>
-		<outline text="低调小熊猫" title="低调小熊猫" description="" type="rss" version="RSS" htmlUrl="http://ilovey.live/" xmlUrl="http://ilovey.live/feed.xml"/>
-		<outline text="Daring Fireball" title="Daring Fireball" description="" type="rss" version="RSS" htmlUrl="https://daringfireball.net/" xmlUrl="https://daringfireball.net/feeds/json"/>
-		<outline text="inessential" title="inessential" description="" type="rss" version="RSS" htmlUrl="https://inessential.com/" xmlUrl="https://inessential.com/feed.json"/>
 		<outline text="我道 1900的博客" title="我道 1900的博客" description="" type="rss" version="RSS" htmlUrl="http://1900.live/" xmlUrl="http://1900.live/rss/"/>
+		<outline text="inessential" title="inessential" description="" type="rss" version="RSS" htmlUrl="https://inessential.com/" xmlUrl="https://inessential.com/feed.json"/>
+		<outline text="低调小熊猫" title="低调小熊猫" description="" type="rss" version="RSS" htmlUrl="http://ilovey.live/" xmlUrl="http://ilovey.live/feed.xml"/>
+		<outline text="Dmcimi" title="Dmcimi" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://dmcimi.github.io/atom.xml"/>
+		<outline text="Daring Fireball" title="Daring Fireball" description="" type="rss" version="RSS" htmlUrl="https://daringfireball.net/" xmlUrl="https://daringfireball.net/feeds/json"/>
 	</outline>
-	<outline text="游戏" title="游戏">
-		<outline text="The Battle for Wesnoth Forums" title="The Battle for Wesnoth Forums" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://forums.wesnoth.org/feed.php?f=62"/>
-		<outline text="游研社" title="游研社" description="" type="rss" version="RSS" htmlUrl="https://www.yystv.cn/" xmlUrl="https://www.yystv.cn/rss/feed"/>
-		<outline text="机核" title="机核" description="" type="rss" version="RSS" htmlUrl="https://www.gcores.com/" xmlUrl="https://www.gcores.com/rss"/>
-		<outline text="触乐" title="触乐" description="" type="rss" version="RSS" htmlUrl="http://www.chuapp.com/" xmlUrl="http://www.chuapp.com/feed"/>
-		<outline text="ACGx" title="ACGx" description="" type="rss" version="RSS" htmlUrl="http://acgxclub.com/" xmlUrl="http://acgxclub.com/feed"/>
-		<outline text="游戏葡萄" title="游戏葡萄" description="" type="rss" version="RSS" htmlUrl="http://youxiputao.com/" xmlUrl="http://youxiputao.com/feed"/>
+	<outline text="软件" title="软件">
+		<outline text="Eclipse Foundation blogs" title="Eclipse Foundation blogs" description="" type="rss" version="RSS" htmlUrl="https://blogs.eclipse.org/blog" xmlUrl="https://blogs.eclipse.org/blog/feed"/>
+		<outline text="Newest Python PEPs" title="Newest Python PEPs" description="" type="rss" version="RSS" htmlUrl="http://www.python.org/dev/peps" xmlUrl="https://www.python.org/dev/peps/peps.rss/"/>
+		<outline text="异次元软件世界" title="异次元软件世界" description="" type="rss" version="RSS" htmlUrl="https://www.iplaysoft.com/" xmlUrl="https://feed.iplaysoft.com"/>
+		<outline text="Eclipse News" title="Eclipse News" description="" type="rss" version="RSS" htmlUrl="http://www.eclipse.org/" xmlUrl="https://feeds.feedburner.com/eclipse/fnews"/>
+		<outline text="Python Insider" title="Python Insider" description="" type="rss" version="RSS" htmlUrl="https://pythoninsider.blogspot.com/" xmlUrl="http://feeds.feedburner.com/PythonInsider"/>
+		<outline text="NetNewsWire" title="NetNewsWire" description="" type="rss" version="RSS" htmlUrl="https://nnw.ranchero.com/" xmlUrl="https://nnw.ranchero.com/feed.json"/>
+		<outline text="DBeaver Community" title="DBeaver Community" description="" type="rss" version="RSS" htmlUrl="https://dbeaver.io/" xmlUrl="https://dbeaver.io/feed/"/>
+		<outline text="SourceTree by Atlassian" title="SourceTree by Atlassian" description="" type="rss" version="RSS" htmlUrl="https://blog.sourcetreeapp.com/" xmlUrl="https://blog.sourcetreeapp.com/feed/"/>
+		<outline text="Sublime Blog" title="Sublime Blog" description="" type="rss" version="RSS" htmlUrl="http://www.sublimetext.com/blog" xmlUrl="https://www.sublimetext.com/blog/feed"/>
+		<outline text="小众软件" title="小众软件" description="" type="rss" version="RSS" htmlUrl="https://www.appinn.com/" xmlUrl="https://www.appinn.com/feed/"/>
+	</outline>
+	<outline text="科技" title="科技">
+		<outline text="36氪" title="36氪" description="" type="rss" version="RSS" htmlUrl="https://36kr.com/" xmlUrl="https://36kr.com/feed"/>
+		<outline text="分享发现" title="分享发现" description="" type="rss" version="RSS" htmlUrl="https://www.v2ex.com/go/share" xmlUrl="https://www.v2ex.com/feed/share.json"/>
+		<outline text="Apple" title="Apple" description="" type="rss" version="RSS" htmlUrl="https://www.v2ex.com/go/apple" xmlUrl="https://www.v2ex.com/feed/apple.json"/>
+		<outline text="cnBeta" title="cnBeta" description="" type="rss" version="RSS" htmlUrl="https://www.cnbeta.com/" xmlUrl="https://www.cnbeta.com/backend.php"/>
+		<outline text="少数派" title="少数派" description="" type="rss" version="RSS" htmlUrl="https://sspai.com/" xmlUrl="https://sspai.com/feed"/>
+		<outline text="爱范儿" title="爱范儿" description="" type="rss" version="RSS" htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=/" xmlUrl="https://www.ifanr.com/feed"/>
+		<outline text="IT之家" title="IT之家" description="" type="rss" version="RSS" htmlUrl="http://www.ithome.com/" xmlUrl="https://www.ithome.com/rss/"/>
+		<outline text="Solidot" title="Solidot" description="" type="rss" version="RSS" htmlUrl="https://www.solidot.org/" xmlUrl="https://www.solidot.org/index.rss"/>
+		<outline text="虎嗅" title="虎嗅" description="" type="rss" version="RSS" htmlUrl="https://www.huxiu.com/" xmlUrl="https://rss.huxiu.com/"/>
+		<outline text="极客公园" title="极客公园" description="" type="rss" version="RSS" htmlUrl="http://main_test.geekpark.net/rss.rss" xmlUrl="http://feed.geekpark.net/"/>
+		<outline text="钛媒体" title="钛媒体" description="" type="rss" version="RSS" htmlUrl="http://www.tmtpost.com/" xmlUrl="https://www.tmtpost.com/rss.xml"/>
+		<outline text="V2EX" title="V2EX" description="" type="rss" version="RSS" htmlUrl="https://www.v2ex.com/" xmlUrl="https://www.v2ex.com/index.xml"/>
+		<outline text="PingWest" title="PingWest" description="" type="rss" version="RSS" htmlUrl="https://www.pingwest.com/" xmlUrl="https://www.pingwest.com/feed/all"/>
+		<outline text="InfoQ" title="InfoQ" description="" type="rss" version="RSS" htmlUrl="https://www.infoq.cn/" xmlUrl="https://www.infoq.cn/feed/"/>
+		<outline text="湾区日报" title="湾区日报" description="" type="rss" version="RSS" htmlUrl="https://wanqu.co/issues/1355?s=rss" xmlUrl="https://wanqu.co/feed/"/>
 	</outline>
 	</body>
 </opml>
