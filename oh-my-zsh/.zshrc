@@ -126,8 +126,8 @@ function ff(){
 }
 
 
-alias ip1='curl myip.ipip.net'
-alias ip2='curl cip.cc'
+alias ip1='curl cip.cc'
+alias ip2='curl myip.ipip.net'
 alias ip3='curl -L tool.lu/ip'
 
 function proxy(){
