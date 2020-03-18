@@ -1,4 +1,4 @@
-## [**The config of Software**](https://blog.ykqmain.com/liqi/)
+## Screenshot
 
 ![](https://github.com/ykqmain/Config/blob/master/screenshot/macOS10.14.png)
 
