@@ -11,7 +11,6 @@
 	<outline text="每日古诗文" title="每日古诗文" description="" type="rss" version="RSS" htmlUrl="https://www.gushiwen.org/" xmlUrl="https://feedx.net/rss/shiwen.xml"/>
 	<outline text="资讯" title="资讯">
 		<outline text="InfoQ" title="InfoQ" description="" type="rss" version="RSS" htmlUrl="https://www.infoq.cn/" xmlUrl="https://www.infoq.cn/feed/"/>
-		<outline text="V2EX" title="V2EX" description="" type="rss" version="RSS" htmlUrl="https://www.v2ex.com/" xmlUrl="https://www.v2ex.com/index.xml"/>
 		<outline text="爱范儿" title="爱范儿" description="" type="rss" version="RSS" htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=/" xmlUrl="https://www.ifanr.com/feed"/>
 		<outline text="知乎每日精选" title="知乎每日精选" description="" type="rss" version="RSS" htmlUrl="http://www.zhihu.com/" xmlUrl="https://www.zhihu.com/rss"/>
 		<outline text="极客公园" title="极客公园" description="" type="rss" version="RSS" htmlUrl="http://main_test.geekpark.net/rss.rss" xmlUrl="http://feed.geekpark.net/"/>
