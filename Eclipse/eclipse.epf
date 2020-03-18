@@ -1,4 +1,4 @@
-#Mon Mar 16 16:40:06 CST 2020
+#Wed Mar 18 10:58:51 CST 2020
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.core.net/proxyData/HTTP/hasAuth=false
@@ -55,6 +55,10 @@
 /instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories=
 /instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories.relative=
 /instance/org.eclipse.egit.core/core_preferredMergeStrategy=jgit-default-mergeStrategy
+/instance/org.eclipse.help.base/dialog_infopop=false
+/instance/org.eclipse.help.base/help_view_open_mode=in_place
+/instance/org.eclipse.help.base/search_from_browser=false
+/instance/org.eclipse.help.base/window_infopop=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_LIB=/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/rt.jar
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRC=/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
@@ -67,6 +71,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.8
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.tabulation.char=space
 /instance/org.eclipse.jdt.junit/org.eclipse.jdt.junit.content_assist_favorite_static_members_migrated=true
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_DEFAULT_ENVIRONMENTS_XML=
 /instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="52,org.eclipse.jdt.internal.launching.macosx.MacOSXType25,com.oracle.java.8u241.jdk" defaultVMConnector\="">\n<vmType id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType">\n<vm id\="com.oracle.java.8u241.jdk" name\="Java SE 8 [1.8.0_241]" path\="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home"/>\n</vmType>\n</vmSettings>\n
 /instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_java=.@
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_background=200,200,0
@@ -220,6 +225,7 @@
 /instance/org.eclipse.mylyn.wikitext.ui/overriddenByCSS=,block-h1,block-h2,block-h3,block-h4,block-h5,block-h6,phrase-code,block-bc,
 /instance/org.eclipse.mylyn.wikitext.ui/phrase-code=font-family\: monospace; color\:  \#569cd6;
 /instance/org.eclipse.oomph.workingsets/working.set.group=<?xml version\="1.0" encoding\="UTF-8"?>\n<workingsets\:WorkingSetGroup xmi\:version\="2.0" xmlns\:xmi\="http\://www.omg.org/XMI" xmlns\:workingsets\="http\://www.eclipse.org/oomph/workingsets/1.0"/>\n
+/instance/org.eclipse.pde.ui/Preferences.MainPage.overwriteBuildFilesOnExport=prompt
 /instance/org.eclipse.pde.ui/editor.color.default=217,232,247
 /instance/org.eclipse.pde.ui/editor.color.externalized_string=140,210,20
 /instance/org.eclipse.pde.ui/editor.color.externalized_string_italic=true
@@ -412,6 +418,7 @@
 /instance/org.eclipse.wst.jsdt.ui/content_assist_proposals_background=52,57,61
 /instance/org.eclipse.wst.jsdt.ui/content_assist_proposals_foreground=238,238,238
 /instance/org.eclipse.wst.jsdt.ui/fontPropagated=true
+/instance/org.eclipse.wst.jsdt.ui/javaScriptOccurrenceIndicationColor=18,79,120
 /instance/org.eclipse.wst.jsdt.ui/java_bracket=249,250,244
 /instance/org.eclipse.wst.jsdt.ui/java_comment_task_tag=154,140,124
 /instance/org.eclipse.wst.jsdt.ui/java_default=217,232,247
@@ -506,6 +513,7 @@
 @org.eclipse.e4.ui.css.swt.theme=0.12.500.v20191125-1011
 @org.eclipse.e4.ui.workbench.renderers.swt=0.14.900.v20191114-0715
 @org.eclipse.egit.core=5.6.0.201912101111-r
+@org.eclipse.help.base=4.2.800.v20191210-0610
 @org.eclipse.jdt.core=3.20.0.v20191203-2131
 @org.eclipse.jdt.junit=3.11.600.v20191115-1651
 @org.eclipse.jdt.launching=3.16.0.v20191108-0353
