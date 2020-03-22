@@ -1,4 +1,4 @@
-#Sun Mar 22 16:34:28 CST 2020
+#Sun Mar 22 16:52:23 CST 2020
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.core.net/proxyData/HTTP/hasAuth=false
@@ -116,7 +116,7 @@
 /instance/org.eclipse.jdt.junit/org.eclipse.jdt.junit.show_in_all_views=false
 /instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_CONNECT_TIMEOUT=20000
 /instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_DEFAULT_ENVIRONMENTS_XML=
-/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="52,org.eclipse.jdt.internal.launching.macosx.MacOSXType25,com.oracle.java.8u241.jdk">\n<vmType id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType">\n<vm id\="com.oracle.java.8u241.jdk" name\="Java SE 8 [1.8.0_241]" path\="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home"/>\n</vmType>\n</vmSettings>\n
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="52,org.eclipse.jdt.internal.launching.macosx.MacOSXType25,com.oracle.java.8u241.jdk" defaultVMConnector\="">\n<vmType id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType">\n<vm id\="com.oracle.java.8u241.jdk" name\="Java SE 8 [1.8.0_241]" path\="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home"/>\n</vmType>\n</vmSettings>\n
 /instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.only_include_exported_classpath_entries=false
 /instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_java=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_background=200,200,0
@@ -373,6 +373,7 @@
 /instance/org.eclipse.pde.ui/editor.color.xml_comment=98,98,98
 /instance/org.eclipse.pde.ui/overriddenByCSS=,editor.color.default,editor.color.externalized_string,editor.color.externalized_string_italic,editor.color.header_assignment,editor.color.header_assignment_bold,editor.color.header_attributes,editor.color.header_key,editor.color.header_key_bold,editor.color.header_osgi,editor.color.header_value,editor.color.header_value_italic,editor.color.instr,editor.color.instr_bold,editor.color.string,editor.color.string_italic,editor.color.tag,editor.color.tag_bold,editor.color.xml_comment,
 /instance/org.eclipse.rse.core/activeuserprofiles=Anna;Team
+/instance/org.eclipse.search/org.eclipse.search.defaultPerspective=org.eclipse.search.defaultPerspective.none
 /instance/org.eclipse.team.core/file_types=css\n1\nconfluence\n1\nfactorypath\n1\nmod\n1\nbmp\n2\nproject\n1\npy\n1\ngenmodel\n1\npyx\n1\nmxsd\n1\npyw\n1\ntif\n2\nexe\n2\njava\n1\nico\n2\nxmi\n1\nxml\n1\noptions\n1\nMF\n1\nhtml\n1\njar\n2\nshtml\n1\ntag\n1\njspx\n1\nzip\n2\nbeaninfoConfig\n1\npng\n2\ntagx\n1\ntextile\n1\nindex\n1\nhistory\n1\napi_filters\n1\nmediawiki\n1\necore2xml\n1\nmdl\n1\ndoc\n2\necore\n1\nhtpl\n1\ntagf\n1\nshtm\n1\njsf\n1\ntwiki\n1\ntiff\n2\ngif\n2\njsp\n1\nwsil\n1\nxsd\n1\njs\n1\njsv\n1\njspf\n1\nnst\n1\nemof\n1\nxsl\n1\nwsdl\n1\ndtd\n1\ncat\n1\nwml\n1\nmarkdown\n1\njpeg\n2\noverride\n1\nso\n2\nclass\n2\npxd\n1\nasciidoc\n1\nhtm\n1\njpg\n2\npxi\n1\nproduct\n1\nclasspath\n1\ndll\n2\nini\n1\nent\n1\nlaunch\n1\nexsd\n1\nwsdd\n1\ntld\n1\necore2ecore\n1\nprefs\n1\ntracwiki\n1\nxhtml\n1\ntxt\n1\njpage\n1\npdf\n2\nppt\n2\njtpl\n1\nxslt\n1\njardesc\n1\nproperties\n1\nxls\n2\ndadx\n1\n
 /instance/org.eclipse.tm.terminal.control/TerminalPrefInvertColors=true
 /instance/org.eclipse.tm.terminal.control/overriddenByCSS=,TerminalPrefInvertColors,
@@ -690,6 +691,7 @@
 @org.eclipse.pde.core=3.13.300.v20200217-1517
 @org.eclipse.pde.ui=3.11.300.v20200214-1413
 @org.eclipse.rse.core=4.5.100.201901312252
+@org.eclipse.search=3.11.900.v20200211-1227
 @org.eclipse.team.core=3.8.900.v20200211-0946
 @org.eclipse.tm.terminal.control=4.6.0.202002152037
 @org.eclipse.ui=3.116.0.v20200203-1308
