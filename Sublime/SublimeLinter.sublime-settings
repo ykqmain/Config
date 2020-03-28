@@ -1,0 +1,23 @@
+// SublimeLinter Settings - User
+{
+    "linters": {
+        // The name of the linter you installed
+        "flake8": {
+            // Disables the linter. The default here is 'not set'
+            "disable": false,
+
+            // Additional arguments for the command line. Either a string
+            // or an array. If set to a string, we 'shlex.split' it*.
+            // E.g. '--ignore D112' or ['--config', './.config/foo.ini']
+            //
+            // * Note: Use proper quoting around paths esp. on Windows!
+            "args": [],
+            "filter_errors": [
+                "E501",
+                "W391",
+                "F401"
+            ]
+        },
+
+    }
+}

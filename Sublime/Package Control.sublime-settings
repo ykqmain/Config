@@ -1,0 +1,21 @@
+{
+	"auto_upgrade": false,
+	"bootstrapped": true,
+	"http_proxy": "127.0.0.1:1087",
+	"https_proxy": "127.0.0.1:1087",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Emmet",
+		"FileIcons",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8"
+	],
+	"proxy_password": "",
+	"proxy_username": ""
+}
