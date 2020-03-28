@@ -1,4 +1,4 @@
-#Thu Mar 26 10:50:59 CST 2020
+#Sat Mar 28 18:48:04 CST 2020
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.core.net/proxyData/HTTP/hasAuth=false
@@ -40,6 +40,7 @@
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.errorColor=225,30,70
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.inColor=140,175,210
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.outColor=235,235,235
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.save_dirty_editors_before_launch=always
 /instance/org.eclipse.debug.ui/overriddenByCSS=,org.eclipse.debug.ui.MemoryHistoryKnownColor,org.eclipse.debug.ui.MemoryHistoryUnknownColor,org.eclipse.debug.ui.PREF_CHANGED_VALUE_BACKGROUND,org.eclipse.debug.ui.changedDebugElement,org.eclipse.debug.ui.consoleBackground,org.eclipse.debug.ui.errorColor,org.eclipse.debug.ui.inColor,org.eclipse.debug.ui.outColor,
 /instance/org.eclipse.debug.ui/preferredTargets=default,org.eclipse.lsp4e.debug.toggleBreakpointTarget\:default|org.eclipse.lsp4e.debug.toggleBreakpointTarget\:org.eclipse.lsp4e.debug.toggleBreakpointTarget|
 /instance/org.eclipse.e4.ui.css.swt.theme/themeid=org.eclipse.e4.ui.css.theme.e4_dark
@@ -423,7 +424,7 @@
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_foreground=200,0,0
 /instance/org.eclipse.jdt.ui/content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
 /instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=org.assertj.core.api.Assertions.*;org.mockito.Matchers.*;org.mockito.Mockito.*;org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestBuilders.*;org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestPostProcessors.*;org.springframework.security.test.web.servlet.response.SecurityMockMvcResultMatchers.*;org.springframework.security.test.web.servlet.setup.SecurityMockMvcConfigurers.*;org.springframework.restdocs.mockmvc.MockMvcRestDocumentation.*;org.springframework.test.web.client.match.MockRestRequestMatchers.*;org.springframework.test.web.client.response.MockRestResponseCreators.*;org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;org.springframework.test.web.servlet.result.MockMvcResultHandlers.*;org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;org.hamcrest.CoreMatchers.*;org.junit.Assert.*
-/instance/org.eclipse.jdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
+/instance/org.eclipse.jdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.ykqmain.hello.Zdbq"><rhs name\="com.ykqmain.hello.Zdbq"/><rhs name\="com.ykqmain.hello.M416"/></lhs></history>
 /instance/org.eclipse.jdt.ui/content_assist_number_of_computers=25
 /instance/org.eclipse.jdt.ui/content_assist_parameters_background=52,57,61
 /instance/org.eclipse.jdt.ui/content_assist_parameters_foreground=238,238,238
@@ -611,6 +612,7 @@
 /instance/org.eclipse.ui.editors/partialcoverage_color=98,98,0
 /instance/org.eclipse.ui.editors/printMargin=true
 /instance/org.eclipse.ui.editors/printMarginColor=146,146,146
+/instance/org.eclipse.ui.editors/printMarginColumn=100
 /instance/org.eclipse.ui.editors/searchResultHighlighting=false
 /instance/org.eclipse.ui.editors/searchResultIndication=true
 /instance/org.eclipse.ui.editors/searchResultIndicationColor=94,94,94
@@ -627,6 +629,7 @@
 /instance/org.eclipse.ui.ide/platformState=1585187881748
 /instance/org.eclipse.ui.ide/quickStart=false
 /instance/org.eclipse.ui.ide/tipsAndTricks=true
+/instance/org.eclipse.ui.navigator/org.eclipse.ui.navigator.ProjectExplorer.activatedExtensions=org.eclipse.datatools.connectivity.internal.sybase.ase.aseSqlModelContent\=true;org.maven.ide.eclipse.wtp.navigatorContent\=true;org.eclipse.datatools.connectivity.apache.derby.ui.ServerExplorerContent\=true;org.eclipse.jst.jee.ui.appclient\=true;org.eclipse.egit.ui.changeSetContent\=false;org.eclipse.wst.common.frameworks.internal.navigator.webservice\=true;org.eclipse.jst.navigator.j2ee.ui.AppClientContent\=true;org.eclipse.jpt.jpa.ui.jpaNavigatorContent\=true;org.eclipse.jst.jee.ui.web\=true;org.eclipse.datatools.connectivity.dsexplorer.content.extended\=true;org.eclipse.jst.jee.ui.ear\=true;org.eclipse.datatools.connectivity.repositoryContent\=true;org.eclipse.ui.navigator.resourceContent\=true;org.eclipse.ui.navigator.resources.workingSets\=true;org.eclipse.team.ui.resourceContent\=true;org.eclipse.ui.navigator.resources.nested.nestedProjectContentProvider\=true;org.eclipse.jst.jee.ui.ra\=true;org.eclipse.jst.jee.ui.ejb\=true;org.eclipse.datatools.enablement.ingres.IngresSqlModelContent\=true;org.eclipse.jst.navigator.j2ee.ui.ConnectorDDContent\=true;org.eclipse.wst.server.ui.ServersView.content.root\=true;org.eclipse.jdt.ui.javaModelContent\=true;org.eclipse.wst.jsdt.js.npm.internal.ui.npmFileContent\=true;org.eclipse.mylyn.tasks.ui.navigator.Repositories\=true;org.eclipse.datatools.connectivity.db.sqlModelContent\=true;org.eclipse.datatools.connectivity.dsexplorer.content\=true;org.eclipse.wst.jsdt.java.ui.javaContent\=true;org.eclipse.egit.ui.RepositoriesViewContent\=true;org.eclipse.wst.jsdt.js.gulp.internal.ui.gulpFileContent\=true;org.eclipse.jst.navigator.j2ee.ui.WebDDContent\=true;org.eclipse.jdt.java.ui.javaContent\=true;org.eclipse.jst.navigator.j2ee.ui.jaxws\=true;org.eclipse.jst.servlet.ui.EnhancedJavaRendering\=true;org.eclipse.wst.jsdt.js.grunt.internal.ui.gruntFileContent\=true;org.eclipse.mylyn.commons.repositories.ui.navigator.RepositoryCategories\=true;org.eclipse.jst.navigator.j2ee.ui.EARDDContent\=true;org.eclipse.team.ui.patchSyncNavigatorContent\=true;org.eclipse.lsp4e.outline.content\=true;org.eclipse.mylyn.debug.ui.breakpointsRootContent\=true;org.eclipse.datatools.enablement.sybase.asa.asaSqlModelContent\=true;org.eclipse.jst.navigator.j2ee.ui.EJBDDContent\=true;org.eclipse.jpt.jaxb.ui.jaxbNavigatorContent\=true;
 /instance/org.eclipse.ui.navigator/org.eclipse.ui.navigator.ProjectExplorer.filterActivation=\:org.eclipse.jdt.java.ui.filters.HidePackageDeclaration\:org.eclipse.rse.project.filters.RemoteSystemsProjects\:org.eclipse.jdt.java.ui.filters.HideOutputFolder\:org.eclipse.buildship.ui.navigator.filter.gradle.subProject\:org.eclipse.ui.navigator.resources.nested.HideTopLevelProjectIfNested\:org.eclipse.buildship.ui.navigator.filter.gradle.buildfolder\:org.eclipse.wst.jsdt.chromium.hideVirtualFileSystem\:org.eclipse.jdt.java.ui.filters.HideEmptyInnerPackages\:org.eclipse.jst.j2ee.navigator.ui.filters.jetemitters\:org.eclipse.jdt.java.ui.filters.HideInnerClassFiles\:org.eclipse.ui.navigator.resources.filters.startsWithDot\:org.eclipse.jdt.java.ui.filters.HideEmptyLibraryContainers\:org.eclipse.jdt.java.ui.filters.HideImportDeclaration\:org.eclipse.jdt.java.ui.filters.HideSyntheticMembers\:org.eclipse.mylyn.tasks.ui.navigator.filters.tasks\:org.eclipse.ui.navigator.resources.nested.HideFolderWhenProjectIsShownAsNested\:
 /instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
 /instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.wst.xml.views.XPathView.processor.xpathprocessor/org.eclipse.ui.commands.radioState=xpath10
@@ -793,6 +796,7 @@
 /instance/org.eclipse.wst.json.ui/VALUE_NUMBER=\#D25242 | null | false | false | false | false
 /instance/org.eclipse.wst.json.ui/VALUE_STRING=\#FFC600 | null | true | true | false | false
 /instance/org.eclipse.wst.json.ui/overriddenByCSS=,COLON,COMMA,CURLY_BRACE,OBJECT_KEY,VALUE_BOOLEAN,VALUE_NULL,VALUE_NUMBER,VALUE_STRING,
+/instance/org.eclipse.wst.server.core/module-start-timeout=300000
 /instance/org.eclipse.wst.server.core/runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime id\="Apache Tomcat v8.5" location\="/usr/local/apache-tomcat-8.5.53" name\="Apache Tomcat v8.5" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.85" timestamp\="0" vm-install-id\="com.oracle.java.8u241.jdk" vm-install-type-id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType"/>\n</runtimes>\n
 /instance/org.eclipse.wst.server.discovery/cache-lastUpdatedDate=Thu Mar 26 2020 10\:18\:52 CST
 /instance/org.eclipse.wst.sse.ui/content_assist_completion_replacement_background=200,200,0
@@ -802,6 +806,8 @@
 /instance/org.eclipse.wst.sse.ui/content_assist_proposals_background=52,57,61
 /instance/org.eclipse.wst.sse.ui/content_assist_proposals_foreground=238,238,238
 /instance/org.eclipse.wst.sse.ui/overriddenByCSS=,content_assist_completion_replacement_background,content_assist_completion_replacement_foreground,content_assist_parameters_background,content_assist_parameters_foreground,content_assist_proposals_background,content_assist_proposals_foreground,
+/instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsiap.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
+/instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsissbp.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
 /instance/org.eclipse.wst.xml.ui/cdataBorder=\#A7EC21 | null | false | false | false | false
 /instance/org.eclipse.wst.xml.ui/cdataText=\#93bde8 | null | false | false | false | false
 /instance/org.eclipse.wst.xml.ui/commentBorder=\#626262 | null | false | false | false | false
@@ -867,6 +873,7 @@
 @org.eclipse.wst.server.core=1.10.100.v201910252115
 @org.eclipse.wst.server.discovery=1.3.200.v201910252115
 @org.eclipse.wst.sse.ui=1.6.300.v202001091420
+@org.eclipse.wst.ws.service.policy=1.0.450.v201903050508
 @org.eclipse.wst.xml.ui=1.2.300.v201904272112
 @org.springframework.ide.eclipse.imports=3.9.12.202003180620-RELEASE
 @org.springsource.ide.eclipse.commons.frameworks.core=3.9.12.202003180611-RELEASE
