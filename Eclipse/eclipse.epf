@@ -1,4 +1,4 @@
-#Sat Mar 28 18:48:04 CST 2020
+#Mon Mar 30 16:02:34 CST 2020
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.core.net/proxyData/HTTP/hasAuth=false
@@ -30,6 +30,7 @@
 /instance/org.eclipse.ant.ui/org.eclipse.ant.ui.tagsColor_bold=true
 /instance/org.eclipse.ant.ui/org.eclipse.ant.ui.textColor=217,232,247
 /instance/org.eclipse.ant.ui/overriddenByCSS=,org.eclipse.ant.ui.commentsColor,org.eclipse.ant.ui.constantStringsColor,org.eclipse.ant.ui.constantStringsColor_italic,org.eclipse.ant.ui.dtdColor,org.eclipse.ant.ui.processingInstructionsColor,org.eclipse.ant.ui.processingInstructionsColor_bold,org.eclipse.ant.ui.tagsColor,org.eclipse.ant.ui.tagsColor_bold,org.eclipse.ant.ui.textColor,org.eclipse.ant.ui.debugColor,org.eclipse.ant.ui.errorColor,org.eclipse.ant.ui.informationColor,
+/instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /instance/org.eclipse.core.resources/version=1
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.MemoryHistoryKnownColor=235,235,235
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.MemoryHistoryUnknownColor=170,175,185
@@ -49,12 +50,18 @@
 /instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories=
 /instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories.relative=
 /instance/org.eclipse.egit.core/core_autoIgnoreDerivedResources=false
+/instance/org.eclipse.epp.mpc.ui//News/http___marketplace_eclipse_org=[1571716800]https\://www.eclipse.org/community/eclipse_newsletter/2019/october/
 /instance/org.eclipse.epp.mpc.ui/CatalogDescriptor=http\://marketplace.eclipse.org
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_LIB=/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/rt.jar
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRC=/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.8
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.align_assignment_statements_on_columns=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.align_fields_grouping_blank_lines=2147483647
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.align_type_members_on_columns=false
@@ -576,6 +583,7 @@
 /instance/org.eclipse.rse.core/activeuserprofiles=Anna;Team
 /instance/org.eclipse.tm.terminal.control/TerminalPrefInvertColors=true
 /instance/org.eclipse.tm.terminal.control/overriddenByCSS=,TerminalPrefInvertColors,
+/instance/org.eclipse.ui.browser/browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="0">\n<system/>\n</web-browsers>
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background=47,47,47
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background.SystemDefault=false
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.FindScope=30,120,155
@@ -626,7 +634,7 @@
 /instance/org.eclipse.ui.genericeditor/matchingBracketsColor=249,250,244
 /instance/org.eclipse.ui.genericeditor/overriddenByCSS=,matchingBracketsColor,
 /instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
-/instance/org.eclipse.ui.ide/platformState=1585187881748
+/instance/org.eclipse.ui.ide/platformState=1585553307160
 /instance/org.eclipse.ui.ide/quickStart=false
 /instance/org.eclipse.ui.ide/tipsAndTricks=true
 /instance/org.eclipse.ui.navigator/org.eclipse.ui.navigator.ProjectExplorer.activatedExtensions=org.eclipse.datatools.connectivity.internal.sybase.ase.aseSqlModelContent\=true;org.maven.ide.eclipse.wtp.navigatorContent\=true;org.eclipse.datatools.connectivity.apache.derby.ui.ServerExplorerContent\=true;org.eclipse.jst.jee.ui.appclient\=true;org.eclipse.egit.ui.changeSetContent\=false;org.eclipse.wst.common.frameworks.internal.navigator.webservice\=true;org.eclipse.jst.navigator.j2ee.ui.AppClientContent\=true;org.eclipse.jpt.jpa.ui.jpaNavigatorContent\=true;org.eclipse.jst.jee.ui.web\=true;org.eclipse.datatools.connectivity.dsexplorer.content.extended\=true;org.eclipse.jst.jee.ui.ear\=true;org.eclipse.datatools.connectivity.repositoryContent\=true;org.eclipse.ui.navigator.resourceContent\=true;org.eclipse.ui.navigator.resources.workingSets\=true;org.eclipse.team.ui.resourceContent\=true;org.eclipse.ui.navigator.resources.nested.nestedProjectContentProvider\=true;org.eclipse.jst.jee.ui.ra\=true;org.eclipse.jst.jee.ui.ejb\=true;org.eclipse.datatools.enablement.ingres.IngresSqlModelContent\=true;org.eclipse.jst.navigator.j2ee.ui.ConnectorDDContent\=true;org.eclipse.wst.server.ui.ServersView.content.root\=true;org.eclipse.jdt.ui.javaModelContent\=true;org.eclipse.wst.jsdt.js.npm.internal.ui.npmFileContent\=true;org.eclipse.mylyn.tasks.ui.navigator.Repositories\=true;org.eclipse.datatools.connectivity.db.sqlModelContent\=true;org.eclipse.datatools.connectivity.dsexplorer.content\=true;org.eclipse.wst.jsdt.java.ui.javaContent\=true;org.eclipse.egit.ui.RepositoriesViewContent\=true;org.eclipse.wst.jsdt.js.gulp.internal.ui.gulpFileContent\=true;org.eclipse.jst.navigator.j2ee.ui.WebDDContent\=true;org.eclipse.jdt.java.ui.javaContent\=true;org.eclipse.jst.navigator.j2ee.ui.jaxws\=true;org.eclipse.jst.servlet.ui.EnhancedJavaRendering\=true;org.eclipse.wst.jsdt.js.grunt.internal.ui.gruntFileContent\=true;org.eclipse.mylyn.commons.repositories.ui.navigator.RepositoryCategories\=true;org.eclipse.jst.navigator.j2ee.ui.EARDDContent\=true;org.eclipse.team.ui.patchSyncNavigatorContent\=true;org.eclipse.lsp4e.outline.content\=true;org.eclipse.mylyn.debug.ui.breakpointsRootContent\=true;org.eclipse.datatools.enablement.sybase.asa.asaSqlModelContent\=true;org.eclipse.jst.navigator.j2ee.ui.EJBDDContent\=true;org.eclipse.jpt.jaxb.ui.jaxbNavigatorContent\=true;
@@ -827,10 +835,32 @@
 /instance/org.eclipse.wst.xml.ui/tagBorder=\#808080 | null | false | false | false | false
 /instance/org.eclipse.wst.xml.ui/tagName=\#03a8d8 | null | true | false | false | false
 /instance/org.eclipse.wst.xml.ui/xmlContent=\#D9E8F7 | null | false | false | false | false
+/instance/org.python.pydev/BACKQUOTES_COLOR=255,255,255
+/instance/org.python.pydev/CLASS_NAME_COLOR=18,144,195
+/instance/org.python.pydev/CODE_COLOR=217,232,247
+/instance/org.python.pydev/COMMENT_COLOR=98,98,98
+/instance/org.python.pydev/DECORATOR_COLOR=255,255,255
+/instance/org.python.pydev/DOCSTRING_MARKUP_COLOR=30,120,155
+/instance/org.python.pydev/EDITOR_MATCHING_BRACKETS_COLOR=102,112,125
+/instance/org.python.pydev/FUNC_NAME_COLOR=167,236,33
+/instance/org.python.pydev/INTERPRETERS_CHECKED_ONCE=true
+/instance/org.python.pydev/INTERPRETER_PATH_NEW=<xml>\n<name>python</name>\n<version>3.7</version>\n<executable>/usr/local/bin/python3</executable>\n<lib>/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7</lib>\n<lib>/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload</lib>\n<lib>/usr/local/lib/python3.7/site-packages</lib>\n<forced_lib>Image</forced_lib>\n<forced_lib>OpenGL</forced_lib>\n<forced_lib>_abc</forced_lib>\n<forced_lib>_ast</forced_lib>\n<forced_lib>_bisect</forced_lib>\n<forced_lib>_bytesio</forced_lib>\n<forced_lib>_codecs</forced_lib>\n<forced_lib>_codecs_cn</forced_lib>\n<forced_lib>_codecs_hk</forced_lib>\n<forced_lib>_codecs_iso2022</forced_lib>\n<forced_lib>_codecs_jp</forced_lib>\n<forced_lib>_codecs_kr</forced_lib>\n<forced_lib>_codecs_tw</forced_lib>\n<forced_lib>_collections</forced_lib>\n<forced_lib>_csv</forced_lib>\n<forced_lib>_fileio</forced_lib>\n<forced_lib>_functools</forced_lib>\n<forced_lib>_heapq</forced_lib>\n<forced_lib>_hotshot</forced_lib>\n<forced_lib>_imp</forced_lib>\n<forced_lib>_io</forced_lib>\n<forced_lib>_json</forced_lib>\n<forced_lib>_locale</forced_lib>\n<forced_lib>_lsprof</forced_lib>\n<forced_lib>_md5</forced_lib>\n<forced_lib>_multibytecodec</forced_lib>\n<forced_lib>_operator</forced_lib>\n<forced_lib>_random</forced_lib>\n<forced_lib>_sha</forced_lib>\n<forced_lib>_sha256</forced_lib>\n<forced_lib>_sha512</forced_lib>\n<forced_lib>_signal</forced_lib>\n<forced_lib>_sre</forced_lib>\n<forced_lib>_stat</forced_lib>\n<forced_lib>_string</forced_lib>\n<forced_lib>_struct</forced_lib>\n<forced_lib>_subprocess</forced_lib>\n<forced_lib>_symtable</forced_lib>\n<forced_lib>_thread</forced_lib>\n<forced_lib>_tracemalloc</forced_lib>\n<forced_lib>_warnings</forced_lib>\n<forced_lib>_weakref</forced_lib>\n<forced_lib>_winreg</forced_lib>\n<forced_lib>array</forced_lib>\n<forced_lib>atexit</forced_lib>\n<forced_lib>audioop</forced_lib>\n<forced_lib>binascii</forced_lib>\n<forced_lib>builtins</forced_lib>\n<forced_lib>cPickle</forced_lib>\n<forced_lib>cStringIO</forced_lib>\n<forced_lib>cmath</forced_lib>\n<forced_lib>cv2</forced_lib>\n<forced_lib>datetime</forced_lib>\n<forced_lib>email</forced_lib>\n<forced_lib>errno</forced_lib>\n<forced_lib>exceptions</forced_lib>\n<forced_lib>faulthandler</forced_lib>\n<forced_lib>future_builtins</forced_lib>\n<forced_lib>gc</forced_lib>\n<forced_lib>gi</forced_lib>\n<forced_lib>hashlib</forced_lib>\n<forced_lib>imageop</forced_lib>\n<forced_lib>imp</forced_lib>\n<forced_lib>itertools</forced_lib>\n<forced_lib>marshal</forced_lib>\n<forced_lib>math</forced_lib>\n<forced_lib>mmap</forced_lib>\n<forced_lib>mock</forced_lib>\n<forced_lib>msvcrt</forced_lib>\n<forced_lib>multiprocessing</forced_lib>\n<forced_lib>mutagen</forced_lib>\n<forced_lib>nt</forced_lib>\n<forced_lib>numpy</forced_lib>\n<forced_lib>operator</forced_lib>\n<forced_lib>os</forced_lib>\n<forced_lib>os.path</forced_lib>\n<forced_lib>parser</forced_lib>\n<forced_lib>posix</forced_lib>\n<forced_lib>pwd</forced_lib>\n<forced_lib>pytest</forced_lib>\n<forced_lib>scipy</forced_lib>\n<forced_lib>signal</forced_lib>\n<forced_lib>six</forced_lib>\n<forced_lib>socket</forced_lib>\n<forced_lib>ssl</forced_lib>\n<forced_lib>strop</forced_lib>\n<forced_lib>sys</forced_lib>\n<forced_lib>thread</forced_lib>\n<forced_lib>time</forced_lib>\n<forced_lib>wx</forced_lib>\n<forced_lib>wxPython</forced_lib>\n<forced_lib>xxsubtype</forced_lib>\n<forced_lib>zipimport</forced_lib>\n<forced_lib>zlib</forced_lib>\n<string_substitution_var><key>PY</key><value>37</value></string_substitution_var>\n</xml>&&&&&
+/instance/org.python.pydev/KEYWORD_COLOR=221,40,103
+/instance/org.python.pydev/NUMBER_COLOR=104,151,187
+/instance/org.python.pydev/OPERATORS_COLOR=230,230,250
+/instance/org.python.pydev/PARENS_COLOR=249,250,244
+/instance/org.python.pydev/SELF_COLOR=221,40,103
+/instance/org.python.pydev/STRING_COLOR=141, 218, 248
+/instance/org.python.pydev/UNICODE_COLOR=23,198,163
+/instance/org.python.pydev/overriddenByCSS=,EDITOR_MATCHING_BRACKETS_COLOR,CODE_COLOR,KEYWORD_COLOR,SELF_COLOR,FUNC_NAME_COLOR,BACKQUOTES_COLOR,NUMBER_COLOR,STRING_COLOR,UNICODE_COLOR,COMMENT_COLOR,DECORATOR_COLOR,CLASS_NAME_COLOR,PARENS_COLOR,OPERATORS_COLOR,DOCSTRING_MARKUP_COLOR,
+/instance/org.springframework.ide.eclipse.boot/default.install=Boot 2.1.6.RELEASE
+/instance/org.springframework.ide.eclipse.boot/installs=https\://repo.spring.io/release/org/springframework/boot/spring-boot-cli/2.1.6.RELEASE/spring-boot-cli-2.1.6.RELEASE-bin.zip\\;Boot 2.1.6.RELEASE\\;;
+/instance/org.springframework.ide.eclipse.boot/org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n
 /instance/org.springframework.ide.eclipse.imports/org.springframework.ide.eclipse.imports.importStaticsInstanceScope=true
 /instance/org.springsource.ide.eclipse.commons.frameworks.core/org.springsource.ide.eclipse.commons.frameworks.ui.legacyconversion.done=true
 /instance/org.springsource.ide.eclipse.commons.ui/egit.pref.fixed.core_autoIgnoreDerivedResources=true
 @org.eclipse.ant.ui=3.7.700.v20200304-2203
+@org.eclipse.core.net=1.3.800.v20200218-0937
 @org.eclipse.core.resources=3.13.700.v20200209-1624
 @org.eclipse.debug.ui=3.14.400.v20200222-1431
 @org.eclipse.e4.ui.css.swt.theme=0.12.600.v20200124-0005
@@ -861,6 +891,7 @@
 @org.eclipse.rse.core=4.5.100.201901312252
 @org.eclipse.tm.terminal.control=4.6.0.202002152037
 @org.eclipse.ui=3.116.0.v20200203-1308
+@org.eclipse.ui.browser=3.6.700.v20200217-0820
 @org.eclipse.ui.editors=3.13.100.v20200130-1507
 @org.eclipse.ui.genericeditor=1.1.700.v20200211-1227
 @org.eclipse.ui.ide=3.17.0.v20200217-1511
@@ -875,6 +906,8 @@
 @org.eclipse.wst.sse.ui=1.6.300.v202001091420
 @org.eclipse.wst.ws.service.policy=1.0.450.v201903050508
 @org.eclipse.wst.xml.ui=1.2.300.v201904272112
+@org.python.pydev=7.5.0.202001101138
+@org.springframework.ide.eclipse.boot=3.9.12.202003180620-RELEASE
 @org.springframework.ide.eclipse.imports=3.9.12.202003180620-RELEASE
 @org.springsource.ide.eclipse.commons.frameworks.core=3.9.12.202003180611-RELEASE
 @org.springsource.ide.eclipse.commons.ui=3.9.12.202003180611-RELEASE
