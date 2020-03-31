@@ -1,4 +1,4 @@
-#Mon Mar 30 16:02:34 CST 2020
+#Tue Mar 31 17:26:18 CST 2020
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.core.net/proxyData/HTTP/hasAuth=false
@@ -634,7 +634,7 @@
 /instance/org.eclipse.ui.genericeditor/matchingBracketsColor=249,250,244
 /instance/org.eclipse.ui.genericeditor/overriddenByCSS=,matchingBracketsColor,
 /instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
-/instance/org.eclipse.ui.ide/platformState=1585553307160
+/instance/org.eclipse.ui.ide/platformState=1585645493472
 /instance/org.eclipse.ui.ide/quickStart=false
 /instance/org.eclipse.ui.ide/tipsAndTricks=true
 /instance/org.eclipse.ui.navigator/org.eclipse.ui.navigator.ProjectExplorer.activatedExtensions=org.eclipse.datatools.connectivity.internal.sybase.ase.aseSqlModelContent\=true;org.maven.ide.eclipse.wtp.navigatorContent\=true;org.eclipse.datatools.connectivity.apache.derby.ui.ServerExplorerContent\=true;org.eclipse.jst.jee.ui.appclient\=true;org.eclipse.egit.ui.changeSetContent\=false;org.eclipse.wst.common.frameworks.internal.navigator.webservice\=true;org.eclipse.jst.navigator.j2ee.ui.AppClientContent\=true;org.eclipse.jpt.jpa.ui.jpaNavigatorContent\=true;org.eclipse.jst.jee.ui.web\=true;org.eclipse.datatools.connectivity.dsexplorer.content.extended\=true;org.eclipse.jst.jee.ui.ear\=true;org.eclipse.datatools.connectivity.repositoryContent\=true;org.eclipse.ui.navigator.resourceContent\=true;org.eclipse.ui.navigator.resources.workingSets\=true;org.eclipse.team.ui.resourceContent\=true;org.eclipse.ui.navigator.resources.nested.nestedProjectContentProvider\=true;org.eclipse.jst.jee.ui.ra\=true;org.eclipse.jst.jee.ui.ejb\=true;org.eclipse.datatools.enablement.ingres.IngresSqlModelContent\=true;org.eclipse.jst.navigator.j2ee.ui.ConnectorDDContent\=true;org.eclipse.wst.server.ui.ServersView.content.root\=true;org.eclipse.jdt.ui.javaModelContent\=true;org.eclipse.wst.jsdt.js.npm.internal.ui.npmFileContent\=true;org.eclipse.mylyn.tasks.ui.navigator.Repositories\=true;org.eclipse.datatools.connectivity.db.sqlModelContent\=true;org.eclipse.datatools.connectivity.dsexplorer.content\=true;org.eclipse.wst.jsdt.java.ui.javaContent\=true;org.eclipse.egit.ui.RepositoriesViewContent\=true;org.eclipse.wst.jsdt.js.gulp.internal.ui.gulpFileContent\=true;org.eclipse.jst.navigator.j2ee.ui.WebDDContent\=true;org.eclipse.jdt.java.ui.javaContent\=true;org.eclipse.jst.navigator.j2ee.ui.jaxws\=true;org.eclipse.jst.servlet.ui.EnhancedJavaRendering\=true;org.eclipse.wst.jsdt.js.grunt.internal.ui.gruntFileContent\=true;org.eclipse.mylyn.commons.repositories.ui.navigator.RepositoryCategories\=true;org.eclipse.jst.navigator.j2ee.ui.EARDDContent\=true;org.eclipse.team.ui.patchSyncNavigatorContent\=true;org.eclipse.lsp4e.outline.content\=true;org.eclipse.mylyn.debug.ui.breakpointsRootContent\=true;org.eclipse.datatools.enablement.sybase.asa.asaSqlModelContent\=true;org.eclipse.jst.navigator.j2ee.ui.EJBDDContent\=true;org.eclipse.jpt.jaxb.ui.jaxbNavigatorContent\=true;
@@ -762,7 +762,6 @@
 /instance/org.eclipse.wst.jsdt.ui/content_assist_proposals_background=52,57,61
 /instance/org.eclipse.wst.jsdt.ui/content_assist_proposals_foreground=238,238,238
 /instance/org.eclipse.wst.jsdt.ui/fontPropagated=true
-/instance/org.eclipse.wst.jsdt.ui/javaScriptOccurrenceIndicationColor=18,79,120
 /instance/org.eclipse.wst.jsdt.ui/java_bracket=249,250,244
 /instance/org.eclipse.wst.jsdt.ui/java_comment_task_tag=154,140,124
 /instance/org.eclipse.wst.jsdt.ui/java_default=217,232,247
