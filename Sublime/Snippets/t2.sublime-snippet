@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<center class="half">
+    <img src="" width="360"/><img src="" width="360"/>
+</center>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>t2</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+🎼 ${1:歌名} - ${2:歌手}
+<audio controls="controls">
+    <source src="${3}">
+    Your browser does not support the Audio tag.
+</audio>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>yy</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html</scope>
+</snippet>

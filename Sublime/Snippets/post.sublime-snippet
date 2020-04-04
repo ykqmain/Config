@@ -1,0 +1,25 @@
+<snippet>
+    <content><![CDATA[
+id: ${1:ID}
+
+title: ${2:标题}
+
+date: ${3:2020}-${4:07}-${5:06}
+
+categories: ${6:分类}
+
+tags:
+
+- 1
+- 2
+- 3
+
+---
+
+${7}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>post</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html</scope>
+</snippet>

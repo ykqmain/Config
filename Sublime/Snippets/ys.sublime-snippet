@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<font color="#dd0000">红色</font><br/>
+<font color="#dddd00">黄色</font><br/>
+<font color="#00dd00">绿色</font><br/>
+<font color="#00dddd">青色</font><br/>
+<font color="#0000dd">蓝色</font><br/>
+<font color="#dd00dd">紫色</font><br/>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ys</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html</scope>
+</snippet>
