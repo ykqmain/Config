@@ -157,9 +157,9 @@ function buc(){
 }
 
 
-alias hs='hexo s'
-
 function hcd(){
+    cd /Users/yang/Blog
+    pwd
     hexo clean
     echo ''
     hexo d -g
