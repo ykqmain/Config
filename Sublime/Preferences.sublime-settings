@@ -7,6 +7,10 @@
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"open_files_in_new_window": false,
 	"rulers":
 	[
@@ -18,5 +22,5 @@
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"update_check": false,
-	"word_wrap": "true",
+	"word_wrap": "true"
 }

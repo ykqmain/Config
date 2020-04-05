@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-🎼 ${1:歌名} - ${2:歌手}
+🎵 ${1:歌名} - ${2:歌手}
 <audio controls="controls">
     <source src="${3}">
     Your browser does not support the Audio tag.
