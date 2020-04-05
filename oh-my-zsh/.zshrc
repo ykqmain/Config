@@ -157,12 +157,14 @@ function buc(){
 }
 
 
+alias hs='hexo server'
+
 function hcd(){
     cd /Users/yang/Blog
     pwd
     hexo clean
     echo ''
-    hexo d -g
+    hexo g -d
 }
 
 
