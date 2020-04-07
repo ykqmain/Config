@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+[${1:x * x} for ${2:x} in ${3:range(10)} if ${4:True}]
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>for</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+    <description>List Comprehension</description>
+</snippet>
