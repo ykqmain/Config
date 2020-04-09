@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<a href="${1:网址}" target="_blank">${2:文字}</a>
+<a href="${1:链接}" target="_blank">${2:文字}</a>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>lj</tabTrigger>
