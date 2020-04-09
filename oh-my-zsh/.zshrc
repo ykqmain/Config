@@ -157,7 +157,11 @@ function buc(){
 }
 
 
-alias hs='hexo server'
+function hs(){
+    cd /Users/yang/Blog
+    pwd
+    hexo server
+}
 
 function hcd(){
     cd /Users/yang/Blog
