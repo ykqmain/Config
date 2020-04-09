@@ -1,12 +1,18 @@
 <snippet>
     <content><![CDATA[
-<a href="${1:网址}" target="_blank">${2:文字}</a>
+def fibs(num):
+    init = [0, 1]
+    for x in range(num-2):
+        init.append(init[-2] + init[-1])
+    return init
+
+${1}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>lj</tabTrigger>
+    <tabTrigger>fibs</tabTrigger>
     <!-- Optional: Set a description, eg: List Comprehension -->
-    <description>链接</description>
+    <description>斐波拉契数列</description>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>text.html</scope>
+    <scope>source.python</scope>
     <!-- Save as: X.sublime-snippet -->
 </snippet>

@@ -4,7 +4,10 @@
 <img src="${2:图片}" alt=""> </a>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>tl</tabTrigger>
+    <tabTrigger>lj</tabTrigger>
+    <!-- Optional: Set a description, eg: List Comprehension -->
+    <description>图片链接</description>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>text.html</scope>
+    <!-- Save as: X.sublime-snippet -->
 </snippet>
