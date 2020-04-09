@@ -4,7 +4,7 @@
 <img src="${2:图片}" alt=""> </a>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>lj</tabTrigger>
+    <tabTrigger>tl</tabTrigger>
     <!-- Optional: Set a description, eg: List Comprehension -->
     <description>图片链接</description>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->

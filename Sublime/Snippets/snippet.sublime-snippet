@@ -13,7 +13,6 @@ ${1:Hello, this is a snippet.}
     <scope>${4:source.python}</scope>
     <!-- Save as: X.sublime-snippet -->
 </snippet>
-
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>snippet</tabTrigger>
