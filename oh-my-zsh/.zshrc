@@ -67,8 +67,8 @@ source $ZSH/oh-my-zsh.sh
 # COLOR
 
 export RED="\033[1;31m"    #红
-export GREEN="\033[1;32m"  #绿
 export YELOW="\033[1;33m"  #黄
+export GREEN="\033[1;32m"  #绿
 export BLUE="\033[1;34m"   #蓝
 export PINK="\033[1;35m"   #粉红
 export RES="\033[0m"
