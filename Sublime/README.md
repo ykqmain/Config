@@ -25,9 +25,7 @@
 
 ### Snippets
 
-本文件夹是`User`下的子文件夹，便于管理。即使是`User`下级目录，也能被Sublime读取。
-
-`~/Sublime Text 3/Packages/User/Snippets`
+本文件夹是`User`下的子文件夹`~/Sublime Text 3/Packages/User/Snippets`，便于管理自己的Snippet。即使是`User`下级目录，也能被Sublime读取。
 
 
 ### .根目录
