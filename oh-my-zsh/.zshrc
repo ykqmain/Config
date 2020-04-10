@@ -56,12 +56,10 @@ plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-sub
 # User configuration
 # export MANPATH="/usr/local/man:$MANPATH"
 
-export MAVEN_HOME="/usr/local/apache-maven-3.6.3"
-export TOMCAT_HOME="/usr/local/apache-tomcat-8.5.53"
+export MY_HOME="/usr/local"
 
-
-export PATH="$PATH:/usr/local/sbin:/usr/local/mysql/bin:$MAVEN_HOME/bin:$TOMCAT_HOME/bin"
-# export PATH="$PATH:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin"
+export PATH="$PATH:$MY_HOME/mysql/bin:$MY_HOME/apache-maven/bin:$MY_HOME/apache-tomcat/bin"
+# export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 
 
 source $ZSH/oh-my-zsh.sh
