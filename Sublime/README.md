@@ -17,10 +17,10 @@
 本文件夹是利用`PackageResourceViewer`插件修改默认资源后的配置文件，`Cmd`+`Shift`+`P`之后输入`prv`，选择`Open Resource`：
 
 * 修改Python3的`For Loop`补全
-    * `~/Sublime Text 3/Packages/Default/new_templates.py`
+    * `~/Python/Snippets/for.sublime-snippet`
 
 * 修改`Tools -> Developer -> New Snippet...`模版
-    * `~/Sublime Text 3/Packages/Python/Snippets/for.sublime-snippet`
+    * `~/Default/new_templates.py`
 
 
 ### Snippets
