@@ -1,15 +1,15 @@
-#Fri Apr 10 09:50:08 CST 2020
+#Fri Apr 17 15:30:48 CST 2020
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.core.net/proxyData/HTTP/hasAuth=false
 /configuration/org.eclipse.core.net/proxyData/HTTP/host=127.0.0.1
-/configuration/org.eclipse.core.net/proxyData/HTTP/port=1087
+/configuration/org.eclipse.core.net/proxyData/HTTP/port=7890
 /configuration/org.eclipse.core.net/proxyData/HTTPS/hasAuth=false
 /configuration/org.eclipse.core.net/proxyData/HTTPS/host=127.0.0.1
-/configuration/org.eclipse.core.net/proxyData/HTTPS/port=1087
+/configuration/org.eclipse.core.net/proxyData/HTTPS/port=7890
 /configuration/org.eclipse.core.net/proxyData/SOCKS/hasAuth=false
 /configuration/org.eclipse.core.net/proxyData/SOCKS/host=127.0.0.1
-/configuration/org.eclipse.core.net/proxyData/SOCKS/port=1086
+/configuration/org.eclipse.core.net/proxyData/SOCKS/port=7891
 /configuration/org.eclipse.core.net/systemProxiesEnabled=false
 /configuration/org.eclipse.epp.mpc.ui/showOpenFavoritesNotification=false
 /configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
@@ -56,7 +56,7 @@
 /instance/org.eclipse.help.base/help_view_open_mode=in_place
 /instance/org.eclipse.help.base/search_from_browser=false
 /instance/org.eclipse.help.base/window_infopop=false
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_LIB=/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre/lib/rt.jar
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_LIB=/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/rt.jar
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRC=/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentPrefixes=
@@ -440,14 +440,15 @@
 /instance/org.eclipse.jdt.junit.core/org.eclipse.jdt.junit.enable_assertions=true
 /instance/org.eclipse.jdt.junit/org.eclipse.jdt.junit.content_assist_favorite_static_members_migrated=true
 /instance/org.eclipse.jdt.junit/org.eclipse.jdt.junit.show_in_all_views=false
-/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="52,org.eclipse.jdt.internal.launching.macosx.MacOSXType25,com.oracle.java.8u241.jdk" defaultVMConnector\="">\n<vmType id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType">\n<vm id\="com.oracle.java.8u241.jdk" name\="Java SE 8 [1.8.0_241]" path\="/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home"/>\n</vmType>\n</vmSettings>\n
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_DEFAULT_ENVIRONMENTS_XML=
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="52,org.eclipse.jdt.internal.launching.macosx.MacOSXType25,com.oracle.java.8u251.jdk" defaultVMConnector\="">\n<vmType id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType">\n<vm id\="com.oracle.java.8u251.jdk" name\="Java SE 8 [1.8.0_251]" path\="/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home"/>\n</vmType>\n</vmSettings>\n
 /instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_java=.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_background=200,200,0
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_foreground=200,0,0
 /instance/org.eclipse.jdt.ui/content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
 /instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=org.assertj.core.api.Assertions.*;org.mockito.Matchers.*;org.mockito.Mockito.*;org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestBuilders.*;org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestPostProcessors.*;org.springframework.security.test.web.servlet.response.SecurityMockMvcResultMatchers.*;org.springframework.security.test.web.servlet.setup.SecurityMockMvcConfigurers.*;org.springframework.restdocs.mockmvc.MockMvcRestDocumentation.*;org.springframework.test.web.client.match.MockRestRequestMatchers.*;org.springframework.test.web.client.response.MockRestResponseCreators.*;org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;org.springframework.test.web.servlet.result.MockMvcResultHandlers.*;org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;org.hamcrest.CoreMatchers.*;org.junit.Assert.*
 /instance/org.eclipse.jdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.ykqmain.hello.Zdbq"><rhs name\="com.ykqmain.hello.Zdbq"/><rhs name\="com.ykqmain.hello.M416"/></lhs></history>
-/instance/org.eclipse.jdt.ui/content_assist_number_of_computers=25
+/instance/org.eclipse.jdt.ui/content_assist_number_of_computers=23
 /instance/org.eclipse.jdt.ui/content_assist_parameters_background=52,57,61
 /instance/org.eclipse.jdt.ui/content_assist_parameters_foreground=238,238,238
 /instance/org.eclipse.jdt.ui/content_assist_proposals_background=52,57,61
@@ -611,6 +612,7 @@
 /instance/org.eclipse.rse.core/activeuserprofiles=Anna;Team
 /instance/org.eclipse.tm.terminal.control/TerminalPrefInvertColors=true
 /instance/org.eclipse.tm.terminal.control/overriddenByCSS=,TerminalPrefInvertColors,
+/instance/org.eclipse.ui.browser/browser-choice=0
 /instance/org.eclipse.ui.browser/browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="0">\n<system/>\n</web-browsers>
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background=47,47,47
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background.SystemDefault=false
@@ -648,7 +650,6 @@
 /instance/org.eclipse.ui.editors/partialcoverage_color=98,98,0
 /instance/org.eclipse.ui.editors/printMargin=true
 /instance/org.eclipse.ui.editors/printMarginColor=146,146,146
-/instance/org.eclipse.ui.editors/printMarginColumn=100
 /instance/org.eclipse.ui.editors/searchResultHighlighting=false
 /instance/org.eclipse.ui.editors/searchResultIndication=true
 /instance/org.eclipse.ui.editors/searchResultIndicationColor=94,94,94
@@ -663,7 +664,7 @@
 /instance/org.eclipse.ui.genericeditor/matchingBracketsColor=249,250,244
 /instance/org.eclipse.ui.genericeditor/overriddenByCSS=,matchingBracketsColor,
 /instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
-/instance/org.eclipse.ui.ide/platformState=1586328564139
+/instance/org.eclipse.ui.ide/platformState=1587107268815
 /instance/org.eclipse.ui.ide/quickStart=false
 /instance/org.eclipse.ui.ide/tipsAndTricks=true
 /instance/org.eclipse.ui.navigator/org.eclipse.ui.navigator.ProjectExplorer.activatedExtensions=org.eclipse.datatools.connectivity.internal.sybase.ase.aseSqlModelContent\=true;org.maven.ide.eclipse.wtp.navigatorContent\=true;org.eclipse.datatools.connectivity.apache.derby.ui.ServerExplorerContent\=true;org.eclipse.jst.jee.ui.appclient\=true;org.eclipse.egit.ui.changeSetContent\=false;org.eclipse.wst.common.frameworks.internal.navigator.webservice\=true;org.eclipse.jst.navigator.j2ee.ui.AppClientContent\=true;org.eclipse.jpt.jpa.ui.jpaNavigatorContent\=true;org.eclipse.jst.jee.ui.web\=true;org.eclipse.datatools.connectivity.dsexplorer.content.extended\=true;org.eclipse.jst.jee.ui.ear\=true;org.eclipse.datatools.connectivity.repositoryContent\=true;org.eclipse.ui.navigator.resourceContent\=true;org.eclipse.ui.navigator.resources.workingSets\=true;org.eclipse.team.ui.resourceContent\=true;org.eclipse.ui.navigator.resources.nested.nestedProjectContentProvider\=true;org.eclipse.jst.jee.ui.ra\=true;org.eclipse.jst.jee.ui.ejb\=true;org.eclipse.datatools.enablement.ingres.IngresSqlModelContent\=true;org.eclipse.jst.navigator.j2ee.ui.ConnectorDDContent\=true;org.eclipse.wst.server.ui.ServersView.content.root\=true;org.eclipse.jdt.ui.javaModelContent\=true;org.eclipse.wst.jsdt.js.npm.internal.ui.npmFileContent\=true;org.eclipse.mylyn.tasks.ui.navigator.Repositories\=true;org.eclipse.datatools.connectivity.db.sqlModelContent\=true;org.eclipse.datatools.connectivity.dsexplorer.content\=true;org.eclipse.wst.jsdt.java.ui.javaContent\=true;org.eclipse.egit.ui.RepositoriesViewContent\=true;org.eclipse.wst.jsdt.js.gulp.internal.ui.gulpFileContent\=true;org.eclipse.jst.navigator.j2ee.ui.WebDDContent\=true;org.eclipse.jdt.java.ui.javaContent\=true;org.eclipse.jst.navigator.j2ee.ui.jaxws\=true;org.eclipse.jst.servlet.ui.EnhancedJavaRendering\=true;org.eclipse.wst.jsdt.js.grunt.internal.ui.gruntFileContent\=true;org.eclipse.mylyn.commons.repositories.ui.navigator.RepositoryCategories\=true;org.eclipse.jst.navigator.j2ee.ui.EARDDContent\=true;org.eclipse.team.ui.patchSyncNavigatorContent\=true;org.eclipse.lsp4e.outline.content\=true;org.eclipse.mylyn.debug.ui.breakpointsRootContent\=true;org.eclipse.datatools.enablement.sybase.asa.asaSqlModelContent\=true;org.eclipse.jst.navigator.j2ee.ui.EJBDDContent\=true;org.eclipse.jpt.jaxb.ui.jaxbNavigatorContent\=true;
@@ -738,11 +739,7 @@
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.internal.ui.compare.JavaMergeViewer=1|Source Code Pro|13.0|0|COCOA|1|SourceCodePro-Regular;
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.jsdt.ui.editors.textfont=1|Source Code Pro|13.0|0|COCOA|1|SourceCodePro-Regular;
 /instance/org.eclipse.ui.workbench/org.eclipse.wst.sse.ui.textfont=1|Source Code Pro|13.0|0|COCOA|1|SourceCodePro-Regular;
-/instance/org.eclipse.ui.workbench/org.springframework.ide.eclipse.boot.dash.AltTextDecorColor=173,216,230
-/instance/org.eclipse.ui.workbench/org.springframework.ide.eclipse.boot.dash.MutedTextDecorColor=211,211,211
-/instance/org.eclipse.ui.workbench/org.springframework.ide.eclipse.boot.dash.TextDecorColor=144,238,144
-/instance/org.eclipse.ui.workbench/org.springframework.tooling.ls.eclipse.commons.STS4BootMarkerIndicationColor=56,84,26
-/instance/org.eclipse.ui.workbench/overriddenByCSS=,org.eclipse.egit.ui.DiffAddBackgroundColor,org.eclipse.egit.ui.DiffAddForegroundColor,org.eclipse.egit.ui.DiffHeadlineBackgroundColor,org.eclipse.egit.ui.DiffHeadlineForegroundColor,org.eclipse.egit.ui.DiffHunkBackgroundColor,org.eclipse.egit.ui.DiffHunkForegroundColor,org.eclipse.egit.ui.DiffRemoveBackgroundColor,org.eclipse.egit.ui.DiffRemoveForegroundColor,org.eclipse.egit.ui.IgnoredResourceBackgroundColor,org.eclipse.egit.ui.IgnoredResourceForegroundColor,org.eclipse.egit.ui.UncommittedChangeBackgroundColor,org.eclipse.egit.ui.UncommittedChangeForegroundColor,org.eclipse.jdt.ui.ColoredLabels.inherited,org.eclipse.jdt.ui.Javadoc.backgroundColor,org.eclipse.jdt.ui.Javadoc.foregroundColor,org.eclipse.mylyn.tasks.ui.colors.foreground.today.scheduled,org.eclipse.mylyn.tasks.ui.colors.foreground.past.scheduled,org.eclipse.mylyn.tasks.ui.colors.foreground.thisweek.scheduled,org.eclipse.mylyn.tasks.ui.colors.foreground.task.active,org.eclipse.mylyn.tasks.ui.colors.category.gradient.start,org.eclipse.mylyn.tasks.ui.colors.category.gradient.end,org.eclipse.pde.genericeditor.extension.editor.color.tag,org.eclipse.pde.genericeditor.extension.editor.color.attribute,org.eclipse.pde.genericeditor.extension.editor.color.text,org.eclipse.pde.genericeditor.extension.editor.color.header,org.eclipse.pde.genericeditor.extension.editor.color.comment,org.eclipse.pde.genericeditor.extension.editor.color.quote,ACTIVE_HYPERLINK_COLOR,CONFLICTING_COLOR,CONTENT_ASSIST_BACKGROUND_COLOR,CONTENT_ASSIST_FOREGROUND_COLOR,org.eclipse.ui.workbench.INFORMATION_BACKGROUND,org.eclipse.ui.workbench.INFORMATION_FOREGROUND,org.eclipse.ui.workbench.HOVER_BACKGROUND,org.eclipse.ui.workbench.HOVER_FOREGROUND,ERROR_COLOR,HYPERLINK_COLOR,INCOMING_COLOR,OUTGOING_COLOR,RESOLVED_COLOR,org.eclipse.search.ui.match.highlight,org.eclipse.ui.editors.rangeIndicatorColor,org.eclipse.jface.REVISION_NEWEST_COLOR,org.eclipse.jface.REVISION_OLDEST_COLOR,org.springframework.ide.eclipse.boot.dash.TextDecorColor,org.springframework.ide.eclipse.boot.dash.AltTextDecorColor,org.springframework.ide.eclipse.boot.dash.MutedTextDecorColor,org.springframework.tooling.ls.eclipse.commons.STS4BootMarkerIndicationColor,
+/instance/org.eclipse.ui.workbench/overriddenByCSS=,org.eclipse.egit.ui.DiffAddBackgroundColor,org.eclipse.egit.ui.DiffAddForegroundColor,org.eclipse.egit.ui.DiffHeadlineBackgroundColor,org.eclipse.egit.ui.DiffHeadlineForegroundColor,org.eclipse.egit.ui.DiffHunkBackgroundColor,org.eclipse.egit.ui.DiffHunkForegroundColor,org.eclipse.egit.ui.DiffRemoveBackgroundColor,org.eclipse.egit.ui.DiffRemoveForegroundColor,org.eclipse.egit.ui.IgnoredResourceBackgroundColor,org.eclipse.egit.ui.IgnoredResourceForegroundColor,org.eclipse.egit.ui.UncommittedChangeBackgroundColor,org.eclipse.egit.ui.UncommittedChangeForegroundColor,org.eclipse.jdt.ui.ColoredLabels.inherited,org.eclipse.jdt.ui.Javadoc.backgroundColor,org.eclipse.jdt.ui.Javadoc.foregroundColor,org.eclipse.mylyn.tasks.ui.colors.foreground.today.scheduled,org.eclipse.mylyn.tasks.ui.colors.foreground.past.scheduled,org.eclipse.mylyn.tasks.ui.colors.foreground.thisweek.scheduled,org.eclipse.mylyn.tasks.ui.colors.foreground.task.active,org.eclipse.mylyn.tasks.ui.colors.category.gradient.start,org.eclipse.mylyn.tasks.ui.colors.category.gradient.end,org.eclipse.pde.genericeditor.extension.editor.color.tag,org.eclipse.pde.genericeditor.extension.editor.color.attribute,org.eclipse.pde.genericeditor.extension.editor.color.text,org.eclipse.pde.genericeditor.extension.editor.color.header,org.eclipse.pde.genericeditor.extension.editor.color.comment,org.eclipse.pde.genericeditor.extension.editor.color.quote,ACTIVE_HYPERLINK_COLOR,CONFLICTING_COLOR,CONTENT_ASSIST_BACKGROUND_COLOR,CONTENT_ASSIST_FOREGROUND_COLOR,org.eclipse.ui.workbench.INFORMATION_BACKGROUND,org.eclipse.ui.workbench.INFORMATION_FOREGROUND,org.eclipse.ui.workbench.HOVER_BACKGROUND,org.eclipse.ui.workbench.HOVER_FOREGROUND,ERROR_COLOR,HYPERLINK_COLOR,INCOMING_COLOR,OUTGOING_COLOR,RESOLVED_COLOR,org.eclipse.search.ui.match.highlight,org.eclipse.ui.editors.rangeIndicatorColor,org.eclipse.jface.REVISION_NEWEST_COLOR,org.eclipse.jface.REVISION_OLDEST_COLOR,
 /instance/org.eclipse.ui.workbench/resourcetypes=<?xml version\="1.0" encoding\="UTF-8"?>\n<editors version\="3.1">\n<info extension\="html" name\="*">\n<editor id\="org.eclipse.ui.browser.editorSupport"/>\n<editor id\="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>\n</info>\n<info extension\="tagx" name\="*">\n<editor id\="org.eclipse.jst.jsp.core.jspsource.source"/>\n</info>\n<info extension\="java" name\="module-info">\n<editor id\="org.eclipse.jdt.ui.ModuleInfoEditor"/>\n<defaultEditor id\="org.eclipse.jdt.ui.ModuleInfoEditor"/>\n</info>\n<info extension\="gradle" name\="*">\n<editor id\="org.eclipse.buildship.ui.gradlebuildscripteditor"/>\n</info>\n<info extension\="xml" name\="pom">\n<editor id\="org.eclipse.m2e.editor.MavenPomEditor"/>\n<defaultEditor id\="org.eclipse.m2e.editor.MavenPomEditor"/>\n</info>\n<info extension\="ddl" name\="*">\n<editor id\="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>\n<defaultEditor id\="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>\n</info>\n<info extension\="sqlpage" name\="*">\n<editor id\="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>\n<defaultEditor id\="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>\n</info>\n<info extension\="xhtml" name\="*">\n<editor id\="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>\n</info>\n<info extension\="shtml" name\="*">\n<editor id\="org.eclipse.ui.browser.editorSupport"/>\n</info>\n<info extension\="workingsets" name\="*">\n<editor id\="org.eclipse.oomph.workingsets.presentation.WorkingSetsEditorID"/>\n</info>\n<info extension\="class" name\="module-info">\n<editor id\="org.eclipse.jdt.ui.ModuleInfoClassFileEditor"/>\n<defaultEditor id\="org.eclipse.jdt.ui.ModuleInfoClassFileEditor"/>\n</info>\n<info extension\="server" name\="*">\n<editor id\="org.eclipse.wst.server.ui.editor"/>\n</info>\n<info extension\="chromium" name\="*">\n<editor id\="org.eclipse.wst.jsdt.chromium.debug.ui.editors.JsEditor"/>\n<defaultEditor id\="org.eclipse.wst.jsdt.chromium.debug.ui.editors.JsEditor"/>\n</info>\n<info extension\="js" name\="*">\n<editor id\="org.eclipse.wst.jsdt.ui.CompilationUnitEditor"/>\n</info>\n<info extension\="jsf" name\="*">\n<editor id\="org.eclipse.jst.jsp.core.jspsource.source"/>\n<editor id\="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>\n</info>\n<info extension\="jsp" name\="*">\n<editor id\="org.eclipse.jst.jsp.core.jspsource.source"/>\n<editor id\="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>\n</info>\n<info extension\="jspf" name\="*">\n<editor id\="org.eclipse.jst.jsp.core.jspsource.source"/>\n</info>\n<info extension\="jardesc" name\="*">\n<editor id\="org.eclipse.jdt.ui.JARDescEditor"/>\n<defaultEditor id\="org.eclipse.jdt.ui.JARDescEditor"/>\n</info>\n<info extension\="xsl" name\="*">\n<editor id\="org.eclipse.wst.xsl.ui.XSLEditor"/>\n</info>\n<info extension\="xslt" name\="*">\n<editor id\="org.eclipse.wst.xsl.ui.XSLEditor"/>\n</info>\n<info extension\="pom" name\="*">\n<editor id\="org.eclipse.m2e.editor.MavenPomEditor"/>\n<defaultEditor id\="org.eclipse.m2e.editor.MavenPomEditor"/>\n</info>\n<info extension\="sql" name\="*">\n<editor id\="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>\n<editor id\="org.eclipse.datatools.sqltools.sqlbuilder"/>\n<defaultEditor id\="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>\n<defaultEditor id\="org.eclipse.datatools.sqltools.sqlbuilder"/>\n</info>\n<info extension\="jspx" name\="*">\n<editor id\="org.eclipse.jst.jsp.core.jspsource.source"/>\n<editor id\="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>\n</info>\n<info extension\="tag" name\="*">\n<editor id\="org.eclipse.jst.jsp.core.jspsource.source"/>\n</info>\n<info extension\="setup" name\="*">\n<editor id\="org.eclipse.oomph.setup.presentation.SetupEditorID"/>\n</info>\n<info extension\="class without source" name\="*">\n<editor id\="org.eclipse.jdt.ui.ClassFileEditorNoSource"/>\n</info>\n<info extension\="exec" name\="*">\n<editor id\="org.eclipse.eclemma.ui.editors.executiondata"/>\n</info>\n<info extension\="class without source" name\="module-info">\n<editor id\="org.eclipse.jdt.ui.ModuleInfoClassFileEditorNoSource"/>\n<defaultEditor id\="org.eclipse.jdt.ui.ModuleInfoClassFileEditorNoSource"/>\n</info>\n<info extension\="tagf" name\="*">\n<editor id\="org.eclipse.jst.jsp.core.jspsource.source"/>\n</info>\n<info extension\="htm" name\="*">\n<editor id\="org.eclipse.ui.browser.editorSupport"/>\n<editor id\="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>\n</info>\n<info extension\="jpage" name\="*">\n<editor id\="org.eclipse.jdt.debug.ui.SnippetEditor"/>\n</info>\n<info extension\="properties" name\="sample">\n<editor id\="org.eclipse.pde.ui.sampleEditor"/>\n<defaultEditor id\="org.eclipse.pde.ui.sampleEditor"/>\n</info>\n</editors>
 /instance/org.eclipse.ui.workbench/terminal.views.view.font.definition=1|Source Code Pro|13.0|0|COCOA|1|SourceCodePro-Regular;
 /instance/org.eclipse.ui/ENABLE_ANIMATIONS=true
@@ -791,7 +788,6 @@
 /instance/org.eclipse.wst.jsdt.ui/content_assist_proposals_background=52,57,61
 /instance/org.eclipse.wst.jsdt.ui/content_assist_proposals_foreground=238,238,238
 /instance/org.eclipse.wst.jsdt.ui/fontPropagated=true
-/instance/org.eclipse.wst.jsdt.ui/javaScriptOccurrenceIndicationColor=18,79,120
 /instance/org.eclipse.wst.jsdt.ui/java_bracket=249,250,244
 /instance/org.eclipse.wst.jsdt.ui/java_comment_task_tag=154,140,124
 /instance/org.eclipse.wst.jsdt.ui/java_default=217,232,247
@@ -834,8 +830,8 @@
 /instance/org.eclipse.wst.json.ui/VALUE_STRING=\#FFC600 | null | true | true | false | false
 /instance/org.eclipse.wst.json.ui/overriddenByCSS=,COLON,COMMA,CURLY_BRACE,OBJECT_KEY,VALUE_BOOLEAN,VALUE_NULL,VALUE_NUMBER,VALUE_STRING,
 /instance/org.eclipse.wst.server.core/module-start-timeout=300000
-/instance/org.eclipse.wst.server.core/runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime id\="Apache Tomcat v8.5" location\="/usr/local/apache-tomcat" name\="Apache Tomcat v8.5" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.85" timestamp\="0" vm-install-id\="com.oracle.java.8u241.jdk" vm-install-type-id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType"/>\n</runtimes>\n
-/instance/org.eclipse.wst.server.discovery/cache-lastUpdatedDate=Fri Apr 10 2020 09\:38\:43 CST
+/instance/org.eclipse.wst.server.core/runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime id\="Apache Tomcat v8.5" location\="/usr/local/apache-tomcat" name\="Apache Tomcat v8.5" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.85" timestamp\="0" vm-install-id\="com.oracle.java.8u251.jdk" vm-install-type-id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType"/>\n</runtimes>\n
+/instance/org.eclipse.wst.server.discovery/cache-lastUpdatedDate=Fri Apr 17 2020 15\:23\:08 CST
 /instance/org.eclipse.wst.sse.ui/content_assist_completion_replacement_background=200,200,0
 /instance/org.eclipse.wst.sse.ui/content_assist_completion_replacement_foreground=200,0,0
 /instance/org.eclipse.wst.sse.ui/content_assist_number_of_computers=28
@@ -846,6 +842,16 @@
 /instance/org.eclipse.wst.sse.ui/overriddenByCSS=,content_assist_completion_replacement_background,content_assist_completion_replacement_foreground,content_assist_parameters_background,content_assist_parameters_foreground,content_assist_proposals_background,content_assist_proposals_foreground,
 /instance/org.eclipse.wst.sse.ui/useAnnotationsPrefPage=true
 /instance/org.eclipse.wst.sse.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.wst.validation/DELEGATES_PREFERENCE=delegateValidatorList
+/instance/org.eclipse.wst.validation/USER_BUILD_PREFERENCE=enabledBuildValidatorListorg.eclipse.jst.j2ee.internal.validation.UIApplicationClientValidator;org.eclipse.jst.j2ee.internal.ejb.workbench.validation.UIEjbValidator;org.eclipse.wst.wsi.ui.internal.WSIMessageValidator;org.eclipse.jst.j2ee.internal.classpathdep.ClasspathDependencyValidator;org.eclipse.jst.j2ee.internal.validation.UIEarValidator;org.eclipse.jst.j2ee.internal.web.validation.UIWarValidator;org.eclipse.jst.j2ee.internal.jca.validation.UIConnectorValidator;
+/instance/org.eclipse.wst.validation/USER_MANUAL_PREFERENCE=enabledManualValidatorListorg.eclipse.jst.j2ee.internal.validation.UIApplicationClientValidator;org.eclipse.jst.j2ee.internal.ejb.workbench.validation.UIEjbValidator;org.eclipse.wst.wsi.ui.internal.WSIMessageValidator;org.eclipse.jst.j2ee.internal.classpathdep.ClasspathDependencyValidator;org.eclipse.jst.j2ee.internal.validation.UIEarValidator;org.eclipse.jst.j2ee.internal.web.validation.UIWarValidator;org.eclipse.jst.j2ee.internal.jca.validation.UIConnectorValidator;
+/instance/org.eclipse.wst.validation/USER_PREFERENCE=saveAutomaticallyfalseprojectsCanOverridetruedisableAllValidationfalseversion1.2.800.v201904082137
+/instance/org.eclipse.wst.validation/confirmDialog=true
+/instance/org.eclipse.wst.validation/override=true
+/instance/org.eclipse.wst.validation/saveAuto=false
+/instance/org.eclipse.wst.validation/stateTS=0
+/instance/org.eclipse.wst.validation/suspend=false
+/instance/org.eclipse.wst.validation/vf.version=3
 /instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsiap.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
 /instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsissbp.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
 /instance/org.eclipse.wst.xml.ui/cdataBorder=\#A7EC21 | null | false | false | false | false
@@ -937,10 +943,7 @@
 @org.eclipse.wst.server.core=1.10.100.v201910252115
 @org.eclipse.wst.server.discovery=1.3.200.v201910252115
 @org.eclipse.wst.sse.ui=1.6.300.v202001091420
+@org.eclipse.wst.validation=1.2.800.v201904082137
 @org.eclipse.wst.ws.service.policy=1.0.450.v201903050508
 @org.eclipse.wst.xml.ui=1.2.300.v201904272112
-@org.springframework.ide.eclipse.boot=3.9.12.202003180620-RELEASE
-@org.springframework.ide.eclipse.imports=3.9.12.202003180620-RELEASE
-@org.springsource.ide.eclipse.commons.frameworks.core=3.9.12.202003180611-RELEASE
-@org.springsource.ide.eclipse.commons.ui=3.9.12.202003180611-RELEASE
 file_export_version=3.0
