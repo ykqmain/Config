@@ -24,7 +24,6 @@
 		<outline text="爱范儿" title="爱范儿" description="" type="rss" version="RSS" htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=/" xmlUrl="https://www.ifanr.com/feed"/>
 		<outline text="钛媒体" title="钛媒体" description="" type="rss" version="RSS" htmlUrl="http://www.tmtpost.com/" xmlUrl="https://www.tmtpost.com/rss.xml"/>
 		<outline text="少数派" title="少数派" description="" type="rss" version="RSS" htmlUrl="https://sspai.com/" xmlUrl="https://sspai.com/feed"/>
-		<outline text="程序员" title="程序员" description="" type="rss" version="RSS" htmlUrl="https://www.v2ex.com/go/programmer" xmlUrl="https://www.v2ex.com/feed/programmer.json"/>
 		<outline text="小众软件" title="小众软件" description="" type="rss" version="RSS" htmlUrl="https://www.appinn.com/" xmlUrl="https://www.appinn.com/feed/"/>
 		<outline text="1024.COM" title="1024.COM" description="" type="rss" version="RSS" htmlUrl="https://1024.com/" xmlUrl="https://1024.com/discussions/feed.rss"/>
 		<outline text="Apple" title="Apple" description="" type="rss" version="RSS" htmlUrl="https://www.v2ex.com/go/apple" xmlUrl="https://www.v2ex.com/feed/apple.json"/>
@@ -39,7 +38,7 @@
 		<outline text="Firefox" title="Firefox" description="" type="rss" version="RSS" htmlUrl="https://www.v2ex.com/go/firefox" xmlUrl="https://www.v2ex.com/feed/firefox.json"/>
 		<outline text="游研社" title="游研社" description="" type="rss" version="RSS" htmlUrl="https://www.yystv.cn/" xmlUrl="https://www.yystv.cn/rss/feed"/>
 		<outline text="数字尾巴" title="数字尾巴" description="" type="rss" version="RSS" htmlUrl="http://www.dgtle.com/" xmlUrl="https://www.dgtle.com/rss/dgtle.xml"/>
-		<outline text="极客公园" title="极客公园" description="" type="rss" version="RSS" htmlUrl="http://mainssl.geekpark.net/rss.rss" xmlUrl="http://feed.geekpark.net/"/>
+		<outline text="极客公园" title="极客公园" description="" type="rss" version="RSS" htmlUrl="http://main_test.geekpark.net/rss.rss" xmlUrl="http://feed.geekpark.net/"/>
 		<outline text="Solidot" title="Solidot" description="" type="rss" version="RSS" htmlUrl="https://www.solidot.org/" xmlUrl="https://www.solidot.org/index.rss"/>
 		<outline text="OSCHINA" title="OSCHINA" description="" type="rss" version="RSS" htmlUrl="https://www.oschina.net/news/rss" xmlUrl="https://www.oschina.net/news/rss"/>
 	</outline>
