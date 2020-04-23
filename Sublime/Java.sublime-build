@@ -10,7 +10,7 @@
             "selector": "source.java",
         },
         {
-            "shell_cmd": "java $file_base_name",
+            "shell_cmd": "java \"$file_base_name\"",
             "name": "Run",
             "selector": "source.java",
         },
