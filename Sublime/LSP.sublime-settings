@@ -1,0 +1,26 @@
+{
+	"clients":
+	{
+        "pyls": {
+            "enabled": true,
+            "settings": {
+                "pyls": {
+                    "configurationSources": ["flake8"],
+                    "plugins": {
+                        "autopep8": {"enabled": false},
+                        "yapf": {"enabled": false},
+                        "pycodestyle": {
+                            "enabled": true,
+                            "ignore": [
+                                "E501",
+                                "E226",
+                                "W391",
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+
+	}
+}

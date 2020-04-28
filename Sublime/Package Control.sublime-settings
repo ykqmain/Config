@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"BracketHighlighter",
+		"Emmet",
+		"LSP",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements"
+	],
+	"auto_upgrade": false,
+	"http_proxy": "127.0.0.1:1087",
+	"https_proxy": "127.0.0.1:1087",
+}
