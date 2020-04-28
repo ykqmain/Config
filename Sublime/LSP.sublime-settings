@@ -1,4 +1,6 @@
 {
+    "auto_show_diagnostics_panel": "never",
+
 	"clients":
 	{
         "pyls": {
@@ -9,6 +11,7 @@
                     "plugins": {
                         "autopep8": {"enabled": false},
                         "yapf": {"enabled": false},
+                        "pyflakes": {"enabled": false},
                         "pycodestyle": {
                             "enabled": true,
                             "ignore": [
