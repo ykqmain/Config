@@ -2,7 +2,6 @@
     "auto_show_diagnostics_panel": "never",
     "show_diagnostics_count_in_view_status": true,
 
-
 	"clients":
 	{
         "pyls": {
