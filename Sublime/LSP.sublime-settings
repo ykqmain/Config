@@ -2,6 +2,7 @@
     "auto_show_diagnostics_panel": "never",
     "show_diagnostics_count_in_view_status": true,
 
+
 	"clients":
 	{
         "pyls": {
@@ -12,7 +13,7 @@
                     "plugins": {
                         "autopep8": {"enabled": false},
                         "yapf": {"enabled": false},
-                        "pyflakes": {"enabled": false},
+                        // "pyflakes": {"enabled": false},
                         "pycodestyle": {
                             "enabled": true,
                             "ignore": [
