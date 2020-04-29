@@ -1,23 +1,71 @@
 {
-	// Place your snippets for python here. Each snippet is defined under a snippet name and has a prefix, body and 
-	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
-	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
-	// same ids are connected.
-	// Example:
-	// "Print to console": {
-	// 	"prefix": "log",
-	// 	"body": [
-	// 		"console.log('$1');",
-	// 		"$2"
-	// 	],
-	// 	"description": "Log output to console"
-	// }
-	"Print dir": {
-		"prefix": "dir",
-		"body": [
-			"print([x for x in dir(${1}) if not x.startswith('_')])",
-			"$2"
-		],
-		"description": "属性列表"
-	}
+    // Place your snippets for python here. Each snippet is defined under a snippet name and has a prefix, body and 
+    // description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+    // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+    // same ids are connected.
+    // Example:
+    // "Print to console": {
+    // 	"prefix": "log",
+    // 	"body": [
+    // 		"console.log('$1');",
+    // 		"$2"
+    // 	],
+    // 	"description": "Log output to console"
+    // }
+    "Print dir": {
+        "prefix": "dir",
+        "body": [
+            "print([x for x in dir(${1}) if not x.startswith('_')])",
+            "${2}"
+        ],
+        "description": "属性列表"
+    },
+
+    "for": {
+        "prefix": "for",
+        "body": [
+            "for ${1:x} in range(${2:1, 10}):",
+            "    ${0:pass}",
+        ],
+        "description": "For 循环"
+    },
+
+    "with": {
+        "prefix": "with",
+        "body": [
+            "with open('${1:fileName}', '${2:r}') as f:",
+            "    ${3:pass}",
+        ],
+        "description": "打开文件"
+    },
+
+    "factorial": {
+        "prefix": "factorial",
+        "body": [
+            "def factorial(n):",
+            "    if n == 1:",
+            "        return 1",
+            "    else:",
+            "        return n * factorial(n-1)",
+            "",
+            "",
+            "${1}",
+        ],
+        "description": "阶乘"
+    },
+
+    "fibs": {
+        "prefix": "fibs",
+        "body": [
+            "def fib(n):",
+            "    f = [0, 1]",
+            "    for x in range(n-2):",
+            "        f.append(f[-2] + f[-1])",
+            "    return f",
+            "",
+            "",
+            "${1}",
+        ],
+        "description": "斐波拉契数列"
+    },
 }
