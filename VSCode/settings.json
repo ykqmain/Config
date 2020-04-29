@@ -2,20 +2,31 @@
     "update.mode": "start",
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
+
+    "editor.fontFamily": "SourceCodePro-Regular",
+    "editor.fontSize": 14,
+    "workbench.editor.highlightModifiedTabs": true,
     "workbench.colorTheme": "Mariana Pro (Cool)",
-    "workbench.startupEditor": "newUntitledFile",
     "workbench.activityBar.visible": true,
+    "files.hotExit": "off",
+    "workbench.startupEditor": "newUntitledFile",
+    "window.openFoldersInNewWindow": "off",
+
+    "editor.wordWrap": "on",
+    "editor.rulers": [
+        80
+    ],
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "java.requirements.JDK11Warning": false,
-    "editor.fontFamily": "SourceCodePro-Regular",
+
     "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.enableBell": true,
-    "window.openFoldersInNewWindow": "off",
+    "terminal.integrated.confirmOnExit": true,
+
     "java.configuration.checkProjectSettingsExclusions": false,
-    "editor.wordWrap": "on",
+    "java.requirements.JDK11Warning": false,
     "java.configuration.maven.userSettings": "/usr/local/apache-maven/conf/settings.xml",
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
@@ -25,11 +36,4 @@
     "python.linting.flake8Args": [
         "--ignore=E501, E226, W391"
     ],
-    "editor.fontSize": 14,
-    "workbench.editor.highlightModifiedTabs": true,
-    "files.hotExit": "off",
-    "editor.rulers": [
-        80
-    ],
-    "terminal.integrated.confirmOnExit": true
 }
