@@ -23,7 +23,6 @@
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.enableBell": true,
-    "terminal.integrated.confirmOnExit": true,
 
     "java.configuration.checkProjectSettingsExclusions": false,
     "java.requirements.JDK11Warning": false,

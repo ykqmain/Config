@@ -4,8 +4,22 @@
         "key": "ctrl+tab",
         "command": "workbench.action.nextEditor"
     },
+
     {
         "key": "ctrl+shift+tab",
         "command": "workbench.action.previousEditor"
-    }
+    },
+
+    {
+        "key": "alt+space",
+        "command": "editor.action.triggerSuggest",
+    },
+
+    {
+        "key": "cmd+shift+h",
+        "command": "workbench.action.terminal.newWithCwd",
+        "args": {
+            "cwd": "${fileDirname}"
+        }
+    },
 ]
