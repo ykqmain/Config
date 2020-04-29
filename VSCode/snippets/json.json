@@ -16,7 +16,7 @@
         "prefix": "snippets",
         "body": [
             "\"Snippets\": {",
-            "    \"prefix\": \"短语\",",
+            "    \"prefix\": \"前缀\",",
             "    \"body\": [",
             "        ${0}",
             "    ],",
