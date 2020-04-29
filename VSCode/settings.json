@@ -1,0 +1,35 @@
+{
+    "update.mode": "start",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "workbench.colorTheme": "Mariana Pro (Cool)",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.activityBar.visible": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.requirements.JDK11Warning": false,
+    "editor.fontFamily": "SourceCodePro-Regular",
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.enableBell": true,
+    "window.openFoldersInNewWindow": "off",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "editor.wordWrap": "on",
+    "java.configuration.maven.userSettings": "/usr/local/apache-maven/conf/settings.xml",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.jediEnabled": false,
+    "python.linting.flake8Args": [
+        "--ignore=E501, E226, W391"
+    ],
+    "editor.fontSize": 14,
+    "workbench.editor.highlightModifiedTabs": true,
+    "files.hotExit": "off",
+    "editor.rulers": [
+        80
+    ],
+    "terminal.integrated.confirmOnExit": true
+}
