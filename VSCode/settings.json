@@ -2,6 +2,7 @@
     "update.mode": "start",
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
+    "extensions.autoUpdate": false,
 
     "editor.fontFamily": "SourceCodePro-Regular",
     "editor.fontSize": 14,

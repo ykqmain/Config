@@ -22,4 +22,9 @@
             "cwd": "${fileDirname}"
         }
     },
+
+    {
+        "key": "cmd+,",
+        "command": "workbench.action.openSettings"
+    },
 ]
