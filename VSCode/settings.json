@@ -16,17 +16,13 @@
     "editor.rulers": [
         80
     ],
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 
     "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.fontSize": 14,
     "terminal.integrated.enableBell": true,
 
-    "java.configuration.checkProjectSettingsExclusions": false,
-    "java.requirements.JDK11Warning": false,
-    "java.configuration.maven.userSettings": "/usr/local/apache-maven/conf/settings.xml",
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
