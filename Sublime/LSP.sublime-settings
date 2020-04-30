@@ -1,11 +1,17 @@
 {
-    "auto_show_diagnostics_panel": "never",
+    "auto_show_diagnostics_panel_level": 1,
     "show_diagnostics_count_in_view_status": true,
+    "show_code_actions_bulb": true,
+    "show_symbol_action_links": true,
 
 	"clients":
 	{
         "pyls": {
             "enabled": true,
+            "command": ["pyls"],
+            "scopes": ["source.python"],
+            "syntaxes": ["Packages/Python/Python.sublime-syntax", "Packages/MagicPython/grammars/MagicPython.tmLanguage", "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"],
+            "languageId": "python",
             "settings": {
                 "pyls": {
                     "configurationSources": ["flake8"],
