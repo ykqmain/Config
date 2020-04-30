@@ -105,7 +105,7 @@ alias sha256='shasum -a 256'
 
 alias clang++="clang++ -std=c++11"
 alias py="python3"
-alias pip3update="pip3 list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip3 install -U"
+# alias pip3update="pip3 list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip3 install -U"
 # alias pip3update="pip3 freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip3 install -U"
 
 
@@ -132,22 +132,6 @@ alias ip2='curl -L tool.lu/ip'
 function proxy(){
     export https_proxy=http://127.0.0.1:1087 http_proxy=http://127.0.0.1:1087 all_proxy=socks5://127.0.0.1:1086
     ip1
-}
-
-
-function buo(){
-    proxy
-    echo -e "------------\n${BLUE}brew update\n${RES}"
-    brew update
-    echo -e "------------\n${YELOW}brew outdated\n${RES}"
-    brew outdated
-}
-
-function buc(){
-    echo -e "${PINK}brew upgrade\n${RES}"
-    brew upgrade
-    echo -e "------------\n${GREEN}brew cleanup\n${RES}"
-    brew cleanup
 }
 
 
