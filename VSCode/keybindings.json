@@ -1,19 +1,9 @@
 // 将键绑定放在此文件中以覆盖默认值
 [
-    {
-        "key": "ctrl+tab",
-        "command": "workbench.action.nextEditor"
-    },
+    { "key": "ctrl+tab", "command": "workbench.action.nextEditor" },
+    { "key": "ctrl+shift+tab", "command": "workbench.action.previousEditor" },
 
-    {
-        "key": "ctrl+shift+tab",
-        "command": "workbench.action.previousEditor"
-    },
-
-    {
-        "key": "alt+space",
-        "command": "editor.action.triggerSuggest",
-    },
+    { "key": "alt+space", "command": "editor.action.triggerSuggest" },
 
     {
         "key": "cmd+shift+h",
@@ -21,10 +11,5 @@
         "args": {
             "cwd": "${fileDirname}"
         }
-    },
-
-    {
-        "key": "cmd+,",
-        "command": "workbench.action.openSettings"
     },
 ]

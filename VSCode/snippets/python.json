@@ -16,7 +16,8 @@
         "prefix": "dir",
         "body": [
             "print([x for x in dir(${1}) if not x.startswith('_')])",
-            "${2}"
+            "",
+            "${0}"
         ],
         "description": "属性列表"
     },
