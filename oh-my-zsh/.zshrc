@@ -130,8 +130,8 @@ alias ip1='curl myip.ipip.net'
 alias ip2='curl -L tool.lu/ip'
 
 function proxy(){
-    export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7891
-    curl -I https://www.google.com/
+    export https_proxy=http://127.0.0.1:1087 http_proxy=http://127.0.0.1:1087 all_proxy=socks5://127.0.0.1:1086
+    ip1
 }
 
 
