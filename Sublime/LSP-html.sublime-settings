@@ -10,7 +10,7 @@
             "syntaxes": [
                 "Packages/HTML/HTML.sublime-syntax",
                 "Packages/PHP/PHP.sublime-syntax",
-                "Packages/Markdown/Markdown.sublime-syntax",
+                // "Packages/Markdown/Markdown.sublime-syntax",
             ],
         },
     ],
