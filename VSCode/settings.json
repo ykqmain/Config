@@ -12,6 +12,7 @@
     "files.hotExit": "off",
     "workbench.startupEditor": "newUntitledFile",
     "window.openFoldersInNewWindow": "off",
+    "window.restoreWindows": "none",
 
     "editor.wordWrap": "on",
     "editor.rulers": [
