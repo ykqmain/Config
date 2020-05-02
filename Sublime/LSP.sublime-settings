@@ -3,10 +3,13 @@
     "show_diagnostics_count_in_view_status": true,
     "show_code_actions_bulb": true,
     "show_symbol_action_links": true,
+    "complete_all_chars": true,
 
 	"clients":
 	{
         "pyls": {
+            // pip install -U python-language-server[all] pyls-mypy
+
             "enabled": true,
             "command": ["pyls"],
             "scopes": ["source.python"],
@@ -16,9 +19,13 @@
                 "pyls": {
                     "configurationSources": ["flake8"],
                     "plugins": {
-                        "autopep8": {"enabled": false},
-                        "yapf": {"enabled": false},
-                        // "pyflakes": {"enabled": false},
+                        "jedi": {
+                            "enabled": true,
+                            "extra_paths": [
+                                "/usr/local/lib/python3.7/site-packages"
+                            ],
+                        },
+                        "pyflakes": {"enabled": true,},
                         "pycodestyle": {
                             "enabled": true,
                             "ignore": [
@@ -26,7 +33,15 @@
                                 "E226",
                                 "W391",
                             ]
-                        }
+                        },
+                        "pydocstyle": {"enabled": false,},
+                        "autopep8": {"enabled": false},
+                        "yapf": {"enabled": false},
+                        "pylint": {"enabled": false,},
+                        "pyls_mypy": {
+                            "enabled": true,
+                            "live_mode": true,
+                        },
                     }
                 }
             }
