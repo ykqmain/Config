@@ -30,6 +30,9 @@
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
     "python.pythonPath": "/usr/local/bin/python3",
+    "python.autoComplete.extraPaths": [
+        "/usr/local/lib/python3.7/site-packages",
+    ],
     "python.jediEnabled": false,
     "python.linting.flake8Args": [
         "--ignore=E501, E226, W391"
