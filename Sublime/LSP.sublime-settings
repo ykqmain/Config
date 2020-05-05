@@ -8,7 +8,7 @@
 	"clients":
 	{
         "pyls": {
-            // pip install -U python-language-server[all] pyls-mypy
+            // pip3 install -U 'python-language-server[all]' pyls-mypy
 
             "enabled": true,
             "command": ["pyls"],
