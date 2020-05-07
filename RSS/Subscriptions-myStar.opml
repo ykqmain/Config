@@ -24,9 +24,11 @@
 		<outline text="数字尾巴" title="数字尾巴" description="" type="rss" version="RSS" htmlUrl="http://www.dgtle.com/" xmlUrl="https://www.dgtle.com/rss/dgtle.xml"/>
 		<outline text="极客公园" title="极客公园" description="" type="rss" version="RSS" htmlUrl="http://main_test.geekpark.net/rss.rss" xmlUrl="http://feed.geekpark.net/"/>
 		<outline text="好奇心日报" title="好奇心日报" description="" type="rss" version="RSS" htmlUrl="http://www.qdaily.com/" xmlUrl="http://www.qdaily.com/feed.xml"/>
-		<outline text="V2EX" title="V2EX" description="" type="rss" version="RSS" htmlUrl="https://www.v2ex.com/" xmlUrl="https://www.v2ex.com/index.xml"/>
+		<outline text="Apple" title="Apple" description="" type="rss" version="RSS" htmlUrl="https://www.v2ex.com/go/apple" xmlUrl="https://www.v2ex.com/feed/apple.json"/>
+		<outline text="分享创造" title="分享创造" description="" type="rss" version="RSS" htmlUrl="https://www.v2ex.com/go/create" xmlUrl="https://www.v2ex.com/feed/create.json"/>
 		<outline text="少数派" title="少数派" description="" type="rss" version="RSS" htmlUrl="https://sspai.com/" xmlUrl="https://sspai.com/feed"/>
 		<outline text="触乐" title="触乐" description="" type="rss" version="RSS" htmlUrl="http://www.chuapp.com/" xmlUrl="http://www.chuapp.com/feed"/>
+		<outline text="分享发现" title="分享发现" description="" type="rss" version="RSS" htmlUrl="https://www.v2ex.com/go/share" xmlUrl="https://www.v2ex.com/feed/share.json"/>
 		<outline text="Rust.cc" title="Rust.cc" description="" type="rss" version="RSS" htmlUrl="https://rust.cc/" xmlUrl="https://rustcc.cn/rss"/>
 		<outline text="游研社" title="游研社" description="" type="rss" version="RSS" htmlUrl="https://www.yystv.cn/" xmlUrl="https://www.yystv.cn/rss/feed"/>
 		<outline text="IT之家" title="IT之家" description="" type="rss" version="RSS" htmlUrl="http://www.ithome.com/" xmlUrl="https://www.ithome.com/rss/"/>
