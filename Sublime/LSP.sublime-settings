@@ -39,7 +39,7 @@
                         "yapf": {"enabled": false},
                         "pylint": {"enabled": false,},
                         "pyls_mypy": {
-                            "enabled": true,
+                            "enabled": false,
                             "live_mode": true,
                         },
                     }

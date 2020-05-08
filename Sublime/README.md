@@ -19,9 +19,6 @@
 * 修改Python3的`For Loop`补全
     * `~/Python/Snippets/for.sublime-snippet`
 
-* 修改`Tools -> Developer -> New Snippet...`模版
-    * `~/Default/new_templates.py`
-
 
 ### Snippets
 
@@ -37,18 +34,22 @@
     Sublime主配置文件。
 
 
-2. `Package Control.sublime-settings`
-
-    `Package Control`配置文件，可以配置代理，以及插件名。重装Sublime可以将此文件复制到`User`自动下载插件。
-
-
-3. `Default (OSX).sublime-keymap`
+2. `Default (OSX).sublime-keymap`
 
     Sublime快捷键配置。
+
+
+3. `Package Control.sublime-settings`
+
+    `Package Control`配置文件，可以配置代理，以及插件名。重装Sublime可以将此文件复制到`User`自动下载插件。
 
 
 4. `Python3.sublime-build`
 
     Python3的`Build`配置，Sublime自带的是Python2。
 
+
+5. `LSP.sublime-settings`
+
+    LSP配置，主要是pyls
 
