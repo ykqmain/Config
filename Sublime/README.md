@@ -52,8 +52,3 @@
     Python3的`Build`配置，Sublime自带的是Python2。
 
 
-5. `LSP.sublime-settings`
-
-    `LSP`配置，可以设置需要忽略的Lint警告。
-
-
