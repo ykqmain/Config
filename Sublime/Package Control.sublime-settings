@@ -8,9 +8,10 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
+		"AutoDocstring",
 		"BracketHighlighter",
 		"Emmet",
+		"FileIcons",
 		"LSP",
 		"Package Control",
 		"PackageResourceViewer",

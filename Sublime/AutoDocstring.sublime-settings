@@ -1,0 +1,11 @@
+{
+  "default_summary": "概括",
+  "default_description": "描述",
+  "default_return_name": "",
+  "default_type": "TYPE",
+  "optional_tag": "optional",
+  "style": "auto_numpy",
+  "start_with_newline": "",
+  "force_default_qstyle": true,
+  "default_qstyle": "\"\"\""
+}
