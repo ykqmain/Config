@@ -12,9 +12,9 @@
 		"BracketHighlighter",
 		"Emmet",
 		"FileIcons",
+		"FileManager",
 		"LSP",
 		"Package Control",
-		"PackageResourceViewer",
-		"SideBarEnhancements"
+		"PackageResourceViewer"
 	]
 }
