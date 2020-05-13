@@ -8,14 +8,18 @@
 	"clients":
 	{
         "pyls": {
-            // pip3 install -U 'python-language-server[all]' pyls-mypy
+            // pip3 install -U 'python-language-server[all]'
             // pip3 install parso==0.5.2 --force-reinstall
 
             "enabled": true,
             "command": ["/Users/yang/.pyls/bin/pyls"],
-            "scopes": ["source.python"],
-            "syntaxes": ["Packages/Python/Python.sublime-syntax", "Packages/MagicPython/grammars/MagicPython.tmLanguage", "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"],
             "languageId": "python",
+            "scopes": ["source.python"],
+            "syntaxes": [
+                "Packages/Python/Python.sublime-syntax",
+                "Packages/MagicPython/grammars/MagicPython.tmLanguage",
+                "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+            ],
             "settings": {
                 "pyls": {
                     "configurationSources": ["flake8"],
@@ -28,9 +32,14 @@
                                 "/usr/local/lib/python3.7/site-packages",
                             ],
                         },
-                        "pyflakes": {"enabled": true,},
+                        "jedi_completion": {
+                            "enabled": true,
+                            "fuzzy": true,
+                            "include_params": true,  // Auto-completes methods and classes with tabstops for each parameter
+                        },
                         "pycodestyle": {
                             "enabled": true,
+                            "exclude": [],  // Exclude files or directories which match these patterns
                             "ignore": [
                                 "E501",
                                 "E226",
@@ -38,9 +47,6 @@
                             ]
                         },
                         "pydocstyle": {"enabled": false,},
-                        "autopep8": {"enabled": false},
-                        "yapf": {"enabled": false},
-                        "pylint": {"enabled": false,},
                         "pyls_mypy": {
                             "enabled": false,
                             "live_mode": true,
