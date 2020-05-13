@@ -50,7 +50,7 @@ ZSH_THEME="preference"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 
-plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search extract z osx git python sublime web-search)
+plugins=(zsh-syntax-highlighting zsh-completions zsh-autosuggestions history history-substring-search extract z osx git sublime web-search)
 
 
 # User configuration
@@ -131,7 +131,6 @@ alias ip2='curl -L tool.lu/ip'
 
 function proxy(){
     export export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7891
-    ip1
     curl -I www.google.com
 }
 
@@ -142,9 +141,17 @@ function hs(){
     hexo server
 }
 
+function hd(){
+    cd /Users/yang/Blog
+    pwd
+    echo ''
+    hexo g -d
+}
+
 function hcd(){
     cd /Users/yang/Blog
     pwd
+    echo ''
     hexo clean
     echo ''
     hexo g -d
