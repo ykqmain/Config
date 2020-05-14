@@ -135,13 +135,13 @@ function proxy(){
 }
 
 
-function hs(){
+function hxs(){
     cd /Users/yang/Blog
     pwd
     hexo server
 }
 
-function hd(){
+function hxd(){
     cd /Users/yang/Blog
     pwd
     echo ''
