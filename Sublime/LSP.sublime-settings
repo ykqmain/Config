@@ -38,6 +38,21 @@
                             // Auto-completes methods and classes with tabstops for each parameter
                             "include_params": true,
                         },
+                        "jedi_definition": {
+                            "enabled": true,
+                            // The goto call will follow imports
+                            "follow_imports": true,
+                            // If follow_imports is True will decide if it follow builtin imports
+                            "follow_builtin_imports": true,
+                        },
+                        "jedi_references": {"enabled": true},
+                        "jedi_hover": {"enabled": true},
+                        "jedi_signature_help": {"enabled": true},
+                        "jedi_symbols": {
+                            "enabled": true,
+                            // If True lists the names of all scopes instead of only the module namespace
+                            "all_scopes": true,
+                        },
                         "pycodestyle": {
                             "enabled": true,
                             // Exclude files or directories which match these patterns
@@ -48,7 +63,22 @@
                                 "W391",
                             ]
                         },
-                        "pydocstyle": {"enabled": false,},
+                        "pydocstyle": {"enabled": false},
+                        "pyflakes": {"enabled": true},
+                        "mccabe": {
+                            "enabled": true,
+                            // The minimum threshold that triggers warnings about cyclomatic complexity
+                            "threshold": 15,
+                        },
+                        "yapf": {"enabled": true},
+                        "rope_completion": {"enabled": true},
+                        "preload": {
+                            "enabled": true,
+                            // List of modules to import on startup (type: Array[String])
+                            "modules": null,
+                        },
+                        "pylint": {"enabled": false},
+                        // pyls' 3rd Party Plugins
                         "pyls_mypy": {
                             "enabled": false,
                             "live_mode": true,
