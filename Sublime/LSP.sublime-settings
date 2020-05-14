@@ -35,11 +35,13 @@
                         "jedi_completion": {
                             "enabled": true,
                             "fuzzy": true,
-                            "include_params": true,  // Auto-completes methods and classes with tabstops for each parameter
+                            // Auto-completes methods and classes with tabstops for each parameter
+                            "include_params": true,
                         },
                         "pycodestyle": {
                             "enabled": true,
-                            "exclude": [],  // Exclude files or directories which match these patterns
+                            // Exclude files or directories which match these patterns
+                            "exclude": [],
                             "ignore": [
                                 "E501",
                                 "E226",
@@ -55,6 +57,5 @@
                 }
             }
         },
-
 	}
 }

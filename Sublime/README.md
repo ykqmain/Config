@@ -4,9 +4,10 @@
 .
 ├── Archives
 ├── Package
-└── Snippets
-    ├── HTML
-    └── Python
+├── Snippets
+│   ├── HTML
+│   └── Python
+└── Theme
 ```
 
 ### Archives
@@ -21,8 +22,11 @@
 
 
 ### Snippets
-
 本文件夹是`User`下的子文件夹`~/Sublime Text 3/Packages/User/Snippets`，便于管理自己的Snippet。即使是`User`下级目录，也能被Sublime读取。
+
+
+### Theme
+自定义Python图标。
 
 
 ### .根目录
@@ -46,10 +50,10 @@
 
 4. `Python3.sublime-build`
 
-    Python3的`Build`配置，Sublime自带的是Python2。
+    Python3的`Build`配置。
 
 
 5. `LSP.sublime-settings`
 
-    LSP配置，主要是pyls
+    LSP配置，主要是`pyls`。
 
