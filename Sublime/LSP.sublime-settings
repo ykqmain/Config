@@ -70,6 +70,7 @@
                             // The minimum threshold that triggers warnings about cyclomatic complexity
                             "threshold": 15,
                         },
+                        "autopep8": {"enabled": false},
                         "yapf": {"enabled": true},
                         "rope_completion": {"enabled": true},
                         // "preload": {
