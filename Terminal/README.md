@@ -3,14 +3,13 @@
 
 ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
 
-<br> 
-
 * 字体 [SourceCodePro-Regular 14](https://github.com/adobe-fonts/source-code-pro)
 * 窗口大小 120 * 36
 
-![](https://github.com/ykqmain/Config/blob/master/Terminal/setting.png)
+<br> 
 
-### 颜色
+
+![](https://github.com/ykqmain/Config/blob/master/Terminal/setting.png)
 
 | 文本  |    名称   |    RGB   |
 | ----  |   ----   |   ----   |
