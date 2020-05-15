@@ -72,11 +72,11 @@
                         },
                         "yapf": {"enabled": true},
                         "rope_completion": {"enabled": true},
-                        "preload": {
-                            "enabled": true,
-                            // List of modules to import on startup (type: Array[String])
-                            "modules": null,
-                        },
+                        // "preload": {
+                        //     "enabled": true,
+                        //     // List of modules to import on startup (type: Array[String])
+                        //     "modules": null,
+                        // },
                         "pylint": {"enabled": false},
                         // pyls' 3rd Party Plugins
                         "pyls_mypy": {
