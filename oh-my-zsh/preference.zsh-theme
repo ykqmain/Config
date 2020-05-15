@@ -9,7 +9,7 @@ PROMPT='%{$fg[$NCOLOR]%}%B%n%b%{$reset_color%}:%{$fg[blue]%}%B%~%b%{$reset_color
 
 # 颜色
 # black, red, green, yellow, blue, magenta, cyan, white
-# 黑，红，绿，黄，蓝，洋红(紫)，青色，白色
+# 黑，红，绿，黄，蓝，洋红(紫)，青，白
 
 # --------------------- 
 # %n  你的用户名
