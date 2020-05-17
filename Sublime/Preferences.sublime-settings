@@ -10,8 +10,9 @@
     "show_encoding": true,
     "show_line_endings": true,
     "show_full_path": true,
+
+    "highlight_line": true,
     "highlight_modified_tabs": true,
-	"highlight_line": true,
     "draw_white_space": "selection",
     "draw_minimap_border": true,
     "tab_size": 4,
