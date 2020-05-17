@@ -15,7 +15,7 @@ ${1:Hello, this is a snippet.}
 </snippet>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>snippet</tabTrigger>
+    <tabTrigger>sp</tabTrigger>
     <!-- Optional: Set a description, eg: List Comprehension -->
     <!-- <description>snippet</description> -->
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
