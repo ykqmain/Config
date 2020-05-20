@@ -27,8 +27,7 @@
                         "jedi": {
                             "enabled": true,
                             "extra_paths": [
-                                "/usr/local/bin/python3",
-                                "/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7",
+                                "/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib",
                                 "/usr/local/lib/python3.7/site-packages",
                             ],
                         },
