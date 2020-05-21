@@ -13,11 +13,11 @@
 		"Color Highlight",
 		"Emmet",
 		"FileIcons",
-		"FileManager",
 		"LSP",
 		"LSP-bash",
 		"LSP-html",
 		"Package Control",
-		"PackageResourceViewer"
+		"PackageResourceViewer",
+		"SideBarEnhancements"
 	]
 }
