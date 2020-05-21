@@ -33,27 +33,3 @@
 
 本目录下的配置文件，对应Sublime的`~/Sublime Text 3/Packages/User`
 
-1. `Preferences.sublime-settings`
-
-    Sublime主配置文件。
-
-
-2. `Default (OSX).sublime-keymap`
-
-    Sublime快捷键配置。
-
-
-3. `Package Control.sublime-settings`
-
-    `Package Control`配置文件，可以配置代理，以及插件名。重装Sublime可以将此文件复制到`User`自动下载插件。
-
-
-4. `Python3.sublime-build`
-
-    Python3的`Build`配置。
-
-
-5. `LSP.sublime-settings`
-
-    LSP配置，主要是`pyls`。
-

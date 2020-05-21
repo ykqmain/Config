@@ -1,6 +1,7 @@
 {
     "statusbar_modified_time": true,
-    "statusbar_modified_time_format": "%Y-%m-%d %H:%M:%S",
+    // "statusbar_modified_time_format": "%Y-%m-%d %H:%M:%S",
+    "statusbar_modified_time_format": "%m-%d %H:%M",
     "statusbar_modified_time_locale": "",
 
     "statusbar_file_size": true,
