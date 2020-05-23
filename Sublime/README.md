@@ -7,7 +7,7 @@
 ├── Snippets
 │   ├── HTML
 │   └── Python
-└── Theme
+└── theme
 ```
 
 ### Archives
@@ -25,7 +25,7 @@
 本文件夹是`User`下的子文件夹`~/Sublime Text 3/Packages/User/Snippets`，便于管理自己的Snippet。即使是`User`下级目录，也能被Sublime读取。
 
 
-### Theme
+### theme
 自定义Python图标。
 
 

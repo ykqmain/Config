@@ -50,7 +50,7 @@
 	],
 	"move_to_limit_on_up_down": false,
 	"open_files_in_new_window": false,
-	"preview_on_click": false,
+	"preview_on_click": true,
 	"rulers":
 	[
 		96
