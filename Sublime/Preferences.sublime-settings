@@ -40,7 +40,6 @@
 	],
 	"font_face": "SourceCodePro-Regular",
 	"font_size": 14,
-	"gpu_window_buffer": "auto",
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
