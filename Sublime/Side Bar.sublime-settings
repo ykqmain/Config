@@ -1,5 +1,5 @@
 {
-    "statusbar_modified_time": true,
+    "statusbar_modified_time": false,
     // "statusbar_modified_time_format": "%Y-%m-%d %H:%M:%S",
     "statusbar_modified_time_format": "%m-%d %H:%M",
     "statusbar_modified_time_locale": "",
@@ -12,12 +12,12 @@
     //any of this list: firefox, firefox-developer-edition, chrome, canary, chromium, opera, safari, ie, edge
     "open_all_browsers": [
         "firefox",
-        "firefox-developer-edition",
+        // "firefox-developer-edition",
         "chrome",
-        "opera",
+        // "opera",
         "safari",
         "ie",
-        "edge"
+        // "edge"
     ],
 
     "portable_browser": "", // (complete path to executable) for example:  C:/Program Files (x86)/Nightly/firefox.exe
