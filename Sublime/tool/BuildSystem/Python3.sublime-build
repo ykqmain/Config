@@ -1,0 +1,7 @@
+{
+    "encoding": "utf-8",
+    // "cmd": ["python3", "-u", "$file"],
+    "shell_cmd": "python3 -u \"$file\"",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python"
+}

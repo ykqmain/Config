@@ -8,7 +8,8 @@
 │   └── Open\ With
 ├── theme
 └── tool
-    └── snippet
+    ├── BuildSystem
+    └── Snippet
         ├── HTML
         └── Python
 
@@ -30,7 +31,7 @@
 
 
 ### tool
-本文件夹是`User`下的子文件夹`~/Sublime Text 3/Packages/User/tool`，便于管理自己的Snippet和Build系统。即使是`User`下级目录，也能被Sublime读取。
+本文件夹是`User`下的子文件夹`~/Sublime Text 3/Packages/User/tool`，便于管理自己的`Snippet`和`BuildSystem`。即使是`User`下级目录，也能被Sublime读取。
 
 
 ### .根目录

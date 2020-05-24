@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+🎬 ${1:标题} video
+<video height="680" width="auto" controls="controls" type="video/mp4">
+    <source src="${2}">
+    Your browser does not support the Video tag.
+</video>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>sp</tabTrigger>
+    <!-- Optional: Set a description, eg: List Comprehension -->
+    <description>视频</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html</scope>
+    <!-- Save as: X.sublime-snippet -->
+</snippet>

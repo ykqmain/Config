@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+def fib(n):
+    f = [0, 1]
+    for x in range(n-2):
+        f.append(f[-2] + f[-1])
+    return f
+
+
+${1}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>fibs</tabTrigger>
+    <!-- Optional: Set a description, eg: List Comprehension -->
+    <description>斐波拉契数列</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+    <!-- Save as: X.sublime-snippet -->
+</snippet>
