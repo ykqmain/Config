@@ -4,7 +4,7 @@
 .
 ├── Archives
 ├── Package
-├── Snippets
+├── snippets
 │   ├── HTML
 │   └── Python
 └── theme
@@ -21,7 +21,7 @@
     * `~/Python/Snippets/for.sublime-snippet`
 
 
-### Snippets
+### snippets
 本文件夹是`User`下的子文件夹`~/Sublime Text 3/Packages/User/Snippets`，便于管理自己的Snippet。即使是`User`下级目录，也能被Sublime读取。
 
 
@@ -30,6 +30,5 @@
 
 
 ### .根目录
-
 本目录下的配置文件，对应Sublime的`~/Sublime Text 3/Packages/User`
 
