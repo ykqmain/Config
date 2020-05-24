@@ -3,11 +3,15 @@
 ```
 .
 ├── Archives
-├── Package
-├── snippets
-│   ├── HTML
-│   └── Python
-└── theme
+├── Packages
+├── SideBarEnhancements
+│   └── Open\ With
+├── theme
+└── tool
+    └── snippet
+        ├── HTML
+        └── Python
+
 ```
 
 ### Archives
@@ -21,12 +25,12 @@
     * `~/Python/Snippets/for.sublime-snippet`
 
 
-### snippets
-本文件夹是`User`下的子文件夹`~/Sublime Text 3/Packages/User/Snippets`，便于管理自己的Snippet。即使是`User`下级目录，也能被Sublime读取。
-
-
 ### theme
 自定义Python图标。
+
+
+### tool
+本文件夹是`User`下的子文件夹`~/Sublime Text 3/Packages/User/tool`，便于管理自己的Snippet和Build系统。即使是`User`下级目录，也能被Sublime读取。
 
 
 ### .根目录
