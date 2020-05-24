@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<a href="${1:链接}" target="_blank">${2:文字}</a>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>lj</tabTrigger>
+    <!-- Optional: Set a description, eg: List Comprehension -->
+    <description>链接</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html</scope>
+    <!-- Save as: X.sublime-snippet -->
+</snippet>
