@@ -49,18 +49,18 @@
 	],
 	"move_to_limit_on_up_down": false,
 	"open_files_in_new_window": false,
-	"preview_on_click": true,
+	"preview_on_click": false,
 	"rulers":
 	[
 		96
 	],
 	"scroll_past_end": true,
 	"show_encoding": true,
-    "show_full_path": false,
+	"show_full_path": false,
 	"show_line_endings": true,
 	"tab_size": 4,
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"update_check": false,
-	"word_wrap": "true",
+	"word_wrap": "true"
 }
