@@ -1,0 +1,18 @@
+{
+    "shell_cmd": "javac $file_base_name.java && java $file_base_name",
+    "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+    "selector": "source.java",
+
+    "variants": [
+        {
+            "shell_cmd": "javac \"$file\"",
+            "name": "Compile",
+            "selector": "source.java",
+        },
+        {
+            "shell_cmd": "java \"$file_base_name\"",
+            "name": "Run",
+            "selector": "source.java",
+        },
+    ]
+}
