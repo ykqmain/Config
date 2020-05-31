@@ -17,8 +17,8 @@ ${1:Hello, this is a snippet.}
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>sp</tabTrigger>
     <!-- Optional: Set a description, eg: List Comprehension -->
-    <!-- <description>snippet</description> -->
+    <description>snippet</description>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>text.xml</scope> -->
+    <scope>text</scope>
     <!-- Save as: X.sublime-snippet -->
 </snippet>
