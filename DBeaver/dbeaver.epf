@@ -1,4 +1,4 @@
-#Fri May 08 20:51:38 CST 2020
+#Wed Jun 03 09:24:53 CST 2020
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.core.net/proxyData/HTTP/hasAuth=false
@@ -69,7 +69,7 @@
 /instance/org.jkiss.dbeaver.core/org.jkiss.dbeaver.core.confirm.order_resultset=prompt
 /instance/org.jkiss.dbeaver.core/org.jkiss.dbeaver.core.confirm.version_check=prompt
 /instance/org.jkiss.dbeaver.core/sample.database.canceled=true
-/instance/org.jkiss.dbeaver.core/ui.auto.update.check.time=1588942171644
+/instance/org.jkiss.dbeaver.core/ui.auto.update.check.time=1591147388389
 /instance/org.jkiss.dbeaver.core/ui.drivers.home=/Users/yang/Library/DBeaverData/drivers
 /instance/org.jkiss.dbeaver.core/ui.show.tip.of.the.day.on.startup=false
 /instance/org.jkiss.dbeaver.ext.erd/erd.attr.styles=ICONS
@@ -84,6 +84,6 @@
 @org.eclipse.ui.browser=3.6.700.v20200217-0820
 @org.eclipse.ui.editors=3.13.100.v20200130-1507
 @org.eclipse.ui.workbench=3.118.0.v20200222-0719
-@org.jkiss.dbeaver.core=7.0.4.202005031953
-@org.jkiss.dbeaver.ext.erd=2.0.134.202005031953
+@org.jkiss.dbeaver.core=7.1.0.202005311732
+@org.jkiss.dbeaver.ext.erd=2.0.136.202005311732
 file_export_version=3.0
