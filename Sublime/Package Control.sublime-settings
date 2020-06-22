@@ -16,6 +16,7 @@
 		"FileManager",
 		"LSP",
 		"LSP-bash",
+		"LSP-html",
 		"Package Control",
 		"PackageResourceViewer",
 		"Status Bar File Size"
