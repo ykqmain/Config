@@ -3,9 +3,7 @@
 ```
 .
 ├── Archives
-├── Packages
-├── SideBarEnhancements
-│   └── Open\ With
+├── Package
 ├── theme
 └── tool
     ├── BuildSystem
