@@ -1,4 +1,4 @@
-#Wed Jun 03 09:24:53 CST 2020
+#Mon Jun 22 09:39:19 CST 2020
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.core.net/proxyData/HTTP/hasAuth=false
@@ -69,7 +69,7 @@
 /instance/org.jkiss.dbeaver.core/org.jkiss.dbeaver.core.confirm.order_resultset=prompt
 /instance/org.jkiss.dbeaver.core/org.jkiss.dbeaver.core.confirm.version_check=prompt
 /instance/org.jkiss.dbeaver.core/sample.database.canceled=true
-/instance/org.jkiss.dbeaver.core/ui.auto.update.check.time=1591147388389
+/instance/org.jkiss.dbeaver.core/ui.auto.update.check.time=1592789583734
 /instance/org.jkiss.dbeaver.core/ui.drivers.home=/Users/yang/Library/DBeaverData/drivers
 /instance/org.jkiss.dbeaver.core/ui.show.tip.of.the.day.on.startup=false
 /instance/org.jkiss.dbeaver.ext.erd/erd.attr.styles=ICONS
