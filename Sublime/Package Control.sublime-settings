@@ -13,10 +13,11 @@
 		"Color Highlight",
 		"Emmet",
 		"FileIcons",
+		"FileManager",
 		"LSP",
 		"LSP-bash",
 		"Package Control",
 		"PackageResourceViewer",
-		"SideBarEnhancements"
+		"Status Bar File Size"
 	]
 }
