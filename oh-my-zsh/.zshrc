@@ -109,20 +109,10 @@ alias py="python3"
 # alias pip3update="pip3 freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip3 install -U"
 
 
-function launchAPP(){
-    open /Library/LaunchDaemons
-    open /Library/LaunchAgents
-    open ~/Library/LaunchAgents
-}
-
 function lazygit(){
     git add .
     git commit -m "updated: $(date +"%Y-%m-%d %T")"
     git push
-}
-
-function ff(){
-    ffmpeg -i $1 -hide_banner
 }
 
 
@@ -157,6 +147,11 @@ function hcd(){
     hexo clean
     echo ''
     hexo g -d
+}
+
+
+function ff(){
+    ffmpeg -i $1 -hide_banner
 }
 
 
