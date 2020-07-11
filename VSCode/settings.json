@@ -1,0 +1,21 @@
+{
+    "update.mode": "start",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "extensions.autoUpdate": false,
+
+    "editor.fontFamily": "SourceCodePro-Regular",
+    "editor.fontSize": 14,
+    "editor.wordWrap": "wordWrapColumn",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.editor.highlightModifiedTabs": true,
+
+    "workbench.startupEditor": "newUntitledFile",
+    "window.openFoldersInNewWindow": "off",
+    "window.restoreWindows": "none",
+    "files.hotExit": "off",
+
+    "python.languageServer": "Pylance",
+    "python.pythonPath": "/usr/local/bin/python3",
+}
