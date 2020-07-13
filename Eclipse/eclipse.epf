@@ -1,4 +1,4 @@
-#Mon Jul 13 11:49:02 CST 2020
+#Mon Jul 13 11:56:21 CST 2020
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.core.net/proxyData/HTTP/hasAuth=false
@@ -9,7 +9,7 @@
 /configuration/org.eclipse.core.net/proxyData/HTTPS/port=7890
 /configuration/org.eclipse.core.net/proxyData/SOCKS/hasAuth=false
 /configuration/org.eclipse.core.net/proxyData/SOCKS/host=127.0.0.1
-/configuration/org.eclipse.core.net/proxyData/SOCKS/port=7890
+/configuration/org.eclipse.core.net/proxyData/SOCKS/port=7891
 /configuration/org.eclipse.core.net/systemProxiesEnabled=false
 /configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
 /configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=/Users/yang/eclipse-workspace
