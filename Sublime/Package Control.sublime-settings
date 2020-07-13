@@ -1,8 +1,8 @@
 {
 	"auto_upgrade": false,
 	"bootstrapped": true,
-	"http_proxy": "127.0.0.1:1087",
-	"https_proxy": "127.0.0.1:1087",
+	"http_proxy": "127.0.0.1:7890",
+	"https_proxy": "127.0.0.1:7890",
 	"in_process_packages":
 	[
 	],
