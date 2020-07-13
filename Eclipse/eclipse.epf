@@ -1,15 +1,15 @@
-#Fri Jun 26 08:47:42 CST 2020
+#Mon Jul 13 11:49:02 CST 2020
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.core.net/proxyData/HTTP/hasAuth=false
 /configuration/org.eclipse.core.net/proxyData/HTTP/host=127.0.0.1
-/configuration/org.eclipse.core.net/proxyData/HTTP/port=1087
+/configuration/org.eclipse.core.net/proxyData/HTTP/port=7890
 /configuration/org.eclipse.core.net/proxyData/HTTPS/hasAuth=false
 /configuration/org.eclipse.core.net/proxyData/HTTPS/host=127.0.0.1
-/configuration/org.eclipse.core.net/proxyData/HTTPS/port=1087
+/configuration/org.eclipse.core.net/proxyData/HTTPS/port=7890
 /configuration/org.eclipse.core.net/proxyData/SOCKS/hasAuth=false
 /configuration/org.eclipse.core.net/proxyData/SOCKS/host=127.0.0.1
-/configuration/org.eclipse.core.net/proxyData/SOCKS/port=1086
+/configuration/org.eclipse.core.net/proxyData/SOCKS/port=7890
 /configuration/org.eclipse.core.net/systemProxiesEnabled=false
 /configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
 /configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=/Users/yang/eclipse-workspace
@@ -235,6 +235,7 @@
 /instance/org.eclipse.rse.core/activeuserprofiles=Anna;Team
 /instance/org.eclipse.tm.terminal.control/TerminalPrefInvertColors=true
 /instance/org.eclipse.tm.terminal.control/overriddenByCSS=,TerminalPrefInvertColors,
+/instance/org.eclipse.ui.browser/browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="0">\n<system/>\n</web-browsers>
 /instance/org.eclipse.ui.browser/internalWebBrowserHistory=https\://www.eclipse.org/setups/donate/?scope\=Eclipse%20IDE%20for%20Enterprise%20Java%20Developers%20(includes%20Incubating%20components)&version\=4.16.0.20200615-1200&campaign\=2020-06|*|
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background=47,47,47
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background.SystemDefault=false
@@ -285,7 +286,7 @@
 /instance/org.eclipse.ui.genericeditor/matchingBracketsColor=249,250,244
 /instance/org.eclipse.ui.genericeditor/overriddenByCSS=,matchingBracketsColor,
 /instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
-/instance/org.eclipse.ui.ide/platformState=1593093000211
+/instance/org.eclipse.ui.ide/platformState=1594444459680
 /instance/org.eclipse.ui.ide/quickStart=false
 /instance/org.eclipse.ui.ide/tipsAndTricks=true
 /instance/org.eclipse.ui.navigator/org.eclipse.ui.navigator.ProjectExplorer.filterActivation=\:org.eclipse.jdt.java.ui.filters.HidePackageDeclaration\:org.eclipse.rse.project.filters.RemoteSystemsProjects\:org.eclipse.jdt.java.ui.filters.HideOutputFolder\:org.eclipse.buildship.ui.navigator.filter.gradle.subProject\:org.eclipse.ui.navigator.resources.nested.HideTopLevelProjectIfNested\:org.eclipse.buildship.ui.navigator.filter.gradle.buildfolder\:org.eclipse.jdt.java.ui.filters.HideEmptyInnerPackages\:org.eclipse.jst.j2ee.navigator.ui.filters.jetemitters\:org.eclipse.jdt.java.ui.filters.HideInnerClassFiles\:org.eclipse.ui.navigator.resources.filters.startsWithDot\:org.eclipse.jdt.java.ui.filters.HideEmptyLibraryContainers\:org.eclipse.jdt.java.ui.filters.HideImportDeclaration\:org.eclipse.jdt.java.ui.filters.HideSyntheticMembers\:org.eclipse.mylyn.tasks.ui.navigator.filters.tasks\:org.eclipse.ui.navigator.resources.nested.HideFolderWhenProjectIsShownAsNested\:
