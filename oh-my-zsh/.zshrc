@@ -126,7 +126,11 @@ alias ip3='curl -L tool.lu/ip'
 function proxy(){
     export https_proxy=http://127.0.0.1:1087 http_proxy=http://127.0.0.1:1087 all_proxy=socks5://127.0.0.1:1086
     ip1
-    # curl -I www.google.com
+}
+
+function proxyX(){
+    export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
+    curl -I www.google.com
 }
 
 
