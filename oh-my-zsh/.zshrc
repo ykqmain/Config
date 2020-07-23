@@ -129,17 +129,10 @@ function proxy(){
 }
 
 
-function hs(){
+function hgs(){
     cd /Users/yang/Blog
     pwd
     hexo server
-}
-
-function hd(){
-    cd /Users/yang/Blog
-    pwd
-    echo ''
-    hexo g -d
 }
 
 function hcd(){
@@ -147,6 +140,13 @@ function hcd(){
     pwd
     echo ''
     hexo clean
+    echo ''
+    hexo g -d
+}
+
+function hgd(){
+    cd /Users/yang/Blog
+    pwd
     echo ''
     hexo g -d
 }
