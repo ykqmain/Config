@@ -7,15 +7,14 @@
     "editor.fontFamily": "SourceCodePro-Regular",
     "editor.fontSize": 14,
     "editor.wordWrap": "wordWrapColumn",
+    "workbench.editor.highlightModifiedTabs": true,
     "workbench.colorTheme": "One Dark Pro",
     "workbench.iconTheme": "vscode-icons",
-    "workbench.editor.highlightModifiedTabs": true,
 
     "workbench.startupEditor": "newUntitledFile",
     "window.openFoldersInNewWindow": "off",
     "window.restoreWindows": "none",
     "files.hotExit": "off",
 
-    "python.languageServer": "Pylance",
-    "python.pythonPath": "/usr/local/bin/python3",
+    "python.defaultInterpreterPath": "/usr/local/bin/python3",
 }
