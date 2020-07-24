@@ -21,5 +21,4 @@
         "key": "cmd+k m",
         "command": "-workbench.action.editor.changeLanguageMode"
     },
-
 ]
