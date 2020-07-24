@@ -8,7 +8,7 @@
     "editor.fontSize": 14,
     "editor.wordWrap": "wordWrapColumn",
     "workbench.editor.highlightModifiedTabs": true,
-    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorTheme": "Atom One Dark",
     "workbench.iconTheme": "vscode-icons",
 
     "workbench.startupEditor": "newUntitledFile",
