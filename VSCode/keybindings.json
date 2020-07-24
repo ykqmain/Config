@@ -12,4 +12,14 @@
             "cwd": "${fileDirname}"
         }
     },
+
+    {
+        "key": "shift+cmd+l",
+        "command": "workbench.action.editor.changeLanguageMode"
+    },
+    {
+        "key": "cmd+k m",
+        "command": "-workbench.action.editor.changeLanguageMode"
+    },
+
 ]
