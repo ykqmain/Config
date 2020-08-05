@@ -8,9 +8,6 @@
 
 <br> 
 
-
-![](https://github.com/ykqmain/Config/blob/master/Terminal/setting.png)
-
 | 文本  |    名称   |    RGB   |
 | ----  |   ----   |   ----   |
 | 背景  | 颜色与效果 |  #1E2127 |
