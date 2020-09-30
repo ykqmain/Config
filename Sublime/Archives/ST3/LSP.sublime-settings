@@ -27,7 +27,8 @@
                         "jedi": {
                             "enabled": true,
                             "extra_paths": [
-                                "/usr/local/lib/python3.8/site-packages",
+                                // "/usr/local/lib/python3.8/site-packages",
+                                "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages",
                             ],
                         },
                         "jedi_completion": {
