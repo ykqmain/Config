@@ -144,13 +144,6 @@ function hcd(){
     hexo g -d
 }
 
-function hgd(){
-    cd /Users/yang/Blog
-    pwd
-    echo ''
-    hexo g -d
-}
-
 
 function ff(){
     ffmpeg -i $1 -hide_banner
