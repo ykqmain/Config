@@ -1,4 +1,4 @@
-#Mon Jul 13 11:56:21 CST 2020
+#Thu Nov 12 11:21:46 CST 2020
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /configuration/org.eclipse.core.net/proxyData/HTTP/hasAuth=false
@@ -9,8 +9,9 @@
 /configuration/org.eclipse.core.net/proxyData/HTTPS/port=7890
 /configuration/org.eclipse.core.net/proxyData/SOCKS/hasAuth=false
 /configuration/org.eclipse.core.net/proxyData/SOCKS/host=127.0.0.1
-/configuration/org.eclipse.core.net/proxyData/SOCKS/port=7891
+/configuration/org.eclipse.core.net/proxyData/SOCKS/port=7890
 /configuration/org.eclipse.core.net/systemProxiesEnabled=false
+/configuration/org.eclipse.epp.mpc.ui/showOpenFavoritesNotification=false
 /configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
 /configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=/Users/yang/eclipse-workspace
 /configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
@@ -50,6 +51,7 @@
 /instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories=
 /instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories.relative=
 /instance/org.eclipse.egit.ui/repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\n<FilterCache/>
+/instance/org.eclipse.epp.mpc.ui/CatalogDescriptor=https\://marketplace.eclipse.org
 /instance/org.eclipse.help.base/dialog_infopop=false
 /instance/org.eclipse.help.base/help_view_open_mode=in_place
 /instance/org.eclipse.help.base/search_from_browser=false
@@ -69,7 +71,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.8
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.tabulation.char=space
 /instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_DEFAULT_ENVIRONMENTS_XML=
-/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="52,org.eclipse.jdt.internal.launching.macosx.MacOSXType25,com.oracle.java.8u251.jdk" defaultVMConnector\="">\n<vmType id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType">\n<vm id\="com.oracle.java.8u251.jdk" name\="Java SE 8 [1.8.0_251]" path\="/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home"/>\n</vmType>\n</vmSettings>\n
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="52,org.eclipse.jdt.internal.launching.macosx.MacOSXType25,com.oracle.java.8u271.jdk" defaultVMConnector\="">\n<vmType id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType">\n<vm id\="com.oracle.java.8u271.jdk" name\="Java SE 8 [1.8.0_271]" path\="/Library/Java/JavaVirtualMachines/jdk1.8.0_271.jdk/Contents/Home"/>\n</vmType>\n</vmSettings>\n
 /instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_java=.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_background=200,200,0
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_foreground=200,0,0
@@ -286,7 +288,7 @@
 /instance/org.eclipse.ui.genericeditor/matchingBracketsColor=249,250,244
 /instance/org.eclipse.ui.genericeditor/overriddenByCSS=,matchingBracketsColor,
 /instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
-/instance/org.eclipse.ui.ide/platformState=1594444459680
+/instance/org.eclipse.ui.ide/platformState=1604723286228
 /instance/org.eclipse.ui.ide/quickStart=false
 /instance/org.eclipse.ui.ide/tipsAndTricks=true
 /instance/org.eclipse.ui.navigator/org.eclipse.ui.navigator.ProjectExplorer.filterActivation=\:org.eclipse.jdt.java.ui.filters.HidePackageDeclaration\:org.eclipse.rse.project.filters.RemoteSystemsProjects\:org.eclipse.jdt.java.ui.filters.HideOutputFolder\:org.eclipse.buildship.ui.navigator.filter.gradle.subProject\:org.eclipse.ui.navigator.resources.nested.HideTopLevelProjectIfNested\:org.eclipse.buildship.ui.navigator.filter.gradle.buildfolder\:org.eclipse.jdt.java.ui.filters.HideEmptyInnerPackages\:org.eclipse.jst.j2ee.navigator.ui.filters.jetemitters\:org.eclipse.jdt.java.ui.filters.HideInnerClassFiles\:org.eclipse.ui.navigator.resources.filters.startsWithDot\:org.eclipse.jdt.java.ui.filters.HideEmptyLibraryContainers\:org.eclipse.jdt.java.ui.filters.HideImportDeclaration\:org.eclipse.jdt.java.ui.filters.HideSyntheticMembers\:org.eclipse.mylyn.tasks.ui.navigator.filters.tasks\:org.eclipse.ui.navigator.resources.nested.HideFolderWhenProjectIsShownAsNested\:
@@ -484,6 +486,7 @@
 @org.eclipse.e4.ui.workbench.renderers.swt=0.14.1200.v20200529-1321
 @org.eclipse.egit.core=5.8.0.202006091008-r
 @org.eclipse.egit.ui=5.8.0.202006091008-r
+@org.eclipse.epp.mpc.ui=1.8.3.v20200526-1554
 @org.eclipse.help.base=4.2.1000.v20200604-0540
 @org.eclipse.jdt.core=3.22.0.v20200530-2032
 @org.eclipse.jdt.launching=3.17.100.v20200526-1503
