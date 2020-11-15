@@ -1,5 +1,5 @@
 {
-    "update.mode": "start",
+    "update.mode": "manual",
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "extensions.autoUpdate": false,
@@ -15,12 +15,16 @@
     "window.openFoldersInNewWindow": "off",
     "window.restoreWindows": "none",
     "files.hotExit": "off",
+    "files.exclude": {
+        ".localized": true
+    },
 
     "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "python.linting.enabled": true,
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true,
     "python.linting.flake8Args": [
         "--ignore=E501, W391"
     ],
+    
 }
