@@ -111,10 +111,12 @@ alias b2='brew outdated'
 alias b3='brew upgrade'
 alias b4='brew cleanup'
 
+
 alias clang++="clang++ -std=c++11"
 alias py="python3"
-# alias pip3update="pip3 list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip3 install -U"
-# alias pip3update="pip3 freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip3 install -U"
+alias pip3update="pip3 list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip3 install -U"
+# alias pip3update="pip3 freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip3 install -U"
+
 
 
 function lazygit(){
