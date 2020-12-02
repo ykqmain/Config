@@ -114,9 +114,9 @@ alias b4='brew cleanup'
 
 alias clang++="clang++ -std=c++11"
 alias py="python3"
-alias pip3update="pip3 freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip3 install -U"
-# alias pip3update="pip3 list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip3 install -U"
-alias pip3uninstall="pip3 freeze | grep -v "^-e" | xargs pip3 uninstall -y"
+alias pipUpdate="pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U"
+# alias pipupdate="pip list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip install -U"
+alias pipUninstall="pip freeze | grep -v "^-e" | xargs pip uninstall -y"
 
 
 function lazygit(){
