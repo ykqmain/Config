@@ -8,9 +8,7 @@
 	<outline text="iAnna" title="iAnna" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://blog.ykqmain.com/atom.xml"/>
 	<outline text="每日古诗文" title="每日古诗文" description="" type="rss" version="RSS" htmlUrl="https://www.gushiwen.org/" xmlUrl="https://feedx.net/rss/shiwen.xml"/>
 	<outline text="历史上的今天" title="历史上的今天" description="" type="rss" version="RSS" htmlUrl="https://www.wikipedia.org/" xmlUrl="https://feedx.net/rss/wikihistory.xml"/>
-	<outline text="秋风木叶 的收藏" title="秋风木叶 的收藏" description="" type="rss" version="RSS" htmlUrl="https://www.douban.com/people/ykqre/" xmlUrl="https://www.douban.com/feed/people/212266624/interests"/>
 	<outline text="News" title="News">
-		<outline text="小众软件" title="小众软件" description="" type="rss" version="RSS" htmlUrl="https://www.appinn.com/" xmlUrl="https://www.appinn.com/feed/"/>
 		<outline text="奇客Solidot" title="奇客Solidot" description="" type="rss" version="RSS" htmlUrl="https://www.solidot.org/" xmlUrl="https://www.solidot.org/index.rss"/>
 		<outline text="极客公园" title="极客公园" description="" type="rss" version="RSS" htmlUrl="http://main_test.geekpark.net/rss.rss" xmlUrl="http://feed.geekpark.net/"/>
 		<outline text="虎嗅" title="虎嗅" description="" type="rss" version="RSS" htmlUrl="https://www.huxiu.com/" xmlUrl="https://rss.huxiu.com/"/>
@@ -22,7 +20,6 @@
 		<outline text="ACGx" title="ACGx" description="" type="rss" version="RSS" htmlUrl="http://acgxclub.com/" xmlUrl="http://acgxclub.com/feed"/>
 		<outline text="游研社" title="游研社" description="" type="rss" version="RSS" htmlUrl="https://www.yystv.cn/" xmlUrl="https://www.yystv.cn/rss/feed"/>
 		<outline text="触乐" title="触乐" description="" type="rss" version="RSS" htmlUrl="http://www.chuapp.com/" xmlUrl="http://www.chuapp.com/feed"/>
-		<outline text="异次元软件世界" title="异次元软件世界" description="" type="rss" version="RSS" htmlUrl="https://www.iplaysoft.com/" xmlUrl="https://feed.iplaysoft.com"/>
 		<outline text="36氪" title="36氪" description="" type="rss" version="RSS" htmlUrl="http://36kr.com/" xmlUrl="https://36kr.com/feed"/>
 	</outline>
 	<outline text="Blog" title="Blog">
