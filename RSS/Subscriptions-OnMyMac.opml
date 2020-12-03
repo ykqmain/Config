@@ -10,6 +10,7 @@
 	<outline text="历史上的今天" title="历史上的今天" description="" type="rss" version="RSS" htmlUrl="https://www.wikipedia.org/" xmlUrl="https://feedx.net/rss/wikihistory.xml"/>
 	<outline text="News" title="News">
 		<outline text="奇客Solidot" title="奇客Solidot" description="" type="rss" version="RSS" htmlUrl="https://www.solidot.org/" xmlUrl="https://www.solidot.org/index.rss"/>
+		<outline text="爱范儿" title="爱范儿" description="" type="rss" version="RSS" htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=/" xmlUrl="https://www.ifanr.com/feed"/>
 		<outline text="极客公园" title="极客公园" description="" type="rss" version="RSS" htmlUrl="http://main_test.geekpark.net/rss.rss" xmlUrl="http://feed.geekpark.net/"/>
 		<outline text="虎嗅" title="虎嗅" description="" type="rss" version="RSS" htmlUrl="https://www.huxiu.com/" xmlUrl="https://rss.huxiu.com/"/>
 		<outline text="少数派" title="少数派" description="" type="rss" version="RSS" htmlUrl="https://sspai.com/" xmlUrl="https://sspai.com/feed"/>
