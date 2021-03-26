@@ -1,0 +1,41 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
+	"font_face": "SourceCodePro-Regular",
+	"font_size": 14,
+
+    "default_encoding": "UTF-8",
+    "default_line_ending": "unix",
+    "tab_size": 4,
+	"translate_tabs_to_spaces": true,
+
+    "caret_style": "smooth",
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "find_selected_text": true,
+    "scroll_past_end": true,
+    "move_to_limit_on_up_down": false,
+
+    "draw_white_space": ["selection"],
+    "draw_minimap_border": true,
+    "show_encoding": true,
+    "show_line_endings": true,
+    "show_full_path": false,
+
+    "open_files_in_new_window": false,
+    "close_windows_when_empty": false,
+    "hot_exit": false,
+    "bold_folder_labels": true,
+    "preview_on_click": false,
+
+    "spell_check": false,
+    "word_wrap": "true",
+    "rulers": [90],
+
+    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".Trash", ".Trash-*"],
+
+    "file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", ".directory", "desktop.ini", "*.class", "*.psd", "*.db", "*.sublime-workspace"],
+
+    "update_check": false,
+
+}
