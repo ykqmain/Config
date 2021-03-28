@@ -22,20 +22,20 @@
     "show_line_endings": true,
     "show_full_path": false,
 
+    "word_wrap": "true",
+    "rulers": [90],
+
     "open_files_in_new_window": false,
     "close_windows_when_empty": false,
     "hot_exit": false,
     "bold_folder_labels": true,
     "preview_on_click": false,
 
-    "spell_check": false,
-    "word_wrap": "true",
-    "rulers": [90],
-
     "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".Trash", ".Trash-*"],
 
     "file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", ".directory", "desktop.ini", "*.class", "*.psd", "*.db", "*.sublime-workspace"],
 
+    "spell_check": false,
     "update_check": false,
 
 }
