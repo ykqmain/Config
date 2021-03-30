@@ -140,9 +140,10 @@ function lazygit(){
 }
 
 
-alias ip1='curl cip.cc'
-alias ip2='curl myip.ipip.net'
-alias ip3='curl -L tool.lu/ip'
+alias ip1='curl myip.ipip.net'
+alias ip2='curl -L ip.tool.lu'
+alias ip3='curl cip.cc'
+
 
 function proxy(){
     export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
