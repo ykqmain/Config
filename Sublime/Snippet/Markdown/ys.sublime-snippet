@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+<font color="#FF0000">红色 Red</font>
+<font color="#FFA500">橙色 Orange</font>
+<font color="#FFFF00">黄色 Yellow</font>
+<font color="#008000">绿色 Green</font>
+<font color="#00FFFF">青色 Cyan</font>
+<font color="#0000FF">蓝色 Blue</font>
+<font color="#4B0082">靛色 Indigo</font>
+<font color="#800880">紫色 Violet</font>
+
+<font color="#FFC0CB">粉红</font>
+<font color="#007FFF">天蓝</font>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ys</tabTrigger>
+    <!-- Optional: Set a description, eg: List Comprehension -->
+    <description>颜色</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html</scope>
+    <!-- Save as: X.sublime-snippet -->
+</snippet>
