@@ -1,6 +1,7 @@
 {
-    "statusbar_modified_time": false,
-    "statusbar_modified_time_format": "%A %b %d %H:%M:%S %Y",
+    "statusbar_modified_time": true,
+    // "statusbar_modified_time_format": "%A %b %d %H:%M:%S %Y",
+    "statusbar_modified_time_format": "%Y-%m-%d %H:%M:%S",
     "statusbar_modified_time_locale": "",
 
     "statusbar_file_size": true,
@@ -36,15 +37,6 @@
 
     "portable_browser": "", // (complete path to executable) for example:  C:/Program Files (x86)/Nightly/firefox.exe
 
-    "disable_send_to_trash": false,
-
-    "use_powershell": true,
-    "use_command": "",
-
-    "copy_path_absolute_from_project_includes_line_number": false,
-
-    "find_and_replace_discards_previous_search": false,
-    "find_and_replace_opens_in_new_view": true,
 
     // if you donated set this value to "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DD4SL2AHYJGBW"
     // to remove the menuitem "Donate 20$" from the sidebar context menu.
