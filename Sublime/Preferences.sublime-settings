@@ -10,7 +10,6 @@
 	"translate_tabs_to_spaces": true,
 
     "caret_style": "smooth",
-    "file_tab_style": "angled",
     "highlight_line": true,
     "highlight_modified_tabs": true,
     "find_selected_text": true,
