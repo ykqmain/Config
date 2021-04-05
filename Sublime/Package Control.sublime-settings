@@ -1,0 +1,22 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_frequency": 24,
+
+	"http_proxy": "127.0.0.1:7890",
+	"https_proxy": "127.0.0.1:7890",
+
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlight",
+		"Emmet",
+		"FileIcons",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+	],
+	"in_process_packages":
+	[
+	],
+}
