@@ -12,9 +12,10 @@
 		"Color Highlight",
 		"Emmet",
 		"FileIcons",
+		"FileManager",
 		"Package Control",
 		"PackageResourceViewer",
-		"SideBarEnhancements",
+		"Status Bar File Size",
 	],
 	"in_process_packages":
 	[
