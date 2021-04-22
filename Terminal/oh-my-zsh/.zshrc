@@ -134,13 +134,6 @@ alias b3='brew upgrade'
 alias b4='brew cleanup'
 
 
-function lazygit(){
-    git add .
-    git commit -m "updated: $(date +"%Y-%m-%d %T")"
-    git push
-}
-
-
 alias ip1='curl myip.ipip.net'
 alias ip2='curl -L ip.tool.lu'
 alias ip3='curl cip.cc'
@@ -151,31 +144,35 @@ function proxy(){
     curl -I www.google.com
 }
 
-
-function hgs(){
-    cd /Users/yang/Blog
-    pwd
-    hexo server
+function lazygit(){
+    git add .
+    git commit -m "updated: $(date +"%Y-%m-%d %T")"
+    git push
 }
-
-function hcd(){
-    cd /Users/yang/Blog
-    pwd
-    echo ''
-    hexo clean
-    echo ''
-    hexo g -d
-}
-
 
 function ff(){
     ffmpeg -i $1 -hide_banner
 }
 
 
+
+# function hgs(){
+#     cd /Users/yang/Blog
+#     pwd
+#     hexo server
+# }
+# function hcd(){
+#     cd /Users/yang/Blog
+#     pwd
+#     echo ''
+#     hexo clean
+#     echo ''
+#     hexo g -d
+# }
+
+
 bindkey '^z' autosuggest-clear
 bindkey '^[[A' history-substring-search-up
 bindkey '^[[B' history-substring-search-down
-
 
 
