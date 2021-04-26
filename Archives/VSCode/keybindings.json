@@ -7,13 +7,5 @@
     { "key": "ctrl+shift+u", "command": "workbench.action.editor.changeEncoding" },
 
     { "key": "alt+space", "command": "editor.action.triggerSuggest" },
-
-    {
-        "key": "ctrl+shift+h",
-        "command": "workbench.action.terminal.newWithCwd",
-        "args": {
-            "cwd": "${fileDirname}"
-        }
-    },
-
+    
 ]
