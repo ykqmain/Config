@@ -10,7 +10,9 @@
 	<outline text="iAnna" title="iAnna" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://blog.ykqmain.com/atom.xml"/>
 	<outline text="Blog" title="Blog">
 		<outline text="Apple Newsroom" title="Apple Newsroom" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.apple.com.cn/newsroom/rss-feed.rss"/>
+		<outline text="MySQL" title="MySQL" description="" type="rss" version="RSS" htmlUrl="https://dev.mysql.com/downloads/" xmlUrl="https://dev.mysql.com/downloads/rss.php"/>
 		<outline text="NetNewsWire" title="NetNewsWire" description="" type="rss" version="RSS" htmlUrl="https://nnw.ranchero.com/" xmlUrl="https://nnw.ranchero.com/feed.json"/>
+		<outline text="Newest Python PEPs" title="Newest Python PEPs" description="" type="rss" version="RSS" htmlUrl="https://www.python.org/dev/peps/" xmlUrl="https://www.python.org/dev/peps/peps.rss/"/>
 		<outline text="Python Insider" title="Python Insider" description="" type="rss" version="RSS" htmlUrl="https://pythoninsider.blogspot.com/" xmlUrl="http://feeds.feedburner.com/PythonInsider"/>
 		<outline text="Sublime Blog" title="Sublime Blog" description="" type="rss" version="RSS" htmlUrl="http://www.sublimetext.com/blog" xmlUrl="https://www.sublimetext.com/blog/feed"/>
 	</outline>
@@ -22,6 +24,7 @@
 		<outline text="虎嗅" title="虎嗅" description="" type="rss" version="RSS" htmlUrl="https://www.huxiu.com/" xmlUrl="https://rss.huxiu.com/"/>
 		<outline text="极客公园" title="极客公园" description="" type="rss" version="RSS" htmlUrl="http://main_test.geekpark.net/rss.rss" xmlUrl="http://feed.geekpark.net/"/>
 		<outline text="奇客Solidot" title="奇客Solidot" description="" type="rss" version="RSS" htmlUrl="https://www.solidot.org/" xmlUrl="https://www.solidot.org/index.rss"/>
+		<outline text="软餐" title="软餐" description="" type="rss" version="RSS" htmlUrl="https://www.ruancan.com/" xmlUrl="https://www.ruancan.com/feed"/>
 		<outline text="少数派" title="少数派" description="" type="rss" version="RSS" htmlUrl="https://sspai.com/" xmlUrl="https://sspai.com/feed"/>
 		<outline text="钛媒体" title="钛媒体" description="" type="rss" version="RSS" htmlUrl="http://www.tmtpost.com/" xmlUrl="https://www.tmtpost.com/rss.xml"/>
 		<outline text="游研社" title="游研社" description="" type="rss" version="RSS" htmlUrl="https://www.yystv.cn/" xmlUrl="https://www.yystv.cn/rss/feed"/>
