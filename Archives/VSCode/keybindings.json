@@ -3,9 +3,9 @@
     { "key": "ctrl+tab", "command": "workbench.action.nextEditor" },
     { "key": "ctrl+shift+tab", "command": "workbench.action.previousEditor" },
 
-    { "key": "ctrl+shift+l", "command": "workbench.action.editor.changeLanguageMode" },
-    { "key": "ctrl+shift+u", "command": "workbench.action.editor.changeEncoding" },
-
     { "key": "alt+space", "command": "editor.action.triggerSuggest" },
-    
+
+    { "key": "ctrl+shift+u", "command": "workbench.action.editor.changeEncoding" },
+    { "key": "ctrl+shift+l", "command": "workbench.action.editor.changeLanguageMode" },
+
 ]
