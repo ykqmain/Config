@@ -13,6 +13,8 @@
 		"Emmet",
 		"FileIcons",
 		"FileManager",
+		"LSP",
+		"LSP-pyright",
 		"Package Control",
 		"PackageResourceViewer",
 		"Status Bar File Size",
