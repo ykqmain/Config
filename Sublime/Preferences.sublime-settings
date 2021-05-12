@@ -2,7 +2,7 @@
     "color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
     "theme": "Adaptive.sublime-theme",
     "font_face": "SourceCodePro-Regular",
-    "font_size": 15,
+    "font_size": 14,
 
     "default_encoding": "UTF-8",
     "default_line_ending": "unix",
@@ -23,7 +23,7 @@
     "show_full_path": false,
 
     "word_wrap": "true",
-    "rulers": [100],
+    "rulers": [90],
 
     "open_files_in_new_window": false,
     "close_windows_when_empty": false,

@@ -5,7 +5,7 @@
     "extensions.autoUpdate": false,
 
     "editor.fontFamily": "SourceCodePro-Regular",
-    "editor.fontSize": 15,
+    "editor.fontSize": 14,
     "editor.wordWrap": "wordWrapColumn",
     "workbench.editor.highlightModifiedTabs": true,
     "workbench.colorTheme": "Atom One Dark",
