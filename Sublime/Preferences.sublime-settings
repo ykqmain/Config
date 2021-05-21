@@ -31,20 +31,20 @@
     "bold_folder_labels": true,
     "preview_on_click": false,
 
+
     "folder_exclude_patterns": 
     [
-        ".svn", ".git", ".hg", "CVS", ".Trash", ".Trash-*"
+        ".svn", ".git", ".hg", "CVS", ".Trash", ".Trash-*",
     ],
 
     "file_exclude_patterns": 
     [
-        "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", ".directory", "desktop.ini", "*.class", "*.psd", "*.db", "*.sublime-workspace"
+        "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", ".directory", "desktop.ini", "*.class", "*.psd", "*.db", "*.sublime-workspace",
+        ".localized",
     ],
 
-    "ignored_packages":
-    [
-        "Vintage",
-    ],
+    "ignored_packages": ["Vintage"],
+
 
     "spell_check": false,
     "update_check": false,
