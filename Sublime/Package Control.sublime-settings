@@ -6,6 +6,7 @@
 	"https_proxy": "127.0.0.1:7890",
 
 	"bootstrapped": true,
+	
 	"installed_packages":
 	[
 		"BracketHighlighter",
@@ -20,6 +21,7 @@
 		"Status Bar File Size",
 		"Terminal",
 	],
+
 	"in_process_packages":
 	[
 	],
