@@ -9,6 +9,7 @@
 	
 	"installed_packages":
 	[
+		"AutoDocstring",
 		"BracketHighlighter",
 		"Color Highlight",
 		"Emmet",
