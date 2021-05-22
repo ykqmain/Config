@@ -42,7 +42,10 @@
         ".localized",
     ],
 
-    "ignored_packages": ["Vintage"],
+    "ignored_packages": 
+    [
+        "Vintage",
+    ],
 
     "spell_check": false,
     "update_check": false,
