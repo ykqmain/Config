@@ -139,11 +139,11 @@ function proxy(){
 function b1(){
     echo -e "${LV}更新Homebrew：${RES}"
     brew update
-    echo -e "${LAN}检查旧包：${RES}"
+    echo -e "${HUANG}检查旧包：${RES}"
     brew outdated
 }
 function b2(){
-    echo -e "${HUANG}升级包：${RES}"
+    echo -e "${HONG}升级包：${RES}"
     brew upgrade
     echo -e "${LAN}清理包：${RES}"
     brew cleanup
