@@ -87,15 +87,15 @@ source $ZSH/oh-my-zsh.sh
 
 
 # COLOR
-export HEI="\033[1;30m"
-export HONG="\033[1;31m"
-export LV="\033[1;32m"
-export HUANG="\033[1;33m"
-export LAN="\033[1;34m"
-export YH="\033[1;35m"
-export QING="\033[1;36m"
-export BAI="\033[1;37m"
-export RES="\033[0m"
+export HEI="\e[1;30m"
+export HONG="\e[1;31m"
+export LV="\e[1;32m"
+export HUANG="\e[1;33m"
+export LAN="\e[1;34m"
+export FEN="\e[1;35m"
+export QING="\e[1;36m"
+export BAI="\e[1;37m"
+export RES="\e[0m"
 
 
 # You may need to manually set your language environment
@@ -127,21 +127,26 @@ alias sha256='shasum -a 256'
 alias clang++="clang++ -std=c++11"
 alias py="python3"
 
-
-alias b1='brew update'
-alias b2='brew outdated'
-alias b3='brew upgrade'
-alias b4='brew cleanup'
-
-
 alias ip1='curl myip.ipip.net'
 alias ip2='curl -L ip.tool.lu'
 alias ip3='curl cip.cc'
 
-
 function proxy(){
     export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
     curl -I www.google.com
+}
+
+function b1(){
+    echo -e "${LV}更新Homebrew：${RES}"
+    brew update
+    echo -e "${LAN}检查旧包：${RES}"
+    brew outdated
+}
+function b2(){
+    echo -e "${HUANG}升级包：${RES}"
+    brew upgrade
+    echo -e "${LAN}清理包：${RES}"
+    brew cleanup
 }
 
 function lazygit(){
@@ -174,5 +179,4 @@ function ff(){
 bindkey '^z' autosuggest-clear
 bindkey '^[[A' history-substring-search-up
 bindkey '^[[B' history-substring-search-down
-
 
