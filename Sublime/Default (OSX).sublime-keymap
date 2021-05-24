@@ -1,6 +1,6 @@
-[    
+[
     { "keys": ["ctrl+tab"], "command": "next_view" },
     { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
-    
+
     { "keys": ["alt+space"], "command": "auto_complete" },
 ]

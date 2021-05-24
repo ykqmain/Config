@@ -6,7 +6,7 @@
 	"https_proxy": "127.0.0.1:7890",
 
 	"bootstrapped": true,
-	
+
 	"installed_packages":
 	[
 		"AutoDocstring",
