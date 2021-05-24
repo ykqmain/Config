@@ -4,7 +4,7 @@
     "telemetry.enableTelemetry": false,
     "extensions.autoUpdate": false,
 
-    "editor.fontFamily": "SourceCodePro-Regular",
+    "editor.fontFamily": "Source Code Pro",
     "editor.fontSize": 14,
     "editor.wordWrap": "wordWrapColumn",
     "workbench.editor.highlightModifiedTabs": true,
