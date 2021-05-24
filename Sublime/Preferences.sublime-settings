@@ -24,6 +24,7 @@
     "preview_on_click": "only_left",
 
     "find_selected_text": true,
+    "open_files_in_new_window": "never",
     "close_windows_when_empty": false,
     "hot_exit": "disabled",
 
