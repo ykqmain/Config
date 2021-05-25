@@ -16,6 +16,7 @@
     "move_to_limit_on_up_down": false,
 
     "draw_white_space": ["selection", "trailing", "isolated"],
+    "draw_unicode_white_space": "punctuation",
     "draw_minimap_border": true,
     "show_full_path": false,
     "show_encoding": true,
