@@ -11,9 +11,9 @@ au BufWrite /private/tmp/crontab.* set nowritebackup nobackup
 " Don't write backup file if vim is being called by "chpass"
 au BufWrite /private/etc/pw.* set nowritebackup nobackup
 
-set fileencodings=utf-8,gb18030
-set termencoding=utf-8
 set encoding=utf-8
+set termencoding=utf-8
+set fileencodings=utf-8,gb18030
 
 set number
 syntax on
