@@ -1,20 +1,28 @@
 {
     "update.mode": "manual",
     "extensions.autoUpdate": false,
-    "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
 
-    "editor.fontFamily": "Source Code Pro",
-    "editor.fontSize": 14,
     "workbench.colorTheme": "Atom One Dark",
     "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "Source Code Pro",
+    "editor.fontSize": 14,
     "workbench.editor.highlightModifiedTabs": true,
-    "editor.wordWrap": "wordWrapColumn",
 
+    "editor.cursorBlinking": "smooth",
+    "editor.tabCompletion": "on",
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 90,
+    "editor.rulers": [90],
+
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.fontSize": 14,
     "workbench.startupEditor": "newUntitledFile",
-    "window.openFoldersInNewWindow": "off",
     "window.restoreWindows": "none",
     "files.hotExit": "off",
+    "files.encoding": "utf8",
+    "files.eol": "\n",
     "files.exclude": {
         ".localized": true
     },
