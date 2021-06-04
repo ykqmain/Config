@@ -7,5 +7,5 @@
     { "key": "ctrl+shift+l", "command": "workbench.action.editor.changeLanguageMode" },
 
     { "key": "alt+space", "command": "editor.action.triggerSuggest" },
-    
+
 ]

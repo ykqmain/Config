@@ -1,8 +1,8 @@
 {
     "update.mode": "manual",
     "extensions.autoUpdate": false,
-    "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
 
     "editor.fontFamily": "Source Code Pro",
     "editor.fontSize": 14,
