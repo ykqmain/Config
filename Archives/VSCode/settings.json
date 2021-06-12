@@ -1,5 +1,5 @@
 {
-    "update.mode": "manual",
+    "update.mode": "start",
     "extensions.autoUpdate": false,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
@@ -18,6 +18,9 @@
 
     "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.fontSize": 14,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+
     "workbench.startupEditor": "newUntitledFile",
     "window.restoreWindows": "none",
     "files.hotExit": "off",
