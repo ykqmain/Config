@@ -29,7 +29,7 @@
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.cursorBlinking": true,
-    
+
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter.notebook.ipynb"
     },
