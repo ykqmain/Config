@@ -2,8 +2,8 @@
 	"auto_upgrade": false,
 	"auto_upgrade_frequency": 24,
 
-	"http_proxy": "127.0.0.1:7890",
-	"https_proxy": "127.0.0.1:7890",
+	"http_proxy": "127.0.0.1:1087",
+	"https_proxy": "127.0.0.1:1087",
 
 	"bootstrapped": true,
 
