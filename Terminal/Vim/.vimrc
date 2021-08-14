@@ -18,8 +18,3 @@ set fileencodings=utf-8,gb18030
 set number
 syntax on
 
-set tabstop=4
-set expandtab
-set softtabstop=4
-set shiftwidth=4
-set smartindent
