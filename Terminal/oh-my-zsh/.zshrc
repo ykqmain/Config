@@ -77,12 +77,11 @@ plugins=(zsh-syntax-highlighting zsh-completions zsh-autosuggestions history his
 
 # export MANPATH="/usr/local/man:$MANPATH"
 # export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
-export HOMEBREW="/opt/homebrew/bin"
 export MY_HOME="/usr/local"
 export MYSQL="$MY_HOME/mysql/bin"
-export JAVA="$MY_HOME/apache-maven/bin:$MY_HOME/apache-tomcat/bin"
+export HOMEBREW="/opt/homebrew/bin"
 
-export PATH="$HOMEBREW:$MY_HOME/bin:$MYSQL:$PATH"
+export PATH="$MY_HOME/bin:$MYSQL:$HOMEBREW:$PATH"
 source $ZSH/oh-my-zsh.sh
 
 
