@@ -123,12 +123,21 @@ export RES="\e[0m"
 alias td='tldr'
 alias sha1='shasum -a 1'
 alias sha256='shasum -a 256'
-alias clang++="clang++ -std=c++11"
 alias py="python3"
+# alias clang++="clang++ -std=c++11"
 
-alias ip1='curl myip.ipip.net'
-alias ip2='curl -L ip.tool.lu'
-alias ip3='curl cip.cc'
+
+alias cip='curl cip.cc'
+function ip(){
+    echo -e "${LV}ipip.net${RES}"
+    curl myip.ipip.net
+
+    echo -e "\n${LV}tool.lu${RES}"
+    curl -L ip.tool.lu
+
+    echo -e "\n${LV}cip.cc${RES}"
+    curl cip.cc
+}
 
 function proxy(){
     # export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
