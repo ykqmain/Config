@@ -37,7 +37,7 @@
             "lint_mode": "load_save",
 
             // Determines for which views this linter will run.
-            "selector": "",
+            "selector": "source.python",
 
             // A list of additional style definition blocks.
             "styles": [
