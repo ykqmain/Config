@@ -21,7 +21,10 @@
 		"LSP-pyright",
 		"Package Control",
 		"PackageResourceViewer",
+		"python-black",
 		"Status Bar File Size",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
 	],
 
 	"in_process_packages":

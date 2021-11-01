@@ -1,0 +1,68 @@
+// SublimeLinter Settings - User
+{
+    "linters": {
+        // The name of the linter you installed
+        "flake8": {
+            // Disables the linter. The default here is 'not set'
+            "disable": false,
+
+            // Additional arguments for the command line. Either a string
+            // or an array. If set to a string, we 'shlex.split' it*.
+            // E.g. '--ignore D112' or ['--config', './.config/foo.ini']
+            //
+            // * Note: Use proper quoting around paths esp. on Windows!
+            "args": [],
+
+            // Path to the executable to be used. Either a string or an
+            // array. E.g. ['nvm', 'exec', '8.6', 'eslint']
+            "executable": [ "python3", "-m", "flake8" ],
+
+            // A modified runtime environment for the lint job. Settings here
+            // override the default, inherited ENV.
+            "env": {},
+
+            // Exclude files that match the given pattern(s).
+            "excludes": [],
+
+            // Suppress errors that match the the given pattern(s).
+            // Either a 'string' or an 'array'. Each input string is handled as
+            // a case-insensitive regex pattern and matched against the
+            // error_type, code, and message. If it matches, the error will be
+            // thrown away.
+            // E.g. ["warning: ", "W3\d\d: ", "missing <!DOCTYPE> declaration"]
+            "filter_errors": [],
+
+            // Lint mode determines when the linter is run. The linter setting
+            // will take precedence over the global setting.
+            "lint_mode": "load_save",
+
+            // Determines for which views this linter will run.
+            "selector": "",
+
+            // A list of additional style definition blocks.
+            "styles": [
+                {
+                    // Instead of 'types' you can specify error 'codes' for
+                    // a style definition block
+                    "codes": [""]
+                }
+            ],
+
+            // The current working dir the lint job will run in.
+            "working_dir": "",
+
+            // **Only valid for PythonLinter**
+            // Specify which python to use. Either a number or full path
+            // to a python binary. SL will then basically use 'python -m'
+            // to run the linter.
+            "python": 3,
+
+            // **Only valid for NodeLinter**
+            // If true, will *not* use a globally installed binary
+            "disable_if_not_dependency": false
+        }
+    },
+
+    "show_panel_on_save": "view",
+
+}

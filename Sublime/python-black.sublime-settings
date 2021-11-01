@@ -1,0 +1,4 @@
+{
+   // Whether to automatically format the entire document when saving
+   "format_on_save": false
+}
