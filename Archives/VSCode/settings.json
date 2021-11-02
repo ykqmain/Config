@@ -1,8 +1,7 @@
 {
     "update.mode": "start",
     "extensions.autoUpdate": false,
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
+    "telemetry.telemetryLevel": "off",
 
     "workbench.colorTheme": "Atom One Dark",
     "workbench.iconTheme": "vscode-icons",
@@ -38,7 +37,9 @@
     "python.linting.enabled": true,
     "python.linting.flake8Enabled": true,
     "python.linting.flake8Args": [
-        "E501"
+        "W391",
+        "E501",
     ],
+    "security.workspace.trust.untrustedFiles": "open",
 
 }
