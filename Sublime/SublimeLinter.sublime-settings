@@ -11,11 +11,14 @@
             // E.g. '--ignore D112' or ['--config', './.config/foo.ini']
             //
             // * Note: Use proper quoting around paths esp. on Windows!
-            "args": [],
+            "args": [
+                "--ignore",
+                "W391, E501",
+            ],
 
             // Path to the executable to be used. Either a string or an
             // array. E.g. ['nvm', 'exec', '8.6', 'eslint']
-            "executable": [ "python3", "-m", "flake8" ],
+            "executable": ["python3", "-m", "flake8"],
 
             // A modified runtime environment for the lint job. Settings here
             // override the default, inherited ENV.
