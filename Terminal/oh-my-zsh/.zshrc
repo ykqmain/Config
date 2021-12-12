@@ -183,6 +183,47 @@ function ff(){
 #     hexo g -d
 # }
 
+e(){
+    g=""
+    line=$(ls -l $1 | grep -v "com.apple" | wc -l)
+    c=$(echo "$line - 1" | bc)
+    echo -e "${FEN}$c${RES} 个自启项"
+    ls $1 | grep -v "com.apple"
+    echo ''
+}
+launch(){
+
+    p1="/Users/yang/Library/LaunchAgents"
+    echo -e "${LV}${p1}：用户自定义的启动项${RES}"
+    e $p1
+
+    p2="/Library/LaunchDaemons"
+    echo -e "${LAN}${p2}：系统启动时运行，用户不登录也会运行${RES}"
+    e $p2
+
+    p3="/Library/LaunchAgents"
+    echo -e "${LAN}${p3}：系统启动后，用户登录后运行${RES}"
+    e $p3
+
+    p4="/System/Library/LaunchDaemons"
+    echo -e "${HUANG}${p4}：系统组件，系统装载时以root用户启动${RES}"
+    e $p4
+
+    p5="/System/Library/LaunchAgents"
+    echo -e "${HUANG}${p5}：系统组件，任一用户登录后以当前用户启动${RES}"
+    e $p5
+
+    case $1 in
+        "o")
+            echo "打开文件夹..."
+            open $p1 $p2 $p3
+            ;;
+        "a")
+            open $p1 $p2 $p3 $p4 $p5
+            ;;
+    esac
+}
+
 
 bindkey '^z' autosuggest-clear
 bindkey '^[[A' history-substring-search-up
