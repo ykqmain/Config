@@ -1,6 +1,5 @@
 {
     "update.mode": "start",
-    "extensions.autoUpdate": false,
     "telemetry.telemetryLevel": "off",
 
     "workbench.colorTheme": "Atom One Dark",
@@ -40,6 +39,5 @@
         "W391",
         "E501",
     ],
-    "security.workspace.trust.untrustedFiles": "open",
 
 }
