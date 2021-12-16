@@ -1,5 +1,5 @@
 {
-	"auto_upgrade": false,
+	"auto_upgrade": true,
 	"auto_upgrade_frequency": 24,
 
 	"http_proxy": "127.0.0.1:1087",
