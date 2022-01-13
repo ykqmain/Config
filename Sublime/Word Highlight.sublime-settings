@@ -1,0 +1,17 @@
+{
+    "color_scope_name": "comment",
+    "case_sensitive": true,
+    "draw_outlined": true,
+
+    "mark_occurrences_on_gutter" : true,
+    // valid types: dot, circle, bookmark and cross
+    "icon_type_on_gutter" : "dot",
+
+    "highlight_delay": 0,
+    "highlight_when_selection_is_empty": false,
+    "highlight_word_under_cursor_when_selection_is_empty": false,
+    "highlight_non_word_characters": true,
+
+    "file_size_limit": 4194304,
+    "when_file_size_limit_search_this_num_of_characters": 20000
+}

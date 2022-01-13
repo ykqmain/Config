@@ -25,6 +25,7 @@
 		"Status Bar File Size",
 		"SublimeLinter",
 		"SublimeLinter-flake8",
+		"WordHighlight",
 	],
 
 	"in_process_packages":
