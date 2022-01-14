@@ -18,7 +18,7 @@
 
             // Path to the executable to be used. Either a string or an
             // array. E.g. ['nvm', 'exec', '8.6', 'eslint']
-            "executable": ["python3", "-m", "flake8"],
+            "executable": ["py", "-m", "flake8"],
 
             // A modified runtime environment for the lint job. Settings here
             // override the default, inherited ENV.
