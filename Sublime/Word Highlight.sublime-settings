@@ -5,7 +5,7 @@
 
     "mark_occurrences_on_gutter" : true,
     // valid types: dot, circle, bookmark and cross
-    "icon_type_on_gutter" : "dot",
+    "icon_type_on_gutter" : "bookmark",
 
     "highlight_delay": 0,
     "highlight_when_selection_is_empty": false,
