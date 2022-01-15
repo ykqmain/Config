@@ -30,26 +30,6 @@ Temporary Items
 
 # --------------------------------------------------
 
-
-# FOR Linux
-
-*~
-
-# temporary files which can be created if a process still has a handle open of a deleted file
-.fuse_hidden*
-
-# KDE directory preferences
-.directory
-
-# Linux trash folder which might appear on any partition or disk
-.Trash-*
-
-# .nfs files are created when an open file is removed but is still being accessed
-.nfs*
-
-# --------------------------------------------------
-
-
 # FOR Windows
 
 # Windows thumbnail cache files
@@ -79,6 +59,23 @@ $RECYCLE.BIN/
 
 # --------------------------------------------------
 
+# FOR Linux
+
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+# --------------------------------------------------
 
 # FOR Vim
 
@@ -103,7 +100,6 @@ tags
 [._]*.un~
 
 # --------------------------------------------------
-
 
 # FOR Sublime
 
@@ -141,7 +137,6 @@ GitHub.sublime-settings
 
 # --------------------------------------------------
 
-
 # FOR VSCode
 
 .vscode/*
@@ -155,7 +150,6 @@ GitHub.sublime-settings
 .history/
 
 # --------------------------------------------------
-
 
 # FOR Python
 
@@ -299,5 +293,4 @@ dmypy.json
 cython_debug/
 
 # --------------------------------------------------
-
 
