@@ -23,4 +23,3 @@
 
 ### `.`根目录
 本目录下的配置文件，对应Sublime的`~/Sublime Text/Packages/User`
-
