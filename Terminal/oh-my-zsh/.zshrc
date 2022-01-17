@@ -126,7 +126,6 @@ alias sha256='shasum -a 256'
 alias py="python3"
 # alias clang++="clang++ -std=c++11"
 
-
 alias cip='curl cip.cc'
 function ip(){
     echo -e "${LV}ipip.net${RES}"
@@ -145,6 +144,7 @@ function proxy(){
     curl -I www.google.com
 }
 
+
 function b1(){
     echo -e "${LV}更新Homebrew：${RES}"
     brew update
@@ -158,30 +158,33 @@ function b2(){
     brew cleanup
 }
 
+
 function lazygit(){
     git add .
     git commit -m "updated: $(date +"%Y-%m-%d %T")"
     git push
 }
 
+
+function hgs(){
+    cd /Users/yang/Blog
+    pwd
+    hexo server
+}
+function hcd(){
+    cd /Users/yang/Blog
+    pwd
+    echo ''
+    hexo clean
+    echo ''
+    hexo g -d
+}
+
+
 function ff(){
     ffmpeg -i $1 -hide_banner
 }
 
-
-# function hgs(){
-#     cd /Users/yang/Blog
-#     pwd
-#     hexo server
-# }
-# function hcd(){
-#     cd /Users/yang/Blog
-#     pwd
-#     echo ''
-#     hexo clean
-#     echo ''
-#     hexo g -d
-# }
 
 e(){
     g=""
