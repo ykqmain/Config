@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+  - type: 
+    name: ""
+    intro: ""
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>tl</tabTrigger>
+    <!-- Optional: Set a description, eg: List Comprehension -->
+    <description>时间线</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.yaml</scope>
+    <!-- Save as: X.sublime-snippet -->
+</snippet>
