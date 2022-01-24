@@ -1,12 +1,8 @@
 ## Windows List
 
-### 2021-01-08
-
----
+**Update: 2022-01**
 
 精简的Windows办公、娱乐软件推荐列表。
-
-<br>
 
 * **办公**
 
@@ -44,4 +40,3 @@
     &nbsp;
     * [Steam](https://store.steampowered.com)
     * [红色警戒3：日冕](https://cor-games.com)
-
