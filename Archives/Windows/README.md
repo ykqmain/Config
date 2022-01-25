@@ -7,7 +7,6 @@
 精简的Windows办公、娱乐软件推荐列表。
 
 * **办公**
-
     * [Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
     * [Sublime](http://www.sublimetext.com)
     * [WPS](https://www.wps.cn)
@@ -31,7 +30,6 @@
 <br>
 
 * **娱乐**
-
     * [QQ音乐](https://y.qq.com)
     * [腾讯视频](https://v.qq.com)
     * [优酷](https://www.youku.com)
