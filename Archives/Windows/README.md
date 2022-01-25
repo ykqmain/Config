@@ -13,21 +13,19 @@
     * [WPS](https://www.wps.cn)
     * [QQ](https://im.qq.com)
     * [HP LaserJet M1005驱动](https://support.hp.com/cn-zh/drivers/printers)
-    &nbsp;
+    <br>
     * [7z](https://www.7-zip.org/)
     * [Honeyview](http://www.bandisoft.com/honeyview/)
     * [VLC](https://www.videolan.org/)
     * [OBS](https://obsproject.com/)
     * [Adobe Photoshop](https://www.adobe.com/cn/products/photoshop.html)
-    &nbsp;
+    <br>
     * [Python](https://www.python.org)
     * [Node.js](https://nodejs.org/zh-cn/)
-    * [JDK](https://www.oracle.com/java/technologies/downloads/)
-    * [MySQL](https://dev.mysql.com/downloads/)
     * [Git](https://git-scm.com)
     * [Windows Terminal](https://github.com/microsoft/terminal)
     * [Microsoft C++ 生成工具](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/)
-    &nbsp;
+    <br>
     * [火绒](https://www.huorong.cn)
     * [关闭Win10更新](https://iknow.lenovo.com.cn/detail/dc_178562.html)
 
@@ -39,6 +37,6 @@
     * [腾讯视频](https://v.qq.com)
     * [优酷](https://www.youku.com)
     * [爱奇艺](https://www.iqiyi.com)
-    &nbsp;
+    <br>
     * [Steam](https://store.steampowered.com)
     * [红色警戒3：日冕](https://cor-games.com)
