@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<img src="${1:图片链接}" width="480">
+<img src="${1:图片链接}" width="640">
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>tp</tabTrigger>

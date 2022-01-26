@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-🎬 ${1:标题} video
-<video height="680" width="auto" controls="controls" type="video/mp4">
+🎬 ${1:标题}
+<video height="auto" width="720" controls="controls" type="video/mp4">
     <source src="${2}">
     Your browser does not support the Video tag.
 </video>
