@@ -1,4 +1,4 @@
 ## Screenshot
 
-![](https://github.com/ykqmain/Config/blob/master/macOS11.png)
+![](https://github.com/ykqmain/Config/blob/master/macOS12.png)
 
