@@ -5,7 +5,7 @@
 ```
 .
 ├── Snippet
-│ ├── Markdown
+│ ├── HTML
 │ └── Python
 └── Theme
 ```
