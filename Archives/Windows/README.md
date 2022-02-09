@@ -15,16 +15,17 @@
 * [HP LaserJet M1005 驱动](https://support.hp.com/cn-zh/drivers/printers)
 <br>
 
-* [7z](https://www.7-zip.org/)
+* [7z](https://www.7-zip.org)
 * [Honeyview](http://www.bandisoft.com/honeyview/)
-* [VLC](https://www.videolan.org/)
-* [OBS](https://obsproject.com/)
+* [VLC](https://www.videolan.org)
+* [OBS](https://obsproject.com)
 * [Adobe Photoshop](https://www.adobe.com/cn/products/photoshop.html)
 <br>
 
 * [Python](https://www.python.org)
 * [Node.js](https://nodejs.org/zh-cn/)
 * [Git](https://git-scm.com)
+* [WinMerge](https://winmerge.org)
 * [Windows Terminal](https://github.com/microsoft/terminal)
 * [Microsoft C++ 生成工具](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/)
 <br>
