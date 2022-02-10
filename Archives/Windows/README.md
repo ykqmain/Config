@@ -12,7 +12,7 @@
 * [Sublime](http://www.sublimetext.com)
 * [WPS](https://www.wps.cn)
 * [QQ](https://im.qq.com)
-* [HP LaserJet M1005 驱动](https://support.hp.com/cn-zh/drivers/printers)
+* 打印机驱动 ([_HP LaserJet M1005_](https://support.hp.com/cn-zh/drivers/printers))
 <br>
 
 * [7z](https://www.7-zip.org)
