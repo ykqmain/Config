@@ -15,7 +15,7 @@
 * [_HP LaserJet M1005 驱动_](https://support.hp.com/cn-zh/drivers/printers)
 <br>
 
-* [7z](https://www.7-zip.org)
+* [7-Zip](https://www.7-zip.org)
 * [Honeyview](http://www.bandisoft.com/honeyview/)
 * [VLC](https://www.videolan.org)
 * [OBS](https://obsproject.com)
