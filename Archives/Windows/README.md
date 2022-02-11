@@ -8,14 +8,14 @@
 
 #### 办公
 
-* [Sublime](http://www.sublimetext.com)
+* [Sublime](https://www.sublimetext.com)
 * [WPS](https://www.wps.cn)
 * [QQ](https://im.qq.com)
 * [_HP LaserJet M1005 驱动_](https://support.hp.com/cn-zh/drivers/printers)
 <br>
 
 * [7-Zip](https://www.7-zip.org)
-* [Honeyview](http://www.bandisoft.com/honeyview/)
+* [Honeyview](https://www.bandisoft.com/honeyview/)
 * [VLC](https://www.videolan.org)
 * [OBS](https://obsproject.com)
 * [Adobe Photoshop](https://www.adobe.com/cn/products/photoshop.html)
