@@ -8,7 +8,6 @@
 
 #### 办公
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
 * [Sublime](http://www.sublimetext.com)
 * [WPS](https://www.wps.cn)
 * [QQ](https://im.qq.com)
