@@ -50,5 +50,6 @@
         "Vintage",
     ],
 
+    "sublime_merge_path": null,
     "update_check": false,
 }

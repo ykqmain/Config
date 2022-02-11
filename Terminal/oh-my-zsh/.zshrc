@@ -70,7 +70,7 @@ ZSH_THEME="preference"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(zsh-syntax-highlighting zsh-completions zsh-autosuggestions history history-substring-search extract encode64 z python pip git web-search macos sublime brew httpie tldr)
+plugins=(zsh-syntax-highlighting zsh-completions zsh-autosuggestions history history-substring-search extract encode64 z python pip git web-search macos sublime brew httpie)
 
 
 # User configuration
