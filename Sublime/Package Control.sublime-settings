@@ -19,6 +19,7 @@
 		"FileManager",
 		"LSP",
 		"LSP-bash",
+		"LSP-html",
 		"LSP-json",
 		"LSP-pyright",
 		"Package Control",
