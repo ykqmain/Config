@@ -1,6 +1,6 @@
 ## Windows List
 
-**Update: 2022-01**
+**Update: 2022-02**
 
 <br>
 
@@ -16,9 +16,9 @@
 
 * [7-Zip](https://www.7-zip.org)
 * [Honeyview](https://www.bandisoft.com/honeyview/)
+* [GIMP](https://www.gimp.org) ([_Adobe Photoshop_](https://www.adobe.com/cn/products/photoshop.html))
 * [VLC](https://www.videolan.org)
 * [OBS](https://obsproject.com)
-* [Adobe Photoshop](https://www.adobe.com/cn/products/photoshop.html)
 <br>
 
 * [Python](https://www.python.org)
@@ -26,7 +26,7 @@
 * [Git](https://git-scm.com)
 * [WinMerge](https://winmerge.org)
 * [Windows Terminal](https://github.com/microsoft/terminal)
-* [Microsoft C++ 生成工具](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/)
+* [_Microsoft C++ 生成工具_](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/)
 <br>
 
 * [火绒](https://www.huorong.cn)
