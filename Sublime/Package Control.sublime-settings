@@ -21,7 +21,6 @@
 		"LSP-bash",
 		"LSP-json",
 		"LSP-pyright",
-		"LSP-rust-analyzer",
 		"Package Control",
 		"PackageResourceViewer",
 		"python-black",
