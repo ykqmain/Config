@@ -26,6 +26,7 @@
 * [Python](https://www.python.org)
 * [Node.js](https://nodejs.org/zh-cn/)
 * [Git](https://git-scm.com)
+* [TortoiseGit](https://tortoisegit.org)
 * [WinMerge](https://winmerge.org)
 * [Windows Terminal](https://github.com/microsoft/terminal)
 * [_Microsoft C++ 生成工具_](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/)
