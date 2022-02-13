@@ -8,17 +8,19 @@
 
 #### 办公
 
+* [Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
 * [Sublime](https://www.sublimetext.com)
 * [WPS](https://www.wps.cn)
 * [QQ](https://im.qq.com)
-* [_HP LaserJet M1005 驱动_](https://support.hp.com/cn-zh/drivers/printers)
+* [_打印机驱动_(HP LaserJet M1005)](https://support.hp.com/cn-zh/drivers/printers)
 <br>
 
 * [7-Zip](https://www.7-zip.org)
+* [Everything](https://www.voidtools.com/zh-cn/)
 * [Honeyview](https://www.bandisoft.com/honeyview/)
-* [GIMP](https://www.gimp.org) ([_Adobe Photoshop_](https://www.adobe.com/cn/products/photoshop.html))
 * [VLC](https://www.videolan.org)
 * [OBS](https://obsproject.com)
+* [_Adobe Photoshop_](https://www.adobe.com/cn/products/photoshop.html) ([Paint.NET](https://www.getpaint.net))
 <br>
 
 * [Python](https://www.python.org)
