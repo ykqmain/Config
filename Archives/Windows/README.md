@@ -17,7 +17,7 @@
 
 * [7-Zip](https://www.7-zip.org)
 * [Everything](https://www.voidtools.com/zh-cn/)
-* [Honeyview](https://www.bandisoft.com/honeyview/)
+* [Honeyview](https://www.bandisoft.com/honeyview)
 * [VLC](https://www.videolan.org)
 * [OBS](https://obsproject.com)
 * [_Adobe Photoshop_](https://www.adobe.com/cn/products/photoshop.html) ([Paint.NET](https://www.getpaint.net))
