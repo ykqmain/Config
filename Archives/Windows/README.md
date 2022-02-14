@@ -18,15 +18,14 @@
 * [7-Zip](https://www.7-zip.org)
 * [Everything](https://www.voidtools.com/zh-cn/)
 * [Honeyview](https://www.bandisoft.com/honeyview)
+* [Paint.NET](https://www.getpaint.net) ([_Adobe Photoshop_](https://www.adobe.com/cn/products/photoshop.html))
 * [VLC](https://www.videolan.org)
 * [OBS](https://obsproject.com)
-* [_Adobe Photoshop_](https://www.adobe.com/cn/products/photoshop.html) ([Paint.NET](https://www.getpaint.net))
 <br>
 
 * [Python](https://www.python.org)
 * [Node.js](https://nodejs.org/zh-cn/)
-* [Git](https://git-scm.com)
-* [TortoiseGit](https://tortoisegit.org)
+* [Git](https://git-scm.com) ([_TortoiseGit_](https://tortoisegit.org))
 * [WinMerge](https://winmerge.org)
 * [Windows Terminal](https://github.com/microsoft/terminal)
 * [_Microsoft C++ 生成工具_](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/)
