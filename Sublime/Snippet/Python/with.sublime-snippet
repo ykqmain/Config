@@ -3,6 +3,7 @@
 with open('${1:fileName}', '${2:r}') as f:
     ${3:pass}
 
+
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>with</tabTrigger>

@@ -4,6 +4,7 @@ regex_email = re.compile(r'\w[-\w.+]*@([A-Za-z0-9][-A-Za-z0-9]+\.)+[A-Za-z]{2,14
 str = ''
 print(regex_email.search(str))
 
+
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>re_mail</tabTrigger>
