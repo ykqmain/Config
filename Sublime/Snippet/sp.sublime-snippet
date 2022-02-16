@@ -6,9 +6,9 @@ ${1:Hello, this is a snippet.}
 
 ]]$NOT_DEFINED></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>${2:name}</tabTrigger>
+    <tabTrigger>${2:名字}</tabTrigger>
     <!-- Optional: Set a description, eg: List Comprehension -->
-    <description>${3:description}</description>
+    <description>${3:描述}</description>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>${4:source.python}</scope>
     <!-- Save as: X.sublime-snippet -->
