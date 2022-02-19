@@ -1,0 +1,31 @@
+<snippet>
+    <content><![CDATA[
+# import docx
+
+doc = docx.Document('学习心得.docx')
+p = doc.paragraphs
+print(len(p))
+print(p[0].text)
+
+
+def getText(file_name):
+    doc = docx.Document(file_name)
+    full_text = []
+    for para in doc.paragraphs:
+        full_text.append(para.text)
+    return '\n'.join(full_text)
+
+
+a = getText('学习心得.docx')
+print(a)
+
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>docx</tabTrigger>
+    <!-- Optional: Set a description, eg: List Comprehension -->
+    <description>python-docx文档</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+    <!-- Save as: X.sublime-snippet -->
+</snippet>
