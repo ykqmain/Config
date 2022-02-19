@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+# import openpyxl
+
+wb = openpyxl.load_workbook("统计表.xlsx")
+sheet = wb[wb.sheetnames[0]]
+
+v = sheet.cell(row=2, column=1).value
+print(v)
+
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>xl</tabTrigger>
+    <!-- Optional: Set a description, eg: List Comprehension -->
+    <description>openpyxl表格</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+    <!-- Save as: X.sublime-snippet -->
+</snippet>
