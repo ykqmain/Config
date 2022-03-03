@@ -24,7 +24,6 @@
 <br>
 
 * [Python](https://www.python.org)
-* [Node.js](https://nodejs.org/zh-cn/)
 * [Git](https://git-scm.com) ([_TortoiseGit_](https://tortoisegit.org))
 * [WinMerge](https://winmerge.org)
 * [Windows Terminal](https://github.com/microsoft/terminal)
