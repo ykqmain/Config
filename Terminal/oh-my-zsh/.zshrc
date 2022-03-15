@@ -119,12 +119,10 @@ export RES="\e[0m"
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-
-alias td='tldr'
 alias sha1='shasum -a 1'
 alias sha256='shasum -a 256'
-alias py="python3"
 # alias clang++="clang++ -std=c++11"
+alias py="python3"
 
 alias cip='curl cip.cc'
 function ip(){
@@ -163,21 +161,6 @@ function lazygit(){
     git add .
     git commit -m "updated: $(date +"%Y-%m-%d %T")"
     git push
-}
-
-
-function hgs(){
-    cd /Users/yang/Blog
-    pwd
-    hexo server
-}
-function hcd(){
-    cd /Users/yang/Blog
-    pwd
-    echo ''
-    hexo clean
-    echo ''
-    hexo g -d
 }
 
 
@@ -227,6 +210,19 @@ launch(){
     esac
 }
 
+# function hgs(){
+#     cd /Users/yang/Blog
+#     pwd
+#     hexo server
+# }
+# function hcd(){
+#     cd /Users/yang/Blog
+#     pwd
+#     echo ''
+#     hexo clean
+#     echo ''
+#     hexo g -d
+# }
 
 bindkey '^z' autosuggest-clear
 bindkey '^[[A' history-substring-search-up
