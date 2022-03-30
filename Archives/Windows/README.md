@@ -12,7 +12,7 @@
 * [Sublime](https://www.sublimetext.com)
 * [WPS](https://www.wps.cn)
 * [QQ](https://im.qq.com)
-* [打印机驱动 (_HP LaserJet M1005_)](https://support.hp.com/cn-zh/drivers/printers)
+* 打印机驱动 ([_HP LaserJet M1005_](https://support.hp.com/cn-zh/drivers/printers))
 <br>
 
 * [7-Zip](https://www.7-zip.org)
@@ -44,5 +44,5 @@
 <br>
 
 * [Steam](https://store.steampowered.com)
-* [红色警戒3：日冕](https://cor-games.com)
+* 红色警戒2：尤里的复仇
 
