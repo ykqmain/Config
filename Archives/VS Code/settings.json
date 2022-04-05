@@ -28,16 +28,13 @@
     "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.cursorBlinking": true,
 
-    "workbench.editorAssociations": {
-        "*.ipynb": "jupyter.notebook.ipynb"
-    },
     "python.defaultInterpreterPath": "/usr/local/bin/python3",
     "python.formatting.provider": "black",
     "python.linting.enabled": true,
     "python.linting.flake8Enabled": true,
     "python.linting.flake8Args": [
-        "W391",
-        "E501",
+        "--ignore",
+        "W391, E501",
     ],
     "github.copilot.enable": {
         "*": true,
