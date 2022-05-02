@@ -31,18 +31,12 @@
 <br>
 
 * [火绒](https://www.huorong.cn)
-* [关闭Win10更新](https://iknow.lenovo.com.cn/detail/dc_178562.html)
 <br>
 
 
 #### 娱乐
 
-* [QQ音乐](https://y.qq.com)
-* [腾讯视频](https://v.qq.com)
-* [优酷](https://www.youku.com)
-* [爱奇艺](https://www.iqiyi.com)
-<br>
-
 * [Steam](https://store.steampowered.com)
+* [Xbox](https://www.xbox.com)
 * 红色警戒2：尤里的复仇
 
