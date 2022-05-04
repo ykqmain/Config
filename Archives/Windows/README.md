@@ -15,6 +15,7 @@ _Update: 2022-05_
 <br>
 
 * [7-Zip](https://www.7-zip.org)
+* [Everything](https://www.voidtools.com/zh-cn/)
 * [Honeyview](https://www.bandisoft.com/honeyview)
 * [Paint.NET](https://www.getpaint.net) ([_Adobe Photoshop_](https://www.adobe.com))
 * [VLC](https://www.videolan.org)
