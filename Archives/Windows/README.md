@@ -34,5 +34,5 @@ _Update: 2022-05_
 <br>
 
 
-#### [更多……](https://github.com/Awesome-Windows/Awesome)
+[更多……](https://github.com/Awesome-Windows/Awesome)
 
