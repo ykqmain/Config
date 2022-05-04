@@ -39,5 +39,5 @@ _Update: 2022-05_
 * 红色警戒2：尤里的复仇
 <br>
 
-#### [MORE](https://github.com/Awesome-Windows/Awesome)
+#### [更多……](https://github.com/Awesome-Windows/Awesome)
 
