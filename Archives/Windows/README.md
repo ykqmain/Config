@@ -1,10 +1,10 @@
 ## Windows List
 
-**Update: 2022-03**
+**Update: 2022-05**
 
 <br>
 
-精简的Windows办公、娱乐软件推荐列表。
+极简的Windows办公、娱乐软件推荐。
 
 #### 办公
 
@@ -12,13 +12,11 @@
 * [Sublime](https://www.sublimetext.com)
 * [WPS](https://www.wps.cn)
 * [QQ](https://im.qq.com)
-* 打印机驱动 ([_HP LaserJet M1005_](https://support.hp.com/cn-zh/drivers/printers))
 <br>
 
 * [7-Zip](https://www.7-zip.org)
-* [Everything](https://www.voidtools.com/zh-cn/)
 * [Honeyview](https://www.bandisoft.com/honeyview)
-* [Paint.NET](https://www.getpaint.net) ([_Adobe Photoshop_](https://www.adobe.com/cn/products/photoshop.html))
+* [Paint.NET](https://www.getpaint.net) ([_Adobe Photoshop_](https://www.adobe.com))
 * [VLC](https://www.videolan.org)
 * [OBS](https://obsproject.com)
 <br>
