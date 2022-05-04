@@ -26,6 +26,7 @@ _Update: 2022-05_
 <br>
 
 * [火绒](https://www.huorong.cn)
+* [DiskGenius](https://www.diskgenius.cn)
 <br>
 
 * [Steam](https://store.steampowered.com)
