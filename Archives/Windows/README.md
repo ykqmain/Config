@@ -27,6 +27,7 @@ _Update: 2022-05_
 
 * [火绒](https://www.huorong.cn)
 * [DiskGenius](https://www.diskgenius.cn)
+* [HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html)
 <br>
 
 * [Steam](https://store.steampowered.com)
