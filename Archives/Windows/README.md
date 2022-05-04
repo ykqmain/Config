@@ -4,9 +4,6 @@
 
 _Update: 2022-05_
 
-
-#### 办公
-
 * [Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
 * [Sublime](https://www.sublimetext.com)
 * [WPS](https://www.wps.cn)
@@ -30,9 +27,6 @@ _Update: 2022-05_
 
 * [火绒](https://www.huorong.cn)
 <br>
-
-
-#### 娱乐
 
 * [Steam](https://store.steampowered.com)
 * [Xbox](https://www.xbox.com)
