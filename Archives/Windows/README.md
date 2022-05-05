@@ -19,6 +19,7 @@ _Update: 2022-05_
 <br>
 
 * [Python](https://www.python.org)
+* [Node.js](https://nodejs.org/zh-cn/)
 * [Git](https://git-scm.com) ([_TortoiseGit_](https://tortoisegit.org))
 * [WinMerge](https://winmerge.org)
 * [Windows Terminal](https://github.com/microsoft/terminal)
@@ -27,7 +28,7 @@ _Update: 2022-05_
 
 * [火绒](https://www.huorong.cn)
 * [DiskGenius](https://www.diskgenius.cn)
-* [HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html)
+* [HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html) ([_Geek Uninstaller_](https://geekuninstaller.com))
 <br>
 
 * [Steam](https://store.steampowered.com)
