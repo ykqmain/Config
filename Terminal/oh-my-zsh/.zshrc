@@ -157,15 +157,19 @@ function b2(){
 }
 
 
-function gitP(){
+function gitPush(){
     git add .
     git commit -m "updated: $(date +"%Y-%m-%d %T")"
     git push
 }
 
-
-function ff(){
-    ffmpeg -i $1 -hide_banner
+function hcd(){
+    cd /Users/yang/Developer/Blog
+    pwd
+    echo ''
+    hexo clean
+    echo ''
+    hexo g -d
 }
 
 
@@ -200,29 +204,17 @@ launch(){
     e $p5
 
     case $1 in
-        "o")
+        "u")
             echo "打开文件夹..."
             open $p1 $p2 $p3
             ;;
         "a")
+            echo "打开文件夹..."
             open $p1 $p2 $p3 $p4 $p5
             ;;
     esac
 }
 
-# function hgs(){
-#     cd /Users/yang/Blog
-#     pwd
-#     hexo server
-# }
-# function hcd(){
-#     cd /Users/yang/Blog
-#     pwd
-#     echo ''
-#     hexo clean
-#     echo ''
-#     hexo g -d
-# }
 
 bindkey '^z' autosuggest-clear
 bindkey '^[[A' history-substring-search-up
