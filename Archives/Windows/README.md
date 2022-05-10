@@ -1,8 +1,6 @@
 ## Windows List
 
-极简的Windows办公、娱乐软件推荐。
-
-_Update: 2022-05_
+极简的Windows办公软件推荐。
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
 * [Sublime](https://www.sublimetext.com)
@@ -29,11 +27,6 @@ _Update: 2022-05_
 * [火绒](https://www.huorong.cn)
 * [DiskGenius](https://www.diskgenius.cn)
 * [HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html) ([_Geek Uninstaller_](https://geekuninstaller.com))
-<br>
-
-* [Steam](https://store.steampowered.com)
-* [Xbox](https://www.xbox.com)
-* 红色警戒2：尤里的复仇
 <br>
 
 
