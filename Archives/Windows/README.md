@@ -3,7 +3,7 @@
 极简的Windows办公软件推荐。
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
-* [Sublime](https://www.sublimetext.com)
+* [Sublime Text](https://www.sublimetext.com)
 * [WPS](https://www.wps.cn)
 * [QQ](https://im.qq.com)
 <br>
