@@ -164,7 +164,7 @@ function gitPush(){
 }
 
 function hcd(){
-    cd /Users/yang/Blog
+    cd /Users/yang/Developer/Blog
     pwd
     echo ''
     hexo clean
