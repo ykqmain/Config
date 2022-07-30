@@ -163,14 +163,14 @@ function gitPush(){
     git push
 }
 
-# function hcd(){
-#     cd /Users/yang/Developer/Blog
-#     pwd
-#     echo ''
-#     hexo clean
-#     echo ''
-#     hexo g -d
-# }
+function hcd(){
+    cd /Users/yang/Developer/Blog
+    pwd
+    echo ''
+    hexo clean
+    echo ''
+    hexo g -d
+}
 
 
 e(){
