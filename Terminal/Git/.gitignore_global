@@ -1,4 +1,4 @@
-# FOR macOS
+### macOS
 
 # General
 .DS_Store
@@ -30,7 +30,7 @@ Temporary Items
 
 # --------------------------------------------------
 
-# FOR Linux
+### Linux
 
 *~
 
@@ -48,7 +48,7 @@ Temporary Items
 
 # --------------------------------------------------
 
-# FOR Windows
+### Windows
 
 # Windows thumbnail cache files
 Thumbs.db
@@ -77,7 +77,7 @@ $RECYCLE.BIN/
 
 # --------------------------------------------------
 
-# FOR Sublime Text
+### Sublime Text
 
 # Cache files for Sublime Text
 *.tmlanguage.cache
@@ -113,7 +113,7 @@ GitHub.sublime-settings
 
 # --------------------------------------------------
 
-# FOR Python
+### Python
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
