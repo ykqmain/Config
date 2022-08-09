@@ -5,7 +5,7 @@
 * [Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
 * [Sublime Text](https://www.sublimetext.com)
 * [WPS](https://www.wps.cn)
-* [QQ](https://im.qq.com) ([_TIM_](https://tim.qq.com))
+* [QQ](https://im.qq.com)
 <br>
 
 * [7-Zip](https://www.7-zip.org)
