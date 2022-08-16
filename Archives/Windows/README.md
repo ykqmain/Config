@@ -20,7 +20,7 @@
 * [Node.js](https://nodejs.org/zh-cn/)
 * [Git](https://git-scm.com) ([_TortoiseGit_](https://tortoisegit.org))
 * [WinMerge](https://winmerge.org)
-* [Windows Terminal](https://github.com/microsoft/terminal)
+* [Windows Terminal](https://github.com/microsoft/terminal) ([_Microsoft PowerToys_](https://github.com/microsoft/PowerToys))
 * [_Microsoft C++ 生成工具_](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/)
 <br>
 
