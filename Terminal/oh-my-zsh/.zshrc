@@ -119,6 +119,7 @@ alias sha256='shasum -a 256'
 # alias clang++="clang++ -std=c++11"
 alias py="python3"
 
+
 alias cip='curl cip.cc'
 function ip(){
     echo -e "${LV}ipip.net${RES}"
@@ -138,6 +139,13 @@ function dl(){
 }
 
 
+function gitPush(){
+    git add .
+    git commit -m "updated: $(date +"%Y-%m-%d %T")"
+    git push
+}
+
+
 function b1(){
     echo -e "${LV}更新Homebrew：${RES}"
     brew update
@@ -149,13 +157,6 @@ function b2(){
     brew upgrade
     echo -e "${LAN}清理包：${RES}"
     brew cleanup
-}
-
-
-function gitPush(){
-    git add .
-    git commit -m "updated: $(date +"%Y-%m-%d %T")"
-    git push
 }
 
 function hcd(){
