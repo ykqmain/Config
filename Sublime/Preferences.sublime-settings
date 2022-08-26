@@ -3,7 +3,6 @@
     "themed_title_bar": true,
     "font_face": "Source Code Pro",
     "font_size": 14,
-    "font_options": [],
 
     "default_encoding": "UTF-8",
     "default_line_ending": "unix",
@@ -31,7 +30,7 @@
     "close_windows_when_empty": false,
     "hot_exit": "disabled",
 
-    "rulers": [90],
+    "rulers": [80],
     "word_wrap": true,
     "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?（《【，。—·…！￥：；‘“”’？、】》）",
 

@@ -1,5 +1,4 @@
 // Settings in here override those in "LSP-html/LSP-html.sublime-settings"
-
 {
     "selector": "text.html",
     "feature_selector": "text.html",
