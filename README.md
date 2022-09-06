@@ -26,10 +26,10 @@
 
 ## 在用哪些硬件？
 
-* [![](https://img.shields.io/badge/iPhone-13-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/) **[Nana]**
+* [![](https://img.shields.io/badge/iPhone-13%20[Nana]-F8F4ED?style=flat-square&logo=apple)](https://www.apple.com/)
     *  AirPods 2
 
-* [![](https://img.shields.io/badge/MacBook%20Pro-M1-c0c0c0?style=flat-square&logo=apple)](https://www.apple.com.cn/mac/) **(13-inch, M1, 2020) (16+256) [Anna]**
+* [![](https://img.shields.io/badge/MacBook%20Pro-M1(13-inch,%20M1,%202020)%20(16+256)%20[Anna]-c0c0c0?style=flat-square&logo=apple)](https://www.apple.com.cn/mac/)
     * 🖥️ Dell U2720QM
     * ⌨️ NuPhy Air75
     *  Magic Trackpad
