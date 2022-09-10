@@ -125,7 +125,7 @@
         ![](https://github.com/ykqmain/Config/blob/master/Archive/Pix/Sublime.png)
 
         * [Package Control](https://packagecontrol.io)：[**myPlugins**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
-        * 字体：[SourceCodePro-Regular 14](https://github.com/adobe-fonts/source-code-pro)
+        * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
         * 主题：Adaptive/Mariana
 
     * 兜兜转转还是回到了最初的Sublime，并购买License支持了一下。我认为编辑器和IDE应该分工明确，一个快而准，一个大而全，各司其职。在我以后的生活和工作中可能不再需要IDE了，Sublime对我而言是足够且有意义的，希望Sublime能一直陪伴我，不折腾、用就完了。转行以后估计不常写代码，也就用用Python，使用Sublime有一种愉悦的感觉，最重要的还是陪伴。
@@ -134,7 +134,7 @@
 
 4. Developer Tools
 
-    * [Sourcetree](https://www.sourcetreeapp.com) (Git GUI)
+    * [Sourcetree](https://sourcetreeapp.com) (Git GUI)
     * [DBeaver](https://dbeaver.io) (Database Tool) ([~~Eclipse~~](https://www.eclipse.org)的纪念)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)

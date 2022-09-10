@@ -19,10 +19,9 @@
 
 * [Python](https://www.python.org)
 * [Node.js](https://nodejs.org/zh-cn/)
-* [Git](https://git-scm.com) [Windows Terminal](https://github.com/microsoft/terminal)
-* [Sourcetree](https://www.sourcetreeapp.com) ([_TortoiseGit_](https://tortoisegit.org))
+* [Git](https://git-scm.com) ([_Sourcetree_](https://sourcetreeapp.com) [_TortoiseGit_](https://tortoisegit.org))
 * [WinMerge](https://winmerge.org)
-* [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
+* [Windows Terminal](https://github.com/microsoft/terminal) ([Microsoft PowerToys](https://github.com/microsoft/PowerToys))
 * [_VS Code_](https://code.visualstudio.com) ([_Microsoft C++ 生成工具_](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/))
 <br>
 
