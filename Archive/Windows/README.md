@@ -1,6 +1,6 @@
 ## Windows List
 
-极简的Windows办公软件推荐。
+精简的Windows软件推荐。
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release) ([Microsoft Edge](https://www.microsoft.com/zh-cn/edge))
 * [Sublime Text](https://www.sublimetext.com) ([VS Code](https://code.visualstudio.com))
@@ -26,8 +26,7 @@
 <br>
 
 * [火绒](https://www.huorong.cn)
-* [DiskGenius](https://www.diskgenius.cn)
-* [HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html) ([_Geek Uninstaller_](https://geekuninstaller.com))
+* [DiskGenius](https://www.diskgenius.cn) ([_HiBit Uninstaller_](https://www.hibitsoft.ir/Uninstaller.html) [_Geek Uninstaller_](https://geekuninstaller.com))
 <br>
 
 
