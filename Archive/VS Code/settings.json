@@ -2,7 +2,7 @@
     "update.mode": "start",
     "telemetry.telemetryLevel": "off",
 
-    "workbench.colorTheme": "Atom One Dark",
+    "workbench.colorTheme": "GitHub Dark Dimmed",
     "workbench.iconTheme": "vscode-icons",
     "editor.fontFamily": "Source Code Pro",
     "editor.fontSize": 14,
