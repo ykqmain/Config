@@ -2,8 +2,8 @@
 
 极简的Windows办公软件推荐。
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
-* [Sublime Text](https://www.sublimetext.com)
+* [Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release) ([Microsoft Edge](https://www.microsoft.com/zh-cn/edge))
+* [Sublime Text](https://www.sublimetext.com) ([VS Code](https://code.visualstudio.com))
 * [WPS](https://www.wps.cn)
 * [QQ](https://im.qq.com)
 <br>
@@ -14,14 +14,15 @@
 * [Honeyview](https://www.bandisoft.com/honeyview)
 * [VLC](https://www.videolan.org)
 * [OBS](https://obsproject.com)
+* [Steam](https://store.steampowered.com)
 <br>
 
 * [Python](https://www.python.org)
 * [Node.js](https://nodejs.org/zh-cn/)
-* [Git](https://git-scm.com) ([_TortoiseGit_](https://tortoisegit.org))
+* [Git](https://git-scm.com) ([Windows Terminal](https://github.com/microsoft/terminal))
+* [Sourcetree](https://www.sourcetreeapp.com) ([_TortoiseGit_](https://tortoisegit.org))
 * [WinMerge](https://winmerge.org)
-* [Windows Terminal](https://github.com/microsoft/terminal) ([_Microsoft PowerToys_](https://github.com/microsoft/PowerToys))
-* [_Microsoft C++ 生成工具_](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/)
+* [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([_Microsoft C++ 生成工具_](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/))
 <br>
 
 * [火绒](https://www.huorong.cn)
