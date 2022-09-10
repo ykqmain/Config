@@ -19,14 +19,14 @@
 
 * [Python](https://www.python.org)
 * [Node.js](https://nodejs.org/zh-cn/)
-* [Git](https://git-scm.com) ([_Sourcetree_](https://sourcetreeapp.com) [_TortoiseGit_](https://tortoisegit.org))
+* [Git](https://git-scm.com) ([_Sourcetree_](https://sourcetreeapp.com), [_TortoiseGit_](https://tortoisegit.org))
 * [WinMerge](https://winmerge.org)
 * [Windows Terminal](https://github.com/microsoft/terminal) ([Microsoft PowerToys](https://github.com/microsoft/PowerToys))
 * [_VS Code_](https://code.visualstudio.com) ([_Microsoft C++ 生成工具_](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/))
 <br>
 
 * [火绒](https://www.huorong.cn)
-* [DiskGenius](https://www.diskgenius.cn) ([_HiBit Uninstaller_](https://www.hibitsoft.ir/Uninstaller.html) [_Geek Uninstaller_](https://geekuninstaller.com))
+* [DiskGenius](https://www.diskgenius.cn) ([_HiBit Uninstaller_](https://www.hibitsoft.ir/Uninstaller.html), [_Geek Uninstaller_](https://geekuninstaller.com))
 <br>
 
 [更多……](https://github.com/Awesome-Windows/Awesome)
