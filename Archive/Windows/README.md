@@ -26,6 +26,7 @@
 <br>
 
 * [火绒](https://www.huorong.cn)
+* [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)
 * [DiskGenius](https://www.diskgenius.cn) ([_HiBit Uninstaller_](https://www.hibitsoft.ir/Uninstaller.html), [_Geek Uninstaller_](https://geekuninstaller.com))
 <br>
 
