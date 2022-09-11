@@ -161,7 +161,7 @@
 
     * [~~iTunes~~](https://www.apple.com/itunes/) (本地音乐播放器的纪念)
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
-    * [IINA](https://github.com/iina/iina) (播放器)
+    * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
     &nbsp;
@@ -174,6 +174,7 @@
 
     * [微信](https://weixin.qq.com) [App Store]
     * [QQ](https://im.qq.com) [App Store]
+    * [飞书](https://www.feishu.cn) [Web]
     * [**NetNewsWire**](https://ranchero.com/netnewswire) (RSS阅读器)
     &nbsp;
     * Amphetamine (Keep Mac awake) [App Store]
