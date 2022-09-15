@@ -151,8 +151,7 @@
     * [PDF Expert](https://pdfexpert.com/zh) (PDF工具)
     * [iThoughtsX](https://www.toketaware.com) (思维导图)
     * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] {[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)(换掉PS之后，达成「软件全部正版化」成就😌)}
-
-
+    <br>
     * GarageBand [App Store]
     * iMovie [App Store]
     * [HandBrake](https://handbrake.fr) (视频转码)
