@@ -136,11 +136,11 @@
 4. Developer Tools
 
     * [Sourcetree](https://sourcetreeapp.com) (Git GUI)
+    * [VS Code](https://code.visualstudio.com) (Editor to IDE) ([~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~Atom~~](https://atom.io)的纪念) ([_github.dev_](https://github.com/github/dev))
     * [DBeaver](https://dbeaver.io) (Database Tool) ([~~Eclipse~~](https://www.eclipse.org)的纪念)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
-    * [_github.dev_](https://github.com/github/dev)
 
 <br>
 
