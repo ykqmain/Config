@@ -1,6 +1,6 @@
 ## 利器（2016-01-04）
 
-今天看到一个有意思的项目 [利器社群计划](https://liqi.io/community/) ，借此机会，我也分享一下自己使用的一些小工具……
+今天看到一个有意思的项目[利器社群计划](https://liqi.io/community/) ，借此机会我也分享一下自己使用的一些小工具。
 
 <mark><em>**Update: 2022-09**</em></mark>
 
@@ -49,7 +49,6 @@
 
 ![](https://github.com/ykqmain/Config/blob/master/Archive/Pix/macOS12.png)
 
-<br>
 
 1. **终端** (Terminal.app)
 
@@ -126,7 +125,7 @@
     * [**Sublime Text**](https://www.sublimetext.com)
         ![](https://github.com/ykqmain/Config/blob/master/Archive/Pix/Sublime.png)
 
-        * [Package Control](https://packagecontrol.io)：[**myPlugins**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
+        * [Package Control](https://packagecontrol.io)：[**myPlugin**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
         * 主题：Adaptive/Mariana
 
@@ -152,7 +151,7 @@
     * [iThoughtsX](https://www.toketaware.com) (思维导图)
     <br>
 
-    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] {[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)(换掉PS之后，达成「软件全部正版化」成就😌)}
+    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] [换掉[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)之后，达成「软件全部正版化」成就😌]
     * GarageBand [App Store]
     * iMovie [App Store]
     * [HandBrake](https://handbrake.fr) (视频转码)
