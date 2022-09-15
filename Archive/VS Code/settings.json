@@ -2,7 +2,7 @@
     "update.mode": "start",
     "telemetry.telemetryLevel": "off",
 
-    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "workbench.colorTheme": "Atom One Dark",
     "workbench.iconTheme": "vscode-icons",
     "editor.fontFamily": "Source Code Pro",
     "editor.fontSize": 14,
@@ -20,15 +20,14 @@
     "workbench.editor.highlightModifiedTabs": true,
     "editor.tabCompletion": "on",
     "editor.wordWrap": "bounded",
-    "editor.wordWrapColumn": 90,
-    "editor.rulers": [90],
+    "editor.wordWrapColumn": 80,
+    "editor.rulers": [80],
 
     "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.cursorBlinking": true,
 
-    "python.defaultInterpreterPath": "/usr/local/bin/python3",
     "python.formatting.provider": "black",
     "python.linting.enabled": true,
     "python.linting.flake8Enabled": true,
@@ -36,6 +35,7 @@
         "--ignore",
         "W391, E501",
     ],
+
     "github.copilot.enable": {
         "*": true,
         "yaml": false,
