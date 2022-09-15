@@ -136,7 +136,7 @@
 4. Developer Tools
 
     * [Sourcetree](https://sourcetreeapp.com) (Git GUI)
-    * [VS Code](https://code.visualstudio.com) (Editor to IDE) ([~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~Atom~~](https://atom.io)的纪念) ([_github.dev_](https://github.com/github/dev))
+    * [VS Code](https://code.visualstudio.com) (Editor to IDE) ([~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~Atom~~](https://atom.io)的纪念) [[_github.dev_](https://github.com/github/dev)]
     * [DBeaver](https://dbeaver.io) (Database Tool) ([~~Eclipse~~](https://www.eclipse.org)的纪念)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)
@@ -149,7 +149,7 @@
     * [**WPS Office**](https://www.wps.cn) [App Store]
     * [PDF Expert](https://pdfexpert.com/zh) (PDF工具)
     * [iThoughtsX](https://www.toketaware.com) (思维导图)
-    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [~~Adobe Photoshop~~] (换掉PS之后，达成「软件全部正版化」成就😌) [App Store]
+    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] ([~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)换掉PS之后，达成「软件全部正版化」成就😌)
     &nbsp;
     * GarageBand [App Store]
     * iMovie [App Store]
@@ -178,7 +178,7 @@
     * [**NetNewsWire**](https://ranchero.com/netnewswire) (RSS阅读器)
     &nbsp;
     * Amphetamine (Keep Mac awake) [App Store]
-    * [**Keka**](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
+    * [**Keka**](https://www.keka.io/zh-cn) (压缩软件) [App Store] (MAS版本支持一下)
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
     &nbsp;
     * [MonitorControl](https://github.com/MonitorControl/MonitorControl) (显示器控制) [[Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具)]
