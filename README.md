@@ -43,10 +43,11 @@
 
 **在满足自己所需要功能的前提下，将自己的互联网帐号数量降到最低，涉及的平台和APP减到最少。**
 
+<br>
+
 **macOS 12 (Monterey)**
 
 ![](https://github.com/ykqmain/Config/blob/master/Archive/Pix/macOS12.png)
-
 
 <br>
 
@@ -149,8 +150,8 @@
     * [**WPS Office**](https://www.wps.cn) [App Store]
     * [PDF Expert](https://pdfexpert.com/zh) (PDF工具)
     * [iThoughtsX](https://www.toketaware.com) (思维导图)
-    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] [[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)(换掉PS之后，达成「软件全部正版化」成就😌)]
-    &nbsp;
+    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] {[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)(换掉PS之后，达成「软件全部正版化」成就😌)}
+
     * GarageBand [App Store]
     * iMovie [App Store]
     * [HandBrake](https://handbrake.fr) (视频转码)
