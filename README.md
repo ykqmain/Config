@@ -150,9 +150,9 @@
     * [**WPS Office**](https://www.wps.cn) [App Store]
     * [PDF Expert](https://pdfexpert.com/zh) (PDF工具)
     * [iThoughtsX](https://www.toketaware.com) (思维导图)
-    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] {[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)(换掉PS之后，达成「软件全部正版化」成就😌)}
     <br>
 
+    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] {[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)(换掉PS之后，达成「软件全部正版化」成就😌)}
     * GarageBand [App Store]
     * iMovie [App Store]
     * [HandBrake](https://handbrake.fr) (视频转码)
@@ -166,7 +166,7 @@
     * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
-    &nbsp;
+    <br>
 
     * [OpenEmu](https://openemu.org/) (Experimental) (video game emulation)
     * [Steam](https://store.steampowered.com)
@@ -179,11 +179,13 @@
     * [QQ](https://im.qq.com) [App Store]
     * [飞书](https://www.feishu.cn) [Web]
     * [**NetNewsWire**](https://ranchero.com/netnewswire) (RSS阅读器)
-    &nbsp;
+    <br>
+
     * Amphetamine (Keep Mac awake) [App Store]
     * [**Keka**](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
-    &nbsp;
+    <br>
+
     * [MonitorControl](https://github.com/MonitorControl/MonitorControl) (显示器控制) {[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具)}
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) {[_UninstallPKG_](https://www.corecode.io/uninstallpkg/)}
     * [**_其他软件_**](https://github.com/ykqmain?tab=stars)
