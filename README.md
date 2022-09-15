@@ -149,9 +149,9 @@
     * [**WPS Office**](https://www.wps.cn) [App Store]
     * [PDF Expert](https://pdfexpert.com/zh) (PDF工具)
     * [iThoughtsX](https://www.toketaware.com) (思维导图)
+    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] (换掉[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)之后，达成「软件全部正版化」成就😌)
     <br>
 
-    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] (换掉[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)之后，达成「软件全部正版化」成就😌)
     * GarageBand [App Store]
     * iMovie [App Store]
     * [HandBrake](https://handbrake.fr) (视频转码)
