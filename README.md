@@ -151,7 +151,6 @@
     * [iThoughtsX](https://www.toketaware.com) (思维导图)
     * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] (换掉[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)之后，达成「软件全部正版化」成就😌)
     <br>
-
     * GarageBand [App Store]
     * iMovie [App Store]
     * [HandBrake](https://handbrake.fr) (视频转码)
@@ -166,7 +165,6 @@
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
     <br>
-
     * [OpenEmu](https://openemu.org/) (Experimental) (video game emulation)
     * [Steam](https://store.steampowered.com)
 
