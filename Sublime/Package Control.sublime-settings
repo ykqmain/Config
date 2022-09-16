@@ -22,6 +22,7 @@
 		"LSP-html",
 		"LSP-json",
 		"LSP-pyright",
+		"LSP-typescript",
 		"Package Control",
 		"PackageResourceViewer",
 		"python-black",
