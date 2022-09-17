@@ -2,13 +2,17 @@
 	name = Yang
 	email = i@ykqmain.com
 [core]
-	excludesfile = /Users/yang/.gitignore_global
 	autocrlf = input
+	excludesfile = ~/.gitignore_global
+[commit]
+	template = ~/.stCommitMsg
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
 [mergetool "sourcetree"]
 	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
 	trustExitCode = true
-[commit]
-	template = /Users/yang/.stCommitMsg
+[http "https://github.com"]
+	proxy = socks5://127.0.0.1:1080
+[https "https://github.com"]
+	proxy = socks5://127.0.0.1:1080
