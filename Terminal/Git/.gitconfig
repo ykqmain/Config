@@ -8,11 +8,9 @@
 	template = /Users/yang/.stCommitMsg
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-	path =
+	path = 
 [mergetool "sourcetree"]
 	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
 	trustExitCode = true
 [http "https://github.com"]
-	proxy = socks5://127.0.0.1:1080
-[https "https://github.com"]
 	proxy = socks5://127.0.0.1:1080
