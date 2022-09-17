@@ -152,19 +152,21 @@
     * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] (换掉[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)之后，达成「软件全部正版化」成就😌)
     <br>
 
+    * [Movist Pro](https://movistprime.com) (播放器)
+    * [VLC](https://www.videolan.org) (播放器)
+    * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
+    <br>
+
     * GarageBand [App Store]
     * iMovie [App Store]
     * [HandBrake](https://handbrake.fr) (视频转码)
-
+    * [iWork](https://www.apple.com.cn/iwork/) [App Store]
 <br>
 
 6. 娱乐
 
-    * [~~iTunes~~](https://www.apple.com/itunes/) (本地音乐播放器的纪念)
+    * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
-    * [Movist Pro](https://movistprime.com) (播放器)
-    * [VLC](https://www.videolan.org) (播放器)
-    * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
     <br>
 
     * [OpenEmu](https://openemu.org/) (Experimental) (video game emulation)
