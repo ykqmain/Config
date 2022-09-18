@@ -157,8 +157,8 @@
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
     <br>
 
-    * GarageBand [App Store]
-    * iMovie [App Store]
+    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store]
+    * [iMovie](https://www.apple.com.cn/imovie/) [App Store]
     * [HandBrake](https://handbrake.fr) (视频转码)
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
 <br>
