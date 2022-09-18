@@ -30,24 +30,6 @@ Temporary Items
 
 # --------------------------------------------------
 
-### Linux
-
-*~
-
-# temporary files which can be created if a process still has a handle open of a deleted file
-.fuse_hidden*
-
-# KDE directory preferences
-.directory
-
-# Linux trash folder which might appear on any partition or disk
-.Trash-*
-
-# .nfs files are created when an open file is removed but is still being accessed
-.nfs*
-
-# --------------------------------------------------
-
 ### Windows
 
 # Windows thumbnail cache files
@@ -74,6 +56,24 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# --------------------------------------------------
+
+### Linux
+
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
 
 # --------------------------------------------------
 
@@ -110,6 +110,23 @@ bh_unicode_properties.cache
 # Sublime-github package stores a github token in this file
 # https://packagecontrol.io/packages/sublime-github
 GitHub.sublime-settings
+
+# --------------------------------------------------
+
+### VS Code
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
 
 # --------------------------------------------------
 
