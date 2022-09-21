@@ -6,7 +6,7 @@
 * 字体 [SourceCodePro-Regular 14](https://github.com/adobe-fonts/source-code-pro)
 * 窗口大小 120 * 36
 
-<br> 
+<br>
 
 | 文本  |    名称   |    RGB   |
 | ----  |   ----   |   ----   |
@@ -28,5 +28,5 @@
 |   青    |   霁青   | #63BBD0  |  石绿    | #57C3C2  |
 |   白    |   星灰   | #B2BBBE  |  汉白玉  |  #F8F4ED |
 
-
 <br>
+

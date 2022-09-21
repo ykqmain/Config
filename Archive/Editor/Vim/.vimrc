@@ -17,4 +17,3 @@ set fileencodings=utf-8,gb18030
 
 set number
 syntax on
-

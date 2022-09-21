@@ -31,7 +31,6 @@
 # Atom Flight Manual:
 # https://atom.io/docs/latest/using-atom-basic-customization#cson
 
-
 'body':
   'ctrl-tab': 'pane:show-next-item'
   'ctrl-tab ^ctrl': 'unset!'
