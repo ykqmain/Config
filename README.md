@@ -140,7 +140,7 @@
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
-    * [_github.dev_](https://github.com/github/dev) [Web] ([~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)->[~~Vim~~](https://www.vim.org)->[~~Atom~~](https://atom.io)->[~~VS Code~~](https://code.visualstudio.com)的纪念)
+    * [_github.dev_](https://github.com/github/dev) [Web] ([~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)-->[~~Vim~~](https://www.vim.org)-->[~~Atom~~](https://atom.io)-->[~~VS Code~~](https://code.visualstudio.com)的纪念)
 
 <br>
 
