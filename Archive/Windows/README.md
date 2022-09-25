@@ -14,7 +14,7 @@
 * [Honeyview](https://www.bandisoft.com/honeyview)
 * [VLC](https://www.videolan.org)
 * [OBS](https://obsproject.com)
-* [Steam](https://store.steampowered.com)
+* [Steam](https://store.steampowered.com) ([_DS4Windows_](https://ds4-windows.com))
 <br>
 
 * [Python](https://www.python.org)
