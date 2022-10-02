@@ -19,7 +19,7 @@
 
 * [Python](https://www.python.org)
 * [Node.js](https://nodejs.org/zh-cn/)
-* [Java](https://www.oracle.com/java/technologies/downloads/)
+* [JDK](https://www.oracle.com/java/technologies/downloads/) ([_MySQL_](https://dev.mysql.com/downloads/))
 * [Git](https://git-scm.com) ([_Sourcetree_](https://sourcetreeapp.com), [_TortoiseGit_](https://tortoisegit.org))
 * [Windows Terminal](https://github.com/microsoft/terminal) ([_Microsoft C++ 生成工具_](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/))
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
