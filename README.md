@@ -171,14 +171,14 @@
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     <br>
 
-    * [OpenEmu](https://openemu.org/) (Experimental) (video game emulation)
-    * [Steam](https://store.steampowered.com)
+    * [OpenEmu](https://openemu.org/) (Experimental) (game emulation)
+    * [Steam](https://store.steampowered.com) (game distribution platform)
 
 <br>
 
 7. 工具
 
-    * [微信](https://weixin.qq.com) [App Store] ([~~QQ~~](https://im.qq.com) [App Store])
+    * [微信](https://weixin.qq.com) [App Store] ([~~QQ~~](https://im.qq.com))
     * [飞书](https://www.feishu.cn) [Web]
     * [**NetNewsWire**](https://ranchero.com/netnewswire) (RSS阅读器)
     <br>
