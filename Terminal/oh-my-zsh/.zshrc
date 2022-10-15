@@ -207,11 +207,11 @@ launch(){
 
     case $1 in
         "u")
-            echo "打开文件夹..."
+            echo "${LV}打开文件夹...${RES}"
             open $p1 $p2 $p3
             ;;
         "a")
-            echo "打开文件夹..."
+            echo "${LV}打开文件夹...${RES}"
             open $p1 $p2 $p3 $p4 $p5
             ;;
     esac
