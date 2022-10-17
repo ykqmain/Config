@@ -202,7 +202,8 @@
 
 ## 推荐一件生活中的利器
 
-矮轴机械键盘，NuPhy Air75。
+**iPhone**，精致丝滑，形影不离，iCloud随时记录。
 
-![](https://github.com/ykqmain/Config/blob/master/Archive/Pix/Air75.jpeg)
+![](https://github.com/ykqmain/Config/blob/master/Archive/Pix/nana_6.jpg)
+（图为我的第一部iPhone，6）
 
