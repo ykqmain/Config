@@ -202,7 +202,7 @@
 
 ## 推荐一件生活中的利器
 
-**iPhone**，精致丝滑，形影不离，iCloud随时记录。
+**iPhone**，精致丝滑，形影不离，iCloud随时记录生活和时代。
 
 ![](https://github.com/ykqmain/Config/blob/master/Archive/Pix/nana_6.jpg)
 （图为我的第一部iPhone，6）
