@@ -106,7 +106,7 @@
 
     * 主要 **Safari**
         * [AdBlocker Pro](https://adblockersafari.com) [App Store]
-        * [Tampermonkey](https://www.tampermonkey.net) [App Store] {[_Greasy Fork_](https://greasyfork.org/zh-CN)}
+        * [Tampermonkey](https://www.tampermonkey.net) [App Store] ([_Greasy Fork_](https://greasyfork.org/zh-CN))
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
             * [bilibili plus](https://greasyfork.org/zh-CN/scripts/373172-bilibili-plus)
             &nbsp;
@@ -187,8 +187,8 @@
     * [**Keka**](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
     * [Rectangle](https://github.com/rxhanson/Rectangle) (window management)
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
-    * [MonitorControl](https://github.com/MonitorControl/MonitorControl) (显示器控制) {[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具)}
-    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) {[_UninstallPKG_](https://www.corecode.io/uninstallpkg/)}
+    * [MonitorControl](https://github.com/MonitorControl/MonitorControl) (显示器控制) ([_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具))
+    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) ([_UninstallPKG_](https://www.corecode.io/uninstallpkg/))
     * [**_其他软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
