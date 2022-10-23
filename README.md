@@ -178,7 +178,7 @@
 
 7. 工具
 
-    * [微信](https://weixin.qq.com) [App Store] ([~~QQ~~](https://im.qq.com)青春的纪念)
+    * [微信](https://weixin.qq.com) [App Store] ([~~QQ~~](https://im.qq.com))
     * [飞书](https://www.feishu.cn) [Web]
     * [**NetNewsWire**](https://ranchero.com/netnewswire) (RSS阅读器)
     <br>
