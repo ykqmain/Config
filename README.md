@@ -187,9 +187,9 @@
     * [**Keka**](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
     * [Rectangle](https://github.com/rxhanson/Rectangle) (window management)
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
+    * [MonitorControl](https://github.com/MonitorControl/MonitorControl) (显示器控制) ([_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具))
     <br>
 
-    * [MonitorControl](https://github.com/MonitorControl/MonitorControl) (显示器控制) ([_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具))
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) ([_UninstallPKG_](https://www.corecode.io/uninstallpkg/))
     * [**_其他软件_**](https://github.com/ykqmain?tab=stars)
 
