@@ -187,8 +187,8 @@
     * [**Keka**](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
     * [Rectangle](https://github.com/rxhanson/Rectangle) (window management)
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
-    * [MonitorControl](https://github.com/MonitorControl/MonitorControl) (显示器控制)
-    * [One Thing](https://sindresorhus.com/one-thing) (Put a single task or goal in your menu bar) [App Store]
+    * [MonitorControl](https://github.com/MonitorControl/MonitorControl) (Controls external display brightness and volume)
+    * [One Thing](https://sindresorhus.com/one-thing) (Put a single task or goal in menu bar) [App Store]
     <br>
 
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) ([_UninstallPKG_](https://www.corecode.io/uninstallpkg/))
