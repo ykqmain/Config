@@ -178,8 +178,9 @@
 
 7. 工具
 
-    * [微信](https://weixin.qq.com) [App Store] ([_QQ_](https://im.qq.com))
-    * [飞书](https://www.feishu.cn) [Web]
+    * [微信](https://weixin.qq.com) [App Store]
+    * [_QQ_](https://im.qq.com) [App Store]
+    * [_飞书_](https://www.feishu.cn) [Web]
     * [**NetNewsWire**](https://ranchero.com/netnewswire) (RSS阅读器)
     <br>
 
@@ -191,7 +192,7 @@
     * [One Thing](https://sindresorhus.com/one-thing) (Put a single task or goal in menu bar) [App Store]
     <br>
 
-    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) ([_UninstallPKG_](https://www.corecode.io/uninstallpkg/))
+    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
     * [_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具)
     * [**_其他软件_**](https://github.com/ykqmain?tab=stars)
 
