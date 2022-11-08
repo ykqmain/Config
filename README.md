@@ -90,7 +90,6 @@
         * jieba
         * wordcloud
         * python-docx
-        * mysql-connector-python
 
     * [Node.js](https://nodejs.org/zh-cn/)
         * `sudo chown -R $(whoami) /usr/local/bin /usr/local/lib /usr/local/include /usr/local/share`
@@ -135,10 +134,11 @@
 
 4. Developer Tools
 
+    * [Xcode](https://developer.apple.com/xcode/)
     * [Sourcetree](https://sourcetreeapp.com) (Git GUI)
-    * [DBeaver](https://dbeaver.io) ([MySQL](https://dev.mysql.com/downloads/) GUI) ([~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)的纪念))
     <br>
 
+    * [DBeaver](https://dbeaver.io) ([MySQL](https://dev.mysql.com/downloads/) GUI) ([~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)的纪念)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
