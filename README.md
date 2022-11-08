@@ -91,7 +91,7 @@
         * wordcloud
         * python-docx
 
-    * [Node.js](https://nodejs.org/zh-cn/)
+    * [Node.js](https://nodejs.org)
         * `sudo chown -R $(whoami) /usr/local/bin /usr/local/lib /usr/local/include /usr/local/share`
         * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
         * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
@@ -134,7 +134,7 @@
 
 4. Developer Tools
 
-    * [Xcode](https://developer.apple.com/xcode/)
+    * [Xcode](https://developer.apple.com/xcode/) [App Store]
     * [Sourcetree](https://sourcetreeapp.com) (Git GUI)
     <br>
 

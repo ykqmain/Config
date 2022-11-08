@@ -18,17 +18,16 @@
 <br>
 
 * [Python](https://www.python.org)
-* [Node.js](https://nodejs.org/zh-cn/)
-* [JDK](https://www.oracle.com/java/technologies/downloads/) ([_MySQL_](https://dev.mysql.com/downloads/))
+* [Node.js](https://nodejs.org)
+* [JDK](https://www.oracle.com/java/technologies/downloads/)
 * [Git](https://git-scm.com) ([_Sourcetree_](https://sourcetreeapp.com), [_TortoiseGit_](https://tortoisegit.org))
 * [Windows Terminal](https://github.com/microsoft/terminal) ([_Microsoft C++ 生成工具_](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/))
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
 * [WinMerge](https://winmerge.org)
 <br>
 
-* [火绒](https://www.huorong.cn)
 * [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)
-* [DiskGenius](https://www.diskgenius.cn) ([_HiBit Uninstaller_](https://www.hibitsoft.ir/Uninstaller.html), [_Geek Uninstaller_](https://geekuninstaller.com))
+* [火绒](https://www.huorong.cn)
 <br>
 
 [更多……](https://github.com/Awesome-Windows/Awesome)
