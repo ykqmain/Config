@@ -98,7 +98,6 @@
         * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
 
     * [JDK](https://www.oracle.com/java/technologies/downloads/)
-    * [MySQL](https://dev.mysql.com/downloads/)
 
 <br>
 
@@ -137,7 +136,9 @@
 4. Developer Tools
 
     * [Sourcetree](https://sourcetreeapp.com) (Git GUI)
-    * [DBeaver](https://dbeaver.io) (Database Tool) ([~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)的纪念)
+    * [DBeaver](https://dbeaver.io) ([MySQL](https://dev.mysql.com/downloads/) GUI) ([~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)的纪念))
+    <br>
+
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
