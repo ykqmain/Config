@@ -14,6 +14,7 @@
     "highlight_modified_tabs": true,
     "show_encoding": true,
     "show_line_endings": true,
+    "show_line_column": "enabled",
     "show_full_path": false,
 
     "draw_white_space": ["selection", "trailing", "isolated"],
@@ -29,15 +30,12 @@
     "open_files_in_new_window": "never",
     "close_windows_when_empty": false,
     "hot_exit": "disabled",
+    "hot_exit_projects": false,
 
     "rulers": [80],
     "word_wrap": true,
     "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?（《【，。—·…！￥：；‘“”’？、】》）",
 
-    "folder_exclude_patterns":
-    [
-        ".svn", ".git", ".hg", "CVS", ".Trash", ".Trash-*",
-    ],
     "file_exclude_patterns":
     [
         "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", ".directory", "desktop.ini", "*.class", "*.psd", "*.db", "*.sublime-workspace",
