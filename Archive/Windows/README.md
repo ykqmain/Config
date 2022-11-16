@@ -14,14 +14,14 @@
 * [Honeyview](https://www.bandisoft.com/honeyview)
 * [VLC](https://www.videolan.org)
 * [OBS](https://obsproject.com)
-* [Steam](https://store.steampowered.com) ([_DS4Windows_](https://ds4-windows.com))
+* [Steam](https://store.steampowered.com)
 <br>
 
 * [Python](https://www.python.org)
 * [Node.js](https://nodejs.org)
 * [JDK](https://www.oracle.com/java/technologies/downloads/)
 * [Git](https://git-scm.com) ([_Sourcetree_](https://sourcetreeapp.com), [_TortoiseGit_](https://tortoisegit.org))
-* [Windows Terminal](https://github.com/microsoft/terminal) ([_Microsoft C++ 生成工具_](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/))
+* [Windows Terminal](https://github.com/microsoft/terminal) ([_VS Code_](https://code.visualstudio.com), [_Microsoft C++ 生成工具_](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/))
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
 * [WinMerge](https://winmerge.org)
 <br>
