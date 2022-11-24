@@ -10,11 +10,11 @@
 
 * [7-Zip](https://www.7-zip.org)
 * [Everything](https://www.voidtools.com/zh-cn/)
-* [Paint.NET](https://www.getpaint.net) ([_Adobe Photoshop_](https://www.adobe.com/cn/products/photoshop.html))
-* [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) ([_Adobe Premiere Pro_](https://www.adobe.com/cn/products/premiere.html))
 * [Honeyview](https://www.bandisoft.com/honeyview)
 * [VLC](https://www.videolan.org)
 * [OBS](https://obsproject.com)
+* [Paint.NET](https://www.getpaint.net) ([_Adobe Photoshop_](https://www.adobe.com/cn/products/photoshop.html))
+* [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) ([_Adobe Premiere Pro_](https://www.adobe.com/cn/products/premiere.html))
 * [Steam](https://store.steampowered.com)
 <br>
 
