@@ -27,7 +27,8 @@
 <br>
 
 * [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)
-* [火绒](https://www.huorong.cn)
+* [AirPlay Screen Mirroring Receiver](https://apps.microsoft.com/store/detail/airplay-screen-mirroring-receiver/9N1J401VPSN9) [Microsoft Store]
+* [_火绒_](https://www.huorong.cn)
 <br>
 
 [更多……](https://github.com/Awesome-Windows/Awesome)
