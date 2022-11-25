@@ -142,7 +142,7 @@
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
-    * [_github.dev_](https://github.com/github/dev) ([~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)-->[Sublime Text](https://www.sublimetext.com)-->[Vim](https://www.vim.org)-->[~~Atom~~](https://atom.io)-->[~~VS Code~~](https://code.visualstudio.com))
+    * [_github.dev_](https://github.com/github/dev) ([~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)-->[Vim](https://www.vim.org)-->[Sublime Text](https://www.sublimetext.com)-->[~~Atom~~](https://atom.io)-->[~~VS Code~~](https://code.visualstudio.com))
 
 <br>
 
