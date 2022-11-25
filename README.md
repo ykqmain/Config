@@ -138,11 +138,11 @@
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
     <br>
 
-    * [VS Code](https://code.visualstudio.com) ([_github.dev_](https://github.com/github/dev)) ([~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)和[~~Atom~~](https://atom.io)的纪念)
     * [DBeaver](https://dbeaver.io) ([MySQL](https://dev.mysql.com/downloads/) GUI) ([~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)的纪念)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
+    * [_github.dev_](https://github.com/github/dev) ([~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)-->[Sublime Text](https://www.sublimetext.com)-->[Vim](https://www.vim.org)-->[~~Atom~~](https://atom.io)-->[~~VS Code~~](https://code.visualstudio.com))
 
 <br>
 
