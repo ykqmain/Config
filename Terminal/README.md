@@ -1,7 +1,7 @@
 
 基于 "One Dark" 配色修改的 [中国色](http://zhongguose.com) `Terminal.app` 主题，
 
-![](https://github.com/ykqmain/Config/blob/master/Archive/Pix/Terminal.png)
+![](https://github.com/ykqmain/Config/tree/master/Terminal/Terminal.png)
 
 * 字体 [SourceCodePro-Regular 14](https://github.com/adobe-fonts/source-code-pro)
 * 窗口大小 120 * 36

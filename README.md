@@ -135,7 +135,7 @@
 4. Developer Tools
 
     * [Xcode](https://developer.apple.com/xcode/) [App Store]
-    * [Sourcetree](https://sourcetreeapp.com) (Git GUI)
+    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
     <br>
 
     * [VS Code](https://code.visualstudio.com) ([_github.dev_](https://github.com/github/dev)) ([~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)和[~~Atom~~](https://atom.io)的纪念)
@@ -210,8 +210,7 @@
 
 ## 推荐一件生活中的利器
 
-**iPhone**，精致丝滑，形影不离，iCloud随时记录生活和时代。
+生活不可无书。
 
-![](https://github.com/ykqmain/Config/blob/master/Archive/Pix/nana_6.jpg)
-（图为我的第一部iPhone，6）
+![](https://github.com/ykqmain/Config/blob/master/Archive/Pix/sj.jpeg)
 
