@@ -175,7 +175,7 @@
     <br>
 
     * [OpenEmu](https://openemu.org/) (Experimental) (game emulation)
-    * [Steam](https://store.steampowered.com) (game distribution platform)
+    * [Steam](https://store.steampowered.com) (playing, discussing, and creating games)
 
 <br>
 
