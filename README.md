@@ -53,7 +53,7 @@
 
 1. **终端** (Terminal.app)
 
-    ![](https://github.com/ykqmain/Config/blob/master/Archive/Pix/Terminal.png)
+    ![](https://github.com/ykqmain/Config/tree/master/Terminal/Terminal.png)
 
     * _为什么不是[iTerm2](https://www.iterm2.com)？_ iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，我确实不需要那么多的功能。（即使我很怀念iTerm2的选中复制右键粘贴功能）
 
@@ -109,7 +109,7 @@
             * [bilibili plus](https://greasyfork.org/zh-CN/scripts/373172-bilibili-plus)
             * [~~Bilibili AutoWide~~](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
             * [~~bilibili merged flv+mp4+ass+enhance~~](https://greasyfork.org/zh-CN/scripts/372516-bilibili-merged-flv-mp4-ass-enhance)
-            &nbsp;
+
     * 情怀 [**Firefox**](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
         * [uBlock Origin](https://github.com/gorhill/uBlock)
         * [Tampermonkey](https://www.tampermonkey.net)
