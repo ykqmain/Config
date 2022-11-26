@@ -122,7 +122,7 @@
     * [CotEditor](https://coteditor.com) [App Store]
 
     * [**Sublime Text**](https://www.sublimetext.com)
-        ![](https://github.com/ykqmain/Config/blob/master/Archive/Pix/Sublime.png)
+        ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
 
         * [Package Control](https://packagecontrol.io)：[**myPlugin**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
