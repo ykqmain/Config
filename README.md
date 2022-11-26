@@ -48,7 +48,7 @@
 
 **macOS 13 (Ventura)**
 
-![](https://github.com/ykqmain/Config/blob/master/Pix/macOS13.png)
+![](https://github.com/ykqmain/Config/blob/master/Resources/macOS13.png)
 
 
 1. **终端** (Terminal.app)
@@ -201,7 +201,7 @@
 
 <br>
 
-![](https://github.com/ykqmain/Config/blob/master/Pix/macOS.png)
+![](https://github.com/ykqmain/Config/blob/master/Resources/macOS.png)
 
 **如无必要，勿增实体。要钱没有，一切从简。**
 
@@ -212,5 +212,5 @@
 
 生活不可无书。
 
-![](https://github.com/ykqmain/Config/blob/master/Pix/sj.jpeg)
+![](https://github.com/ykqmain/Config/blob/master/Resources/sj.jpeg)
 
