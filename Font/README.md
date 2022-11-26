@@ -12,7 +12,9 @@
 
 <br>
 
-[**2、汉仪新蒂（Senty）**](http://sentyfont.com)
+**2、艺术字**
+
+* [汉仪新蒂（Senty）](http://sentyfont.com)
 
 <br>
 

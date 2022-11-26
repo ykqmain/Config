@@ -1,6 +1,6 @@
 ## Sublime Text
 
-![](https://github.com/ykqmain/Config/blob/master/Sublime/Theme/Sublime.png)
+![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
 
 ```
 .
