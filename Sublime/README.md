@@ -15,9 +15,9 @@
 ### `.`根目录
 本目录下的配置文件，对应Sublime的`~/Sublime Text/Packages/User`
 
-### Snippet
-便于管理自己的`Snippet`，即使是`User`下级目录，也能被Sublime读取。
+### `Snippet`
+便于管理自己的Snippet，即使是`User`下级目录，也能被Sublime读取。
 
-### Theme
+### `Theme`
 自定义Python图标。
 
