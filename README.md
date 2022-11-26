@@ -162,7 +162,7 @@
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store]
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store]
     * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) [App Store]
-    * [HandBrake](https://handbrake.fr) (视频转码)
+    * [HandBrake](https://handbrake.fr) (converting video)
     * [Inkscape](https://inkscape.org/zh-hans/) (vector graphics editor)
     * [Blender](https://www.blender.org) (3D creation suite)
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
