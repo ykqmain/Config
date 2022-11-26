@@ -1,3 +1,4 @@
+## Apple Terminal
 
 基于 "One Dark" 配色修改的 [中国色](http://zhongguose.com) `Terminal.app` 主题，
 

@@ -1,6 +1,6 @@
-## Windows List
+## Windows
 
-精简的Windows软件推荐。
+尽简的Windows软件推荐。
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release) ([Microsoft Edge](https://www.microsoft.com/zh-cn/edge))
 * [Sublime Text](https://www.sublimetext.com)
