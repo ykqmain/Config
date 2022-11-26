@@ -25,6 +25,6 @@
     * _Ignored Names_ (`Packages/Tree-View`)
     `.git, .hg, .svn, .DS_Store, ._*, Thumbs.db, desktop.ini, .localized`
 
-    主题 **One Dark**
-    字体 [SourceCodePro-Regular 14](https://github.com/adobe-fonts/source-code-pro)
+    * 字体 [SourceCodePro-Regular 14](https://github.com/adobe-fonts/source-code-pro)
+    * 主题 **One Dark**
 
