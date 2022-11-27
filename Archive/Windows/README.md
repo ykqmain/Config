@@ -13,6 +13,7 @@
 * [Honeyview](https://www.bandisoft.com/honeyview)
 * [VLC](https://www.videolan.org)
 * [OBS](https://obsproject.com)
+* [HandBrake](https://handbrake.fr)
 * [Paint.NET](https://www.getpaint.net) ([_Adobe Photoshop_](https://www.adobe.com/cn/products/photoshop.html))
 * [Audacity](https://www.audacityteam.org) ([_Adobe Audition_](https://www.adobe.com/cn/products/audition.html))
 * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) ([_Adobe Premiere Pro_](https://www.adobe.com/cn/products/premiere.html))
