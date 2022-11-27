@@ -15,7 +15,8 @@
     "show_encoding": true,
     "show_line_endings": true,
     "show_line_column": "enabled",
-    "show_full_path": false,
+    "show_full_path": true,
+    "show_rel_path": true,
 
     "draw_white_space": ["selection", "trailing", "isolated"],
     "draw_unicode_white_space": "punctuation",
