@@ -156,14 +156,14 @@
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
     * [HandBrake](https://handbrake.fr) (视频转码器)
+    * [Blender](https://www.blender.org) (3D creation suite)
     <br>
 
-    * [Blender](https://www.blender.org) (3D creation suite)
+    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store]
+    * [iMovie](https://www.apple.com.cn/imovie/) [App Store]
     * [Inkscape](https://inkscape.org/zh-hans/) (vector graphics editor) ([~~Krita~~](https://krita.org/zh/)、[~~GIMP~~](https://www.gimp.org)的纪念)
     * [Audacity](https://www.audacityteam.org) (audio editor and recorder)
     * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) [App Store]
-    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store]
-    * [iMovie](https://www.apple.com.cn/imovie/) [App Store]
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
 <br>
 
