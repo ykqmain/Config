@@ -7,25 +7,27 @@
     "editor.fontFamily": "Source Code Pro",
     "editor.fontSize": 14,
 
-    "files.encoding": "utf8",
+    "files.encoding": "UTF-8",
     "files.eol": "\n",
-    "workbench.startupEditor": "newUntitledFile",
-    "window.restoreWindows": "none",
     "files.hotExit": "off",
-    "files.exclude": {
-        ".localized": true
-    },
+    "window.restoreWindows": "none",
 
-    "editor.cursorBlinking": "smooth",
     "workbench.editor.highlightModifiedTabs": true,
-    "editor.tabCompletion": "on",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.cursorBlinking": "smooth",
+    "editor.renderWhitespace": "boundary",
     "editor.wordWrap": "bounded",
     "editor.rulers": [80],
 
-    "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.fontSize": 14,
+    "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.enableBell": true,
+
+    "files.exclude": {
+        ".localized": true
+    },
 
     "python.formatting.provider": "black",
     "python.linting.enabled": true,
@@ -34,11 +36,4 @@
         "--ignore",
         "W391, E501",
     ],
-
-    "github.copilot.enable": {
-        "*": true,
-        "yaml": false,
-        "plaintext": true,
-        "markdown": false
-    },
 }
