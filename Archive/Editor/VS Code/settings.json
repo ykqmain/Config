@@ -8,14 +8,13 @@
     "editor.fontSize": 14,
     "editor.cursorBlinking": "smooth",
 
-    "files.encoding": "UTF-8",
+    "files.encoding": "utf8",
     "files.eol": "\n",
     "files.hotExit": "off",
     "window.restoreWindows": "none",
 
     "workbench.editor.highlightModifiedTabs": true,
     "editor.tabCompletion": "onlySnippets",
-    "editor.renderWhitespace": "boundary",
     "editor.wordWrap": "bounded",
     "editor.rulers": [80],
 
