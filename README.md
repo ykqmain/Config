@@ -155,11 +155,11 @@
     * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
+    * [HandBrake](https://handbrake.fr) (视频转码器)
     <br>
 
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store]
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store]
-    * [HandBrake](https://handbrake.fr) (converting video)
     * [Blender](https://www.blender.org) (3D creation suite)
     * [Inkscape](https://inkscape.org/zh-hans/) (vector graphics editor) ([~~Krita~~](https://krita.org/zh/)、[~~GIMP~~](https://www.gimp.org)的纪念)
     * [Audacity](https://www.audacityteam.org) (audio editor and recorder)
