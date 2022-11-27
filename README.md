@@ -98,6 +98,8 @@
 
     * [JDK](https://www.oracle.com/java/technologies/downloads/)
 
+    * [Vim](https://www.vim.org)
+
 <br>
 
 2. 浏览器
@@ -138,7 +140,7 @@
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
     <br>
 
-    * [VS Code](https://code.visualstudio.com) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[Vim](https://www.vim.org)、[~~Atom~~](https://atom.io)的纪念)
+    * [VS Code](https://code.visualstudio.com) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~Atom~~](https://atom.io)的纪念)
     * [DBeaver](https://dbeaver.io) ([MySQL](https://dev.mysql.com/downloads/) GUI) ([~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)的纪念)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)
