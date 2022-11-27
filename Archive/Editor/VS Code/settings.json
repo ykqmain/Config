@@ -6,6 +6,7 @@
     "workbench.iconTheme": "vscode-icons",
     "editor.fontFamily": "Source Code Pro",
     "editor.fontSize": 14,
+    "editor.cursorBlinking": "smooth",
 
     "files.encoding": "UTF-8",
     "files.eol": "\n",
@@ -14,7 +15,6 @@
 
     "workbench.editor.highlightModifiedTabs": true,
     "editor.tabCompletion": "onlySnippets",
-    "editor.cursorBlinking": "smooth",
     "editor.renderWhitespace": "boundary",
     "editor.wordWrap": "bounded",
     "editor.rulers": [80],
