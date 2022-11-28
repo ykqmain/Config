@@ -97,7 +97,7 @@
         * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
         * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
 
-    * [JDK](https://www.oracle.com/java/technologies/downloads/)
+    * [Java](https://www.oracle.com/java/technologies/downloads/)
     * [MySQL](https://dev.mysql.com/downloads/)
     * [Vim](https://www.vim.org)
 
