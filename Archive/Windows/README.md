@@ -22,7 +22,6 @@
 
 * [Python](https://www.python.org)
 * [Node.js](https://nodejs.org)
-* [JDK](https://www.oracle.com/java/technologies/downloads/)
 * [Git](https://git-scm.com) ([_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org))
 * [Windows Terminal](https://github.com/microsoft/terminal) ([LLVM-MinGW](https://www.mingw-w64.org/downloads/#llvm-mingw)，[_Microsoft C++ Build Tools_](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/)、[_LLVM_](https://llvm.org)、[_GCC_](https://gcc.gnu.org))
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
