@@ -90,6 +90,7 @@
         * jieba
         * wordcloud
         * python-docx
+        * mysql-connector-python
 
     * [Node.js](https://nodejs.org)
         * `sudo chown -R $(whoami) /usr/local/bin /usr/local/lib /usr/local/include /usr/local/share`
@@ -97,7 +98,7 @@
         * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
 
     * [JDK](https://www.oracle.com/java/technologies/downloads/)
-
+    * [MySQL](https://dev.mysql.com/downloads/)
     * [Vim](https://www.vim.org)
 
 <br>
@@ -141,7 +142,7 @@
     <br>
 
     * [_GitHub.dev_](https://github.com/github/dev) ([VS Code for the Web](https://code.visualstudio.com/docs/editor/vscode-web)) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)的纪念)
-    * [DBeaver](https://dbeaver.io) ([MySQL](https://dev.mysql.com/downloads/) GUI) ([~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Navicat~~](https://www.navicat.com.cn)的纪念)
+    * [DBeaver](https://dbeaver.io) (database tool) ([~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Navicat~~](https://www.navicat.com.cn)的纪念)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
