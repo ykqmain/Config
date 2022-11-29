@@ -23,6 +23,7 @@
 		"LSP-bash",
 		"LSP-clangd",
 		"LSP-css",
+		"LSP-file-watcher-chokidar",
 		"LSP-html",
 		"LSP-jdtls",
 		"LSP-json",
