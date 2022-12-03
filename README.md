@@ -2,7 +2,7 @@
 
 今天看到一个有意思的项目[利器社群计划](https://liqi.io/community/) ，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2022-11**</em></mark>
+<mark><em>**Update: 2022-12**</em></mark>
 
 <br>
 
@@ -57,7 +57,7 @@
 
     * _为什么不是[iTerm2](https://www.iterm2.com)？_ iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，我确实不需要那么多的功能（即使我很怀念iTerm2的选中复制、右键粘贴功能）。
 
-    * **Xcode命令行工具** `xcode-select --install`
+    * **Xcode命令行工具 `xcode-select --install`**
 
     * 终端代理
         * `export http_proxy=http://127.0.0.1:1087;export https_proxy=http://127.0.0.1:1087;export ALL_PROXY=socks5://127.0.0.1:1080`
