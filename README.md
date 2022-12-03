@@ -138,7 +138,7 @@
 4. Developer Tools
 
     * [Xcode](https://developer.apple.com/cn/xcode/) [App Store]
-    * [JetBrains Fleet](https://www.jetbrains.com/zh-cn/fleet/) (from Editor to IDE)
+    * [Fleet](https://www.jetbrains.com/zh-cn/fleet/) (from Editor to IDE)
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
     <br>
 
