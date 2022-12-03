@@ -142,7 +142,7 @@
     <br>
 
     * [_GitHub.dev_](https://github.com/github/dev) [[Web](https://code.visualstudio.com/docs/editor/vscode-web)] (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)的纪念)
-    * [DBeaver](https://dbeaver.io) (database tool) ([~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Navicat~~](https://www.navicat.com.cn)的纪念)
+    * [DBeaver](https://dbeaver.io) (database tool) ([~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com/zh-cn/fleet/)、[~~Navicat~~](https://www.navicat.com.cn)的纪念)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
