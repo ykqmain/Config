@@ -55,7 +55,7 @@
 
     ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
 
-    * _为什么不是[iTerm2](https://www.iterm2.com)？_ iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，我确实不需要那么多的功能。（即使我很怀念iTerm2的选中复制右键粘贴功能）
+    * _为什么不是[iTerm2](https://www.iterm2.com)？_ iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，我确实不需要那么多的功能（即使我很怀念iTerm2的选中复制、右键粘贴功能）。
 
     * **Xcode命令行工具** `xcode-select --install`
 
@@ -138,11 +138,11 @@
 4. Developer Tools
 
     * [Xcode](https://developer.apple.com/cn/xcode/) [App Store]
-    * [Fleet](https://www.jetbrains.com/zh-cn/fleet/) (from Editor to IDE)
+    * [Fleet](https://www.jetbrains.com/zh-cn/fleet/) (from Editor to IDE) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)的纪念)
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
     <br>
 
-    * [DBeaver](https://dbeaver.io) (database tool) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)的纪念)
+    * [DBeaver](https://dbeaver.io) (database tool)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
