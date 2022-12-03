@@ -138,11 +138,11 @@
 4. Developer Tools
 
     * [Xcode](https://developer.apple.com/xcode/) [App Store]
-    * [JetBrains Fleet](https://www.jetbrains.com/zh-cn/fleet/) (from Editor to IDE) ([~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[_GitHub.dev_](https://github.com/github/dev)的纪念)
+    * [JetBrains Fleet](https://www.jetbrains.com/zh-cn/fleet/) (from Editor to IDE)
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
     <br>
 
-    * [DBeaver](https://dbeaver.io) (database tool) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~Navicat~~](https://www.navicat.com.cn)的纪念)
+    * [DBeaver](https://dbeaver.io) (database tool) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Navicat~~](https://www.navicat.com.cn)的纪念)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
