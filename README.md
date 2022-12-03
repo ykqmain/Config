@@ -140,8 +140,6 @@
     * [Xcode](https://developer.apple.com/cn/xcode/) [App Store]
     * [Fleet](https://www.jetbrains.com/zh-cn/fleet/) (from Editor to IDE) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)的纪念)
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    <br>
-
     * [DBeaver](https://dbeaver.io) (database tool)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)
