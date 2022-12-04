@@ -1,3 +1,6 @@
+// compile_flags.txt
+// -std=c++20
+
 #include <iostream>
 
 int main(int argc,char * argv[])
@@ -9,6 +12,3 @@ int main(int argc,char * argv[])
 #endif 
     return 0;
 }
-
-// compile_flags.txt
-// -std=c++20

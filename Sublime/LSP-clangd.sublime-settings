@@ -1,0 +1,11 @@
+// Settings in here override those in "LSP-clangd/LSP-clangd.sublime-settings"
+
+{
+    "initializationOptions": {
+        "fallbackFlags": [
+            // "-xc++",
+            // "-Wall",
+            "-std=c++20",
+        ],
+    }
+}
