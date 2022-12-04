@@ -9,3 +9,6 @@ int main(int argc,char * argv[])
 #endif 
     return 0;
 }
+
+// compile_flags.txt
+// -std=c++20
