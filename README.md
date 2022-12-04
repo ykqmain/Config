@@ -92,13 +92,13 @@
         * python-docx
         * mysql-connector-python
 
+    * [Java](https://www.oracle.com/java/technologies/downloads/)
+
     * [Node.js](https://nodejs.org)
         * `sudo chown -R $(whoami) /usr/local/bin /usr/local/lib /usr/local/include /usr/local/share`
         * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
         * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
 
-    * [Java](https://www.oracle.com/java/technologies/downloads/)
-    * [MySQL](https://dev.mysql.com/downloads/)
     * [Vim](https://www.vim.org)
 
 <br>
@@ -140,7 +140,7 @@
     * [Xcode](https://developer.apple.com/cn/xcode/) [App Store]
     * [Fleet](https://www.jetbrains.com/zh-cn/fleet/) (Editor and IDE) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)的纪念)
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [DBeaver](https://dbeaver.io) (database tool)
+    * [DBeaver](https://dbeaver.io) ([MySQL](https://dev.mysql.com/downloads/) GUI)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
     * [Paw](https://paw.cloud) (API tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
