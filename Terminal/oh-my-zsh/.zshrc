@@ -121,8 +121,8 @@ export RES="\e[0m"
 
 alias sha1='shasum -a 1'
 alias sha256='shasum -a 256'
-# alias clang++="clang++ -std=c++11"
 alias py="python3"
+alias clang++="clang++ -std=c++20"
 
 
 alias cip='curl cip.cc'
