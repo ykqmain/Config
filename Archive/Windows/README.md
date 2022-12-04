@@ -29,7 +29,7 @@
 * [WinMerge](https://winmerge.org)
 <br>
 
-* [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)
+* [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray) [Microsoft Store]
 * [AirPlay Screen Mirroring Receiver](https://apps.microsoft.com/store/detail/airplay-screen-mirroring-receiver/9N1J401VPSN9) [Microsoft Store]
 * [DiskGenius](https://www.diskgenius.cn)
 * [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)
