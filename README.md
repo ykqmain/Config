@@ -76,6 +76,9 @@
         * [you-get](https://you-get.org)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [neofetch](https://github.com/dylanaraps/neofetch)
+        * [Node.js](https://nodejs.org)
+            * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
+            * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
         * [_FFmpeg_](https://www.ffmpeg.org)
 
     * [**Python**](https://www.python.org)
@@ -93,11 +96,6 @@
         * mysql-connector-python
 
     * [Java](https://www.oracle.com/java/technologies/downloads/)
-
-    * [Node.js](https://nodejs.org)
-        * `sudo chown -R $(whoami) /usr/local/bin /usr/local/lib /usr/local/include /usr/local/share`
-        * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
-        * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
 
     * [Vim](https://www.vim.org)
 
