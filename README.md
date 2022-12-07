@@ -71,13 +71,13 @@
             * `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
     * [**Homebrew**](https://brew.sh) (`/opt/homebrew`)
-        * [wget](https://www.gnu.org/software/wget)
-        * [httpie](https://httpie.io)
-        * [you-get](https://you-get.org)
-        * [tree](http://mama.indstate.edu/users/ice/tree)
+        * [Wget](https://www.gnu.org/software/wget)
+        * [HTTPie](https://httpie.io)
+        * [You-Get](https://you-get.org)
+        * [Tree](http://mama.indstate.edu/users/ice/tree)
         * [neofetch](https://github.com/dylanaraps/neofetch)
         * [MySQL](https://dev.mysql.com/downloads/)
-        * [OpenJDK ](https://openjdk.org) ([_Adoptium_](https://adoptium.net/zh-CN/temurin/releases/))
+        * [OpenJDK](https://openjdk.org) ([_Adoptium_](https://adoptium.net/zh-CN/temurin/releases/))
         * [Node.js](https://nodejs.org/zh-cn/)
             * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
