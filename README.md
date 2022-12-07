@@ -96,9 +96,7 @@
         * mysql-connector-python
 
     * [Java](https://www.oracle.com/java/technologies/downloads/)
-
     * [MySQL](https://dev.mysql.com/downloads/)
-
     * [Vim](https://www.vim.org)
 
 <br>
