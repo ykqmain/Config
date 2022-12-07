@@ -173,8 +173,7 @@
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     <br>
 
-    * [OpenEmu](https://openemu.org) [Experimental]
-    * [Ryujinx](https://ryujinx.org)
+    * [OpenEmu](https://openemu.org) [Experimental] ([Ryujinx](https://ryujinx.org))
     * [Steam](https://store.steampowered.com) (playing, discussing, and creating games)
 
 <br>
