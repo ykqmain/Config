@@ -76,7 +76,7 @@
         * [you-get](https://you-get.org)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [neofetch](https://github.com/dylanaraps/neofetch)
-        * [Node.js](https://nodejs.org)
+        * [Node.js](https://nodejs.org/zh-cn/)
             * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
         * [_FFmpeg_](https://www.ffmpeg.org)
