@@ -162,7 +162,7 @@
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store]
     * [Blender](https://www.blender.org) (3D creation suite)
     * [Inkscape](https://inkscape.org/zh-hans/) (vector graphics editor) ([~~Krita~~](https://krita.org/zh/)、[~~GIMP~~](https://www.gimp.org)的纪念)
-    * [Audacity](https://www.audacityteam.org) (audio editor and recorder)
+    * [Audacity](https://github.com/audacity/audacity) (audio editor and recorder)
     * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) [App Store]
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
 <br>

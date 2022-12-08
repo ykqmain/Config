@@ -72,13 +72,12 @@ ZSH_THEME="cleanly"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(zsh-syntax-highlighting zsh-completions zsh-autosuggestions history history-substring-search encode64 extract z git python pip macos sublime web-search)
 
+source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
 # export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
-source $ZSH/oh-my-zsh.sh
-
 
 # COLOR
 export HEI="\e[1;30m"
@@ -90,7 +89,6 @@ export FEN="\e[1;35m"
 export QING="\e[1;36m"
 export BAI="\e[1;37m"
 export RES="\e[0m"
-
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
@@ -119,7 +117,6 @@ alias sha256='shasum -a 256'
 alias py="python3"
 alias clang++="clang++ -std=c++20"
 
-
 alias cip='curl cip.cc'
 function ip(){
     echo -e "${LV}ipip.net${RES}"
@@ -139,13 +136,11 @@ function dl(){
     # http -h www.google.com
 }
 
-
 function gitPush(){
     git add .
     git commit -m "updated: $(date +"%Y-%m-%d %T")"
     git push
 }
-
 
 function b1(){
     echo -e "${LV}更新Homebrew：${RES}"
