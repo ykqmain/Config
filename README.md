@@ -181,7 +181,7 @@
 7. 工具
 
     * [微信](https://weixin.qq.com) [App Store]
-    * [_QQ_](https://im.qq.com) [App Store]
+    * [QQ](https://im.qq.com) [App Store]
     * [_飞书_](https://www.feishu.cn) [Web]
     * [**NetNewsWire**](https://ranchero.com/netnewswire) (RSS阅读器)
     <br>
