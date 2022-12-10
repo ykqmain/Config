@@ -22,7 +22,7 @@
 
 * [Python](https://www.python.org)
 * [Git](https://git-scm.com) ([_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org))
-* [Windows Terminal](https://github.com/microsoft/terminal) ([LLVM-MinGW](https://www.mingw-w64.org/downloads/#llvm-mingw)，[OpenJDK](https://adoptium.net/zh-CN/))
+* [Windows Terminal](https://github.com/microsoft/terminal) ([LLVM-MinGW](https://www.mingw-w64.org/downloads/#llvm-mingw)，[_OpenJDK_](https://adoptium.net/zh-CN/))
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
 * [WinMerge](https://winmerge.org)
 <br>
