@@ -77,7 +77,7 @@
         * [Tree](http://mama.indstate.edu/users/ice/tree)
         * [neofetch](https://github.com/dylanaraps/neofetch)
         * [MySQL](https://dev.mysql.com/downloads/)
-        * [OpenJDK](https://openjdk.org) ([_Adoptium_](https://adoptium.net/zh-CN/temurin/releases/))
+        * [OpenJDK](https://openjdk.org)
         * [Node.js](https://nodejs.org/zh-cn/)
             * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
