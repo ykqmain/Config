@@ -170,6 +170,9 @@
 
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
+    * [爱奇艺](https://www.iqiyi.com) [App Store]
+    * [优酷](https://youku.com) [App Store]
+    * [腾讯视频](https://v.qq.com) [App Store]
     <br>
 
     * [OpenEmu](https://openemu.org) [Experimental] ([Ryujinx](https://ryujinx.org))
