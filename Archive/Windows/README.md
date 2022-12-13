@@ -22,7 +22,7 @@
 
 * [Python](https://www.python.org)
 * [Git](https://git-scm.com) ([_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org))
-* [Windows Terminal](https://github.com/microsoft/terminal) ([LLVM-MinGW](https://www.mingw-w64.org/downloads/#llvm-mingw)，[_AdoptOpenJDK_](https://adoptium.net/zh-CN/temurin/releases/)、[_Node.js_](https://nodejs.org/zh-cn/))
+* [Windows Terminal](https://github.com/microsoft/terminal) ([LLVM-MinGW](https://www.mingw-w64.org/downloads/#llvm-mingw)，[_OpenJDK_](https://adoptium.net/zh-CN/temurin/releases/)、[_Node.js_](https://nodejs.org/zh-cn/))
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
 * [WinMerge](https://winmerge.org)
 <br>
