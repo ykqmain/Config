@@ -79,13 +79,13 @@
         * [MySQL](https://dev.mysql.com/downloads/)
         * [OpenJDK](https://openjdk.org)
         * [Node.js](https://nodejs.org/zh-cn/)
-            * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
         * [_FFmpeg_](https://www.ffmpeg.org)
 
     * [**Python**](https://www.python.org)
         * flake8
         * black
+        * tldr
         * requests
         * beautifulsoup4
         * openpyxl
@@ -135,7 +135,7 @@
 
 4. Developer Tools
 
-    * [Xcode](https://developer.apple.com/cn/xcode/) [App Store] (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[JetBrains Fleet](https://www.jetbrains.com/zh-cn/fleet/))
+    * [Xcode](https://developer.apple.com/cn/xcode/) [App Store] (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com))
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
     * [DBeaver](https://dbeaver.io) (database tool)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
