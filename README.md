@@ -71,21 +71,21 @@
             * `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
     * [**Homebrew**](https://brew.sh) (`/opt/homebrew`)
-        * [Wget](https://www.gnu.org/software/wget)
-        * [HTTPie](https://httpie.io)
-        * [You-Get](https://you-get.org)
-        * [Tree](http://mama.indstate.edu/users/ice/tree)
+        * [wget](https://www.gnu.org/software/wget)
+        * [tree](http://mama.indstate.edu/users/ice/tree)
         * [neofetch](https://github.com/dylanaraps/neofetch)
-        * [MySQL](https://dev.mysql.com/downloads/)
-        * [OpenJDK](https://openjdk.org)
-        * [Node.js](https://nodejs.org/zh-cn/)
+        * [mysql](https://dev.mysql.com/downloads/)
+        * [openjdk](https://openjdk.org)
+        * [node](https://nodejs.org/zh-cn/)
+            * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
-        * [_FFmpeg_](https://www.ffmpeg.org)
+        * [_ffmpeg_](https://www.ffmpeg.org)
 
     * [**Python**](https://www.python.org)
         * flake8
         * black
-        * tldr
+        * httpie
+        * you-get
         * requests
         * beautifulsoup4
         * openpyxl
@@ -135,7 +135,7 @@
 
 4. Developer Tools
 
-    * [Xcode](https://developer.apple.com/cn/xcode/) [App Store] (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com))
+    * [Xcode](https://developer.apple.com/cn/xcode/) [App Store] (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com))
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
     * [DBeaver](https://dbeaver.io) (database tool)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
