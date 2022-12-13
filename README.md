@@ -175,7 +175,7 @@
     * [腾讯视频](https://v.qq.com) [App Store]
     <br>
 
-    * [OpenEmu](https://openemu.org) [Experimental] ([Ryujinx](https://ryujinx.org))
+    * [OpenEmu](https://openemu.org) [Experimental] ([_Ryujinx_](https://ryujinx.org))
     * [Steam](https://store.steampowered.com) (playing, discussing, and creating games)
 
 <br>
