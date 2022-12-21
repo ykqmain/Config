@@ -135,7 +135,7 @@
 
 4. Developer Tools
 
-    * [Xcode](https://developer.apple.com/cn/xcode/) [App Store] (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com))
+    * [Xcode](https://developer.apple.com/cn/xcode/) [App Store] (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com))
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
     * [DBeaver](https://dbeaver.io) (database tool)
     * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
