@@ -31,9 +31,9 @@
 
 * ** MacBook Pro (13-inch, M1, 2020) (16+256) [Anna]**
     * 🖥️ Dell U2720QM
-    * ⌨️ NuPhy Air75
+    *  Magic Keyboard
     *  Magic Trackpad
-    * 🎮 DualSense
+    * 🎮 DualSense Wireless Controller
 
 <br>
 
