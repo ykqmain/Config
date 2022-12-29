@@ -10,11 +10,13 @@
 
 * [7-Zip](https://www.7-zip.org)
 * [Everything](https://www.voidtools.com/zh-cn/)
+* [Paint.NET](https://www.getpaint.net) ([_Adobe Photoshop_](https://www.adobe.com/cn/products/photoshop.html))
 * [Honeyview](https://www.bandisoft.com/honeyview)
 * [VLC](https://www.videolan.org)
+<br>
+
 * [OBS](https://obsproject.com)
 * [HandBrake](https://handbrake.fr)
-* [Paint.NET](https://www.getpaint.net) ([_Adobe Photoshop_](https://www.adobe.com/cn/products/photoshop.html))
 * [Audacity](https://www.audacityteam.org) ([_Adobe Audition_](https://www.adobe.com/cn/products/audition.html))
 * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) ([_Adobe Premiere Pro_](https://www.adobe.com/cn/products/premiere.html))
 * [Steam](https://store.steampowered.com)
@@ -29,8 +31,6 @@
 
 * [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray) [Microsoft Store]
 * [AirPlay Screen Mirroring Receiver](https://apps.microsoft.com/store/detail/airplay-screen-mirroring-receiver/9N1J401VPSN9) [Microsoft Store]
-* [DiskGenius](https://www.diskgenius.cn)
-* [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)
 * [_火绒_](https://www.huorong.cn)
 <br>
 
