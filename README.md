@@ -110,11 +110,12 @@
             * [bilibili plus](https://greasyfork.org/zh-CN/scripts/373172-bilibili-plus)
             * [~~Bilibili AutoWide~~](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
             * [~~bilibili merged flv+mp4+ass+enhance~~](https://greasyfork.org/zh-CN/scripts/372516-bilibili-merged-flv-mp4-ass-enhance)
+            * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
 
     * 情怀 [**Firefox**](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
         * [uBlock Origin](https://github.com/gorhill/uBlock)
         * [Tampermonkey](https://www.tampermonkey.net)
-            * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
+        * [Firefox Translations](https://addons.mozilla.org/zh-CN/firefox/addon/firefox-translations/)
 
 <br>
 
