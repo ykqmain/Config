@@ -30,7 +30,7 @@
     *  AirPods 2
 
 * ** MacBook Pro (13-inch, M1, 2020) (16+256) [Anna]**
-    * 🖥️ Dell U2720QM
+    *  Studio Display
     *  Magic Keyboard
     *  Magic Trackpad
     * 🎮 DualSense Wireless Controller
