@@ -2,7 +2,7 @@
 
 今天看到一个有意思的项目[利器社群计划](https://liqi.io/community/) ，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2022-12**</em></mark>
+<mark><em>**Update: 2023-01**</em></mark>
 
 <br>
 
@@ -171,9 +171,6 @@
 
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
-    * [爱奇艺](https://www.iqiyi.com) [App Store]
-    * [优酷](https://youku.com) [App Store]
-    * [腾讯视频](https://v.qq.com) [App Store]
     <br>
 
     * [OpenEmu](https://openemu.org) [Experimental] ([_Ryujinx_](https://ryujinx.org))
