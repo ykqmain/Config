@@ -116,6 +116,7 @@
         * [uBlock Origin](https://github.com/gorhill/uBlock)
         * [Tampermonkey](https://www.tampermonkey.net)
         * [Firefox Translations](https://addons.mozilla.org/zh-CN/firefox/addon/firefox-translations/)
+        * [Global Speed](https://github.com/polywock/globalSpeed)
 
 <br>
 
