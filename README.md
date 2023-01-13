@@ -113,9 +113,9 @@
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
 
     * 情怀 [**Firefox**](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
+        * [Firefox Translations](https://addons.mozilla.org/zh-CN/firefox/addon/firefox-translations/)
         * [uBlock Origin](https://github.com/gorhill/uBlock)
         * [Tampermonkey](https://www.tampermonkey.net)
-        * [Firefox Translations](https://addons.mozilla.org/zh-CN/firefox/addon/firefox-translations/)
         * [Global Speed](https://github.com/polywock/globalSpeed)
 
 <br>
