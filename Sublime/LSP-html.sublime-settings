@@ -1,4 +1,5 @@
 // Settings in here override those in "LSP-html/LSP-html.sublime-settings"
+
 {
     "selector": "text.html | embedding.php",
     "feature_selector": "text.html - source.php",
