@@ -1,7 +1,7 @@
 {
     // domains to search
     // https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/web-search
-    "domains" : 
+    "domains" :
     [
         {
             "key": "default",
@@ -53,4 +53,3 @@
         }
     ]
 }
-
