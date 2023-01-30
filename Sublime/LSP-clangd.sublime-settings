@@ -1,5 +1,4 @@
 // Settings in here override those in "LSP-clangd/LSP-clangd.sublime-settings"
-
 {
     "binary": "auto",
 

@@ -1,5 +1,4 @@
 // Settings in here override those in "LSP-ltex-ls/LSP-ltex-ls.sublime-settings"
-
 {
     "settings": {
         "ltex.enabled": [

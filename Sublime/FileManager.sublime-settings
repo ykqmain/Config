@@ -4,13 +4,13 @@
         {
             "name": "Terminal",
             "cmd": ["open", "-a", "Terminal", "$cwd"],
-            "platform": "osx"
+            "platform": "osx",
         },
 
         {
             "name": "Windows Terminal",
             "cmd": ["wt", "-d", "."],
-            "platform": "windows"
+            "platform": "windows",
         },
-    ],
+    ]
 }
