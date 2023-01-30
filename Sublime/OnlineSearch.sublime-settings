@@ -50,6 +50,6 @@
         {
             "key": "image",
             "url": "https://www.google.com/search?q={{search_query}}&tbm=isch"
-        }
+        },
     ]
 }
