@@ -1,0 +1,39 @@
+// Settings in here override those in "LSP-ltex-ls/LSP-ltex-ls.sublime-settings"
+
+{
+    "settings": {
+        "ltex.enabled": [
+            "bibtex",
+            "context",
+            "context.tex",
+            "html",
+            "latex",
+            "markdown",
+            "org",
+            "restructuredtext",
+            "rsweave"
+        ],
+        // Enable completition
+        // @see https://valentjn.github.io/ltex/settings.html#ltexcompletionenabled
+        "ltex.completionEnabled": false,
+        // Default language. 
+        // @see https://valentjn.github.io/vscode-ltex/docs/advanced-usage.html#magic-comments
+        // @see https://valentjn.github.io/ltex/settings.html#ltexlanguage
+        // new: "auto" but not recommended
+        "ltex.language": "zh-CN",
+        //Lists of additional words that should not be counted as spelling errors.
+        // @see https://valentjn.github.io/vscode-ltex/docs/settings.html#ltexdictionary
+        "ltex.dictionary": {},
+        // Lists of rules that should be disabled (if enabled by default by LanguageTool).
+        "ltex.disabledRules": {},
+        // Lists of rules that should be enabled (if disabled by default by LanguageTool).
+        "ltex.enabledRules": {},
+        // Lists of false-positive diagnostics to hide 
+        // (by hiding all diagnostics of a specific rule will in a specific sentence).
+        "ltex.hiddenFalsePositives": {},
+        // List of LATEX commands to be handled by the LATEX parser, listed together with empty arguments
+        "ltex.latex.commands": [],
+        // List of names of LATEX environments to be handled by the LATEX parser.
+        "ltex.latex.environments": [],
+    }
+}
