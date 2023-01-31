@@ -1,8 +1,8 @@
-## 利器（2016-01-04）
+## 利器
 
-今天看到一个有意思的项目[利器社群计划](https://liqi.io/community/) ，借此机会我也分享一下自己使用的一些小工具。
+今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/) ，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2023-01**</em></mark>
+<mark><em>**Updated: 2023-01**</em></mark>
 
 <br>
 
@@ -113,10 +113,15 @@
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
 
     * 情怀 [**Firefox**](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
-        * [Firefox Translations](https://addons.mozilla.org/zh-CN/firefox/addon/firefox-translations/)
-        * [uBlock Origin](https://github.com/gorhill/uBlock)
-        * [Tampermonkey](https://www.tampermonkey.net)
-        * [Global Speed](https://github.com/polywock/globalSpeed)
+        * _about:config_
+            * `browser.compactmode.show`
+            * `browser.tabs.closeTabByDblclick`
+            * `browser.newtabpage.pinned`
+        * [_Extensions_](https://addons.mozilla.org/zh-CN/firefox/)
+            * [Firefox Translations](https://addons.mozilla.org/zh-CN/firefox/addon/firefox-translations/)
+            * [uBlock Origin](https://github.com/gorhill/uBlock)
+            * [Tampermonkey](https://www.tampermonkey.net)
+            * [Global Speed](https://github.com/polywock/globalSpeed)
 
 <br>
 
@@ -127,7 +132,7 @@
     * [**Sublime Text**](https://www.sublimetext.com)
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
 
-        * [Package Control](https://packagecontrol.io)：[**myPlugin**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
+        * [_Package Control_](https://packagecontrol.io)：[**myPlugin**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
         * 主题：Adaptive/Mariana
 
