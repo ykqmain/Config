@@ -20,12 +20,12 @@
             "url": "https://zh.wikipedia.org/w/index.php?cirrusUserTesting=control-explorer-i&search={{search_query}}"
         },
         {
-            "key": "百度",
-            "url": "https://www.baidu.com/s?wd={{search_query}}"
+            "key": "GitHub",
+            "url": "https://github.com/search?q={{search_query}}"
         },
         {
-            "key": "百度百科",
-            "url": "https://baike.baidu.com/search?word={{search_query}}"
+            "key": "Bilibili",
+            "url": "https://search.bilibili.com/all?keyword={{search_query}}"
         },
         {
             "key": "豆瓣",
@@ -35,14 +35,7 @@
             "key": "知乎",
             "url": "https://www.zhihu.com/search?q={{search_query}}"
         },
-        {
-            "key": "Bilibili",
-            "url": "https://search.bilibili.com/all?keyword={{search_query}}"
-        },
-        {
-            "key": "GitHub",
-            "url": "https://github.com/search?q={{search_query}}"
-        },
+
         {
             "key": "StackOverFlow",
             "url": "http://stackoverflow.com/search?q={{search_query}}"
