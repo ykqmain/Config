@@ -5,44 +5,43 @@
     [
         {
             "key": "default",
-            "url": "https://www.baidu.com/s?wd={{search_query}}"
+            "url": "https://www.baidu.com/s?wd={{search_query}}",
         },
         {
             "key": "Google",
-            "url": "https://www.google.com/search?q={{search_query}}"
+            "url": "https://www.google.com/search?q={{search_query}}",
         },
         {
             "key": "DuckDuckGo",
-            "url": "https://duckduckgo.com/?q={{search_query}}"
+            "url": "https://duckduckgo.com/?q={{search_query}}",
         },
         {
             "key": "Wikipedia",
-            "url": "https://zh.wikipedia.org/w/index.php?cirrusUserTesting=control-explorer-i&search={{search_query}}"
+            "url": "https://zh.wikipedia.org/w/index.php?cirrusUserTesting=control-explorer-i&search={{search_query}}",
         },
         {
             "key": "GitHub",
-            "url": "https://github.com/search?q={{search_query}}"
+            "url": "https://github.com/search?q={{search_query}}",
         },
         {
             "key": "Bilibili",
-            "url": "https://search.bilibili.com/all?keyword={{search_query}}"
+            "url": "https://search.bilibili.com/all?keyword={{search_query}}",
         },
         {
             "key": "豆瓣",
-            "url": "https://www.douban.com/search?q={{search_query}}"
+            "url": "https://www.douban.com/search?q={{search_query}}",
         },
         {
             "key": "知乎",
-            "url": "https://www.zhihu.com/search?q={{search_query}}"
+            "url": "https://www.zhihu.com/search?q={{search_query}}",
         },
-
         {
             "key": "StackOverFlow",
-            "url": "http://stackoverflow.com/search?q={{search_query}}"
+            "url": "http://stackoverflow.com/search?q={{search_query}}",
         },
         {
             "key": "image",
-            "url": "https://www.google.com/search?q={{search_query}}&tbm=isch"
+            "url": "https://www.google.com/search?q={{search_query}}&tbm=isch",
         },
     ]
 }
