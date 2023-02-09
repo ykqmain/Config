@@ -158,6 +158,9 @@
     * [PDF Expert](https://pdfexpert.com/zh) (PDF工具)
     * [iThoughtsX](https://www.toketaware.com) (思维导图)
     * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] (换掉[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)之后，达成「软件全部正版化」成就😌)
+    <br>
+
+    * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
@@ -170,13 +173,10 @@
     * [Audacity](https://github.com/audacity/audacity) (audio editor and recorder)
     * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) [App Store]
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
+    * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
 <br>
 
 6. 娱乐
-
-    * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
-    * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
-    <br>
 
     * [OpenEmu](https://openemu.org) [Experimental] ([_Ryujinx_](https://ryujinx.org))
     * [Steam](https://store.steampowered.com) (playing, discussing, and creating games)
