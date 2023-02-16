@@ -103,7 +103,7 @@
 
 2. 浏览器
 
-    * 主要 **Safari**
+    * **Safari**
         * [AdBlocker Pro](https://adblockersafari.com) [App Store]
         * [Tampermonkey](https://www.tampermonkey.net) [App Store] ([_Greasy Fork_](https://greasyfork.org/zh-CN))
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
@@ -117,7 +117,7 @@
         * [Tampermonkey](https://www.tampermonkey.net)
         * [Global Speed](https://github.com/polywock/globalSpeed)
 
-    * _情怀_ [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
+    * _情怀主题_ [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
 
 <br>
 
@@ -128,7 +128,7 @@
     * [**Sublime Text**](https://www.sublimetext.com)
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
 
-        * [_Package Control_](https://packagecontrol.io)：[**myPlugin**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
+        * [_Package Control_](https://packagecontrol.io)：[**我的插件**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
         * 主题：Adaptive/Mariana
 
