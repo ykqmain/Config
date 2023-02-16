@@ -103,7 +103,7 @@
 
 2. 浏览器
 
-    * **Safari**
+    * 主要 **Safari**
         * [AdBlocker Pro](https://adblockersafari.com) [App Store]
         * [Tampermonkey](https://www.tampermonkey.net) [App Store] ([_Greasy Fork_](https://greasyfork.org/zh-CN))
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
@@ -112,10 +112,16 @@
             * [~~bilibili merged flv+mp4+ass+enhance~~](https://greasyfork.org/zh-CN/scripts/372516-bilibili-merged-flv-mp4-ass-enhance)
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
 
-    * **_Extensions_**
-        * [uBlock Origin](https://github.com/gorhill/uBlock)
-        * [Tampermonkey](https://www.tampermonkey.net)
-        * [Global Speed](https://github.com/polywock/globalSpeed)
+    * 情怀 [**Firefox**](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
+        * _about:config_
+            * `browser.compactmode.show`
+            * `browser.tabs.closeTabByDblclick`
+            * `browser.newtabpage.pinned`
+        * [_Extensions_](https://addons.mozilla.org/zh-CN/firefox/)
+            * [Firefox Translations](https://addons.mozilla.org/zh-CN/firefox/addon/firefox-translations/)
+            * [uBlock Origin](https://github.com/gorhill/uBlock)
+            * [Tampermonkey](https://www.tampermonkey.net)
+            * [Global Speed](https://github.com/polywock/globalSpeed)
 
 <br>
 
