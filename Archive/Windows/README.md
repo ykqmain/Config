@@ -2,7 +2,7 @@
 
 尽简的Windows软件推荐。
 
-* Microsoft Edge
+* [Microsoft Edge](https://www.microsoft.com/zh-cn/edge)
 * [WPS](https://www.wps.cn)
 * [Sublime Text](https://www.sublimetext.com)
 * [QQ](https://im.qq.com)
