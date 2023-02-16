@@ -112,18 +112,12 @@
             * [~~bilibili merged flv+mp4+ass+enhance~~](https://greasyfork.org/zh-CN/scripts/372516-bilibili-merged-flv-mp4-ass-enhance)
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
 
-    * 情怀 [**Firefox**](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
-        * _about:config_
-            * `browser.compactmode.show`
-            * `browser.tabs.closeTabByDblclick`
-            * `browser.newtabpage.pinned`
-        * _Themes_
-            * [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
-        * _Extensions_
-            * [Firefox Translations](https://addons.mozilla.org/zh-CN/firefox/addon/firefox-translations/)
-            * [uBlock Origin](https://github.com/gorhill/uBlock)
-            * [Tampermonkey](https://www.tampermonkey.net)
-            * [Global Speed](https://github.com/polywock/globalSpeed)
+    * **_Other Browser Extensions_**
+        * [uBlock Origin](https://github.com/gorhill/uBlock)
+        * [Tampermonkey](https://www.tampermonkey.net)
+        * [Global Speed](https://github.com/polywock/globalSpeed)
+
+    * _情怀_ [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
 
 <br>
 
