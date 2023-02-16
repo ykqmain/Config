@@ -117,9 +117,9 @@
             * `browser.compactmode.show`
             * `browser.tabs.closeTabByDblclick`
             * `browser.newtabpage.pinned`
-        * [_Themes_](https://addons.mozilla.org/zh-CN/firefox/themes/)
+        * _Themes_
             * [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
-        * [_Extensions_](https://addons.mozilla.org/zh-CN/firefox/)
+        * _Extensions_
             * [Firefox Translations](https://addons.mozilla.org/zh-CN/firefox/addon/firefox-translations/)
             * [uBlock Origin](https://github.com/gorhill/uBlock)
             * [Tampermonkey](https://www.tampermonkey.net)
