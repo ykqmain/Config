@@ -103,7 +103,7 @@
 
 2. 浏览器
 
-    * **Safari**
+    * [**Safari**](https://www.apple.com/safari/)
         * [AdBlocker Pro](https://adblockersafari.com) [App Store]
         * [Tampermonkey](https://www.tampermonkey.net) [App Store] ([_Greasy Fork_](https://greasyfork.org/zh-CN))
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
