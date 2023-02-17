@@ -116,6 +116,7 @@
         * [uBlock Origin](https://github.com/gorhill/uBlock)
         * [Tampermonkey](https://www.tampermonkey.net)
         * [Global Speed](https://github.com/polywock/globalSpeed)
+        * [几枝](https://github.com/unicar9/jizhi)
 
     * _情怀主题_ [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
 
