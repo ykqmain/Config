@@ -2,7 +2,7 @@
 
 尽简的Windows软件推荐。
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
+* [Microsoft Edge](https://www.microsoft.com/zh-cn/edge) ([Bilibili](https://app.bilibili.com))
 * [WPS](https://www.wps.cn)
 * [Sublime Text](https://www.sublimetext.com)
 * [QQ](https://im.qq.com)
