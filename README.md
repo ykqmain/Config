@@ -119,7 +119,7 @@
              * `browser.tabs.closeTabByDblclick`
              * `browser.newtabpage.pinned`
         * _情怀主题_ [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
-        * **_Extensions_**
+        * _Extensions_
             * [uBlock Origin](https://github.com/gorhill/uBlock)
             * [Tampermonkey](https://www.tampermonkey.net)
             * [Global Speed](https://github.com/polywock/globalSpeed)
