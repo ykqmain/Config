@@ -12,10 +12,6 @@
             "url": "https://www.google.com/search?q={{search_query}}",
         },
         {
-            "key": "Wikipedia",
-            "url": "https://zh.wikipedia.org/w/index.php?cirrusUserTesting=control-explorer-i&search={{search_query}}",
-        },
-        {
             "key": "GitHub",
             "url": "https://github.com/search?q={{search_query}}",
         },
