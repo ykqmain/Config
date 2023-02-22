@@ -113,6 +113,11 @@
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
 
     * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
+        * _about:config_
+             * `browser.aboutConfig.showWarning`
+             * `browser.compactmode.show`
+             * `browser.tabs.closeTabByDblclick`
+             * `browser.newtabpage.pinned`
         * _情怀主题_ [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
         * **_Extensions_**
             * [uBlock Origin](https://github.com/gorhill/uBlock)
