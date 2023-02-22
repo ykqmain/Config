@@ -74,28 +74,28 @@
         * [wget](https://www.gnu.org/software/wget)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [neofetch](https://github.com/dylanaraps/neofetch)
+        * [**Python**](https://www.python.org) (`brew install python-tk@3.11`)
+            * `/opt/homebrew/lib/python3.11/site-packages`
+            * flake8
+            * black
+            * httpie
+            * you-get
+            * requests
+            * beautifulsoup4
+            * openpyxl
+            * pandas
+            * pillow
+            * matplotlib
+            * jieba
+            * wordcloud
+            * python-docx
+            * mysql-connector-python
         * [mysql](https://dev.mysql.com/downloads/)
         * [openjdk](https://openjdk.org)
         * [node](https://nodejs.org/zh-cn/)
             * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
         * [_ffmpeg_](https://www.ffmpeg.org)
-
-    * [**Python**](https://www.python.org)
-        * flake8
-        * black
-        * httpie
-        * you-get
-        * requests
-        * beautifulsoup4
-        * openpyxl
-        * pandas
-        * pillow
-        * matplotlib
-        * jieba
-        * wordcloud
-        * python-docx
-        * mysql-connector-python
 
     * [Vim](https://www.vim.org)
 
@@ -198,11 +198,10 @@
 
     * Amphetamine (Keep Mac awake) [App Store]
     * [**Keka**](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
-    * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
-    * [MonitorControl](https://github.com/MonitorControl/MonitorControl) (Controls external display brightness and volume)
     * [Rectangle](https://github.com/rxhanson/Rectangle) (window management)
     * [Maccy](https://github.com/p0deje/Maccy) (clipboard manager)
-    * [One Thing](https://sindresorhus.com/one-thing) (Put a single task or goal in menu bar) [App Store]
+    * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
+    * [MonitorControl](https://github.com/MonitorControl/MonitorControl) (Controls external display brightness and volume)
     <br>
 
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
