@@ -13,7 +13,7 @@
 
 > 袅袅兮秋风，洞庭波兮木叶下。
 
-也用`Yang`或`楊`这个昵称。🤓
+也用`Yang`这个昵称。🤓
 
 #### 兴趣和爱好：
 
@@ -74,8 +74,7 @@
         * [wget](https://www.gnu.org/software/wget)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [neofetch](https://github.com/dylanaraps/neofetch)
-        * [**Python**](https://www.python.org) (`brew install python-tk@3.11`)
-            * `/opt/homebrew/lib/python3.11/site-packages`
+        * [**Python**](https://www.python.org) (`/opt/homebrew/lib/python3.11/site-packages`)
             * flake8
             * black
             * httpie
