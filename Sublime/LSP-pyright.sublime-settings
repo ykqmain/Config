@@ -1,0 +1,20 @@
+// Settings in here override those in "LSP-pyright/LSP-pyright.sublime-settings"
+
+{
+    "settings": {
+        // Use a predefined setup from this plugin, valid values are:
+        // - "": An empty string does nothing.
+        // - "sublime_text": Suitable for people who are developing ST Python plugins.
+        //                   The Python version which the developed plugin runs on will be used.
+        //                   `sys.path` from plugin_host will be added into "python.analysis.extraPaths"
+        //                   so ST package dependecies can be resolved by the LSP server.
+        // - "sublime_text_33": Similar to "sublime_text" but Python 3.3 forced.
+        // - "sublime_text_38": Similar to "sublime_text" but Python 3.8 forced.
+        "pyright.dev_environment": "",
+
+        // Path to Python. Leave empty to attempt automatic resolution.
+        "python.pythonPath": "/opt/homebrew/bin/python3",
+        // Path to folder with a list of Virtual Environments.
+        "python.venvPath": "",
+    },
+}
