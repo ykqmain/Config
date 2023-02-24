@@ -13,7 +13,7 @@
         "pyright.dev_environment": "",
 
         // Path to Python. Leave empty to attempt automatic resolution.
-        "python.pythonPath": "/opt/homebrew/bin/python3",
+        "python.pythonPath": "python3",
         // Path to folder with a list of Virtual Environments.
         "python.venvPath": "",
     },
