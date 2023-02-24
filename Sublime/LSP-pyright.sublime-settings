@@ -11,7 +11,6 @@
         // - "sublime_text_33": Similar to "sublime_text" but Python 3.3 forced.
         // - "sublime_text_38": Similar to "sublime_text" but Python 3.8 forced.
         "pyright.dev_environment": "",
-
         // Path to Python. Leave empty to attempt automatic resolution.
         "python.pythonPath": "python3",
         // Path to folder with a list of Virtual Environments.
