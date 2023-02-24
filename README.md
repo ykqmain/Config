@@ -57,10 +57,7 @@
 
     * _为什么不是[iTerm2](https://www.iterm2.com)？_ iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，我确实不需要那么多的功能（即使我很怀念iTerm2的选中复制、右键粘贴功能）。
 
-    * **Xcode命令行工具 `xcode-select --install`**
-
-    * 终端代理
-        * `export http_proxy=http://127.0.0.1:1087;export https_proxy=http://127.0.0.1:1087;export ALL_PROXY=socks5://127.0.0.1:1080`
+    * **Xcode命令行工具 `xcode-select --install`** (~~终端代理~~)
 
     * [**oh-my-zsh**](https://ohmyz.sh)
         * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
@@ -77,8 +74,6 @@
         * [**Python**](https://www.python.org) (`/opt/homebrew/lib/python3.11/site-packages`)
             * flake8
             * black
-            * httpie
-            * you-get
             * requests
             * beautifulsoup4
             * openpyxl
@@ -89,6 +84,8 @@
             * wordcloud
             * python-docx
             * mysql-connector-python
+        * [httpie](https://httpie.io)
+        * [you-get](https://you-get.org)
         * [mysql](https://dev.mysql.com/downloads/)
         * [openjdk](https://openjdk.org)
         * [node](https://nodejs.org/zh-cn/)
