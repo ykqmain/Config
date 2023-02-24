@@ -2,7 +2,6 @@
 
 {
     "binary": "auto",
-
     "initializationOptions": {
         "fallbackFlags": [
             "-std=c++20",

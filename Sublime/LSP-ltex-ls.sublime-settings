@@ -36,6 +36,6 @@
         // List of names of LATEX environments to be handled by the LATEX parser.
         "ltex.latex.environments": [],
         // Java path to use. Should point to the JAVA_HOME/bin directory. Currently disabled.
-        "ltex.java.path": ""
+        "ltex.java.path": "",
     }
 }
