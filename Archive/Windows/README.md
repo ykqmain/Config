@@ -4,18 +4,18 @@
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
 * [Sublime Text](https://www.sublimetext.com)
+* [Steam](https://store.steampowered.com)
 * [WPS](https://www.wps.cn)
-* [QQ](https://im.qq.com)
 <br>
 
 * [7-Zip](https://www.7-zip.org)
 * [Everything](https://www.voidtools.com/zh-cn/)
-* [Paint.NET](https://www.getpaint.net) ([_Adobe Photoshop_](https://www.adobe.com/cn/products/photoshop.html))
+* [Paint.NET](https://www.getpaint.net)
 * [Honeyview](https://www.bandisoft.com/honeyview)
 * [VLC](https://www.videolan.org)
+* [QQ](https://im.qq.com)
 <br>
 
-* [Steam](https://store.steampowered.com)
 * [Python](https://www.python.org) ([_LLVM-MinGW_](https://www.mingw-w64.org/downloads/#llvm-mingw)、[_OpenJDK Adoptium_](https://adoptium.net/zh-CN/temurin/releases/)、[_Node.js_](https://nodejs.org/zh-cn/))
 * [WinMerge](https://winmerge.org)
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
