@@ -17,8 +17,8 @@
 <br>
 
 * [Python](https://www.python.org) ([_LLVM-MinGW_](https://www.mingw-w64.org/downloads/#llvm-mingw)、[_OpenJDK Adoptium_](https://adoptium.net/zh-CN/temurin/releases/)、[_Node.js_](https://nodejs.org/zh-cn/))
-* [WinMerge](https://winmerge.org)
-* [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
+* [WinMerge](https://winmerge.org) ([_Git_](https://git-scm.com)、[_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org))
+* [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Windows Terminal](https://github.com/microsoft/terminal))
 <br>
 
 * [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray) [Microsoft Store]
