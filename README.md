@@ -167,7 +167,7 @@
     * [HandBrake](https://handbrake.fr) (视频转码器)
     * [Blender](https://www.blender.org) (3D creation suite) ([~~GIMP~~](https://www.gimp.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/))
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([_Audacity_](https://github.com/audacity/audacity))
-    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[必剪](https://bcut.bilibili.cn))
+    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_必剪_](https://bcut.bilibili.cn))
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
 <br>
