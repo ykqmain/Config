@@ -70,28 +70,30 @@
     * [**Homebrew**](https://brew.sh) (`/opt/homebrew`)
         * [wget](https://www.gnu.org/software/wget)
         * [tree](http://mama.indstate.edu/users/ice/tree)
-        * [neofetch](https://github.com/dylanaraps/neofetch)
-        * [**Python**](https://www.python.org) (`/opt/homebrew/lib/python3.11/site-packages`)
-            * flake8
-            * black
-            * requests
-            * beautifulsoup4
-            * openpyxl
-            * pandas
-            * pillow
-            * matplotlib
-            * jieba
-            * wordcloud
-            * python-docx
-            * mysql-connector-python
         * [httpie](https://httpie.io)
         * [you-get](https://you-get.org)
+        * [neofetch](https://github.com/dylanaraps/neofetch)
         * [mysql](https://dev.mysql.com/downloads/)
         * [openjdk](https://openjdk.org)
         * [node](https://nodejs.org/zh-cn/)
             * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
         * [_ffmpeg_](https://www.ffmpeg.org)
+
+    * [**Python**](https://www.python.org)
+        * flake8
+        * black
+        * httpx
+        * requests
+        * beautifulsoup4
+        * openpyxl
+        * pandas
+        * pillow
+        * matplotlib
+        * jieba
+        * wordcloud
+        * python-docx
+        * mysql-connector-python
 
     * [Vim](https://www.vim.org)
 
