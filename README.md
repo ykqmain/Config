@@ -63,7 +63,7 @@
         * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
             * `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
         * [zsh-completions](https://github.com/zsh-users/zsh-completions)
-            * ` git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:=~/.oh-my-zsh/custom}/plugins/zsh-completions`
+            * `git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:=~/.oh-my-zsh/custom}/plugins/zsh-completions`
         * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
             * `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
@@ -74,8 +74,8 @@
         * [you-get](https://you-get.org)
         * [neofetch](https://github.com/dylanaraps/neofetch)
         * [mysql](https://dev.mysql.com/downloads/)
-        * [openjdk](https://openjdk.org)
-        * [node](https://nodejs.org/zh-cn/)
+        * [openjdk@17](https://openjdk.org)
+        * [node@18](https://nodejs.org/zh-cn/)
             * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
         * [_ffmpeg_](https://www.ffmpeg.org)
@@ -84,8 +84,6 @@
         * flake8
         * black
         * httpx
-        * requests
-        * beautifulsoup4
         * openpyxl
         * pandas
         * pillow
