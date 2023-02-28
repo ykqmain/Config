@@ -84,6 +84,8 @@
         * flake8
         * black
         * httpx
+        * requests
+        * beautifulsoup4
         * openpyxl
         * pandas
         * pillow
