@@ -88,6 +88,7 @@
         * beautifulsoup4
         * Django
         * fastapi
+        * uvicorn
         * openpyxl
         * pandas
         * pillow
