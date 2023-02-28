@@ -86,6 +86,8 @@
         * httpx
         * requests
         * beautifulsoup4
+        * Django
+        * fastapi
         * openpyxl
         * pandas
         * pillow
