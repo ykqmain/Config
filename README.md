@@ -178,7 +178,7 @@
 
 6. 娱乐
 
-    * [OpenEmu](https://openemu.org) [Experimental] ([_Ryujinx_](https://ryujinx.org))
+    * [OpenEmu](https://openemu.org) [Experimental] ([_DeSmuME_](http://desmume.org)、[_Ryujinx_](https://ryujinx.org))
     * [Steam](https://store.steampowered.com) (playing, discussing, and creating games)
 
 <br>
