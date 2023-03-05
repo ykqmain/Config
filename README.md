@@ -197,7 +197,7 @@
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
     * [Rectangle](https://github.com/rxhanson/Rectangle) (window management)
     * [Maccy](https://github.com/p0deje/Maccy) (clipboard manager)
-    * [Unsplash](https://unsplash.com/apps) ([_pap.er_](https://paper.meiyuan.in)) [App Store]
+    * [pap.er](https://paper.meiyuan.in) ([_Unsplash_](https://unsplash.com/apps)) [App Store]
     <br>
 
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
