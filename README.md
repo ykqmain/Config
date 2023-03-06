@@ -40,7 +40,9 @@
 
 ## 软件呢？
 
-**我喜欢精简，系统自带的软件足够好则优先使用；免费或开源的软件其次；最后才是买断制软件；订阅制软件几乎不考虑。在满足自己所需要功能的前提下，将自己的互联网账号数量降到最低，涉及的平台和APP减到最少。**
+**我喜欢精简，在满足自己所需要功能的前提下，将自己的互联网账号数量降到最低，涉及的平台和APP减到最少。**
+
+**系统自带的软件足够好则优先使用；免费或开源的软件其次；最后才是买断制软件；订阅制软件几乎不考虑。**
 
 <br>
 
@@ -60,11 +62,12 @@
 
     * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
         * _about:config_
-             * `browser.aboutConfig.showWarning`
-             * `browser.compactmode.show`
-             * `browser.tabs.closeTabByDblclick`
-             * `browser.newtabpage.pinned`
-        * _情怀主题_ [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
+            * `browser.aboutConfig.showWarning`
+            * `browser.compactmode.show`
+            * `browser.tabs.closeTabByDblclick`
+            * `browser.newtabpage.pinned`
+        * _情怀主题_
+            * [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
         * _Extensions_
             * [Firefox Multi-Account Containers](https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/)
             * [Firefox Translations](https://addons.mozilla.org/zh-CN/firefox/addon/firefox-translations)
@@ -82,7 +85,7 @@
     <br>
 
     * **Xcode命令行工具** `xcode-select --install` (~~终端代理~~)
-
+    * [Vim](https://www.vim.org)
     * [**oh-my-zsh**](https://ohmyz.sh)
         * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
             * `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
@@ -90,8 +93,9 @@
             * `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
         * [zsh-completions](https://github.com/zsh-users/zsh-completions)
             * `git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:=~/.oh-my-zsh/custom}/plugins/zsh-completions`
-        * [~~zsh-history-substring-search~~](https://github.com/zsh-users/zsh-history-substring-search) (已内置，直接开启)
+        * [~~zsh-history-substring-search~~](https://github.com/zsh-users/zsh-history-substring-search) (已内置)
             * `git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search`
+    <br>
 
     * [**Homebrew**](https://brew.sh) (`/opt/homebrew`)
         * [wget](https://www.gnu.org/software/wget)
@@ -106,6 +110,7 @@
             * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
         * [_ffmpeg_](https://www.ffmpeg.org)
+    <br>
 
     * [**Python**](https://www.python.org)
         * flake8
@@ -124,8 +129,6 @@
         * wordcloud
         * python-docx
         * mysql-connector-python
-
-    * [Vim](https://www.vim.org)
 
 <br>
 
@@ -200,6 +203,7 @@
 **如无必要，勿增实体。要钱没有，一切从简。**
 
 <br>
+
 
 ## 推荐一件生活中的利器
 
