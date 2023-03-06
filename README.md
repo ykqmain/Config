@@ -50,13 +50,41 @@
 
 ![](https://github.com/ykqmain/Config/blob/master/Pix/macOS13.png)
 
+1. 浏览器
 
-1. **终端** (Terminal.app)
+    * [**Safari**](https://www.apple.com/safari/)
+        * [AdBlocker Pro](https://adblockersafari.com) [App Store]
+        * [Tampermonkey](https://www.tampermonkey.net) [App Store] ([_Greasy Fork_](https://greasyfork.org/zh-CN))
+            * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
+            * [bilibili plus](https://greasyfork.org/zh-CN/scripts/373172-bilibili-plus)
+            * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
+            * [知乎增强](https://greasyfork.org/zh-CN/scripts/419081-知乎增强)
+
+    * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
+        * _about:config_
+             * `browser.aboutConfig.showWarning`
+             * `browser.compactmode.show`
+             * `browser.tabs.closeTabByDblclick`
+             * `browser.newtabpage.pinned`
+        * _情怀主题_ [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
+        * _Extensions_
+            * [Firefox Multi-Account Containers](https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/)
+            * [Firefox Translations](https://addons.mozilla.org/zh-CN/firefox/addon/firefox-translations)
+            * [uBlock Origin](https://github.com/gorhill/uBlock)
+            * [Tampermonkey](https://www.tampermonkey.net)
+            * [Global Speed](https://github.com/polywock/globalSpeed)
+            * [几枝](https://github.com/unicar9/jizhi)
+
+<br>
+
+2. **终端** (Terminal.app)
 
     ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
-    * _为什么不是[iTerm2](https://www.iterm2.com)？_ iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，我确实不需要那么多的功能（即使我很怀念iTerm2的选中复制、右键粘贴功能）。
 
-    * **Xcode命令行工具 `xcode-select --install`** (~~终端代理~~)
+    * _为什么不是[iTerm2](https://www.iterm2.com)？_ iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴的功能）
+    <br>
+
+    * **Xcode命令行工具** `xcode-select --install` (~~终端代理~~)
 
     * [**oh-my-zsh**](https://ohmyz.sh)
         * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
@@ -101,33 +129,6 @@
         * mysql-connector-python
 
     * [Vim](https://www.vim.org)
-
-<br>
-
-2. 浏览器
-
-    * [**Safari**](https://www.apple.com/safari/)
-        * [AdBlocker Pro](https://adblockersafari.com) [App Store]
-        * [Tampermonkey](https://www.tampermonkey.net) [App Store] ([_Greasy Fork_](https://greasyfork.org/zh-CN))
-            * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
-            * [bilibili plus](https://greasyfork.org/zh-CN/scripts/373172-bilibili-plus)
-            * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
-            * [知乎增强](https://greasyfork.org/zh-CN/scripts/419081-知乎增强)
-
-    * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)
-        * _about:config_
-             * `browser.aboutConfig.showWarning`
-             * `browser.compactmode.show`
-             * `browser.tabs.closeTabByDblclick`
-             * `browser.newtabpage.pinned`
-        * _情怀主题_ [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
-        * _Extensions_
-            * [Firefox Multi-Account Containers](https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/)
-            * [Firefox Translations](https://addons.mozilla.org/zh-CN/firefox/addon/firefox-translations)
-            * [uBlock Origin](https://github.com/gorhill/uBlock)
-            * [Tampermonkey](https://www.tampermonkey.net)
-            * [Global Speed](https://github.com/polywock/globalSpeed)
-            * [几枝](https://github.com/unicar9/jizhi)
 
 <br>
 
@@ -197,12 +198,14 @@
     * [_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具)
     * [**_其他软件_**](https://github.com/ykqmain?tab=stars)
 
+**如无必要，勿增实体。要钱没有，一切从简。**
+
 <br>
 
 
 ## 推荐一件生活中的利器
 
-如无必要，勿增实体。要钱没有，一切从简，生活不可无书。
+生活不可无书。
 
 ![](https://github.com/ykqmain/Config/blob/master/Pix/Mac.jpeg)
 
