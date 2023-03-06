@@ -84,6 +84,7 @@
     * _为什么不是[iTerm2](https://www.iterm2.com)？_ iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴的功能）
     <br>
 
+    * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store]
     * **Xcode命令行工具** `xcode-select --install` (~~终端代理~~)
     <br>
 
@@ -135,9 +136,8 @@
 
 3. Developer Tools
 
-    * [Xcode](https://developer.apple.com/cn/xcode/) [App Store] (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com))
     * [CotEditor](https://coteditor.com) [App Store]
-    * [**Sublime Text**](https://www.sublimetext.com)
+    * [**Sublime Text**](https://www.sublimetext.com) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com))
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
         * [_Package Control_](https://packagecontrol.io)：[**我的插件**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
