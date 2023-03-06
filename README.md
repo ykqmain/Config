@@ -62,17 +62,20 @@
     * [**oh-my-zsh**](https://ohmyz.sh)
         * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
             * `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
-        * [zsh-completions](https://github.com/zsh-users/zsh-completions)
-            * `git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:=~/.oh-my-zsh/custom}/plugins/zsh-completions`
         * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
             * `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+        * [zsh-completions](https://github.com/zsh-users/zsh-completions)
+            * `git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:=~/.oh-my-zsh/custom}/plugins/zsh-completions`
+        * [~~zsh-history-substring-search~~](https://github.com/zsh-users/zsh-history-substring-search)
+            * `git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search`
 
     * [**Homebrew**](https://brew.sh) (`/opt/homebrew`)
         * [wget](https://www.gnu.org/software/wget)
         * [tree](http://mama.indstate.edu/users/ice/tree)
+        * [neofetch](https://github.com/dylanaraps/neofetch)
         * [httpie](https://httpie.io)
         * [you-get](https://you-get.org)
-        * [neofetch](https://github.com/dylanaraps/neofetch)
+        * [duck](https://cyberduck.io)
         * [mysql](https://dev.mysql.com/downloads/)
         * [openjdk@17](https://openjdk.org)
         * [node@18](https://nodejs.org/zh-cn/)
@@ -129,10 +132,9 @@
 
 <br>
 
-3. 编辑器
+3. Developer Tools
 
     * [CotEditor](https://coteditor.com) [App Store]
-
     * [**Sublime Text**](https://www.sublimetext.com)
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
 
@@ -141,10 +143,6 @@
         * 主题：Adaptive/Mariana
 
     * 兜兜转转还是回到了最初的Sublime，并购买License支持了一下。我认为编辑器和IDE一个快而准、一个大而全，IDE集成了编辑器、编译器、解释器、调试器、构建工具、版本管理、终端等开发环境。在我以后的生活和工作中可能不再需要IDE了，转行以后应该不常写代码，估计也就用用Python。Sublime对我而言是足够且有纪念意义的，希望Sublime能一直陪伴我，保持愉悦、不折腾、用就完了。
-
-<br>
-
-4. Developer Tools
 
     * [Xcode](https://developer.apple.com/cn/xcode/) [App Store] (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com))
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
@@ -156,7 +154,7 @@
 
 <br>
 
-5. 效率
+4. 效率与娱乐
 
     * [**WPS Office**](https://www.wps.cn) [App Store]
     * [PDF Expert](https://pdfexpert.com/zh) (PDF工具)
@@ -174,16 +172,14 @@
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_必剪_](https://bcut.bilibili.cn))
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
-<br>
-
-6. 娱乐
+    <br>
 
     * [OpenEmu](https://openemu.org) [Experimental] ([_DeSmuME_](http://desmume.org)、[_Ryujinx_](https://ryujinx.org))
     * [Steam](https://store.steampowered.com) (playing, discussing, and creating games)
 
 <br>
 
-7. 工具
+5. 工具
 
     * [微信](https://weixin.qq.com) [App Store]
     * [_QQ_](https://im.qq.com) [App Store]
