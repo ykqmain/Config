@@ -201,6 +201,8 @@
 
 <br>
 
+![](https://github.com/ykqmain/Config/blob/master/Pix/macOS.png)
+
 **如无必要，勿增实体。要钱没有，一切从简。**
 
 <br>
