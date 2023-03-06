@@ -66,16 +66,16 @@
             * `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
         * [zsh-completions](https://github.com/zsh-users/zsh-completions)
             * `git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:=~/.oh-my-zsh/custom}/plugins/zsh-completions`
-        * [~~zsh-history-substring-search~~](https://github.com/zsh-users/zsh-history-substring-search)
+        * [~~zsh-history-substring-search~~](https://github.com/zsh-users/zsh-history-substring-search) (已内置，直接开启)
             * `git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search`
 
     * [**Homebrew**](https://brew.sh) (`/opt/homebrew`)
         * [wget](https://www.gnu.org/software/wget)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [neofetch](https://github.com/dylanaraps/neofetch)
+        * [duck](https://cyberduck.io)
         * [httpie](https://httpie.io)
         * [you-get](https://you-get.org)
-        * [duck](https://cyberduck.io)
         * [mysql](https://dev.mysql.com/downloads/)
         * [openjdk@17](https://openjdk.org)
         * [node@18](https://nodejs.org/zh-cn/)
@@ -141,14 +141,11 @@
         * [_Package Control_](https://packagecontrol.io)：[**我的插件**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
         * 主题：Adaptive/Mariana
-
-    * 兜兜转转还是回到了最初的Sublime，并购买License支持了一下。我认为编辑器和IDE一个快而准、一个大而全，IDE集成了编辑器、编译器、解释器、调试器、构建工具、版本管理、终端等开发环境。在我以后的生活和工作中可能不再需要IDE了，转行以后应该不常写代码，估计也就用用Python。Sublime对我而言是足够且有纪念意义的，希望Sublime能一直陪伴我，保持愉悦、不折腾、用就完了。
+        * 兜兜转转还是回到了最初的Sublime，并购买License支持了一下。我认为编辑器和IDE一个快而准、一个大而全，IDE集成了编辑器、编译器、解释器、调试器、构建工具、版本管理、终端等开发环境。在我以后的生活和工作中可能不再需要IDE了，转行以后应该不常写代码，估计也就用用Python。Sublime对我而言是足够且有纪念意义的，希望Sublime能一直陪伴我，保持愉悦、不折腾、用就完了。
 
     * [Xcode](https://developer.apple.com/cn/xcode/) [App Store] (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com))
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
     * [DBeaver](https://dbeaver.io) (database tool)
-    * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
-    * [Paw](https://paw.cloud) (API tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
     * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
 
@@ -203,16 +200,10 @@
 
 <br>
 
-![](https://github.com/ykqmain/Config/blob/master/Pix/macOS.png)
-
-**如无必要，勿增实体。要钱没有，一切从简。**
-
-<br>
-
 
 ## 推荐一件生活中的利器
 
-生活不可无书。
+如无必要，勿增实体。要钱没有，一切从简，生活不可无书。
 
-![](https://github.com/ykqmain/Config/blob/master/Pix/sj.jpeg)
+![](https://github.com/ykqmain/Config/blob/master/Pix/Mac.HEIC)
 
