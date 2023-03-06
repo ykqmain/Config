@@ -40,9 +40,7 @@
 
 ## 软件呢？
 
-**我喜欢精简，系统自带的软件足够好则优先使用；免费或开源的软件其次；最后才是买断制软件；订阅制软件几乎不考虑。**
-
-**在满足自己所需要功能的前提下，将自己的互联网账号数量降到最低，涉及的平台和APP减到最少。**
+**我喜欢精简，系统自带的软件足够好则优先使用；免费或开源的软件其次；最后才是买断制软件；订阅制软件几乎不考虑。在满足自己所需要功能的前提下，将自己的互联网账号数量降到最低，涉及的平台和APP减到最少。**
 
 <br>
 
@@ -50,7 +48,7 @@
 
 ![](https://github.com/ykqmain/Config/blob/master/Pix/macOS13.png)
 
-1. 浏览器
+1. **浏览器**
 
     * [**Safari**](https://www.apple.com/safari/)
         * [AdBlocker Pro](https://adblockersafari.com) [App Store]
@@ -77,10 +75,9 @@
 
 <br>
 
-2. **终端** (Terminal.app)
+2. 终端 (Terminal.app)
 
     ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
-
     * _为什么不是[iTerm2](https://www.iterm2.com)？_ iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴的功能）
     <br>
 
@@ -198,10 +195,11 @@
     * [_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具)
     * [**_其他软件_**](https://github.com/ykqmain?tab=stars)
 
+<br>
+
 **如无必要，勿增实体。要钱没有，一切从简。**
 
 <br>
-
 
 ## 推荐一件生活中的利器
 
