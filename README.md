@@ -85,7 +85,7 @@
     <br>
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store]
-    * **Xcode命令行工具** `xcode-select --install` (~~终端代理~~)
+    * **Command Line Tools** `xcode-select --install` (~~终端代理~~)
     <br>
 
     * [**oh-my-zsh**](https://ohmyz.sh)
