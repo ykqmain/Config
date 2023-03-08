@@ -103,9 +103,9 @@
         * [wget](https://www.gnu.org/software/wget)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [neofetch](https://github.com/dylanaraps/neofetch)
-        * [duck](https://cyberduck.io)
         * [httpie](https://httpie.io)
         * [you-get](https://you-get.org)
+        * [duck](https://cyberduck.io)
         * [mysql](https://dev.mysql.com/downloads/)
         * [openjdk@17](https://openjdk.org)
         * [node@18](https://nodejs.org/zh-cn/)
@@ -120,7 +120,7 @@
         * httpx
         * requests
         * beautifulsoup4
-        * Django
+        * django
         * fastapi
         * uvicorn
         * openpyxl
