@@ -3,7 +3,7 @@
     "themed_title_bar": true,
     "font_face": "Source Code Pro",
     // "font_face": "思源等宽",
-    "font_size": 15,
+    "font_size": 14,
 
     "default_encoding": "UTF-8",
     "default_line_ending": "unix",
