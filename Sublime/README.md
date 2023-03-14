@@ -7,7 +7,6 @@
 ```
 .
 ├── Snippet
-│ ├── HTML
 │ └── Python
 └── Theme
 ```
