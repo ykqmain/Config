@@ -62,7 +62,7 @@
             * [bilibili plus](https://greasyfork.org/zh-CN/scripts/373172-bilibili-plus)
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
 
-    * **Extensions** (_情怀主题_ [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/))
+    * **其他扩展** (_情怀主题_ [_A Web Browser Renaissance_](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/))
         * [uBlock Origin](https://github.com/gorhill/uBlock)
         * [Tampermonkey](https://www.tampermonkey.net)
         * [Global Speed](https://github.com/polywock/globalSpeed)
