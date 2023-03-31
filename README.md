@@ -29,7 +29,7 @@
     *  Studio Display
     *  Magic Keyboard
     *  Magic Trackpad
-    * DualSense Wireless Controller
+    * DualSense™ Wireless Controller
 
 <br>
 
