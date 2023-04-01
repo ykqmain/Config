@@ -91,6 +91,7 @@
         * [httpie](https://httpie.io)
         * [you-get](https://you-get.org)
         * [duck](https://cyberduck.io)
+        * [pandoc](https://www.pandoc.org)
         * [mysql](https://dev.mysql.com/downloads/)
         * [openjdk@17](https://openjdk.org)
         * [node@18](https://nodejs.org/zh-cn/)
