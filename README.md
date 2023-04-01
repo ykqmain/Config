@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/) ，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Updated: 2023-03**</em></mark>
+<mark><em>**Updated: 2023-04**</em></mark>
 
 <br>
 
@@ -55,7 +55,7 @@
             * [bilibili plus](https://greasyfork.org/zh-CN/scripts/373172-bilibili-plus)
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
 
-    * **其他扩展** (_情怀主题_ [_A Web Browser Renaissance_](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/))
+    * **其他扩展** ([Chrome](https://www.google.com/chrome/)、[Edge](https://www.microsoft.com/zh-cn/edge)、[Arc](https://arc.net)、[Firefox](https://www.mozilla.org/en-US/firefox/all/)(_情怀主题_ [~~_A Web Browser Renaissance_~~](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)))
         * [uBlock Origin](https://github.com/gorhill/uBlock)
         * [Tampermonkey](https://www.tampermonkey.net)
         * [Global Speed](https://github.com/polywock/globalSpeed)
@@ -197,5 +197,5 @@
 
 生活不可无书。
 
-![](https://github.com/ykqmain/Config/blob/master/Pix/Mac.jpeg)
+![](https://github.com/ykqmain/Config/blob/master/Pix/sj.jpeg)
 
