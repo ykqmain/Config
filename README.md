@@ -55,7 +55,7 @@
             * [bilibili plus](https://greasyfork.org/zh-CN/scripts/373172-bilibili-plus)
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
 
-    * **Chromium** ([Chrome](https://www.google.com/chrome/)、[Edge](https://www.microsoft.com/zh-cn/edge)、[Arc](https://arc.net)) ([~~_情怀主题_~~](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/))
+    * [**Chromium**](https://www.chromium.org) ([Chrome](https://www.google.com/chrome/)、[Edge](https://www.microsoft.com/zh-cn/edge)、[Arc](https://arc.net)) ([~~_情怀主题_~~](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/))
         * [uBlock Origin](https://github.com/gorhill/uBlock)
         * [Tampermonkey](https://www.tampermonkey.net)
         * [Global Speed](https://github.com/polywock/globalSpeed)
