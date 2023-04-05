@@ -20,7 +20,6 @@
         "LSP",
         "LSP-bash",
         "LSP-clangd",
-        "LSP-file-watcher-chokidar",
         "LSP-json",
         "LSP-ltex-ls",
         "LSP-pyright",
