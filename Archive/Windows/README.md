@@ -2,7 +2,7 @@
 
 尽简的Windows软件推荐。
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Chrome_](https://www.google.com/chrome/)、[_Edge_](https://www.microsoft.com/zh-cn/edge)、[_Arc_](https://arc.net))
+* [Firefox](https://www.mozilla.org/en-US/firefox/all/)
 * [WPS](https://www.wps.cn)
 * [Sublime Text](https://www.sublimetext.com)
 * [Steam](https://store.steampowered.com)
