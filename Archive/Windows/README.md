@@ -2,7 +2,7 @@
 
 尽简的Windows软件推荐。
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/all/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/))
 * [WPS](https://www.wps.cn)
 * [Sublime Text](https://www.sublimetext.com)
 * [Steam](https://store.steampowered.com)
