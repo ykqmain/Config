@@ -151,7 +151,7 @@
     * [**WPS Office**](https://www.wps.cn) [App Store]
     * [PDF Expert](https://pdfexpert.com/zh) (PDF工具)
     * [iThoughtsX](https://www.toketaware.com) (思维导图)
-    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] (换掉[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)之后，达成「软件全部正版化」成就😌)
+    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/)，换掉[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)之后，达成「软件全部正版化」成就😌)
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     <br>
 
@@ -165,7 +165,7 @@
     * [Audacity](https://www.audacityteam.org) (音频编辑和录音)
     * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) (视频剪辑) [App Store] ([_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
     * [HandBrake](https://handbrake.fr) (视频转码器) ([_Gifski_](https://sindresorhus.com/gifski))
-    * [Blender](https://www.blender.org) (3D creation suite) ([~~GIMP~~](https://www.gimp.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/))
+    * [Blender](https://www.blender.org) (3D creation suite)
     <br>
 
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
