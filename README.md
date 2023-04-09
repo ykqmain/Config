@@ -163,7 +163,7 @@
 
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏) ([~~LICEcap~~](https://www.cockos.com/licecap/)、[~~Kap~~](https://getkap.co))
     * [Audacity](https://www.audacityteam.org) (音频编辑和录音)
-    * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) [App Store] ([_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
+    * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) (视频剪辑) [App Store] ([_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
     * [HandBrake](https://handbrake.fr) (视频转码器) ([_Gifski_](https://sindresorhus.com/gifski))
     * [Blender](https://www.blender.org) (3D creation suite) ([~~GIMP~~](https://www.gimp.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/))
     <br>
