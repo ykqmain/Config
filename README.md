@@ -157,11 +157,11 @@
     * [VLC](https://www.videolan.org) (播放器)
     <br>
 
-    * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
-    * [HandBrake](https://handbrake.fr) (视频转码器)
+    * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏) ([~~LICEcap~~](https://www.cockos.com/licecap/)、[~~Kap~~](https://getkap.co))
+    * [HandBrake](https://handbrake.fr) (视频转码器) ([_Gifski_](https://sindresorhus.com/gifski))
     * [Blender](https://www.blender.org) (3D creation suite) ([~~GIMP~~](https://www.gimp.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/))
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([_Audacity_](https://github.com/audacity/audacity))
-    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_必剪_](https://bcut.bilibili.cn)、[_剪映_](https://www.capcut.cn))
+    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     <br>
@@ -185,8 +185,10 @@
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
     * [Rectangle](https://github.com/rxhanson/Rectangle) (window management)
     * [Maccy](https://github.com/p0deje/Maccy) (clipboard manager)
-    * [pap.er](https://paper.photos) ([_Unsplash_](https://unsplash.com/apps)) [App Store]
+    * [Pure Paste](https://sindresorhus.com/pure-paste) [App Store]
+    * [One Thing](https://sindresorhus.com/one-thing) [App Store]
     * [Mactracker](https://mactracker.ca) [App Store]
+    * [pap.er](https://paper.photos) ([_Unsplash_](https://unsplash.com/apps)) [App Store]
     <br>
 
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
