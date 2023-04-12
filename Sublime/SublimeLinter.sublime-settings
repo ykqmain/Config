@@ -1,4 +1,3 @@
-// SublimeLinter Settings - User
 {
     // Set to true to print extra information in the console.
     "debug": false,
@@ -253,4 +252,3 @@
         "pythonimproved": "python"
     }
 }
-

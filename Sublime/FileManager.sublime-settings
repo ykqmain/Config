@@ -1,4 +1,3 @@
-// Your settings for FileManager. See the default file to see the different options. 
 {
 
     // when deleting files/folders, the user will be asked for
@@ -122,4 +121,3 @@
     "create_keybinding_enabled": true
 
 }
-

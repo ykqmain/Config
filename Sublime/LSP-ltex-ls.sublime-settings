@@ -1,5 +1,3 @@
-// Settings in here override those in "LSP-ltex-ls/LSP-ltex-ls.sublime-settings"
-
 {
     // We start this language server when we open LaTex, BibTex and Markdown files.
     "selector": "text.tex, text.bibtex, text.html.markdown, text.restructuredtext",
@@ -101,4 +99,3 @@
         "ltex.java.path": ""
     }
 }
-
