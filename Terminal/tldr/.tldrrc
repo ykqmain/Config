@@ -1,19 +1,19 @@
 {
-  "themes": {
-    "ocean": {
-      "commandName": "bold, cyan",
-      "mainDescription": "",
-      "exampleDescription": "green",
-      "exampleCode": "cyan",
-      "exampleToken": "dim"
+    "themes": {
+        "ocean": {
+            "commandName": "bold, cyan",
+            "mainDescription": "",
+            "exampleDescription": "green",
+            "exampleCode": "cyan",
+            "exampleToken": "dim"
+        },
+        "myTheme": {
+            "commandName": "bold, yellow",
+            "mainDescription": "italic, magenta",
+            "exampleDescription": "blue",
+            "exampleCode": "green",
+            "exampleToken": "dim"
+        }
     },
-    "myTheme": {
-      "commandName": "bold, yellow",
-      "mainDescription": "italic, magenta",
-      "exampleDescription": "blue",
-      "exampleCode": "green",
-      "exampleToken": "dim"
-    }
-  },
-  "theme": "myTheme"
+    "theme": "myTheme"
 }

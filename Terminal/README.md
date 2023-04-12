@@ -4,7 +4,7 @@
 
 ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
 
-* 字体 [SourceCodePro-Regular 14](https://github.com/adobe-fonts/source-code-pro)
+* 字体 [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 * 窗口大小 120 * 36
 
 <br>
