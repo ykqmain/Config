@@ -1,3 +1,27 @@
 {
-    "format_on_save": "smart",
+   // Whether to automatically format the entire document when saving.
+   // There are three modes:
+   //    - true (deprecated)
+   //    - false (deprecated)
+   //    - "on"
+   //    - "off"
+   //    - "smart": Automatic formatting is only enabled if there is a `black` section in the project's `pyproject.toml`
+   "format_on_save": "smart",
+   // Black [OPTIONS]
+   // The priority of loading options for Black is:
+   // Sublime project settings > Configuration file > Sublime package user settings > Sublime package default settings
+   "options": {
+      // Python versions that should be supported by Black's output.
+      "target_version": [],
+      // How many characters per line to allow.
+      "line_length": 88,
+      // Format all input files like typing stubs regardless of file extension (useful when piping source on standard input).
+      "is_pyi": false,
+      // Skip the first line of the source code.
+      "skip_source_first_line": false,
+      // Don't normalize string quotes or prefixes.
+      "skip_string_normalization": false,
+      // Don't use trailing commas as a reason to split lines.
+      "skip_magic_trailing_comma": false
+   }
 }
