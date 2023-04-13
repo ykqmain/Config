@@ -57,8 +57,9 @@
 
     * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/) ([_Chrome_](https://www.google.com/chrome/)、[_Arc_](https://arc.net))
         * _about:config_
-            * `browser.compactmode.show`
             * `browser.tabs.closeTabByDblclick`
+            * `browser.compactmode.show`
+            * `extensions.pocket.enabled`
         * _情怀主题_
             * [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
         * _Extensions_
