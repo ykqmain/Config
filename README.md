@@ -55,7 +55,7 @@
             * [bilibili plus](https://greasyfork.org/zh-CN/scripts/373172-bilibili-plus)
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
 
-    * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/) ([_Chrome_](https://www.google.com/chrome/)、[_Edge_](https://www.microsoft.com/zh-cn/edge)、[_Arc_](https://arc.net))
+    * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/) ([_Chrome_](https://www.google.com/chrome/)、[_Arc_](https://arc.net))
         * _about:config_
             * `browser.compactmode.show`
             * `browser.tabs.closeTabByDblclick`

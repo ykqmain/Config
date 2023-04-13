@@ -2,7 +2,7 @@
 
 尽简的Windows软件推荐。
 
-* [Edge](https://www.microsoft.com/zh-cn/edge)
+* [**Firefox**](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/)、[_Edge_](https://www.microsoft.com/zh-cn/edge))
 * [WPS](https://www.wps.cn)
 * [Sublime Text](https://www.sublimetext.com)
 * [Steam](https://store.steampowered.com)
