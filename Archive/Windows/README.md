@@ -5,7 +5,6 @@
 * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/))
 * [WPS](https://www.wps.cn)
 * [Sublime Text](https://www.sublimetext.com)
-* [Steam](https://store.steampowered.com)
 <br>
 
 * [QQ](https://im.qq.com)
@@ -21,6 +20,7 @@
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Microsoft Edge](https://www.microsoft.com/zh-cn/edge)、[Windows Terminal](https://github.com/microsoft/terminal))
 <br>
 
+* [Steam](https://store.steampowered.com)
 * [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray) [Microsoft Store]
 * [AirPlay Screen Mirroring Receiver](https://apps.microsoft.com/store/detail/airplay-screen-mirroring-receiver/9N1J401VPSN9) [Microsoft Store]
 * [_火绒_](https://www.huorong.cn)
