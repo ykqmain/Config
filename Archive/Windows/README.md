@@ -3,7 +3,7 @@
 尽简的Windows软件推荐。
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/))
-* [WPS](https://www.wps.cn)
+* [WPS Office](https://www.wps.cn)
 * [Sublime Text](https://www.sublimetext.com)
 <br>
 
@@ -11,7 +11,7 @@
 * [7-Zip](https://www.7-zip.org)
 * [Everything](https://www.voidtools.com/zh-cn/)
 * [Paint.NET](https://www.getpaint.net)
-* [Honeyview](https://www.bandisoft.com/honeyview)
+* [Honeyview](https://www.bandisoft.com/honeyview/)
 * [VLC](https://www.videolan.org)
 <br>
 
