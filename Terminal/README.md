@@ -1,6 +1,6 @@
 ## Apple Terminal
 
-基于 "One Dark" 和 [中国色](http://zhongguose.com) 修改的**国风（GuoFeng）**主题。
+基于 "One Dark" 和 [中国色](http://zhongguose.com) 修改的 **国风（GuoFeng）**主题。
 
 ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
 
