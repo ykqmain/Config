@@ -75,7 +75,7 @@
 2. Terminal.app ([Vim](https://www.vim.org))
 
     ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
-    * _为什么不是[iTerm2](https://www.iterm2.com)？_ iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制和[Shell Integration](https://iterm2.com/documentation-shell-integration.html)功能）
+    * _为什么不是[iTerm2](https://www.iterm2.com)？_ iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
     <br>
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store]
