@@ -97,14 +97,14 @@
         * [wget](https://www.gnu.org/software/wget)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [neofetch](https://github.com/dylanaraps/neofetch)
-        * [httpie](https://httpie.io)
+        * [tldr](https://github.com/tldr-pages/tldr)
         * [you-get](https://you-get.org)
+        * [httpie](https://httpie.io)
         * [duck](https://cyberduck.io)
         * [pandoc](https://www.pandoc.org)
         * [mysql](https://dev.mysql.com/downloads/)
         * [openjdk@17](https://openjdk.org)
         * [node@18](https://nodejs.org/zh-cn/)
-            * [tldr](https://github.com/tldr-pages/tldr) `npm install -g tldr`
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
         * [_ffmpeg_](https://www.ffmpeg.org)
     <br>
@@ -156,21 +156,19 @@
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     <br>
 
-    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store]
-    * [iMovie](https://www.apple.com.cn/imovie/) [App Store]
+    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([_Audacity_](https://www.audacityteam.org))
+    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
     * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
     <br>
 
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏) ([~~LICEcap~~](https://www.cockos.com/licecap/)、[~~Kap~~](https://getkap.co))
-    * [Audacity](https://www.audacityteam.org) (音频编辑和录音)
-    * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) (视频剪辑) [App Store] ([_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
     * [HandBrake](https://handbrake.fr) (视频转码器) ([_Gifski_](https://sindresorhus.com/gifski))
     * [Blender](https://www.blender.org) (3D creation suite)
-    <br>
-
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
+    <br>
+
     * [OpenEmu](https://openemu.org) [Experimental] ([~~DeSmuME~~](http://desmume.org)、[~~Ryujinx~~](https://ryujinx.org))
     * [Steam](https://store.steampowered.com) (playing, discussing, and creating games)
 
