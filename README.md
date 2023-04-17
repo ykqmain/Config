@@ -160,15 +160,13 @@
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
     * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
+    * [HandBrake](https://handbrake.fr) (视频转码器) ([_Gifski_](https://sindresorhus.com/gifski))
+    * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏) ([~~LICEcap~~](https://www.cockos.com/licecap/)、[~~Kap~~](https://getkap.co))
+    * [Blender](https://www.blender.org) (3D creation suite)
     <br>
 
-    * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏) ([~~LICEcap~~](https://www.cockos.com/licecap/)、[~~Kap~~](https://getkap.co))
-    * [HandBrake](https://handbrake.fr) (视频转码器) ([_Gifski_](https://sindresorhus.com/gifski))
-    * [Blender](https://www.blender.org) (3D creation suite)
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
-    <br>
-
     * [OpenEmu](https://openemu.org) [Experimental] ([~~DeSmuME~~](http://desmume.org)、[~~Ryujinx~~](https://ryujinx.org))
     * [Steam](https://store.steampowered.com) (playing, discussing, and creating games)
 
