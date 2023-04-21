@@ -103,8 +103,9 @@
         * [duck](https://cyberduck.io)
         * [pandoc](https://www.pandoc.org)
         * [mysql](https://dev.mysql.com/downloads/)
-        * [openjdk@17](https://openjdk.org)
-        * [node@18](https://nodejs.org/zh-cn/)
+        * [openjdk](https://openjdk.org)
+            * `sudo ln -sfn /opt/homebrew/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk`
+        * [node](https://nodejs.org/zh-cn/)
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
         * [_ffmpeg_](https://www.ffmpeg.org)
         * [_Gifski_](https://gif.ski)
