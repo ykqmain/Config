@@ -178,6 +178,7 @@
     * [微信](https://weixin.qq.com) [App Store]
     * [_QQ_](https://im.qq.com) [App Store]
     * [_飞书_](https://www.feishu.cn) [Web]
+    * [_Discord_](https://discord.com) [Web]
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     * [**NetNewsWire**](https://ranchero.com/netnewswire) (RSS阅读器)
     <br>
