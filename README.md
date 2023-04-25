@@ -164,7 +164,7 @@
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
     * [HandBrake](https://handbrake.fr) (视频转码器)
-    * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) (视频剪辑) [App Store]
+    * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) (视频剪辑) [App Store] ([_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn)、[_Shotcut_](https://shotcut.org)、[_OpenShot_](https://www.openshot.org)、[_Kdenlive_](https://kdenlive.org/zh/))
     * [Blender](https://www.blender.org) (3D creation suite)
     <br>
 
