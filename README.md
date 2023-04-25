@@ -157,12 +157,14 @@
     * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/)，换掉[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)之后达成「软件全部正版化」成就😌)
     <br>
 
+    * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store]
-    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve))
+    * [iMovie](https://www.apple.com.cn/imovie/) [App Store]
     * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
     * [HandBrake](https://handbrake.fr) (视频转码器)
+    * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) (视频剪辑) [App Store]
     * [Blender](https://www.blender.org) (3D creation suite)
     <br>
 
@@ -176,10 +178,9 @@
 5. 工具
 
     * [微信](https://weixin.qq.com) [App Store]
-    * [_QQ_](https://im.qq.com) [App Store]
+    * [QQ](https://im.qq.com) [App Store]
     * [_飞书_](https://www.feishu.cn) [Web]
     * [_Discord_](https://discord.com) [Web]
-    * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     * [**NetNewsWire**](https://ranchero.com/netnewswire) (RSS阅读器)
     <br>
 
