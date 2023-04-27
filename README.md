@@ -154,7 +154,7 @@
     * [**WPS Office**](https://www.wps.cn) [App Store]
     * [PDF Expert](https://pdfexpert.com/zh) (PDF工具)
     * [iThoughtsX](https://www.toketaware.com) (思维导图)
-    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/)，换掉[~~Adobe Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)之后达成「软件全部正版化」成就😌)
+    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/)，换掉[~~Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)后达成「软件全部正版化」成就😌)
     <br>
 
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
@@ -164,7 +164,7 @@
     * [HandBrake](https://handbrake.fr) (视频转码器)
     * [Blender](https://www.blender.org) (3D creation suite)
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store]
-    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn)、[_Shotcut_](https://shotcut.org)、[_OpenShot_](https://www.openshot.org)、[_Kdenlive_](https://kdenlive.org/zh/))
+    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
     <br>
 
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
