@@ -158,14 +158,13 @@
     <br>
 
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
-    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store]
-    * [iMovie](https://www.apple.com.cn/imovie/) [App Store]
     * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
     * [HandBrake](https://handbrake.fr) (视频转码器)
-    * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) (视频剪辑) [App Store] ([_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn)、[_Shotcut_](https://shotcut.org)、[_OpenShot_](https://www.openshot.org)、[_Kdenlive_](https://kdenlive.org/zh/))
     * [Blender](https://www.blender.org) (3D creation suite)
+    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store]
+    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn)、[_Shotcut_](https://shotcut.org)、[_OpenShot_](https://www.openshot.org)、[_Kdenlive_](https://kdenlive.org/zh/))
     <br>
 
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
