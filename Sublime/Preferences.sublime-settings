@@ -17,8 +17,9 @@
     // specific settings file, for example, "Preferences (Linux).sublime-settings".
     // Because of this, setting them here will have no effect: you must set them
     // in your User File Preferences.
-    "font_face": "",
-    "font_size": 10,
+    "font_face": "Source Code Pro",
+    // "font_face": "思源等宽",
+    "font_size": 14,
 
     // Valid options on all platforms are:
     //  - "no_bold": Disables bold text
@@ -51,7 +52,7 @@
     "theme_font_options": [],
 
     // Characters that are considered to separate words
-    "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
+    "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?（《【，。—·…！￥：；‘“”’？、】》）",
 
     // Characters that are considered to separate sub-words
     "sub_word_separators": "_",
@@ -85,7 +86,7 @@
 
     // Columns in which to display vertical rulers. You can also pair the column
     // with a ruler style (See "ruler_style"), eg: [[80, "solid"]]
-    "rulers": [],
+    "rulers": [80],
 
     // Controls how ruler lines are drawn
     // - "dotted": Drawn as a dotted line
@@ -100,7 +101,7 @@
     "tab_size": 4,
 
     // Set to true to insert spaces when tab is pressed
-    "translate_tabs_to_spaces": false,
+    "translate_tabs_to_spaces": true,
 
     // If translate_tabs_to_spaces is true, use_tab_stops will make tab and
     // backspace and delete insert/delete up to the next tabstop
@@ -127,7 +128,7 @@
     // Disables horizontal scrolling if enabled.
     // May be set to true, false, or "auto", where it will be disabled for
     // source code, and otherwise enabled.
-    "word_wrap": "auto",
+    "word_wrap": true,
 
     // Set to a value other than 0 to force wrapping at that column rather than
     // the window width. See "wrap_width_style" for extra options.
@@ -161,7 +162,7 @@
     // Set to true to draw a border around the visible rectangle on the minimap.
     // The color of the border will be determined by the "minimap_border" key
     // in the color scheme
-    "draw_minimap_border": false,
+    "draw_minimap_border": true,
 
     // Always visualise the viewport on the minimap, as opposed to only
     // showing it on mouse over
@@ -171,7 +172,7 @@
     "minimap_horizontal_scrolling": false,
 
     // If enabled, will highlight any line with a caret
-    "highlight_line": false,
+    "highlight_line": true,
 
     // If enabled, will highlight the gutter for any line with a caret
     "highlight_gutter": true,
@@ -182,7 +183,7 @@
 
     // Valid values are "smooth", "phase", "blink" and "solid". Previous
     // versions of Sublime Text used "smooth" by default.
-    "caret_style": "solid",
+    "caret_style": "smooth",
 
     // These settings control the size of the caret
     "caret_extra_top": 4,
@@ -292,7 +293,7 @@
     // - ["all", "selection_none"]:
     //     Inverse of the default. Draw white space everywhere except under the
     //     selection.
-    "draw_white_space": ["selection"],
+    "draw_white_space": ["selection", "trailing", "isolated"],
 
     // Controls how non-ascii white space is drawn.
     // - "none": Draw unicode white space verbatim, eg. hiding zero-width
@@ -376,7 +377,7 @@
     // Determines what character(s) are used to terminate each line in new files.
     // Valid values are 'system' (whatever the OS uses), 'windows' (CRLF) and
     // 'unix' (LF only).
-    "default_line_ending": "system",
+    "default_line_ending": "unix",
 
     // When enabled, hovering over a word will show a popup listing all
     // possible locations for the definition symbol. Requires index_files.
@@ -543,13 +544,13 @@
     // computers with many cores more than one file will be loaded at once. Use
     // 0 to remove this limit.
     "find_in_files_max_file_size": 104857600, // 100MiB
-    
+
     // Open search results from find in files buffer side-by-side.
     "find_in_files_side_by_side": false,
 
     // The number of context lines to show for each result
     "find_in_files_context_lines": 2,
-    
+
     // Error messages from failing to open and search files will be suppressed
     // from results
     "find_in_files_suppress_errors": false,
@@ -571,7 +572,7 @@
     // bars, etc)
     // The value "auto" will switch between the "light_theme" and "dark_theme"
     // based on the operating system appearance.
-    "theme": "auto",
+    "theme": "Adaptive.sublime-theme",
 
     // Controls the "theme" when to "auto"
     "light_theme": "Default.sublime-theme",
@@ -605,7 +606,7 @@
     "animation_enabled": true,
 
     // Makes tabs with modified files more visible
-    "highlight_modified_tabs": false,
+    "highlight_modified_tabs": true,
 
     // Hides the tab close button when false
     "show_tab_close_buttons": true,
@@ -614,7 +615,7 @@
     "show_tab_close_buttons_on_left": false,
 
     // Show folders in the sidebar in bold
-    "bold_folder_labels": false,
+    "bold_folder_labels": true,
 
     // Draw divider lines between sections of the UI when using the Adaptive theme
     "adaptive_dividers": false,
@@ -652,10 +653,10 @@
     "show_git_status_in_status_bar": true,
 
     // Display file encoding in the status bar
-    "show_encoding": false,
+    "show_encoding": true,
 
     // Display line endings in the status bar
-    "show_line_endings": false,
+    "show_line_endings": true,
 
     // Display indentation in the status bar
     "show_indentation": true,
@@ -701,12 +702,12 @@
     //                   to exit, not when the last window is closed. This
     //                   setting is only used on Windows and Linux.
     // - "disabled": Disable hot exit.
-    "hot_exit": "always",
+    "hot_exit": "disabled",
 
     // Closing projects with hot_exit_projects enabled will cause it to close
     // immediately without prompting. Unsaved modifications and open files will
     // be preserved in the workspace file and restored when reopened.
-    "hot_exit_projects": true,
+    "hot_exit_projects": false,
 
     // remember_full_screen will allow Sublime Text to start in full screen
     // mode if it was exited in full screen mode. When set to false, Sublime
@@ -782,7 +783,7 @@
     // Show the relative path to files in the title bar. This overrides
     // show_full_path for files that are listed in the sidebar, however
     // show_full_path is still used for other files.
-    "show_rel_path": false,
+    "show_rel_path": true,
 
     // Show "project - file" or "file - project" in the title bar.
     "show_project_first": false,
@@ -813,7 +814,7 @@
     // Sublime Merge is not installed in a standard location, such as when
     // using a portable install. Set to 'null' to hide Sublime Merge
     // integrations.
-    "sublime_merge_path": "",
+    "sublime_merge_path": "null",
 
     // Preview file contents when clicking on a file in the sidebar. Double
     // clicking or editing the preview will open the file and assign it a tab.
@@ -821,7 +822,7 @@
     // - false: Never preview
     // - "only_left": Only preview on left click, right click will change the
     //                selection but not preview the file.
-    "preview_on_click": true,
+    "preview_on_click": "only_left",
 
     // Controls the behavior when clicking on a single file in the sidebar
     // that's already open.
@@ -887,5 +888,10 @@
 
     // List any packages to ignore here. When removing entries from this list,
     // a restart may be required if the package contains plugins.
-    "ignored_packages": ["Vintage"]
+    "ignored_packages":
+    [
+        "Vintage",
+    ],
+
+    "update_check": false
 }
