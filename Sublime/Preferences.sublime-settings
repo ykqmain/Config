@@ -1,62 +1,891 @@
+// Place your settings in the file "Packages/User/Preferences.sublime-settings",
+// which overrides the settings in here.
+//
+// Settings may also be placed in syntax-specific setting files, for
+// example, in Packages/User/Python.sublime-settings for python files.
 {
-    "theme": "Adaptive.sublime-theme",
-    "themed_title_bar": true,
-    "font_face": "Source Code Pro",
-    // "font_face": "思源等宽",
-    "font_size": 14,
+    // Sets the colors used within the text area.
+    // The value "auto" will switch between the "light_color_scheme" and
+    // "dark_color_scheme" based on the operating system appearance.
+    "color_scheme": "Mariana.sublime-color-scheme",
 
-    "default_encoding": "UTF-8",
-    "default_line_ending": "unix",
+    // Controls the "color_scheme" when set to "auto"
+    "light_color_scheme": "Breakers.sublime-color-scheme",
+    "dark_color_scheme": "Mariana.sublime-color-scheme",
+
+    // Note that the font_face and font_size are overridden in the platform
+    // specific settings file, for example, "Preferences (Linux).sublime-settings".
+    // Because of this, setting them here will have no effect: you must set them
+    // in your User File Preferences.
+    "font_face": "",
+    "font_size": 10,
+
+    // Valid options on all platforms are:
+    //  - "no_bold": Disables bold text
+    //  - "no_italic": Disables italic text
+    // Antialiasing options:
+    //  - "no_antialias": Disables antialiasing
+    //  - "gray_antialias": Uses grayscale antialiasing instead of subpixel
+    // Ligature options:
+    //  - "no_liga": Disables standard ligatures (OpenType liga feature)
+    //  - "no_clig": Disables contextual ligatures (OpenType clig feature)
+    //  - "no_calt": Disables contextual alternatives (OpenType calt feature)
+    //  - "dlig": Enables discretionary ligatures (OpenType dlig feature)
+    //  - "ss01": Enables OpenType stylistic set 1. Can enable sets 1 to 10
+    //        by changing the last two digits.
+    // Windows-only options:
+    //  - "directwrite": (default) Use DirectWrite for font rendering
+    //  - "gdi": Use GDI for font rendering
+    //  - "dwrite_cleartype_classic": Only applicable to "directwrite" mode,
+    //        should render fonts similar to traditional GDI
+    //  - "dwrite_cleartype_natural": Only applicable to "directwrite" mode,
+    //        should render fonts similar to ClearType "natural quality" GDI
+    //  - "subpixel_antialias": Force ClearType antialiasing when disabled
+    //        at system level
+    // Mac-only options:
+    //  - "no_round": Don't round glyph widths for monospace fonts when
+    //        "font_size" is small.
+    "font_options": [],
+    // Font options for theme text. Valid options are the same as
+    // "font_options", except "no_bold" and "no_italic" are not supported
+    "theme_font_options": [],
+
+    // Characters that are considered to separate words
+    "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
+
+    // Characters that are considered to separate sub-words
+    "sub_word_separators": "_",
+
+    // Set to false to prevent line numbers being drawn in the gutter
+    "line_numbers": true,
+
+    // Set to false to hide the gutter altogether
+    "gutter": true,
+
+    // Spacing between the gutter and the text
+    "margin": 4,
+
+    // Fold buttons are the triangles shown in the gutter to fold regions of text
+    "fold_buttons": true,
+
+    // Hides the fold buttons unless the mouse is over the gutter
+    "fade_fold_buttons": true,
+
+    // The style of code folding to use
+    // - "auto": Use whatever the default is for the syntax in use
+    // - "force_indentation": Always use indentation-based code folding
+    // - "scope_only": Only allow syntax-based code folding
+    "fold_style": "auto",
+
+    // Indicate modified lines in the gutter
+    // - true: Enables modified line indicators on all files
+    // - "auto": Enables modified line indicators on tracked files within Git
+    // - false: Disables modified line indicators
+    "mini_diff": true,
+
+    // Columns in which to display vertical rulers. You can also pair the column
+    // with a ruler style (See "ruler_style"), eg: [[80, "solid"]]
+    "rulers": [],
+
+    // Controls how ruler lines are drawn
+    // - "dotted": Drawn as a dotted line
+    // - "stippled": Drawn as a stippled line
+    // - "solid": Drawn as a solid line
+    "ruler_style": "dotted",
+
+    // Set to true to turn spell checking on by default
+    "spell_check": false,
+
+    // The number of spaces a tab is considered equal to
     "tab_size": 4,
-    "translate_tabs_to_spaces": true,
 
-    "caret_style": "smooth",
-    "highlight_line": true,
-    "highlight_modified_tabs": true,
-    "show_encoding": true,
-    "show_line_endings": true,
-    "show_line_column": "enabled",
-    "show_full_path": true,
-    "show_rel_path": true,
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": false,
 
-    "draw_white_space": ["selection", "trailing", "isolated"],
-    "draw_unicode_white_space": "punctuation",
-    "draw_minimap_border": true,
-    "bold_folder_labels": true,
-    "preview_on_click": "only_left",
+    // If translate_tabs_to_spaces is true, use_tab_stops will make tab and
+    // backspace and delete insert/delete up to the next tabstop
+    "use_tab_stops": true,
 
-    "hardware_acceleration": "none",
-    "find_selected_text": true,
+    // Set to false to disable detection of tabs vs. spaces on load
+    "detect_indentation": true,
+
+    // Calculates indentation automatically when pressing enter
+    "auto_indent": true,
+
+    // Makes auto indent a little smarter, e.g., by indenting the next line
+    // after an if statement in C. Requires auto_indent to be enabled.
+    "smart_indent": true,
+
+    // Adds whitespace up to the first open bracket when indenting. Requires
+    // auto_indent to be enabled.
+    "indent_to_bracket": false,
+
+    // Trims white space added by auto_indent when moving the caret off the
+    // line.
+    "trim_automatic_white_space": true,
+
+    // Disables horizontal scrolling if enabled.
+    // May be set to true, false, or "auto", where it will be disabled for
+    // source code, and otherwise enabled.
+    "word_wrap": "auto",
+
+    // Set to a value other than 0 to force wrapping at that column rather than
+    // the window width. See "wrap_width_style" for extra options.
+    "wrap_width": 0,
+
+    // Controls how the "wrap_width" setting is applied. The following options
+    // are available:
+    // - "constant": Always wrap at exactly the wrap width.
+    // - "min": Wrap at the wrap width or less if there is less space available.
+    "wrap_width_style": "constant",
+
+    // Set to false to prevent word wrapped lines from being indented to the same
+    // level
+    "indent_subsequent_lines": true,
+
+    // Draws text centered in the window rather than left aligned
+    "draw_centered": false,
+
+    // Controls auto pairing of quotes, brackets etc
+    "auto_match_enabled": true,
+
+    // Automatically close HTML and XML tags when </ is entered.
+    "auto_close_tags": true,
+
+    // Word list to use for spell checking. May also be a list of dictionaries.
+    "dictionary": "Packages/Language - English/en_US.dic",
+
+    // Sets which scopes are checked for spelling errors
+    "spelling_selector": "markup.raw, source string.quoted - punctuation - meta.preprocessor.include, source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag)",
+
+    // Set to true to draw a border around the visible rectangle on the minimap.
+    // The color of the border will be determined by the "minimap_border" key
+    // in the color scheme
+    "draw_minimap_border": false,
+
+    // Always visualise the viewport on the minimap, as opposed to only
+    // showing it on mouse over
+    "always_show_minimap_viewport": false,
+
+    // Whether the minimap should scroll horizontally to match the viewport.
+    "minimap_horizontal_scrolling": false,
+
+    // If enabled, will highlight any line with a caret
+    "highlight_line": false,
+
+    // If enabled, will highlight the gutter for any line with a caret
+    "highlight_gutter": true,
+
+    // If enabled, will highlight the line number in the gutter for any line
+    // with a caret depending on the color scheme
+    "highlight_line_number": true,
+
+    // Valid values are "smooth", "phase", "blink" and "solid". Previous
+    // versions of Sublime Text used "smooth" by default.
+    "caret_style": "solid",
+
+    // These settings control the size of the caret
+    "caret_extra_top": 4,
+    "caret_extra_bottom": 4,
+    "caret_extra_width": 1,
+
+    // When enabled, the caret will be drawn as a rectangle, using the width
+    // of the current character
+    "block_caret": false,
+
+    // Set to false to disable underlining the brackets surrounding the caret
+    "match_brackets": true,
+
+    // Set to false if you'd rather only highlight the brackets when the caret is
+    // next to one
+    "match_brackets_content": true,
+
+    // Set to false to not highlight square brackets. This only takes effect if
+    // match_brackets is true
+    "match_brackets_square": true,
+
+    // Set to false to not highlight curly brackets. This only takes effect if
+    // match_brackets is true
+    "match_brackets_braces": true,
+
+    // Set to false to not highlight angle brackets. This only takes effect if
+    // match_brackets is true
+    "match_brackets_angle": false,
+
+    // Enable visualization of the matching tag in HTML and XML
+    "match_tags": true,
+
+    // Highlights other occurrences of the currently selected text
+    "match_selection": true,
+
+    // Additional spacing at the top of each line, in pixels
+    "line_padding_top": 0,
+
+    // Additional spacing at the bottom of each line, in pixels
+    "line_padding_bottom": 0,
+
+    // Set to false to disable scrolling past the end of the buffer.
+    // On Mac, this value is overridden in the platform specific settings, so
+    // you'll need to place this line in your user settings to override it.
+    //
+    // This setting may also be set to a number between 0.0 and 1.0 to specify
+    // how much scrolling past the end of the buffer should be allowed. 0.5
+    // scrolls halfway and 0.0 is the same as false.
     "scroll_past_end": true,
+
+    // Set the number of context lines to show when scrolling to reveal. This
+    // affects all selection changes, like selection dragging, page-up/page-down
+    // and moving the caret.
+    "scroll_context_lines": 0,
+
+    // This controls what happens when pressing up or down when on the first
+    // or last line.
+    // On Mac, this value is overridden in the platform specific settings, so
+    // you'll need to place this line in your user settings to override it.
     "move_to_limit_on_up_down": false,
+
+    // Controls when white space is drawn. Any of the following options may be
+    // combined:
+    // - "selection": Draw white space under the current selection.
+    // - "leading": Draw any white space between the beginning of a line and the
+    //              first character.
+    // - "enclosed": Draw white space enclosed by other characters.
+    // - "trailing": Draw white space following the last character on a line.
+    // - "isolated": Draw white space on lines containing no other characters.
+    // - "all": All of the above, ie. always draw white space.
+    //
+    // These options may be further refined by appending any of the following
+    // separated by an underscore:
+    // - "none": Don't draw this kind of white space.
+    // - "tabs": Only draw tabs here.
+    // - "spaces": Only draw spaces here.
+    // - "mixed": Only draw white space that does not match the indentation
+    //            style. For example if "translate_tabs_to_spaces" is true only
+    //            draw tabs.
+    // - "mixed_tabs": Like "mixed" but only draw tabs.
+    // - "mixed_spaces": Like "mixed" but only draw spaces.
+    // - "all": Draw both tabs and spaces. This is the default.
+    //
+    // Note that options are applied in sequence. So a later option may override
+    // an earlier one.
+    //
+    // Examples:
+    // - ["selection", "trailing", "isolated"]:
+    //     Draw white space at the end of any lines and under the selection.
+    //
+    // - ["all_tabs", "selection"]:
+    //     Draw tabs anywhere and any white space under the selection.
+    //
+    // - ["all_mixed"]:
+    //     Draw any white space that does not match the indentation style.
+    //
+    // - ["leading_mixed", "isolated_mixed"]:
+    //     Draw any indentation that does not match the indentation style.
+    //
+    // - ["selection_mixed_tabs"]:
+    //     Draw only tabs under the selection and only if the indentation style
+    //     is spaces.
+    //
+    // - ["all_tabs", "selection"]:
+    //     Draw all tabs and any white space under the selection.
+    //
+    // - ["all", "selection_none"]:
+    //     Inverse of the default. Draw white space everywhere except under the
+    //     selection.
+    "draw_white_space": ["selection"],
+
+    // Controls how non-ascii white space is drawn.
+    // - "none": Draw unicode white space verbatim, eg. hiding zero-width
+    //           spaces.
+    // - "punctuation": Draw codepoints of unicode white space defined as
+    //                  punctuation. This includes NBSP, but excludes the CJK
+    //                  Ideographic Space.
+    // - "all": Draw codepoints of all non-ascii space characters.
+    "draw_unicode_white_space": "punctuation",
+
+    // Controls whether unicode bidi characters are drawn as codepoints.
+    "draw_unicode_bidi": true,
+
+    // Control characters (or white space if enabled) can be drawn as either hex
+    // or using their abbreviation:
+    // - "hex": Draw characters using their hex encoding, ie. <0xA0>
+    // - "names": Draw characters using their abbreviation, ie. <NBSP>
+    "control_character_style": "hex",
+
+    // Controls what type of columns selection description ("Line X, Column Y"
+    // in the status bar) uses:
+    // - "virtual": Count virtual columns. Tabs count as their width in spaces.
+    // - "real": Count real columns. Tabs count as one column.
+    "selection_description_column_type": "virtual",
+
+    // Set to false to turn off the indentation guides.
+    // The color and width of the indent guides may be customized by editing
+    // the corresponding .tmTheme file, and specifying the colors "guide",
+    // "activeGuide" and "stackGuide"
+    "draw_indent_guides": true,
+
+    // Controls how the indent guides are drawn. Options may be combined, with
+    // valid options being:
+    //  - "draw_normal" - will draw plain indent guides for every indentation
+    //    group
+    //  - "draw_active" - will draw indent guides for the group
+    //    containing the caret in a different color
+    //  - "draw_active_single" - will draw the right-most indent guide in the
+    //    group containing the caret in a different color
+    //  - "solid" - can be combined with any of the draw_* options to draw
+    //    solid instead of stippled lines
+    "indent_guide_options": ["draw_normal"],
+
+    // Controls where trailing white space is removed on save.
+    // - "none": Do not remove any trailing white space on save.
+    // - "all": Remove all trailing white space on save.
+    // - "not_on_caret": Only remove white space that won't affect the caret.
+    //                   When used in conjunction with "save_on_focus_lost" and
+    //                   certain desktop environments that frequently make the
+    //                   application lose focus this avoids the caret jumping
+    //                   around a lot.
+    "trim_trailing_white_space_on_save": "none",
+
+    // Only trim white space on save for the parts of a file that have been
+    // modified by you. If there is trailing white space in other parts of the
+    // file they are left alone.
+    "trim_only_modified_white_space": true,
+
+    // Set to true to ensure the last line of the file ends in a newline
+    // character when saving
+    "ensure_newline_at_eof_on_save": false,
+
+    // Set to true to automatically save files when switching to a different file
+    // or application
+    "save_on_focus_lost": false,
+
+    // The encoding to use when the encoding can't be determined automatically.
+    // ASCII, UTF-8 and UTF-16 encodings will be automatically detected.
+    "fallback_encoding": "Western (Windows 1252)",
+
+    // Encoding used when saving new files, and files opened with an undefined
+    // encoding (e.g., plain ascii files). If a file is opened with a specific
+    // encoding (either detected or given explicitly), this setting will be
+    // ignored, and the file will be saved with the encoding it was opened
+    // with.
+    "default_encoding": "UTF-8",
+
+    // Files containing null bytes are opened as hexadecimal by default
+    "enable_hexadecimal_encoding": true,
+
+    // Determines what character(s) are used to terminate each line in new files.
+    // Valid values are 'system' (whatever the OS uses), 'windows' (CRLF) and
+    // 'unix' (LF only).
+    "default_line_ending": "system",
+
+    // When enabled, hovering over a word will show a popup listing all
+    // possible locations for the definition symbol. Requires index_files.
+    "show_definitions": true,
+
+    // When enabled, pressing tab will insert the best matching completion.
+    // When disabled, tab will only trigger snippets or insert a tab.
+    // Shift+tab can be used to insert an explicit tab when tab_completion is
+    // enabled.
+    "tab_completion": true,
+
+    // Enable auto complete to be triggered automatically when typing.
+    "auto_complete": true,
+
+    // The maximum file size where auto complete will be automatically triggered.
+    "auto_complete_size_limit": 4194304,
+
+    // The delay, in ms, before the auto complete window is shown after typing
+    "auto_complete_delay": 50,
+
+    // Controls what scopes auto complete will be triggered in
+    "auto_complete_selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+
+    // Additional situations to trigger auto complete
+    "auto_complete_triggers":
+    [
+        {"selector": "text.html, text.xml", "characters": "<"},
+        {"selector": "punctuation.accessor", "rhs_empty": true},
+    ],
+
+    // By default, auto complete will commit the current completion on enter.
+    // This setting can be used to make it complete on tab instead.
+    // Completing on tab is generally a superior option, as it removes
+    // ambiguity between committing the completion and inserting a newline.
+    "auto_complete_commit_on_tab": false,
+
+    // Controls if auto complete is shown when snippet fields are active.
+    // Only relevant if auto_complete_commit_on_tab is true.
+    "auto_complete_with_fields": false,
+
+    // Controls what happens when pressing the up key while the first item in
+    // the auto complete window is selected: if false, the window is hidden,
+    // otherwise the last item in the window is selected. Likewise for the
+    // down key when the last item is selected.
+    "auto_complete_cycle": false,
+
+    // Auto complete will used indexed data to provide completions from other
+    // files when this is enabled
+    "auto_complete_use_index": true,
+
+    // If previously-selected completions should be automatically selected
+    "auto_complete_use_history": false,
+
+    // Controls how the auto complete results are reordered when typing:
+    // - "none" will fully reorder the results according to how well the
+    //   completion matches the typed text.
+    // - "some" will partially reorder the results, taking into account how
+    //   well the completion matches whats typed, and likelihood of the
+    //   completion.
+    // - "strict" will never reorder the results.
+    "auto_complete_preserve_order": "some",
+
+    // Add trailing symbols (e.g., '.', '()') if the auto complete engine
+    // thinks they're likely enough
+    "auto_complete_trailing_symbols": false,
+
+    // Add a space after completions if the auto complete engine thinks
+    // they're likely enough
+    "auto_complete_trailing_spaces": true,
+
+    // Snippets will not be included in the auto complete when this is
+    // false. They can still be triggered by typing their tab trigger in, and
+    // pressing tab when auto complete is not showing.
+    "auto_complete_include_snippets": true,
+
+    // When this is set to false, snippets won't be present in the auto
+    // complete dialog when typing, instead they'll only be shown in the auto
+    // complete dialog when it's explicitly triggered
+    "auto_complete_include_snippets_when_typing": true,
+
+    // Syntax will not be detected for files larger than this size. This makes
+    // loading large files significantly faster. Set to 0 to always perform
+    // syntax detection. The default is 16MiB.
+    "syntax_detection_size_limit": 16777216,
+
+    // A list of wildcard patterns specifying which snippet files to ignore.
+    // For example, to ignore all the default C++ snippets, set this to
+    // ["C++/*"]
+    "ignored_snippets": [],
+
+    // These settings hide various parts of the UI automatically when typing.
+    // Moving the mouse will show them again.
+    "auto_hide_menu": false,
+    "auto_hide_tabs": false,
+    "auto_hide_status_bar": false,
+
+    // Related to auto_hide_tabs, if this is enabled, tabs will be momentarily
+    // displayed when switching files. Tabs will automatically hidden upon
+    // resuming typing or after a fixed amount of time.
+    "reveal_tabs_with_timeout": false,
+
+    // When false, disables alt-tapping revealing the menu when hidden on Linux
+    // and Windows. Does not affect auto hiding or toggling the menu through
+    // the command palette.
+    "reveal_menu": true,
+
+    // If true, when typing the mouse pointer/cursor will be hidden. Moving the
+    // pointer will unhide it. This setting has no effect on macOS.
+    "hide_pointer_while_typing": true,
+
+    // By default, shift+tab will only unindent if the selection spans
+    // multiple lines. When pressing shift+tab at other times, it'll insert a
+    // tab character - this allows tabs to be inserted when tab_completion is
+    // enabled. Set this to true to make shift+tab always unindent, instead of
+    // inserting tabs.
+    "shift_tab_unindent": false,
+
+    // If true, the copy and cut commands will operate on the current line
+    // when the selection is empty, rather than doing nothing.
+    "copy_with_empty_selection": true,
+
+    // If true, the selected text will be copied into the find panel when it's
+    // shown.
+    // On Mac, this value is overridden in the platform specific settings.
+    "find_selected_text": true,
+
+    // If true, patterns copied from selected text to the find panel will
+    // automatically be escaped when doing a regex search.
+    "regex_auto_escape": true,
+
+    // When auto_find_in_selection is enabled, the "Find in Selection" flag will
+    // be enabled automatically when multiple lines of text are selected.
+    // "find_only" or "replace_only" may also be used to only enable this
+    // behavior for the find or replace panel respectively.
+    "auto_find_in_selection": false,
+
+    // This determines whether the find panel is closed when the "Find All"
+    // or "Replace All" buttons are pressed. Note this does not change the
+    // keybinding behavior.
+    "close_find_after_find_all": true,
+    "close_find_after_replace_all": true,
+
+    // Whether to highlight find results in the scrollbar
+    "highlight_find_results_in_scrollbar": true,
+
+    // The maximum number of find results to show in the scroll bar. If this
+    // number is exceeded no results will be shown. Use 0 to remove this limit.
+    "find_scroll_highlights_limit": 8192,
+
+    // The maximum file size that the "Highlight matches" option is used for.
+    // Highlighting all matches requires searching the whole file while typing
+    // the search query which can quickly get slow. Use 0 to remove this limit.
+    "find_highlight_matches_max_size": 16777216, // 16MiB
+
+    // Same as "find_highlight_matches_max_size" but used when regex is enabled.
+    "find_regex_highlight_matches_max_size": 1048576, // 1MiB
+
+    // The maximum output size for find-in-files. Prevents searches with a large
+    // number of results from using too much memory. Use 0 to remove this limit.
+    "find_in_files_max_result_size": 16777216, // 16MiB
+
+    // Files over this size will be skipped. This prevents searches from using
+    // up all available memory when large files are present. Note that on
+    // computers with many cores more than one file will be loaded at once. Use
+    // 0 to remove this limit.
+    "find_in_files_max_file_size": 104857600, // 100MiB
+    
+    // Open search results from find in files buffer side-by-side.
+    "find_in_files_side_by_side": false,
+
+    // The number of context lines to show for each result
+    "find_in_files_context_lines": 2,
+    
+    // Error messages from failing to open and search files will be suppressed
+    // from results
+    "find_in_files_suppress_errors": false,
+
+    // When drag_text is enabled, clicking on selected text will begin a
+    // drag-drop operation.
+    "drag_text": true,
+
+    // Take focus when a file is dragged and dropped onto Sublime Text. On
+    // Windows this value is overidden to true in the platform specific
+    // settings.
+    "focus_on_file_drop": false,
+
+    //
+    // User Interface Settings
+    //
+
+    // The theme controls the look of Sublime Text's UI (buttons, tabs, scroll
+    // bars, etc)
+    // The value "auto" will switch between the "light_theme" and "dark_theme"
+    // based on the operating system appearance.
+    "theme": "auto",
+
+    // Controls the "theme" when to "auto"
+    "light_theme": "Default.sublime-theme",
+    "dark_theme": "Default Dark.sublime-theme",
+
+    // Adaptive theme only: controls if a custom or default title bar is used.
+    // Note that on Windows, the hamburger menu is used whenever this is
+    // enabled and the adaptive theme is in use.
+    "themed_title_bar": true,
+
+    // Controls the style of file tabs for the Default, Default Dark, and
+    // Adaptive themes.
+    // Options: "rounded", "square"
+    //   The value "angled" provides the tab style from Sublime Text 3, but is
+    //   only compatible with the Default and Adaptive themes, and will not
+    //   support new features like inactive pane dimming.
+    "file_tab_style": "rounded",
+
+    // If inactive sheets should have their background slightly modified to
+    // make input focus more obvious.
+    "inactive_sheet_dimming": true,
+
+    // Set to 0 to disable smooth scrolling. Set to a value between 0 and 1 to
+    // scroll slower, or set to larger than 1 to scroll faster
+    "scroll_speed": 1.0,
+
+    // Controls sidebar animation when expanding or collapsing folders
+    "tree_animation_enabled": true,
+
+    // Controls animation throughout the application
+    "animation_enabled": true,
+
+    // Makes tabs with modified files more visible
+    "highlight_modified_tabs": false,
+
+    // Hides the tab close button when false
+    "show_tab_close_buttons": true,
+
+    // Determines which side the close button is on
+    "show_tab_close_buttons_on_left": false,
+
+    // Show folders in the sidebar in bold
+    "bold_folder_labels": false,
+
+    // Draw divider lines between sections of the UI when using the Adaptive theme
+    "adaptive_dividers": false,
+
+    // Draw shadows under popup windows
+    "popup_shadows": true,
+
+    // Mac only. Controls use of macOS tabs in 10.12 and newer. Each native tab
+    // contains an entire project, thus allowing multiple projects in a single
+    // window. Valid values are "system", "preferred" and "disabled".
+    "native_tabs": "system",
+
+    // Whether new tabs should favor opening after the current tab or at the end
+    // of the list of tabs.
+    "open_tabs_after_current": true,
+
+    // Valid values are "system", "enabled" and "disabled"
+    "overlay_scroll_bars": "system",
+
+    // Allows tabs to scroll left and right, instead of simply shrinking
+    "enable_tab_scrolling": true,
+
+    // Hides the buttons for scrolling tabs left/right, requiring use of a
+    // trackpad or mouse scroll wheel
+    "hide_tab_scrolling_buttons": false,
+
+    // Hides the new tab button
+    "hide_new_tab_button": false,
+
+    // Display the toggle sidebar button in the status bar
+    "show_sidebar_button": true,
+
+    // Display the git status in the status bar, requires the show_git_status
+    // setting to be enabled
+    "show_git_status_in_status_bar": true,
+
+    // Display file encoding in the status bar
+    "show_encoding": false,
+
+    // Display line endings in the status bar
+    "show_line_endings": false,
+
+    // Display indentation in the status bar
+    "show_indentation": true,
+
+    // Display syntax in the status bar
+    "show_syntax": true,
+
+    // Show Line, Column in the status bar in full length, compact or completely
+    // hidden. Valid values are "enabled", "compact" and "disabled"
+    "show_line_column": "enabled",
+
+    // Display misspelled words in the status bar
+    "show_spelling_errors": true,
+
+    // Magnifies the entire user interface. Sublime Text must be restarted for
+    // this to take effect. 1.0 is normal scale, 0.0 allows for auto-detection
+    // based on text scale with older Linux configurations that don't fully
+    // support GTK display scaling.
+    "ui_scale": 0.0,
+
+    // Enables hardware accelerated rendering. This moves rendering to your GPU,
+    // allowing for faster rendering at higher resolutions. Changing this
+    // setting requires an application restart to take effect.
+    // - "none": Performs CPU rendering.
+    // - "opengl": Uses OpenGL for rendering. Minimum required version is 4.1
+    //
+    // On Mac, this value is overridden in the platform specific settings.
+    "hardware_acceleration": "none",
+
+    //
+    // Application Behavior Settings
+    //
+
+    // Exiting the application with hot_exit enabled will cause it to close
+    // immediately without prompting. Unsaved modifications and open files will
+    // be preserved and restored when next starting.
+    //
+    // Hot exit has different modes to choose from:
+    // - "always": Always perform a hot exit when the application exits. This
+    //             includes when the last window is closed on relevant
+    //             platforms.
+    // - "only_on_quit": Only perform a hot exit when the application is asked
+    //                   to exit, not when the last window is closed. This
+    //                   setting is only used on Windows and Linux.
+    // - "disabled": Disable hot exit.
+    "hot_exit": "always",
+
+    // Closing projects with hot_exit_projects enabled will cause it to close
+    // immediately without prompting. Unsaved modifications and open files will
+    // be preserved in the workspace file and restored when reopened.
+    "hot_exit_projects": true,
+
+    // remember_full_screen will allow Sublime Text to start in full screen
+    // mode if it was exited in full screen mode. When set to false, Sublime
+    // Text will never start in full screen mode.
+    "remember_full_screen": false,
+
+    // remember_workspace makes Sublime Text remember what workspace each window
+    // was in last. When set to false the OS left to determine which workspace
+    // a window is opened in. This doesn't work with Wayland.
+    "remember_workspace": true,
+
+    // remember_layout makes Sublime Text start with the same layout it closed
+    // with. Only applies when hot_exit is disabled.
+    "remember_layout": false,
+
+    // Whether the system's native recent files/folders list should be updated
+    // by Sublime Text.
+    "update_system_recent_files": true,
+
+    // Mac only. If the user's default shell should be invoked to obtain the
+    // user's customized environment variables. May be a boolean, or a string
+    // of the path the shell to invoke. Sublime Text must be restarted for this
+    // to take effect.
+    "shell_environment": true,
+
+    // Whether to reload a file if it has changed on disk.
+    "reload_file_on_change": true,
+
+    // Always prompt before reloading a file, even if the file hasn't been
+    // modified. If a file has unsaved changes, a prompt will always be shown.
+    // Will only show if "reload_file_on_change" is true.
+    "always_prompt_for_file_reload": false,
+
+    // When reopening Sublime Text close saved files that have been deleted from
+    // the filesystem (Unsaved files will not be closed). If this setting is
+    // false no files will be closed, instead they will be restored as empty
+    // files.
+    //
+    // This is useful when working from an unstable networked file system where
+    // tabs would be lost if the connection wasn't active.
+    "close_deleted_files": true,
+
+    // When files are opened from a file explorer or from the command line, this
+    // controls whether a new window is created or not.
+    // - "never": Never open a new window unless no window is open.
+    // - "always": Always open files in a new window.
+    // - "finder_only": (macOS only) Only open files in a new window when
+    //                  opening them from finder or dragging onto the dock icon.
+    //
+    // On Mac, this value is overridden in the platform specific settings.
     "open_files_in_new_window": "never",
+
+    // Mac only: This controls if an empty window is created at startup or not.
+    "create_window_at_startup": true,
+
+    // Mac only: Show recent files on the Touch Bar.
+    "show_navigation_bar": true,
+
+    // Mac only: Use global find clipboard.
+    "use_find_clipboard": true,
+
+    // Set to true to close windows as soon as the last file is closed, unless
+    // there's a folder open within the window.
+    // On Mac, this value is overridden in the platform specific settings, so
+    // you'll need to place this line in your user settings to override it.
     "close_windows_when_empty": false,
-    "hot_exit": "disabled",
-    "hot_exit_projects": false,
 
-    "rulers": [80],
-    "word_wrap": true,
-    "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?（《【，。—·…！￥：；‘“”’？、】》）",
+    // Show the full path to files in the title bar. On Mac, this value is
+    // overridden in the platform specific settings, with a default value of
+    // false.
+    "show_full_path": true,
 
-    "folder_exclude_patterns":
-    [
-        ".svn", ".git", ".hg", "CVS", ".Trash", ".Trash-*",
-    ],
-    "file_exclude_patterns":
-    [
-        "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", ".directory", "desktop.ini", "*.class", "*.psd", "*.db", "*.sublime-workspace",
-        ".localized",
-    ],
-    "binary_file_patterns":
-    [
-        "*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip",
-    ],
+    // Show the relative path to files in the title bar. This overrides
+    // show_full_path for files that are listed in the sidebar, however
+    // show_full_path is still used for other files.
+    "show_rel_path": false,
 
-    "ignored_packages":
-    [
-        "Vintage",
-    ],
+    // Show "project - file" or "file - project" in the title bar.
+    "show_project_first": false,
 
-    "sublime_merge_path": null,
-    "update_check": false,
+    // Shows the Build Results panel when building. If set to false, the Build
+    // Results can be shown via the Tools/Build Results menu.
+    "show_panel_on_build": true,
+
+    // Shows build errors just under the line on which they occur.
+    "show_errors_inline": true,
+
+    // Shows git repository information next to files in sidebar and in
+    // the status bar. Sublime Text has to be restarted for this to take
+    // effect.
+    "show_git_status": true,
+
+    // Enables showing git status for a git repository in the user's home
+    // directory. This is disabled by default since it is typically accidental
+    // and can cause heavy CPU usage related to file system watches.
+    "allow_git_home_dir": false,
+
+    // This setting determines whether tracked Git files should be diffed
+    // against the index or HEAD.
+    // Valid values are "index" or "head"
+    "git_diff_target": "index",
+
+    // The path to the Sublime Merge executable. This should only be set if
+    // Sublime Merge is not installed in a standard location, such as when
+    // using a portable install. Set to 'null' to hide Sublime Merge
+    // integrations.
+    "sublime_merge_path": "",
+
+    // Preview file contents when clicking on a file in the sidebar. Double
+    // clicking or editing the preview will open the file and assign it a tab.
+    // - true: Always preview on click, including right click
+    // - false: Never preview
+    // - "only_left": Only preview on left click, right click will change the
+    //                selection but not preview the file.
+    "preview_on_click": true,
+
+    // Controls the behavior when clicking on a single file in the sidebar
+    // that's already open.
+    // - true: If the file is already open in any group it will be selected.
+    // - false: Only if the file is open in the focused group will it be
+    //          selected, otherwise a new view into the file is opened.
+    "select_across_groups": false,
+
+    // Controls the maximum number of lines kept in the console's history. Note
+    // a large limit will increase memory usage. Use 0 to remove any limit.
+    "console_max_history_lines": 3000,
+
+    // folder_exclude_patterns and file_exclude_patterns control which files are
+    // listed in folders on the sidebar. These can also be set on a per-
+    // project basis.
+    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".Trash", ".Trash-*"],
+    "file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", ".directory", "desktop.ini", "*.class", "*.psd", "*.db", "*.sublime-workspace"],
+    // These files will still show up in the sidebar, but won't be included in
+    // Goto Anything or Find in Files
+    "binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip"],
+
+    // File indexing parses all files in the sidebar, and builds an index of
+    // their symbols. This is required for Goto Definition to work.
+    "index_files": true,
+
+    // Set the number threads to use for indexing. A value of 0 will make
+    // Sublime Text guess based on the number of cores. Use the index_files
+    // setting to disable all workers. This requires a restart to take effect.
+    "index_workers": 0,
+
+    // Sets whether the indexer should exclude files ignored by git.
+    "index_exclude_gitignore": true,
+
+    // Whether unknown file extensions should be checked for indexing or skipped
+    // entirely. If a file extension is not being recognised we suggest
+    // setting/changing the default syntax for that extension instead of turning
+    // this setting off.
+    "index_skip_unknown_extensions": true,
+
+    // index_exclude_patterns indicate which files won't be indexed.
+    "index_exclude_patterns": ["*.log"],
+
+    // Determines whether Goto Anything should exclude files ignored by git.
+    "goto_anything_exclude_gitignore": false,
+
+    // When Vintage, the vi emulation package, is enabled
+    // (see ignored_packages, below), this setting controls if files are opened
+    // in command mode or insert mode by default
+    "vintage_start_in_command_mode": false,
+
+    // Yank commands can place the text in either an internal register, or in
+    // the system clipboard.
+    "vintage_use_clipboard": false,
+
+    // By default Vintage will interpret all ctrl+<key> key bindings as
+    // regular Sublime Text key bindings. Set this to true to make ctrl keys
+    // act as they do in vim, instead (e.g., ctrl+f to move forward a page).
+    "vintage_ctrl_keys": false,
+
+    // relative_line_numbers will draw each line number as the distance from
+    // the current line. Useful in conjunction with Vintage.
+    "relative_line_numbers": false,
+
+    // List any packages to ignore here. When removing entries from this list,
+    // a restart may be required if the package contains plugins.
+    "ignored_packages": ["Vintage"]
 }
