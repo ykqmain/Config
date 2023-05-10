@@ -814,7 +814,7 @@
     // Sublime Merge is not installed in a standard location, such as when
     // using a portable install. Set to 'null' to hide Sublime Merge
     // integrations.
-    "sublime_merge_path": "null",
+    "sublime_merge_path": null,
 
     // Preview file contents when clicking on a file in the sidebar. Double
     // clicking or editing the preview will open the file and assign it a tab.
