@@ -99,7 +99,6 @@
         * [tldr](https://github.com/tldr-pages/tldr)
         * [you-get](https://you-get.org)
         * [httpie](https://httpie.io)
-        * [duck](https://cyberduck.io)
         * [pandoc](https://www.pandoc.org)
         * [mysql](https://dev.mysql.com/downloads/)
         * [openjdk](https://openjdk.org)
@@ -116,7 +115,6 @@
         * httpx
         * requests
         * beautifulsoup4
-        * django
         * fastapi
         * uvicorn
         * openpyxl
