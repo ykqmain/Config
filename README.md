@@ -155,10 +155,10 @@
     <br>
 
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
-    * [Movist Pro](https://movistprime.com) (播放器) ([_VLC_](https://www.videolan.org))
+    * [Movist Pro](https://movistprime.com) (播放器) ([_VLC_](https://www.videolan.org)、[_Blender_](https://www.blender.org))
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
     * [HandBrake](https://handbrake.fr) (视频转码器)
-    * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) [App Store] ([_Blender_](https://www.blender.org)、[_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
+    * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) [App Store] ([_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
     <br>
 
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store]
