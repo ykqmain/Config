@@ -54,7 +54,7 @@
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
             * [bilibili plus](https://greasyfork.org/zh-CN/scripts/373172-bilibili-plus)
 
-    * [Firefox](https://www.mozilla.org/en-US/firefox/all/)
+    * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/)
         * _about:config_
             * `browser.tabs.closeTabByDblclick`
             * `browser.compactmode.show`
@@ -95,17 +95,17 @@
     * [**Homebrew**](https://brew.sh) (`/opt/homebrew`)
         * [wget](https://www.gnu.org/software/wget)
         * [tree](http://mama.indstate.edu/users/ice/tree)
-        * [neofetch](https://github.com/dylanaraps/neofetch)
         * [tldr](https://github.com/tldr-pages/tldr)
+        * [neofetch](https://github.com/dylanaraps/neofetch)
         * [you-get](https://you-get.org)
         * [httpie](https://httpie.io)
         * [duck](https://cyberduck.io)
-        * [pandoc](https://www.pandoc.org)
-        * [mysql](https://dev.mysql.com/downloads/)
         * [openjdk](https://openjdk.org)
             * `sudo ln -sfn /opt/homebrew/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk`
         * [node](https://nodejs.org/zh-cn/)
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
+        * [mysql](https://dev.mysql.com/downloads/)
+        * [pandoc](https://www.pandoc.org)
         * [_ffmpeg_](https://www.ffmpeg.org)
         * [_Gifski_](https://gif.ski)
     <br>
