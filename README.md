@@ -157,6 +157,7 @@
 
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     * [Movist Pro](https://movistprime.com) (播放器)
+    * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
     * [HandBrake](https://handbrake.fr) (视频转码器)
     * [Blender](https://www.blender.org) (3D creation suite)
