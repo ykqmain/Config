@@ -54,7 +54,7 @@
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
             * [bilibili plus](https://greasyfork.org/zh-CN/scripts/373172-bilibili-plus)
 
-    * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/)
+    * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([Chrome](https://www.google.com/chrome/))
         * _about:config_
             * `browser.tabs.closeTabByDblclick`
             * `browser.compactmode.show`
