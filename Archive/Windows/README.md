@@ -2,7 +2,7 @@
 
 精简的Windows软件推荐。
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/))
+* [Microsoft Edge](https://www.microsoft.com/zh-cn/edge)
 * [WPS Office](https://www.wps.cn)
 * [Sublime Text](https://www.sublimetext.com)
 <br>
@@ -15,9 +15,9 @@
 * [VLC](https://www.videolan.org) ([_ScreenToGif_](https://www.screentogif.com)、[_OBS_](https://obsproject.com/zh-cn)、[_FFmpeg_](https://ffmpeg.org))
 <br>
 
+* [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Windows Terminal](https://github.com/microsoft/terminal))
 * [Python](https://www.python.org) ([_LLVM-MinGW_](https://www.mingw-w64.org/downloads/#llvm-mingw)、[_OpenJDK Adoptium_](https://adoptium.net/zh-CN/temurin/releases/)、[_Node.js_](https://nodejs.org/zh-cn/))
 * [WinMerge](https://winmerge.org) ([_Git_](https://git-scm.com)、[_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org))
-* [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Microsoft Edge](https://www.microsoft.com/zh-cn/edge)、[Windows Terminal](https://github.com/microsoft/terminal))
 <br>
 
 * [_Steam_](https://store.steampowered.com)

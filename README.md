@@ -54,20 +54,11 @@
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
             * [bilibili plus](https://greasyfork.org/zh-CN/scripts/373172-bilibili-plus)
 
-    * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([Chrome](https://www.google.com/chrome/))
-        * _about:config_
-            * `browser.tabs.closeTabByDblclick`
-            * `browser.compactmode.show`
-            * `browser.translations.enable`
-            * `extensions.pocket.enabled`
-        * _情怀主题_
-            * [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
-        * _Extensions_
-            * [Firefox Multi-Account Containers](https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/)
-            * [uBlock Origin](https://github.com/gorhill/uBlock)
-            * [Tampermonkey](https://www.tampermonkey.net)
-            * [Global Speed](https://github.com/polywock/globalSpeed)
-            * [几枝](https://github.com/unicar9/jizhi)
+    * [Chrome](https://www.google.com/chrome/) ([_Firefox_](https://www.mozilla.org/en-US/firefox/all/) [[_A Web Browser Renaissance_](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)])
+        * [uBlock Origin](https://github.com/gorhill/uBlock)
+        * [Tampermonkey](https://www.tampermonkey.net)
+        * [几枝](https://github.com/unicar9/jizhi)
+        * [Global Speed](https://github.com/polywock/globalSpeed)
 
 <br>
 
