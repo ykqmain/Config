@@ -161,18 +161,13 @@
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
     * [HandBrake](https://handbrake.fr) (视频转码器)
     * [Blender](https://www.blender.org) (3D creation suite)
-    * [DaVinci Resolve](http://www.blackmagicdesign.com/cn/products/davinciresolve) [App Store] ([_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
+    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store]
+    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
     <br>
 
-    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store]
-    * [iMovie](https://www.apple.com.cn/imovie/) [App Store]
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
-    <br>
-
-    * [OpenEmu](https://openemu.org) [Experimental] ([~~DeSmuME~~](http://desmume.org)、[~~Ryujinx~~](https://ryujinx.org))
-    * [_Steam_](https://store.steampowered.com)
-    * [_Epic_](https://store.epicgames.com)
+    * [OpenEmu](https://openemu.org) [Experimental] ([_Steam_](https://store.steampowered.com)、[_Epic_](https://store.epicgames.com))
 
 <br>
 
