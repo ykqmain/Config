@@ -12,7 +12,7 @@
 * [Everything](https://www.voidtools.com/zh-cn/)
 * [Paint.NET](https://www.getpaint.net)
 * [Honeyview](https://www.bandisoft.com/honeyview/)
-* [VLC](https://www.videolan.org) ([_ScreenToGif_](https://www.screentogif.com)、[_OBS_](https://obsproject.com/zh-cn)、[_HandBrake_](https://handbrake.fr))
+* [VLC](https://www.videolan.org) ([_ScreenToGif_](https://www.screentogif.com)、[_OBS_](https://obsproject.com/zh-cn)、[_FFmpeg_](https://ffmpeg.org))
 <br>
 
 * [Python](https://www.python.org) ([_LLVM-MinGW_](https://www.mingw-w64.org/downloads/#llvm-mingw)、[_OpenJDK Adoptium_](https://adoptium.net/zh-CN/temurin/releases/)、[_Node.js_](https://nodejs.org/zh-cn/))

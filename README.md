@@ -106,7 +106,7 @@
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
         * [mysql](https://dev.mysql.com/downloads/)
         * [pandoc](https://www.pandoc.org)
-        * [_ffmpeg_](https://www.ffmpeg.org)
+        * [ffmpeg](https://www.ffmpeg.org) ([_HandBrake_](https://handbrake.fr))
         * [_Gifski_](https://gif.ski)
     <br>
 
@@ -159,7 +159,6 @@
     * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
-    * [HandBrake](https://handbrake.fr) (视频转码器)
     * [Blender](https://www.blender.org) (3D creation suite)
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store]
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
