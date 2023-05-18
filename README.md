@@ -171,7 +171,8 @@
     <br>
 
     * [OpenEmu](https://openemu.org) [Experimental] ([~~DeSmuME~~](http://desmume.org)、[~~Ryujinx~~](https://ryujinx.org))
-    * [Steam](https://store.steampowered.com) (playing, discussing, and creating games)
+    * [_Steam_](https://store.steampowered.com)
+    * [_Epic_](https://store.epicgames.com)
 
 <br>
 
