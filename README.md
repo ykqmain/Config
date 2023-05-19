@@ -54,11 +54,20 @@
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
             * [bilibili plus](https://greasyfork.org/zh-CN/scripts/373172-bilibili-plus)
 
-    * [**Chrome**](https://www.google.com/chrome/) ([Firefox](https://www.mozilla.org/en-US/firefox/all/)) [[_A Web Browser Renaissance_](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)]
-        * [uBlock Origin](https://github.com/gorhill/uBlock)
-        * [Tampermonkey](https://www.tampermonkey.net)
-        * [几枝](https://github.com/unicar9/jizhi)
-        * [Global Speed](https://github.com/polywock/globalSpeed)
+    * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([Chrome](https://www.google.com/chrome/))
+        * _about:config_
+            * `browser.tabs.closeTabByDblclick`
+            * `browser.compactmode.show`
+            * `browser.translations.enable`
+            * `extensions.pocket.enabled`
+        * _情怀主题_
+            * [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
+        * _Extensions_
+            * [Firefox Multi-Account Containers](https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/)
+            * [uBlock Origin](https://github.com/gorhill/uBlock)
+            * [Tampermonkey](https://www.tampermonkey.net)
+            * [Global Speed](https://github.com/polywock/globalSpeed)
+            * [几枝](https://github.com/unicar9/jizhi)
 
 <br>
 
@@ -97,7 +106,7 @@
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
         * [mysql](https://dev.mysql.com/downloads/)
         * [pandoc](https://www.pandoc.org)
-        * [ffmpeg](https://www.ffmpeg.org) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski))
+        * [_ffmpeg_](https://www.ffmpeg.org) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski))
     <br>
 
     * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
