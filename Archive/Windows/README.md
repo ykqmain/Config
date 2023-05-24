@@ -12,7 +12,7 @@
 * [Everything](https://www.voidtools.com/zh-cn/)
 * [Paint.NET](https://www.getpaint.net)
 * [Honeyview](https://www.bandisoft.com/honeyview/)
-* [VLC](https://www.videolan.org) ([_ScreenToGif_](https://www.screentogif.com)、[_OBS_](https://obsproject.com/zh-cn)、[_FFmpeg_](https://ffmpeg.org))
+* [VLC](https://www.videolan.org) ([_ScreenToGif_](https://www.screentogif.com)、[_OBS_](https://obsproject.com/zh-cn)、[_HandBrake_](https://handbrake.fr))
 <br>
 
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Microsoft Edge](https://www.microsoft.com/zh-cn/edge)、[Windows Terminal](https://github.com/microsoft/terminal))
