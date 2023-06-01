@@ -96,6 +96,7 @@
         * [wget](https://www.gnu.org/software/wget)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [tldr](https://github.com/tldr-pages/tldr)
+            * `tldr -u`
         * [neofetch](https://github.com/dylanaraps/neofetch)
         * [you-get](https://you-get.org)
         * [httpie](https://httpie.io)
