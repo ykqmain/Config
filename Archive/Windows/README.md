@@ -21,6 +21,7 @@
 <br>
 
 * [_Steam_](https://store.steampowered.com)
+* [_Epic_](https://store.epicgames.com)
 * [_Twinkle Tray_](https://github.com/xanderfrangos/twinkle-tray) [Microsoft Store]
 * [_AirPlay Screen Mirroring Receiver_](https://apps.microsoft.com/store/detail/airplay-screen-mirroring-receiver/9N1J401VPSN9) [Microsoft Store]
 * [_火绒_](https://www.huorong.cn)
