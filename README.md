@@ -31,8 +31,6 @@
 * ** iPhone 13 [Nana]**
     *  AirPods 2
 
-* ** Watch Ultra [XiaoNa]**
-
 <br>
 
 
