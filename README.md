@@ -22,14 +22,14 @@
 
 ## 在用哪些硬件？
 
+* ** iPhone 13 [Nana]**
+    *  AirPods 2
+
 * ** MacBook Pro (13-inch, M1, 2020) (16+256) [Anna]**
     *  Studio Display
     *  Magic Keyboard
     *  Magic Trackpad
     * DualSense™ Wireless Controller
-
-* ** iPhone 13 [Nana]**
-    *  AirPods 2
 
 <br>
 
