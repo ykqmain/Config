@@ -162,12 +162,12 @@
     * [Blender](https://www.blender.org) (3D creation suite)
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
-    * [iWork](https://www.apple.com.cn/iwork/) [App Store]
-    * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     <br>
 
-    * [OpenEmu](https://openemu.org) [Experimental] ([_Ryujinx_](https://ryujinx.org))
-    * [Steam](https://store.steampowered.com) ([_Epic_](https://store.epicgames.com))
+    * [iWork](https://www.apple.com.cn/iwork/) [App Store]
+    * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
+    * [OpenEmu](https://openemu.org) [Experimental] ([_Ryujinx_](https://ryujinx.org)、[_Steam_](https://store.steampowered.com))
+
 
 <br>
 
