@@ -71,6 +71,7 @@
     <br>
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store]
+    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
     * **Command Line Tools** `xcode-select --install` (~~终端代理~~)
     <br>
 
@@ -92,11 +93,11 @@
             * `tldr -u`
         * [neofetch](https://github.com/dylanaraps/neofetch)
         * [you-get](https://you-get.org)
-        * [httpie](https://httpie.io)
         * [openjdk](https://openjdk.org)
             * `sudo ln -sfn /opt/homebrew/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk`
         * [node](https://nodejs.org/zh-cn/)
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
+        * [httpie](https://httpie.io) ([_Wireshark_](https://www.wireshark.org))
         * [_duck_](https://duck.sh) ([_Cyberduck_](https://cyberduck.io))
         * [_mysql_](https://dev.mysql.com/downloads/) ([_DBeaver_](https://dbeaver.io))
         * [_ffmpeg_](https://www.ffmpeg.org) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski))
@@ -132,8 +133,7 @@
         * 兜兜转转还是回到了最初的Sublime，并购买License支持了一下。我认为编辑器和IDE一个快而准、一个大而全，IDE集成了编辑器、编译器、解释器、调试器、构建工具、版本管理、终端等开发环境。在我以后的生活和工作中可能不再需要IDE了，转行以后应该不常写代码，估计也就用用Python。Sublime对我而言是足够且有纪念意义的，希望Sublime能一直陪伴我，保持愉悦，不折腾、用就完了。
     <br>
 
-    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
+    
     * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
 
 <br>
