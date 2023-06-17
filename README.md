@@ -93,13 +93,12 @@
         * [neofetch](https://github.com/dylanaraps/neofetch)
         * [you-get](https://you-get.org)
         * [httpie](https://httpie.io)
-        * [duck](https://cyberduck.io)
         * [openjdk](https://openjdk.org)
             * `sudo ln -sfn /opt/homebrew/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk`
         * [node](https://nodejs.org/zh-cn/)
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
-        * [mysql](https://dev.mysql.com/downloads/)
-        * [pandoc](https://www.pandoc.org)
+        * [_duck_](https://duck.sh) ([_Cyberduck_](https://cyberduck.io))
+        * [_mysql_](https://dev.mysql.com/downloads/) ([_DBeaver_](https://dbeaver.io))
         * [_ffmpeg_](https://www.ffmpeg.org) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski))
     <br>
 
@@ -134,7 +133,7 @@
     <br>
 
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [DBeaver](https://dbeaver.io) (database tool)
+    *  (database tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
     * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
 
