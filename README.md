@@ -133,7 +133,6 @@
     <br>
 
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    *  (database tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
     * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
 
