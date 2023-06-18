@@ -76,14 +76,9 @@
 2. Developer Tools
 
     * **Terminal.app** ([Vim](https://www.vim.org))
-
-        * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
-
-    ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
-    <br>
-
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] (**`xcode-select --install`**) [~~终端代理~~]
-    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
+        * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
+    ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
     <br>
 
     * [**oh-my-zsh**](https://ohmyz.sh)
@@ -142,6 +137,7 @@
         * 兜兜转转还是回到了最初的Sublime，并购买License支持了一下。我认为编辑器和IDE一个快而准、一个大而全，IDE集成了编辑器、编译器、解释器、调试器、构建工具、版本管理、终端等开发环境。在我以后的生活和工作中可能不再需要IDE了，转行以后应该不常写代码，估计也就用用Python。Sublime对我而言是足够且有纪念意义的，希望Sublime能一直陪伴我，保持愉悦，不折腾、用就完了。
     <br>
 
+    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
     * [DBeaver](https://dbeaver.io) (Universal Database Tool)
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
     * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
@@ -177,7 +173,7 @@
     * [QQ](https://im.qq.com) [App Store]
     * [_飞书_](https://www.feishu.cn) [Web]
     * [_Discord_](https://discord.com) [Web]
-    * [**NetNewsWire**](https://ranchero.com/netnewswire) (RSS阅读器)
+    * [**NetNewsWire**](https://netnewswire.com) (RSS阅读器)
     <br>
 
     * Amphetamine (Keep Mac awake) [App Store]
