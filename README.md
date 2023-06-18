@@ -48,7 +48,7 @@
 
 ![](https://github.com/ykqmain/Config/blob/master/Pix/macOS13.png)
 
-1. **浏览器**
+1. 浏览器
 
     * [**Safari**](https://www.apple.com/safari/)
         * [AdBlocker](https://adblockersafari.com) [App Store]
@@ -64,7 +64,9 @@
 
 <br>
 
-2. Terminal.app ([Vim](https://www.vim.org))
+2. Developer Tools
+
+    * **Terminal.app** ([Vim](https://www.vim.org))
 
     ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
     * _为什么不是[iTerm2](https://www.iterm2.com)？_ iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
@@ -118,26 +120,18 @@
         * wordcloud
         * python-docx
         * mysql-connector-python
+    <br>
 
-<br>
-
-3. Developer Tools
-
-    * [CotEditor](https://coteditor.com) [App Store]
+    * [**CotEditor**](https://coteditor.com) [App Store]
     * [**Sublime Text**](https://www.sublimetext.com) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev))
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
         * [_Package Control_](https://packagecontrol.io)：[**我的插件**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
         * 主题：Adaptive/Mariana
         * 兜兜转转还是回到了最初的Sublime，并购买License支持了一下。我认为编辑器和IDE一个快而准、一个大而全，IDE集成了编辑器、编译器、解释器、调试器、构建工具、版本管理、终端等开发环境。在我以后的生活和工作中可能不再需要IDE了，转行以后应该不常写代码，估计也就用用Python。Sublime对我而言是足够且有纪念意义的，希望Sublime能一直陪伴我，保持愉悦，不折腾、用就完了。
-    <br>
-
-    
-    * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
-
 <br>
 
-4. 效率与娱乐
+3. 效率与娱乐
 
     * [**WPS Office**](https://www.wps.cn) [App Store]
     * [PDF Expert](https://pdfexpert.com/zh) (PDF工具)
@@ -150,17 +144,20 @@
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
     * [Blender](https://www.blender.org) (3D creation suite)
-    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
-    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
+    * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
     <br>
 
+    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
+    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
+    <br>
+
     * [Steam](https://store.steampowered.com) ([_OpenEmu_](https://openemu.org)、[_Ryujinx_](https://ryujinx.org))
 
 <br>
 
-5. 工具
+4. 工具
 
     * [微信](https://weixin.qq.com) [App Store]
     * [QQ](https://im.qq.com) [App Store]
