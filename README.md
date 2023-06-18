@@ -102,14 +102,14 @@
             * `tldr -u`
         * [neofetch](https://github.com/dylanaraps/neofetch)
         * [you-get](https://you-get.org)
+        * [httpie](https://httpie.io)
+        * [duck](https://duck.sh)
         * [openjdk](https://openjdk.org)
             * `sudo ln -sfn /opt/homebrew/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk`
         * [node](https://nodejs.org/zh-cn/)
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
-        * [httpie](https://httpie.io) ([_Wireshark_](https://www.wireshark.org))
-        * [_duck_](https://duck.sh) ([_Cyberduck_](https://cyberduck.io))
-        * [_mysql_](https://dev.mysql.com/downloads/) ([_DBeaver_](https://dbeaver.io))
-        * [_ffmpeg_](https://www.ffmpeg.org) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski))
+        * [mysql](https://dev.mysql.com/downloads/)
+        * [ffmpeg](https://www.ffmpeg.org) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski))
     <br>
 
     * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
@@ -137,6 +137,12 @@
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
         * 主题：Adaptive/Mariana
         * 兜兜转转还是回到了最初的Sublime，并购买License支持了一下。我认为编辑器和IDE一个快而准、一个大而全，IDE集成了编辑器、编译器、解释器、调试器、构建工具、版本管理、终端等开发环境。在我以后的生活和工作中可能不再需要IDE了，转行以后应该不常写代码，估计也就用用Python。Sublime对我而言是足够且有纪念意义的，希望Sublime能一直陪伴我，保持愉悦，不折腾、用就完了。
+    <br>
+
+    * [DBeaver](https://dbeaver.io) (Universal Database Tool)
+    * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
+    * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
+
 <br>
 
 3. 效率与娱乐
@@ -152,15 +158,12 @@
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
     * [Blender](https://www.blender.org) (3D creation suite)
-    * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
-    <br>
-
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn)、[_必剪_](https://bcut.bilibili.cn))
-    * [iWork](https://www.apple.com.cn/iwork/) [App Store]
-    * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     <br>
 
+    * [iWork](https://www.apple.com.cn/iwork/) [App Store]
+    * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     * [Steam](https://store.steampowered.com) ([_OpenEmu_](https://openemu.org)、[_Ryujinx_](https://ryujinx.org))
 
 <br>
