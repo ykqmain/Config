@@ -163,7 +163,8 @@
 
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
-    * [Steam](https://store.steampowered.com) ([_OpenEmu_](https://openemu.org)、[_Ryujinx_](https://ryujinx.org))
+    * [Steam](https://store.steampowered.com)
+    * [OpenEmu](https://openemu.org) [Experimental] ([_Ryujinx_](https://ryujinx.org))
 
 <br>
 
@@ -181,10 +182,9 @@
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
     * [Rectangle](https://github.com/rxhanson/Rectangle) (window management)
     * [Maccy](https://github.com/p0deje/Maccy) (clipboard manager)
-    * [pap.er](https://paper.photos) ([_Unsplash_](https://unsplash.com/apps)) [App Store]
+    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
     <br>
 
-    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
     * [_MonitorControl_](https://github.com/MonitorControl/MonitorControl) (显示器工具)
     * [_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具)
     * [_Mactracker_](https://mactracker.ca) [App Store]
