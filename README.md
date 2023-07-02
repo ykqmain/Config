@@ -182,9 +182,9 @@
     * [**Rectangle**](https://github.com/rxhanson/Rectangle) (window management)
     * [Maccy](https://github.com/p0deje/Maccy) (clipboard manager)
     * [pap.er](https://paper.photos) ([_Unsplash_](https://unsplash.com/apps)) [App Store]
-    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
     <br>
 
+    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
     * [_MonitorControl_](https://github.com/MonitorControl/MonitorControl) (显示器工具)
     * [_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具)
     * [_Mactracker_](https://mactracker.ca) [App Store]
