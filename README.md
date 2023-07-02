@@ -107,7 +107,7 @@
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
         * [mysql](https://dev.mysql.com/downloads/)
         * [pandoc](https://www.pandoc.org)
-        * [_ffmpeg_](https://www.ffmpeg.org) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski))
+        * [ffmpeg](https://www.ffmpeg.org) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski))
     <br>
 
     * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
@@ -163,8 +163,7 @@
 
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
-    * [Steam](https://store.steampowered.com)
-    * [OpenEmu](https://openemu.org) [Experimental] ([_Ryujinx_](https://ryujinx.org))
+    * [Steam](https://store.steampowered.com) ([_OpenEmu_](https://openemu.org)、[_Ryujinx_](https://ryujinx.org))
 
 <br>
 
@@ -178,9 +177,9 @@
     <br>
 
     * Amphetamine (Keep Mac awake) [App Store]
-    * [**Keka**](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
+    * [Keka](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
-    * [Rectangle](https://github.com/rxhanson/Rectangle) (window management)
+    * [**Rectangle**](https://github.com/rxhanson/Rectangle) (window management)
     * [Maccy](https://github.com/p0deje/Maccy) (clipboard manager)
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
     <br>
