@@ -106,6 +106,7 @@
         * [node](https://nodejs.org/zh-cn/)
             * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
         * [mysql](https://dev.mysql.com/downloads/)
+            * `brew services start mysql`
         * [pandoc](https://www.pandoc.org)
         * [ffmpeg](https://www.ffmpeg.org) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski))
     <br>
