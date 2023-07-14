@@ -28,6 +28,9 @@
     *  Magic Trackpad
     * DualSense™ Wireless Controller
 
+* ** iPad Air 5 [PanNa]**
+    *  Pencil 2
+
 * ** iPhone 13 [Nana]**
     *  AirPods 2
 
