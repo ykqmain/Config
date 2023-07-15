@@ -2,7 +2,7 @@
 
 精简的Windows软件推荐。
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/)、[_Chrome_](https://www.google.com/chrome/))
+* [Chrome](https://www.google.com/chrome/) ([_Firefox_](https://www.mozilla.org/en-US/firefox/all/)、[_Thunderbird_](https://www.thunderbird.net/zh-CN/))
 * [WPS Office](https://www.wps.cn)
 <br>
 
