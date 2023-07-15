@@ -181,7 +181,7 @@
     * [**NetNewsWire**](https://netnewswire.com) (RSS阅读器)
     <br>
 
-    * Amphetamine (Keep Mac awake) [App Store]
+    * Amphetamine (保持唤醒) [App Store]
     * [Keka](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
     * [**Rectangle**](https://github.com/rxhanson/Rectangle) (window management)
