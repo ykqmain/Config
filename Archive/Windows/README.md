@@ -20,8 +20,6 @@
 <br>
 
 * [_Twinkle Tray_](https://github.com/xanderfrangos/twinkle-tray)
-* [_QQ音乐_](https://y.qq.com)
-* [_百度网盘_](https://pan.baidu.com)
 * [_火绒_](https://www.huorong.cn)
 <br>
 
