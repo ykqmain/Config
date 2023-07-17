@@ -19,6 +19,8 @@
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Windows Terminal](https://github.com/microsoft/terminal))
 <br>
 
+* [_QQ音乐_](https://y.qq.com)
+* [_百度网盘_](https://pan.baidu.com)
 * [_Twinkle Tray_](https://github.com/xanderfrangos/twinkle-tray)
 * [_火绒_](https://www.huorong.cn)
 <br>
