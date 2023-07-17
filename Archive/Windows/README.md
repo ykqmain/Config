@@ -10,7 +10,7 @@
 * [7-Zip](https://www.7-zip.org)
 * [Everything](https://www.voidtools.com/zh-cn/)
 * [Honeyview](https://www.bandisoft.com/honeyview/) ([_Paint.NET_](https://www.getpaint.net))
-* [VLC](https://www.videolan.org) ([_ScreenToGif_](https://www.screentogif.com)、[_OBS_](https://obsproject.com/zh-cn)、[_HandBrake_](https://handbrake.fr))
+* [VLC](https://www.videolan.org) ([_ScreenToGif_](https://www.screentogif.com)、[_OBS_](https://obsproject.com/zh-cn))
 <br>
 
 * [Sublime Text](https://www.sublimetext.com)
