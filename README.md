@@ -59,7 +59,7 @@
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
             * [bilibili plus](https://greasyfork.org/zh-CN/scripts/373172-bilibili-plus)
 
-    * [Chrome](https://www.google.com/chrome/)
+    * [Chrome](https://www.google.com/chrome/) ([~~_A Web Browser Renaissance_~~](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/))
         * [uBlock Origin](https://github.com/gorhill/uBlock)
         * [Tampermonkey](https://www.tampermonkey.net)
         * [Global Speed](https://github.com/polywock/globalSpeed)
