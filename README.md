@@ -64,7 +64,6 @@
             * `extensions.pocket.enabled`
             * `browser.tabs.closeTabByDblclick`
             * `browser.compactmode.show`
-            * `browser.translations.enable`
         * _情怀主题_
             * [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
         * _Extensions_
