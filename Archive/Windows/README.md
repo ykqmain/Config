@@ -19,7 +19,7 @@
 <br>
 
 * [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)
-* [微软电脑管家](https://pcmanager.microsoft.com/zh-cn)
+* [Microsoft PC Manager](https://pcmanager.microsoft.com/zh-cn)
 <br>
 
 [更多……](https://github.com/Awesome-Windows/Awesome)
