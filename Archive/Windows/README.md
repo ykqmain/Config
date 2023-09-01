@@ -16,8 +16,8 @@
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Microsoft Edge](https://www.microsoft.com/zh-cn/edge)、[Windows Terminal](https://github.com/microsoft/terminal)、[_Git_](https://git-scm.com)、[_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org)、[_WinMerge_](https://winmerge.org))
 * [Python](https://www.python.org) ([_LLVM-MinGW_](https://www.mingw-w64.org/downloads/#llvm-mingw))
 * [Sublime Text](https://www.sublimetext.com)
-* [_Twinkle Tray_](https://github.com/xanderfrangos/twinkle-tray)
-* [_微软电脑管家_](https://pcmanager.microsoft.com/zh-cn)
+* [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)
+* [微软电脑管家](https://pcmanager.microsoft.com/zh-cn)
 <br>
 
 [更多……](https://github.com/Awesome-Windows/Awesome)
