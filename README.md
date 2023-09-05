@@ -164,7 +164,7 @@
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
     * [Blender](https://www.blender.org) (3D creation suite)
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
-    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](http://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn))
+    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn))
     <br>
 
     * [GoodNotes](https://www.goodnotes.com) [App Store]
