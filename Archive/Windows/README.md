@@ -1,6 +1,4 @@
-## Windows
-
-精简的Windows软件推荐。
+## Windows精简软件列表
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/))
 * [WPS Office](https://www.wps.cn)
@@ -14,7 +12,7 @@
 <br>
 
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Microsoft Edge](https://www.microsoft.com/zh-cn/edge)、[Windows Terminal](https://github.com/microsoft/terminal)、[_Git_](https://git-scm.com)、[_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org)、[_WinMerge_](https://winmerge.org))
-* [Python](https://www.python.org) ([_LLVM-MinGW_](https://www.mingw-w64.org/downloads/#llvm-mingw)、[_OpenJDK Adoptium_](https://adoptium.net/zh-CN/temurin/releases/)、[_Node.js_](https://nodejs.org/zh-cn/))
+* [Python](https://www.python.org) ([_LLVM-MinGW_](https://www.mingw-w64.org/downloads/#llvm-mingw))
 * [Sublime Text](https://www.sublimetext.com)
 <br>
 
