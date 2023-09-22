@@ -1,20 +1,5 @@
 {
-    // terminals
-    // if there is only one, it will directly open it
-    // otherwise, it will open a quick panel with all
-    // the name listed
-    // example for cmder:
-
-    // { "name": "Cmder", "cmd": ["C:/cmder/cmder.exe", "/SINGLE", "$cwd"] }
-
-    // $cwd will be replaced by the current working directory
-
     "terminals": [
-        // {
-        //     "name": "CMD",
-        //     "cmd": ["cmd"],
-        //     "platform": "windows"
-        // },
         {
             "name": "Terminal",
             "cmd": ["open", "-a", "Terminal", "$cwd"],
