@@ -1,10 +1,6 @@
 {
     "linters": {
-        // The name of the linter you installed
         "flake8": {
-            // Disables the linter. The default here is 'not set'
-            "disable": false,
-
             // Additional arguments for the command line. Either a string
             // or an array. If set to a string, we 'shlex.split' it*.
             // E.g. '--ignore D112' or ['--config', './.config/foo.ini']
@@ -17,9 +13,5 @@
         }
     },
 
-    // Show the output panel on save if there are problems.
-    // - window: check if the window has problems.
-    // - view: only check the current file.
-    // - never: disable this feature.
     "show_panel_on_save": "view",
 }

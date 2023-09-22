@@ -19,6 +19,6 @@
         //     "name": "GNOME Terminal",
         //     "cmd": ["gnome-terminal"],
         //     "platform": "linux"
-        // }
+        // },
     ]
 }
