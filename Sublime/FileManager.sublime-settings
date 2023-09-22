@@ -1,37 +1,4 @@
 {
-
-    // when deleting files/folders, the user will be asked for
-    // confirmation, and then the items will be sent to the trash.
-    // set to false to remove the confirmation dialog, and send the
-    // items to the trash straight away.
-    "ask_for_confirmation_on_delete": true,
-
-
-    // auto complete with files
-    "complete_with_files_too": true,
-
-    // only relevant if complete_with_files_too is true
-    // choose folder over file if folder and file are available for
-    // completion. Null means that it will be selected by alphabetic order
-    // valid values: "files", "folders", "alphabetic"
-    "pick_first": "folders",
-
-    // define if the auto completion case sensitive
-    "case_sensitive": false,
-
-    // recommended to be a char that cannot be in a file name
-    "index_folder_separator": ">",
-
-    // which folder to pick for reference by default
-    // (create folder from it)
-    "default_index": 0,
-
-    // valid value
-    // false: disable the log
-    // "user": display a user friendly path. eg: ~/Desktop/   (working on window)
-    // "computer": display a computer friendly path: C:\User\<user>\Desktop\
-    "log_in_status_bar": "computer",
-
     // terminals
     // if there is only one, it will directly open it
     // otherwise, it will open a quick panel with all
@@ -68,56 +35,5 @@
         //     "cmd": ["gnome-terminal"],
         //     "platform": "linux"
         // }
-    ],
-
-    // If set to true, all the command that are disabled (in grey)
-    // will be hidden
-    "menu_without_distraction": true,
-
-    // auto refresh the side bar when you run any action that might affect it
-    // by default, sublime text would do it by itself, but if this is
-    // set to true, then it will be explicitly refreshed
-    "explicitly_refresh_sidebar": false,
-
-    // if true, each time you create/rename/duplicate etc a file, it will be revealed
-    // in the sidebar
-    "reveal_in_sidebar": false,
-
-    // Save after creating a file (because a snippet can be inserted)
-    "save_after_creating": false,
-
-    "aliases": {
-        "st": "$packages",
-        "des": "~/Desktop",
-        "here": "$file_path"
-    },
-
-    // See https://math2001.github.io/FileManager/aliases/#watch-out-for-infinite-loops
-    "open_help_on_alias_infinite_loop": true,
-
-    // Once again, to improve your speed, if there is commands
-    // you never use, you can super easily hide them.
-
-    // You can hide/show every command, and it will have no impact
-    // on the other ones.
-
-    "show_create_command": true,
-    "show_copy_command": true,
-    "show_delete_command": true,
-    "show_duplicate_command": true,
-    "show_edit_to_the_left_command": true,
-    "show_edit_to_the_right_command": true,
-    "show_find_in_files_command": true,
-    "show_move_command": true,
-    "show_open_in_explorer_command": true,
-    "show_open_in_browser_command": true,
-    "show_open_terminal_command": true,
-    "show_rename_command": true,
-    "show_rename_path_command": true,
-    "show_create_from_selection_command": true,
-    "show_open_all_command": true,
-
-    // Set to false to disable the default alt+n key binding
-    "create_keybinding_enabled": true
-
+    ]
 }
