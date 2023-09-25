@@ -21,7 +21,6 @@
         "LSP-bash",
         "LSP-clangd",
         "LSP-json",
-        "LSP-ltex-ls",
         "LSP-pyright",
         "Package Control",
         "PackageResourceViewer",

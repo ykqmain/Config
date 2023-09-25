@@ -1,9 +1,0 @@
-{
-    "settings": {
-        // Default language.
-        // @see https://valentjn.github.io/vscode-ltex/docs/advanced-usage.html#magic-comments
-        // @see https://valentjn.github.io/ltex/settings.html#ltexlanguage
-        // new: "auto" but not recommended
-        "ltex.language": "zh-CN",
-    }
-}
