@@ -45,7 +45,7 @@
 
 <br>
 
-**macOS 13 (Ventura)**
+**macOS 14 (Sonoma)**
 
 ![](https://github.com/ykqmain/Config/blob/master/Pix/macOS13.png)
 
