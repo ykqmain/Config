@@ -28,9 +28,6 @@
     *  Magic Trackpad
     * DualSense™ Wireless Controller
 
-* ** iPad Air 5 [Pena]**
-    *  Pencil 2
-
 * ** iPhone 13 [Nana]**
     *  AirPods 2
 
@@ -168,7 +165,7 @@
     * [Goodnotes](https://www.goodnotes.com) [App Store]
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
-    * [Steam](https://store.steampowered.com) ([_OpenEmu_](https://openemu.org)、[_Ryujinx_](https://ryujinx.org))
+    * [Steam](https://store.steampowered.com) ([_OpenEmu_](https://openemu.org))
     * [百度网盘](https://pan.baidu.com) [App Store]
 
 <br>
