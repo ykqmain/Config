@@ -16,7 +16,7 @@
 * [Sublime Text](https://www.sublimetext.com)
 <br>
 
-* [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)
+* [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray) ([_DiskGenius_](https://www.diskgenius.cn)、[_微PE工具箱_](https://www.wepe.com.cn))
 * [Microsoft PC Manager](https://pcmanager.microsoft.com/zh-cn)
 <br>
 
