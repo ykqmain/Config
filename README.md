@@ -166,7 +166,7 @@
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     * [Steam](https://store.steampowered.com) ([_OpenEmu_](https://openemu.org))
-    * [百度网盘](https://pan.baidu.com) [App Store]
+    * [_百度网盘_](https://pan.baidu.com) [App Store]
 
 <br>
 
