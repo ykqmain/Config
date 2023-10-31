@@ -98,32 +98,25 @@
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [neofetch](https://github.com/dylanaraps/neofetch)
-        * [openjdk](https://openjdk.org)
-            * `sudo ln -sfn /opt/homebrew/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk`
-        * [node](https://nodejs.org/zh-cn/)
-            * [hexo](https://hexo.io/zh-cn/) `npm install hexo-cli -g`
         * [mysql](https://dev.mysql.com/downloads/)
             * `brew services start mysql`
         * [you-get](https://you-get.org)
-        * [ffmpeg](https://www.ffmpeg.org) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski))
-    <br>
-
-    * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
-        * flake8
-        * black
-        * httpx
-        * requests
-        * beautifulsoup4
-        * fastapi
-        * uvicorn
-        * openpyxl
-        * pandas
-        * pillow
-        * matplotlib
-        * jieba
-        * wordcloud
-        * python-docx
-        * mysql-connector-python
+        * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
+            * flake8
+            * black
+            * httpx
+            * requests
+            * beautifulsoup4
+            * fastapi
+            * uvicorn
+            * openpyxl
+            * pandas
+            * pillow
+            * matplotlib
+            * jieba
+            * wordcloud
+            * python-docx
+            * mysql-connector-python
     <br>
 
     * [**CotEditor**](https://coteditor.com) [App Store]
@@ -136,10 +129,10 @@
     <br>
 
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [DBeaver](https://dbeaver.io) (Universal Database Tool)
-    * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
-    * [Paw](https://paw.cloud) (API tool) ([_httpie_](https://httpie.io))
-    * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser) ([_duck_](https://duck.sh))
+    * [_DBeaver_](https://dbeaver.io) (Universal Database Tool)
+    * [_Wireshark_](https://www.wireshark.org) (network protocol analyzer)
+    * [_Paw_](https://paw.cloud) (API tool) ([_httpie_](https://httpie.io))
+    * [_Cyberduck_](https://cyberduck.io) (libre server and cloud storage browser) ([_duck_](https://duck.sh))
     * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
 
 <br>
@@ -159,6 +152,7 @@
     * [Blender](https://www.blender.org) (3D creation suite)
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([_DaVinci Resolve_](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[_剪映_](https://www.capcut.cn))
+    * [HandBrake](https://handbrake.fr) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_Gifski_](https://gif.ski))
     <br>
 
     * [Goodnotes](https://www.goodnotes.com) [App Store]

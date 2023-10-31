@@ -1,4 +1,4 @@
-## Windows精简软件列表
+## Windows精简软件
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/))
 * [WPS Office](https://www.wps.cn)
