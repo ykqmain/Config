@@ -70,19 +70,14 @@ ZSH_THEME="cleanly"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search history encode64 extract z macos git python pip sublime httpie web-search)
+plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search history encode64 extract z macos git python pip sublime web-search)
 
+source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
 # export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
-export MY_HOME="/usr/local"
-export HOMEBREW="/opt/homebrew/bin"
-
-export PATH="$MY_HOME/bin:$HOMEBREW:$PATH"
-source $ZSH/oh-my-zsh.sh
-
 
 # COLOR
 export HEI="\e[1;30m"
