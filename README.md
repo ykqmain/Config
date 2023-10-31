@@ -130,10 +130,10 @@
 
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
     * [_DBeaver_](https://dbeaver.io) (Universal Database Tool)
-    * [_Wireshark_](https://www.wireshark.org) (network protocol analyzer)
-    * [_Paw_](https://paw.cloud) (API tool) ([_httpie_](https://httpie.io))
     * [_Cyberduck_](https://cyberduck.io) (libre server and cloud storage browser) ([_duck_](https://duck.sh))
-    * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
+    * [_Paw_](https://paw.cloud) (API tool) ([_httpie_](https://httpie.io))
+    * [_Wireshark_](https://www.wireshark.org) (network protocol analyzer)
+    * [_QGIS_](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
 
 <br>
 
@@ -158,7 +158,8 @@
     * [Goodnotes](https://www.goodnotes.com) [App Store]
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
-    * [Steam](https://store.steampowered.com) ([_OpenEmu_](https://openemu.org))
+    * [OpenEmu](https://openemu.org)
+    * [Steam](https://store.steampowered.com)
     * [_百度网盘_](https://pan.baidu.com) [App Store]
 
 <br>
