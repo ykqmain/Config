@@ -129,11 +129,11 @@
     <br>
 
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [_DBeaver_](https://dbeaver.io) (Universal Database Tool)
-    * [_Cyberduck_](https://cyberduck.io) (libre server and cloud storage browser) ([_duck_](https://duck.sh))
-    * [_Paw_](https://paw.cloud) (API tool) ([_httpie_](https://httpie.io))
-    * [_Wireshark_](https://www.wireshark.org) (network protocol analyzer)
-    * [_QGIS_](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
+    * [DBeaver](https://dbeaver.io) (Universal Database Tool)
+    * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser) ([_duck_](https://duck.sh))
+    * [Paw](https://paw.cloud) (API tool) ([_httpie_](https://httpie.io))
+    * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
+    * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
 
 <br>
 
