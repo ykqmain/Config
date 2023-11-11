@@ -160,7 +160,7 @@
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (games)
-    * [_百度网盘_](https://pan.baidu.com) [App Store]
+    * [Epic](https://store.epicgames.com) (games)
 
 <br>
 
@@ -181,6 +181,7 @@
     * [pap.er](https://paper.photos) [App Store]
     <br>
 
+    * [百度网盘](https://pan.baidu.com) [App Store]
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
     * [_MonitorControl_](https://github.com/MonitorControl/MonitorControl) (显示器工具)
     * [_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具)
