@@ -158,9 +158,7 @@
     * [Goodnotes](https://www.goodnotes.com) [App Store]
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
-    * [OpenEmu](https://openemu.org) (video game emulation)
-    * [Steam](https://store.steampowered.com) (games)
-    * [Epic](https://store.epicgames.com) (games)
+    * [OpenEmu](https://openemu.org) (games) ([Steam](https://store.steampowered.com)、[Epic](https://store.epicgames.com))
 
 <br>
 
