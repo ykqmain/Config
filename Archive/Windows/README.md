@@ -8,7 +8,7 @@
 
 * [7-Zip](https://www.7-zip.org)
 * [Everything](https://www.voidtools.com/zh-cn/)
-* [Honeyview](https://www.bandisoft.com/honeyview/) ([_Paint.NET_](https://www.getpaint.net))
+* [Paint.NET](https://www.getpaint.net)
 * [VLC](https://www.videolan.org)
 <br>
 
