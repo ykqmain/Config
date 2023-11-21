@@ -140,16 +140,16 @@
 3. 效率与娱乐
 
     * [**WPS Office**](https://www.wps.cn) [App Store]
-    * [PDF Expert](https://pdfexpert.com/zh) (PDF工具)
-    * [iThoughtsX](https://www.toketaware.com) (思维导图)
-    * [Pixelmator Pro](https://www.pixelmator.com/pro/) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/)，换掉[~~Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)后达成「软件全部正版化」成就😌)
+    * [PDF Expert](https://pdfexpert.com) (PDF editor)
+    * [iThoughtsX](https://www.toketaware.com) (Mindmapping)
+    * [Pixelmator Pro](https://www.pixelmator.com/pro/) (Professional image editing tools) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/)，换掉[~~Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)后达成「软件全部正版化」成就😌)
     <br>
 
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
-    * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
-    * [Blender](https://www.blender.org) (3D Creation Suite)
+    * [OBS](https://obsproject.com) (video recording and live streaming)
+    * [Blender](https://www.blender.org) (3D creation suite)
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[剪映](https://www.capcut.cn))
     * [HandBrake](https://handbrake.fr) (video transcoder) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_Gifski_](https://gif.ski))
