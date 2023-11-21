@@ -38,7 +38,7 @@
 
 **我喜欢精简，在满足自己所需要功能的前提下，将自己的互联网账号数量降到最低，涉及的平台和APP减到最少。**
 
-**系统自带的软件足够好则优先使用；免费或开源的软件其次；最后才是买断制软件；订阅制软件几乎不考虑。**
+**系统自带的软件足够好则优先使用、免费或开源软件其次、最后才是买断制软件；订阅制软件几乎不考虑。**
 
 <br>
 
@@ -149,10 +149,10 @@
     * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com/zh-cn) (直播串流和录屏)
-    * [Blender](https://www.blender.org) (3D creation suite)
+    * [Blender](https://www.blender.org) (3D Creation Suite)
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[剪映](https://www.capcut.cn))
-    * [HandBrake](https://handbrake.fr) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_Gifski_](https://gif.ski))
+    * [HandBrake](https://handbrake.fr) (video transcoder) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_Gifski_](https://gif.ski))
     <br>
 
     * [Goodnotes](https://www.goodnotes.com) [App Store]
@@ -171,7 +171,7 @@
     * [**NetNewsWire**](https://netnewswire.com) (RSS阅读器)
     <br>
 
-    * Amphetamine (保持唤醒) [App Store]
+    * Amphetamine (防睡眠) [App Store]
     * [Keka](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
     * [**Rectangle**](https://github.com/rxhanson/Rectangle) (window management)
