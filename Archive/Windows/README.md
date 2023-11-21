@@ -13,7 +13,7 @@
 * [VLC](https://www.videolan.org)
 <br>
 
-* [Windows Terminal](https://github.com/microsoft/terminal) ([_Git_](https://git-scm.com)、[_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org)、[_WinMerge_](https://winmerge.org))
+* [Windows Terminal](https://github.com/microsoft/terminal) ([_Git_](https://git-scm.com)、[_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org)、[WinMerge](https://winmerge.org))
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)、[_DiskGenius_](https://www.diskgenius.cn)、[_WinPE_](https://www.wepe.com.cn)、[Microsoft PC Manager](https://pcmanager.microsoft.com/zh-cn))
 <br>
 
