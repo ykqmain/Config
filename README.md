@@ -36,7 +36,7 @@
 
 ## 软件呢？
 
-**我喜欢精简，在满足自己所需要功能的前提下，将自己的互联网账号数量降到最低，涉及的平台和APP减到最少。**
+**我喜欢精简，在满足自己所需功能的前提下，将自己的互联网账号数量降到最低，涉及的平台和APP减到最少。**
 
 **系统自带的软件足够好则优先使用、免费或开源软件其次、最后才是买断制软件；订阅制软件几乎不考虑。**
 
@@ -75,7 +75,7 @@
 
     * **Terminal.app** ([Vim](https://www.vim.org))
         ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
-        * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前唯一的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
+        * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前我发现的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
     <br>
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] (**`xcode-select --install`**) [~~终端代理~~]
@@ -125,7 +125,7 @@
         * [_Package Control_](https://packagecontrol.io)：[**我的插件**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
         * 主题：Adaptive/Mariana
-        * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为编辑器和IDE，一个快而准、一个大而全。在我以后的生活和工作中可能不再需要集成开发环境（Integrated Development Environment），Sublime对我而言是足够且有纪念意义的，估计也就编辑文本、写写Python罢了。希望Sublime能一直陪伴我，保持愉悦，不折腾、用就完了。
+        * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为编辑器和IDE，一个快而准、一个大而全。在我转行以后的生活和工作中可能不再需要集成开发环境（Integrated Development Environment），估计也就编辑文本、写写Python罢了，Sublime对我而言是足够且有纪念意义的。希望Sublime能一直陪伴我，保持愉悦，不折腾、用就完了。
     <br>
 
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
