@@ -84,8 +84,9 @@
     // - false: Disables modified line indicators
     "mini_diff": true,
 
-    // Columns in which to display vertical rulers. You can also pair the column
-    // with a ruler style (See "ruler_style"), eg: [[80, "solid"]]
+    // Columns in which to display vertical rulers. Each entry may also be a
+    // list of the column, the ruler style and optionally the ruler width, for
+    // example: [[80, "solid", 2], 78, [90, "dotted"]]
     "rulers": [80],
 
     // Controls how ruler lines are drawn
@@ -93,6 +94,9 @@
     // - "stippled": Drawn as a stippled line
     // - "solid": Drawn as a solid line
     "ruler_style": "dotted",
+
+    // Controls how wide ruler lines are drawn
+    "ruler_width": 1.0,
 
     // Set to true to turn spell checking on by default
     "spell_check": false,
@@ -404,8 +408,8 @@
     // Additional situations to trigger auto complete
     "auto_complete_triggers":
     [
-        {"selector": "text.html, text.xml", "characters": "<",},
-        {"selector": "punctuation.accessor", "rhs_empty": true,},
+        {"selector": "text.html, text.xml", "characters": "<"},
+        {"selector": "punctuation.accessor", "rhs_empty": true},
     ],
 
     // By default, auto complete will commit the current completion on enter.
@@ -550,6 +554,10 @@
 
     // The number of context lines to show for each result
     "find_in_files_context_lines": 2,
+
+    // The number of characters within the line surrounding each result to
+    // display beyond which text is omitted. A value of 0 will remove any limit.
+    "find_in_files_context_characters": 300,
 
     // Error messages from failing to open and search files will be suppressed
     // from results
@@ -893,5 +901,5 @@
         "Vintage",
     ],
 
-    "update_check": false,
+    "update_check": false
 }
