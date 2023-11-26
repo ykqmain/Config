@@ -158,9 +158,7 @@
     * [Goodnotes](https://www.goodnotes.com) [App Store]
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
-    * [OpenEmu](https://openemu.org) (video game emulation)
-    * [Steam](https://store.steampowered.com) (games)
-    * [百度网盘](https://pan.baidu.com) [App Store]
+    * [OpenEmu](https://openemu.org) (games) ([Steam](https://store.steampowered.com)、[Epic](https://store.epicgames.com))
 
 <br>
 
@@ -173,7 +171,7 @@
     * [**NetNewsWire**](https://netnewswire.com) (RSS阅读器)
     <br>
 
-    * Amphetamine (防睡眠) [App Store]
+    * Amphetamine (保持唤醒) [App Store]
     * [Keka](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
     * [**Rectangle**](https://github.com/rxhanson/Rectangle) (window management)
@@ -181,6 +179,7 @@
     * [pap.er](https://paper.photos) [App Store]
     <br>
 
+    * [百度网盘](https://pan.baidu.com) [App Store]
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
     * [_MonitorControl_](https://github.com/MonitorControl/MonitorControl) (显示器工具)
     * [_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具)
