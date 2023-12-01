@@ -142,8 +142,8 @@
     * [**WPS Office**](https://www.wps.cn) [App Store]
     * [PDF Expert](https://pdfexpert.com) (PDF editor)
     * [iThoughtsX](https://www.toketaware.com) (Mindmapping)
-    * [Pixelmator Pro](https://www.pixelmator.com/pro/) (image editor) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/)，换掉[~~Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)后达成「软件全部正版化」成就😌)
-    * [Photomator](https://www.pixelmator.com/photomator/) (photo editor) [App Store]
+    * [Pixelmator Pro](https://www.pixelmator.com/pro/) (image editor) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/))
+    * [Photomator](https://www.pixelmator.com/photomator/) (photo editor) [App Store] (换掉[~~Photoshop & Lightroom~~](https://www.adobe.com/creativecloud/photography.html)后达成「软件全部正版化」成就😌)
     <br>
 
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
