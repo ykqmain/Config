@@ -142,7 +142,8 @@
     * [**WPS Office**](https://www.wps.cn) [App Store]
     * [PDF Expert](https://pdfexpert.com) (PDF editor)
     * [iThoughtsX](https://www.toketaware.com) (Mindmapping)
-    * [Pixelmator Pro](https://www.pixelmator.com/pro/) (Professional image editing tools) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/)，换掉[~~Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)后达成「软件全部正版化」成就😌)
+    * [Pixelmator Pro](https://www.pixelmator.com/pro/) (image editor) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/)，换掉[~~Photoshop~~](https://www.adobe.com/cn/products/photoshop.html)后达成「软件全部正版化」成就😌)
+    * [Photomator](https://www.pixelmator.com/photomator/) (photo editor) [App Store]
     <br>
 
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
@@ -160,7 +161,6 @@
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (games)
-    * [百度网盘](https://pan.baidu.com) [App Store]
 
 <br>
 
@@ -181,6 +181,7 @@
     * [pap.er](https://paper.photos) [App Store]
     <br>
 
+    * [百度网盘](https://pan.baidu.com) [App Store]
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
     * [_MonitorControl_](https://github.com/MonitorControl/MonitorControl) (显示器工具)
     * [_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具)
