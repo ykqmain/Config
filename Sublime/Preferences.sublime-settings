@@ -408,8 +408,8 @@
     // Additional situations to trigger auto complete
     "auto_complete_triggers":
     [
-        {"selector": "text.html, text.xml", "characters": "<"},
-        {"selector": "punctuation.accessor", "rhs_empty": true},
+        {"selector": "text.html, text.xml", "characters": "<",},
+        {"selector": "punctuation.accessor", "rhs_empty": true,},
     ],
 
     // By default, auto complete will commit the current completion on enter.
@@ -901,5 +901,5 @@
         "Vintage",
     ],
 
-    "update_check": false
+    "update_check": false,
 }
