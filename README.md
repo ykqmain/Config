@@ -55,7 +55,7 @@
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
 
-    * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([Chrome](https://www.google.com/chrome/))
+    * [Firefox](https://www.mozilla.org/en-US/firefox/all/)
         * _about:config_
             * `extensions.pocket.enabled`
             * `browser.tabs.closeTabByDblclick`
@@ -156,6 +156,7 @@
     * [HandBrake](https://handbrake.fr) (video transcoder) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_Gifski_](https://gif.ski))
     <br>
 
+    * [Goodnotes](https://www.goodnotes.com) [App Store]
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     * [OpenEmu](https://openemu.org) (games) ([Steam](https://store.steampowered.com)、[Epic](https://store.epicgames.com))
@@ -172,7 +173,6 @@
     * Amphetamine (保持唤醒) [App Store]
     <br>
 
-    * [Goodnotes](https://www.goodnotes.com) [App Store]
     * [**Rectangle**](https://github.com/rxhanson/Rectangle) (window management)
     * [Keka](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
