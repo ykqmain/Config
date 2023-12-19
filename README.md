@@ -156,7 +156,6 @@
     * [HandBrake](https://handbrake.fr) (video transcoder) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_Gifski_](https://gif.ski))
     <br>
 
-    * [Goodnotes](https://www.goodnotes.com) [App Store]
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     * [OpenEmu](https://openemu.org) (games) ([Steam](https://store.steampowered.com)、[Epic](https://store.epicgames.com))
@@ -170,9 +169,10 @@
     * [_飞书_](https://www.feishu.cn) [Web]
     * [_Discord_](https://discord.com) [Web]
     * [**NetNewsWire**](https://netnewswire.com) (RSS阅读器)
+    * Amphetamine (保持唤醒) [App Store]
     <br>
 
-    * Amphetamine (保持唤醒) [App Store]
+    * [Goodnotes](https://www.goodnotes.com) [App Store]
     * [**Rectangle**](https://github.com/rxhanson/Rectangle) (window management)
     * [Keka](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
