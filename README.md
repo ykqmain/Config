@@ -100,10 +100,10 @@
         * [neofetch](https://github.com/dylanaraps/neofetch)
         * [mysql](https://dev.mysql.com/downloads/)
             * `brew services start mysql`
-        * [you-get](https://you-get.org)
         * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
             * flake8
             * black
+            * you-get
             * httpx
             * requests
             * beautifulsoup4
