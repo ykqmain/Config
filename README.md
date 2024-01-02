@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Updated: 2023-12**</em></mark>
+<mark><em>**Update: 2024-1**</em></mark>
 
 <br>
 
