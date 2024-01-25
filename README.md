@@ -125,7 +125,7 @@
         * [_Package Control_](https://packagecontrol.io)：[**我的插件**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
         * 主题：Adaptive/Mariana
-        * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、用用Python，应该不再需要集成开发环境（Integrated Development Environment），Sublime对我而言是足够且有纪念意义的。希望Sublime能一直陪伴我，不折腾，保持愉悦，用就完了。
+        * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、用用Python，应该不再需要集成开发环境（Integrated Development Environment）。Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
@@ -161,7 +161,6 @@
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (games)
-    * [_百度网盘_](https://pan.baidu.com) [App Store]
 
 <br>
 
@@ -191,7 +190,7 @@
 
 ![](https://github.com/ykqmain/Config/blob/master/Pix/macOS.png)
 
-**如无必要，勿增实体。要钱没有，一切从简。**
+**如无必要，勿增实体。保持愉悦，用就完了。**
 
 <br>
 
