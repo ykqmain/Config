@@ -17,5 +17,5 @@
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)、[_DiskGenius_](https://www.diskgenius.cn)、[_WinPE_](https://www.wepe.com.cn)、[_Microsoft PC Manager_](https://pcmanager.microsoft.com/zh-cn))
 <br>
 
-[更多……](https://github.com/Awesome-Windows/Awesome)
+* [More...](https://github.com/Awesome-Windows/Awesome)
 
