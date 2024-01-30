@@ -1,8 +1,8 @@
 ## 利器
 
-今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
+今天（2016-01-04）看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2024-1**</em></mark>
+<mark><em>**Update: 2024-01**</em></mark>
 
 <br>
 
@@ -42,7 +42,7 @@
 
 <br>
 
-**macOS 14 (Sonoma)**
+**macOS**
 
 ![](https://github.com/ykqmain/Config/blob/master/Pix/macOS13.png)
 
@@ -53,7 +53,6 @@
         * [Tampermonkey](https://www.tampermonkey.net) [App Store] ([_Greasy Fork_](https://greasyfork.org/zh-CN))
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
-            * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
 
     * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([Chrome](https://www.google.com/chrome/))
         * _about:config_
@@ -66,7 +65,6 @@
             * [Firefox Multi-Account Containers](https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/)
             * [uBlock Origin](https://github.com/gorhill/uBlock)
             * [Tampermonkey](https://www.tampermonkey.net)
-            * [Global Speed](https://github.com/polywock/globalSpeed)
             * [几枝](https://github.com/unicar9/jizhi)
 
 <br>
