@@ -1,6 +1,6 @@
 ## 利器
 
-今天（2016-01-04）看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
+今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
 <mark><em>**Update: 2024-01**</em></mark>
 
@@ -20,7 +20,7 @@
 <br>
 
 
-## 在用哪些硬件？
+## 硬件
 
 * ** MacBook Pro (13-inch, M1, 2020) [Anna]**
     *  Studio Display
@@ -34,15 +34,11 @@
 <br>
 
 
-## 软件呢？
+## 软件（macOS）
 
 **我喜欢精简，在满足自己所需功能的前提下，将自己的互联网账号数量降到最低，涉及的平台和APP减到最少。**
 
 **系统自带的软件足够好则优先使用、免费或开源软件其次、最后才是买断制软件；订阅制软件几乎不考虑。**
-
-<br>
-
-**macOS**
 
 ![](https://github.com/ykqmain/Config/blob/master/Pix/macOS13.png)
 
@@ -149,6 +145,8 @@
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com) (video recording and live streaming)
     * [Blender](https://www.blender.org) (3D creation suite)
+    <br>
+    
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[剪映](https://www.capcut.cn))
     * [HandBrake](https://handbrake.fr) (video transcoder) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_Gifski_](https://gif.ski))
@@ -193,7 +191,7 @@
 <br>
 
 
-## 推荐一件生活中的利器
+## 推荐生活利器
 
 生活不可无书。
 
