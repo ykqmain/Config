@@ -173,7 +173,7 @@
     * [**Rectangle**](https://github.com/rxhanson/Rectangle) (window management)
     * [Keka](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
-    * [pap.er](https://paper.photos) [App Store]
+    * [pap.er](https://paper.photos) (壁纸) [App Store]
     * [Mactracker](https://mactracker.ca) (get info) [App Store]
     <br>
 
