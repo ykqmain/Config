@@ -176,10 +176,12 @@
     * [pap.er](https://paper.photos) [App Store]
     <br>
 
-    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
+    * [Mactracker](https://mactracker.ca) (get info) [App Store]
     * [_MonitorControl_](https://github.com/MonitorControl/MonitorControl) (显示器工具)
     * [_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具)
-    * [_Mactracker_](https://mactracker.ca) (get info) [App Store]
+    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
+    <br>
+
     * [**_其他软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
