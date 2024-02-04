@@ -174,14 +174,12 @@
     * [Keka](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
     * [pap.er](https://paper.photos) [App Store]
+    * [Mactracker](https://mactracker.ca) (get info) [App Store]
     <br>
 
-    * [Mactracker](https://mactracker.ca) (get info) [App Store]
+    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
     * [_MonitorControl_](https://github.com/MonitorControl/MonitorControl) (显示器工具)
     * [_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix) (鼠标工具)
-    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
-    <br>
-
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
