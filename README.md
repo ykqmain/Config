@@ -182,7 +182,7 @@
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具)
     <br>
 
-    * [**_其他软件_**](https://github.com/ykqmain?tab=stars)
+    * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
 
