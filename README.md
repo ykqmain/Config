@@ -40,7 +40,7 @@
 
 **系统自带的软件足够好则优先使用、免费或开源软件其次、最后才是买断制软件；订阅制软件几乎不考虑。**
 
-![](https://github.com/ykqmain/Config/blob/master/Pix/macOS13.png)
+![](https://github.com/ykqmain/Config/blob/master/Pix/Desktop.png)
 
 1. 浏览器
 
@@ -149,7 +149,7 @@
 
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[剪映](https://www.capcut.cn))
-    * [HandBrake](https://handbrake.fr) (video transcoder) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_Gifski_](https://gif.ski))
+    * [Permute](https://software.charliemonroe.net/permute/) (media converter) ([_HandBrake_](https://handbrake.fr)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_Gifski_](https://gif.ski))
     <br>
 
     * [Goodnotes](https://www.goodnotes.com) [App Store]
