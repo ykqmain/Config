@@ -1,6 +1,6 @@
 ## Windows精简软件
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/)、[Microsoft Edge](https://www.microsoft.com/zh-cn/edge) )
+* [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/)、[_Microsoft Edge_](https://www.microsoft.com/zh-cn/edge))
 * [Sublime Text](https://www.sublimetext.com) ([Python](https://www.python.org)、[_LLVM-MinGW_](https://www.mingw-w64.org/downloads/#llvm-mingw))
 * [WPS Office](https://www.wps.cn)
 * [QQ](https://im.qq.com)
@@ -8,8 +8,7 @@
 
 * [7-Zip](https://www.7-zip.org)
 * [Everything](https://www.voidtools.com/zh-cn/)
-* [Honeyview](https://www.bandisoft.com/honeyview/)
-* [Paint.NET](https://www.getpaint.net)
+* [Honeyview](https://www.bandisoft.com/honeyview/) ([Paint.NET](https://www.getpaint.net))
 * [VLC](https://www.videolan.org)
 <br>
 
