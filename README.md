@@ -61,7 +61,6 @@
             * [Firefox Multi-Account Containers](https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/)
             * [uBlock Origin](https://github.com/gorhill/uBlock)
             * [Tampermonkey](https://www.tampermonkey.net)
-            * [Global Speed](https://github.com/polywock/globalSpeed)
             * [几枝](https://github.com/unicar9/jizhi)
 
 <br>
@@ -95,23 +94,25 @@
         * [neofetch](https://github.com/dylanaraps/neofetch)
         * [mysql](https://dev.mysql.com/downloads/)
             * `brew services start mysql`
-        * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
-            * flake8
-            * black
-            * you-get
-            * httpx
-            * requests
-            * beautifulsoup4
-            * fastapi
-            * uvicorn
-            * openpyxl
-            * pandas
-            * pillow
-            * matplotlib
-            * jieba
-            * wordcloud
-            * python-docx
-            * mysql-connector-python
+    <br>
+
+    * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
+        * flake8
+        * black
+        * you-get
+        * httpx
+        * requests
+        * beautifulsoup4
+        * fastapi
+        * uvicorn
+        * openpyxl
+        * pandas
+        * pillow
+        * matplotlib
+        * jieba
+        * wordcloud
+        * python-docx
+        * mysql-connector-python
     <br>
 
     * [**CotEditor**](https://coteditor.com) [App Store]
