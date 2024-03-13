@@ -149,9 +149,8 @@
     * [Blender](https://www.blender.org) (3D creation suite)
     <br>
 
-    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
-    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[剪映](https://www.capcut.cn))
-    * [Permute](https://software.charliemonroe.net/permute/) (media converter) ([_HandBrake_](https://handbrake.fr)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_Gifski_](https://gif.ski))
+    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore)、[~~XLD~~](https://tmkk.undo.jp/xld/index_e.html))
+    * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[剪映](https://www.capcut.cn)、[HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski))
     <br>
 
     * [Goodnotes](https://www.goodnotes.com) [App Store]
