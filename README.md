@@ -26,10 +26,13 @@
     *  Studio Display
     *  Magic Keyboard
     *  Magic Trackpad
-    * DualSense™ Wireless Controller
+    * Sony PlayStation® DualSense™ Wireless Controller
 
 * ** iPhone 15 Pro [Nana]**
     *  AirPods 2
+
+* **SONY ILCE-7M4 [Cona]**
+    * FE 24-105mm F4 G OSS
 
 <br>
 
