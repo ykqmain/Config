@@ -31,9 +31,6 @@
 * ** iPhone 15 Pro [Nana]**
     *  AirPods 2
 
-* **SONY ILCE-7M4 [Cona]**
-    * FE 24-105mm F4 G OSS
-
 <br>
 
 
