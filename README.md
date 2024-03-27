@@ -26,7 +26,7 @@
     *  Studio Display
     *  Magic Keyboard
     *  Magic Trackpad
-    * Sony PlayStation® DualSense™ Wireless Controller
+    * DualSense™ Wireless Controller
 
 * ** iPhone 15 Pro [Nana]**
     *  AirPods 2
