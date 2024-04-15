@@ -9,7 +9,7 @@
 * [7-Zip](https://www.7-zip.org)
 * [Everything](https://www.voidtools.com/zh-cn/)
 * [Paint.NET](https://www.getpaint.net) ([_Honeyview_](https://www.bandisoft.com/honeyview/)、[~~_Picasa_~~](https://picasa.google.com))
-* [VLC](https://www.videolan.org)
+* [VLC](https://www.videolan.org) ([~~_MPC-HC_~~](https://mpc-hc.org)、[~~_MPC-BE_~~](https://github.com/Aleksoid1978/MPC-BE)、[~~_TTPlayer_~~](https://music.qianqian.com))
 <br>
 
 * [Windows Terminal](https://github.com/microsoft/terminal) ([_Git_](https://git-scm.com)、[_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org)、[_WinMerge_](https://winmerge.org))
