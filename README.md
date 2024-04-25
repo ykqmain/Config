@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2024-03**</em></mark>
+<mark><em>**Update: 2024-4**</em></mark>
 
 <br>
 
@@ -92,8 +92,11 @@
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [neofetch](https://github.com/dylanaraps/neofetch)
-        * [mysql](https://dev.mysql.com/downloads/)
-            * `brew services start mysql`
+        * [_mysql_](https://dev.mysql.com/downloads/) ([~~DBeaver~~](https://dbeaver.io))
+            * `_brew services start mysql_`
+        * [_duck_](https://duck.sh) ([~~Cyberduck~~](https://cyberduck.io))
+        * [_httpie_](https://httpie.io) ([~~Paw~~](https://paw.cloud))
+        * [_Wireshark_](https://www.wireshark.org)
     <br>
 
     * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
@@ -125,10 +128,8 @@
     <br>
 
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [DBeaver](https://dbeaver.io) (Universal Database Tool)
-    * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser) ([_duck_](https://duck.sh))
-    * [Paw](https://paw.cloud) (API tool) ([_httpie_](https://httpie.io))
-    * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
+
+    *  (network protocol analyzer)
     * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
 
 <br>
