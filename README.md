@@ -73,6 +73,7 @@
     <br>
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] (**`xcode-select --install`**) [~~终端代理~~]
+    * [**CotEditor**](https://coteditor.com) [App Store]
     <br>
 
     * [**oh-my-zsh**](https://ohmyz.sh)
@@ -93,7 +94,7 @@
             * `tldr -u`
         * [neofetch](https://github.com/dylanaraps/neofetch)
         * [_mysql_](https://dev.mysql.com/downloads/) ([~~DBeaver~~](https://dbeaver.io))
-            * `_brew services start mysql_`
+            * _`brew services start mysql`_
         * [_duck_](https://duck.sh) ([~~Cyberduck~~](https://cyberduck.io))
         * [_httpie_](https://httpie.io) ([~~Paw~~](https://paw.cloud))
         * [_Wireshark_](https://www.wireshark.org)
@@ -118,7 +119,6 @@
         * mysql-connector-python
     <br>
 
-    * [**CotEditor**](https://coteditor.com) [App Store]
     * [**Sublime Text**](https://www.sublimetext.com) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
         * [_Package Control_](https://packagecontrol.io)：[**我的插件**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
@@ -127,18 +127,13 @@
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、用用Python，应该不再需要集成开发环境（Integrated Development Environment）。Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-
-    *  (network protocol analyzer)
-    * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
+    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
 
 <br>
 
 3. 效率与娱乐
 
-    * [**WPS Office**](https://www.wps.cn) [App Store]
-    * [PDF Expert](https://pdfexpert.com) (PDF editor)
-    * [iThoughtsX](https://www.toketaware.com) (Mindmapping)
+    * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com))
     * [Pixelmator Pro](https://www.pixelmator.com/pro/) (image editor) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~darktable~~](https://www.darktable.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/))
     * [Photomator](https://www.pixelmator.com/photomator/) (photo editor) [App Store] (换掉[~~Photoshop & Lightroom~~](https://www.adobe.com/creativecloud/photography.html)后达成「软件全部正版化」成就😌)
     <br>
@@ -146,8 +141,7 @@
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
-    * [OBS](https://obsproject.com) (video recording and live streaming)
-    * [Blender](https://www.blender.org) (3D creation suite)
+    * [OBS](https://obsproject.com) (video recording and live streaming) ([~~Blender~~](https://www.blender.org)、[~~QGIS~~](https://www.qgis.org/zh-Hans/site/))
     <br>
 
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
