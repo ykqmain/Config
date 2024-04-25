@@ -127,7 +127,8 @@
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、用用Python，应该不再需要集成开发环境（Integrated Development Environment）。Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
+    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
+    * [Goodnotes](https://www.goodnotes.com) [App Store]
 
 <br>
 
@@ -147,11 +148,10 @@
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[剪映](https://www.capcut.cn))
     * [HandBrake](https://handbrake.fr) (video transcoder) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_Gifski_](https://gif.ski))
-    <br>
-
-    * [Goodnotes](https://www.goodnotes.com) [App Store]
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
+    <br>
+
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (games)
 
