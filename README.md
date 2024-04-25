@@ -128,7 +128,7 @@
     <br>
 
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [Goodnotes](https://www.goodnotes.com) [App Store]
+    * [Goodnotes](https://www.goodnotes.com) [App Store] ([~~QGIS~~](https://www.qgis.org/zh-Hans/site/)、[~~Blender~~](https://www.blender.org))
 
 <br>
 
@@ -142,7 +142,7 @@
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
-    * [OBS](https://obsproject.com) (video recording and live streaming) ([~~Blender~~](https://www.blender.org)、[~~QGIS~~](https://www.qgis.org/zh-Hans/site/))
+    * [OBS](https://obsproject.com) (video recording and live streaming)
     <br>
 
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
