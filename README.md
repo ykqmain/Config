@@ -97,7 +97,7 @@
             * _`brew services start mysql`_
         * [_duck_](https://duck.sh) ([~~Cyberduck~~](https://cyberduck.io))
         * [_httpie_](https://httpie.io) ([~~Paw~~](https://paw.cloud))
-        * [_Wireshark_](https://www.wireshark.org)
+        * [_tcpdump_](https://www.tcpdump.org) ([~~Wireshark~~](https://www.wireshark.org))
     <br>
 
     * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
