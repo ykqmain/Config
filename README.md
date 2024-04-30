@@ -170,8 +170,8 @@
     * [QQ](https://im.qq.com) [App Store]
     * [_飞书_](https://www.feishu.cn) [Web]
     * [_Discord_](https://discord.com) [Web]
-    * [**NetNewsWire**](https://netnewswire.com) (RSS阅读器)
-    * Amphetamine (保持唤醒) [App Store]
+    * [**NetNewsWire**](https://netnewswire.com) (RSS reader)
+    * Amphetamine (keep-awake) [App Store]
     <br>
 
     * [**Rectangle**](https://github.com/rxhanson/Rectangle) (window management)
