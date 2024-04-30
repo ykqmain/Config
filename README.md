@@ -93,11 +93,13 @@
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [neofetch](https://github.com/dylanaraps/neofetch)
-        * [_mysql_](https://dev.mysql.com/downloads/) ([~~DBeaver~~](https://dbeaver.io))
+        * [mysql](https://dev.mysql.com/downloads/)
             * _`brew services start mysql`_
-        * [_duck_](https://duck.sh) ([~~Cyberduck~~](https://cyberduck.io))
-        * [_httpie_](https://httpie.io) ([~~Paw~~](https://paw.cloud))
-        * [_tcpdump_](https://www.tcpdump.org) ([~~Wireshark~~](https://www.wireshark.org))
+        * [postgresql](https://www.postgresql.org)
+            * _`brew services start postgresql`_
+        * [duck](https://duck.sh)
+        * [httpie](https://httpie.io)
+        * [tcpdump](https://www.tcpdump.org)
     <br>
 
     * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
@@ -127,6 +129,11 @@
     <br>
 
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
+    * [DBeaver](https://dbeaver.io) (database tool)
+    * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
+    * [Paw](https://paw.cloud) (API tool)
+    * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
+    * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
     * [Goodnotes](https://www.goodnotes.com) [App Store]
 
 <br>
@@ -147,7 +154,7 @@
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[剪映](https://www.capcut.cn))
     * [HandBrake](https://handbrake.fr) (video transcoder) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_Gifski_](https://gif.ski))
-    * [Blender](https://www.blender.org) (3D creation suite) ([_QGIS_](https://www.qgis.org/zh-Hans/site/))
+    * [Blender](https://www.blender.org) (3D creation suite)
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     <br>
