@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2024-4**</em></mark>
+<mark><em>**Update: 2024-5**</em></mark>
 
 <br>
 
@@ -100,6 +100,7 @@
         * [duck](https://duck.sh)
         * [httpie](https://httpie.io)
         * [tcpdump](https://www.tcpdump.org)
+        * [ffmpeg](https://ffmpeg.org)
     <br>
 
     * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
@@ -114,6 +115,7 @@
         * sqlalchemy
         * mysql-connector-python
         * psycopg
+        * ffmpy
         * openpyxl
         * pandas
         * pillow
