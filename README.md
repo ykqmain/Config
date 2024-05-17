@@ -167,7 +167,6 @@
 
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (游戏)
-    * [Epic](https://store.epicgames.com/zh-CN/) (游戏)
 
 <br>
 
