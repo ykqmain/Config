@@ -93,14 +93,12 @@
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [neofetch](https://github.com/dylanaraps/neofetch)
-        * [mysql](https://dev.mysql.com/downloads/)
-            * _`brew services start mysql`_
-        * [postgresql](https://www.postgresql.org)
-            * _`brew services start postgresql`_
-        * [duck](https://duck.sh)
-        * [httpie](https://httpie.io)
-        * [tcpdump](https://www.tcpdump.org)
-        * [ffmpeg](https://ffmpeg.org)
+        * [_postgresql_](https://www.postgresql.org) ([_QGIS_](https://www.qgis.org/zh-Hans/site/))
+        * [_mysql_](https://dev.mysql.com/downloads/) ([_DBeaver_](https://dbeaver.io))
+        * [_duck_](https://duck.sh) ([_Cyberduck_](https://cyberduck.io))
+        * [_httpie_](https://httpie.io) ([_Paw_](https://paw.cloud))
+        * [_tcpdump_](https://www.tcpdump.org) ([_Wireshark_](https://www.wireshark.org))
+        * [_ffmpeg_](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
     <br>
 
     * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
@@ -110,12 +108,6 @@
         * httpx
         * requests
         * beautifulsoup4
-        * fastapi
-        * uvicorn
-        * sqlalchemy
-        * mysql-connector-python
-        * psycopg
-        * ffmpy
         * openpyxl
         * pandas
         * pillow
@@ -135,11 +127,6 @@
     <br>
 
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [DBeaver](https://dbeaver.io) (database tool)
-    * [Cyberduck](https://cyberduck.io) (libre server and cloud storage browser)
-    * [Paw](https://paw.cloud) (API tool)
-    * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
-    * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
     * [Goodnotes](https://www.goodnotes.com) [App Store]
 
 <br>
@@ -160,7 +147,6 @@
 
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[剪映](https://www.capcut.cn))
-    * [HandBrake](https://handbrake.fr) (video transcoder) ([_XLD_](https://tmkk.undo.jp/xld/index_e.html)、[_Gifski_](https://gif.ski))
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     <br>
