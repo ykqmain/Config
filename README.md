@@ -98,7 +98,7 @@
         * [_duck_](https://duck.sh) ([_Cyberduck_](https://cyberduck.io))
         * [_httpie_](https://httpie.io) ([_Paw_](https://paw.cloud))
         * [_tcpdump_](https://www.tcpdump.org) ([_Wireshark_](https://www.wireshark.org))
-        * [_ffmpeg_](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
+        * [_ffmpeg_](https://ffmpeg.org) ([_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
     <br>
 
     * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
@@ -126,8 +126,7 @@
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、用用Python，应该不再需要集成开发环境（Integrated Development Environment）。Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [Goodnotes](https://www.goodnotes.com) [App Store]
+    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
 
 <br>
 
@@ -147,6 +146,7 @@
 
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
     * [iMovie](https://www.apple.com.cn/imovie/) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[剪映](https://www.capcut.cn))
+    * [Goodnotes](https://www.goodnotes.com) [App Store]
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     <br>
