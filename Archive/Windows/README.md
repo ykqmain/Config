@@ -9,7 +9,7 @@
 * [7-Zip](https://www.7-zip.org)
 * [Everything](https://www.voidtools.com/zh-cn/)
 * [Paint.NET](https://www.getpaint.net) ([_Honeyview_](https://www.bandisoft.com/honeyview/)、[~~_Picasa_~~](https://picasa.google.com))
-* [VLC](https://www.videolan.org) ([_MPC-HC_](https://mpc-hc.org)、[_MPC-BE_](https://github.com/Aleksoid1978/MPC-BE))
+* [VLC](https://www.videolan.org)
 * [Steam](https://store.steampowered.com)
 <br>
 
