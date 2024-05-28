@@ -73,7 +73,6 @@
     <br>
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] (**`xcode-select --install`**) [~~终端代理~~]
-    * [**CotEditor**](https://coteditor.com) [App Store]
     <br>
 
     * [**oh-my-zsh**](https://ohmyz.sh)
@@ -118,7 +117,7 @@
         * pygame
     <br>
 
-    * [**Sublime Text**](https://www.sublimetext.com) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
+    * [**Sublime Text**](https://www.sublimetext.com) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://www.eclipse.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CotEditor~~](https://coteditor.com)、[~~CodeEdit~~](https://www.codeedit.app))
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
         * [_Package Control_](https://packagecontrol.io)：[**我的插件**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
@@ -126,7 +125,7 @@
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、用用Python，应该不再需要集成开发环境（Integrated Development Environment）。Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
+    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
 
 <br>
 
