@@ -92,7 +92,7 @@
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
-        * [neofetch](https://github.com/dylanaraps/neofetch)
+        * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
         * [_postgresql_](https://www.postgresql.org) ([_QGIS_](https://www.qgis.org/zh-Hans/site/))
         * [_mysql_](https://dev.mysql.com/downloads/) ([_DBeaver_](https://dbeaver.io))
         * [_duck_](https://duck.sh) ([_Cyberduck_](https://cyberduck.io))
