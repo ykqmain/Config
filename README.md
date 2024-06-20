@@ -120,13 +120,13 @@
 
     * [**Sublime Text**](https://www.sublimetext.com) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~TextMate~~](https://github.com/textmate/textmate)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CotEditor~~](https://coteditor.com)、[~~CodeEdit~~](https://www.codeedit.app))
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
-        * [_Package Control_](https://packagecontrol.io)：[**我的插件**](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
+        * [_Package Control_](https://packagecontrol.io)：[我的插件](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
         * 主题：Adaptive/Mariana
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、用用Python，应该不再需要集成开发环境（Integrated Development Environment）。Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
+    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
 
 <br>
 
@@ -157,11 +157,11 @@
 
 4. 工具
 
-    * [**NetNewsWire**](https://netnewswire.com) (RSS reader)
     * [微信](https://weixin.qq.com) [App Store]
     * [QQ](https://im.qq.com) [App Store]
     * [_飞书_](https://www.feishu.cn) [Web]
     * [_Discord_](https://discord.com) [Web]
+    * [**NetNewsWire**](https://netnewswire.com) (RSS reader)
     * Amphetamine (keep-awake) [App Store]
     <br>
 
