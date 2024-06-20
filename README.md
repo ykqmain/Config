@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2024-5**</em></mark>
+<mark><em>**Update: 2024-6**</em></mark>
 
 <br>
 
@@ -50,7 +50,7 @@
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
 
-    * [Firefox](https://www.mozilla.org/en-US/firefox/all/)
+    * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/)
         * _about:config_
             * `extensions.pocket.enabled`
             * `browser.tabs.closeTabByDblclick`
@@ -137,6 +137,7 @@
     * [Photomator](https://www.pixelmator.com/photomator/) (photo editor) [App Store] (换掉[~~Photoshop & Lightroom~~](https://www.adobe.com/creativecloud/photography.html)后达成「软件全部正版化」成就😌)
     <br>
 
+    * [**微信读书**](https://weread.qq.com/) [Web]
     * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
@@ -157,8 +158,7 @@
 
 4. 工具
 
-    * [微信](https://weixin.qq.com) [App Store]
-    * [QQ](https://im.qq.com) [App Store]
+    * [微信](https://weixin.qq.com) [App Store] ([QQ](https://im.qq.com)、[_企业微信_](https://work.weixin.qq.com/)、[_腾讯会议_](https://meeting.tencent.com/))
     * [_飞书_](https://www.feishu.cn) [Web]
     * [_Discord_](https://discord.com) [Web]
     * [**NetNewsWire**](https://netnewswire.com) (RSS reader)
