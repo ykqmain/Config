@@ -64,9 +64,6 @@
             * [Tampermonkey](https://www.tampermonkey.net)
             * [沉浸式翻译](https://immersivetranslate.com)
             * [几枝](https://github.com/unicar9/jizhi)
-    <br>
-
-    * [**NetNewsWire**](https://netnewswire.com) (RSS reader)
 
 <br>
 
@@ -164,6 +161,7 @@
 
     * [微信](https://weixin.qq.com) [App Store] ([QQ](https://im.qq.com)、[_企业微信_](https://work.weixin.qq.com)、[_腾讯会议_](https://meeting.tencent.com))
     * [飞书](https://www.feishu.cn) [Web] ([Discord](https://discord.com)、[_ChatGPT_](https://chatgpt.com)、[_文心一言_](https://yiyan.baidu.com)、[_豆包_](https://www.doubao.com))
+    * [NetNewsWire](https://netnewswire.com) (RSS reader)
     * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) (keep-awake) [App Store] ([_Keep Screen On_](https://www.keepscreenon.com)、[_nosleep.page_](https://nosleep.page))
     <br>
 
