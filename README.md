@@ -76,7 +76,7 @@
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] (**`xcode-select --install`**) [~~终端代理~~]
     <br>
 
-    * [**oh-my-zsh**](https://ohmyz.sh)
+    * [oh-my-zsh](https://ohmyz.sh)
         * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
             * `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
         * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
@@ -87,7 +87,7 @@
             * `git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search`
     <br>
 
-    * [**Homebrew**](https://brew.sh) (`/opt/homebrew`)
+    * [Homebrew](https://brew.sh) (`/opt/homebrew`)
         * [wget](https://www.gnu.org/software/wget)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [tldr](https://github.com/tldr-pages/tldr)
@@ -101,7 +101,7 @@
         * [_ffmpeg_](https://ffmpeg.org) ([_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
     <br>
 
-    * [**Python**](https://www.python.org) (`pip3 install -r requirements.txt`)
+    * [Python](https://www.python.org) (`pip3 install -r requirements.txt`)
         * flake8
         * black
         * you-get
@@ -158,11 +158,10 @@
 
 4. 工具
 
-    * [微信](https://weixin.qq.com) [App Store] ([QQ](https://im.qq.com)、[_企业微信_](https://work.weixin.qq.com/)、[_腾讯会议_](https://meeting.tencent.com/))
-    * [_飞书_](https://www.feishu.cn) [Web]
-    * [_Discord_](https://discord.com) [Web]
+    * [微信](https://weixin.qq.com) [App Store] ([QQ](https://im.qq.com)、[_企业微信_](https://work.weixin.qq.com)、[_腾讯会议_](https://meeting.tencent.com))
+    * [飞书](https://www.feishu.cn) [Web] ([Discord](https://discord.com)、[_ChatGPT_](https://chatgpt.com)、[_文心一言_](https://yiyan.baidu.com)、[_豆包_](https://www.doubao.com))
     * [**NetNewsWire**](https://netnewswire.com) (RSS reader)
-    * Amphetamine (keep-awake) [App Store]
+    * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) (keep-awake) [App Store] ([_Keep Screen On_](https://www.keepscreenon.com)、[_nosleep.page_](https://nosleep.page))
     <br>
 
     * [Keka](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
