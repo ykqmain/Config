@@ -95,7 +95,7 @@
             * `tldr -u`
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
         * [_postgresql_](https://www.postgresql.org) ([_QGIS_](https://www.qgis.org/zh-Hans/site/))
-        * [_mysql_](https://dev.mysql.com/downloads/) ([_DBeaver_](https://dbeaver.io))
+        * [_mysql_](https://dev.mysql.com/downloads/)
         * [_duck_](https://duck.sh) ([_Cyberduck_](https://cyberduck.io))
         * [_httpie_](https://httpie.io) ([_Paw_](https://paw.cloud))
         * [_tcpdump_](https://www.tcpdump.org) ([_Wireshark_](https://www.wireshark.org))
@@ -128,7 +128,7 @@
     <br>
 
     * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)
+    * [Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite) ([_DBeaver_](https://dbeaver.io))
 
 <br>
 
