@@ -128,6 +128,7 @@
     <br>
 
     * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
+    * [Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)
 
 <br>
 
