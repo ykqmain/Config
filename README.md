@@ -103,8 +103,6 @@
     <br>
 
     * [Python](https://www.python.org) (`pip3 install -r requirements.txt`)
-        * flake8
-        * black
         * you-get
         * httpx
         * requests
