@@ -22,12 +22,10 @@
         "LSP-clangd",
         "LSP-json",
         "LSP-pyright",
+        "LSP-ruff",
         "Package Control",
         "PackageResourceViewer",
-        "python-black",
         "Status Bar File Size",
-        "SublimeLinter",
-        "SublimeLinter-flake8",
         "WordHighlight",
     ],
 
