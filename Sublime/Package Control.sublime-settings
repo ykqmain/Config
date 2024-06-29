@@ -9,6 +9,7 @@
 
     "installed_packages":
     [
+        "AlignTab",
         "AutoDocstring",
         "BracketHighlighter",
         "Chinese Words Cutter",
