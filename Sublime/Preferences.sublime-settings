@@ -112,7 +112,7 @@
     "use_tab_stops": true,
 
     // Set to false to disable detection of tabs vs. spaces on load
-    "detect_indentation": true,
+    "detect_indentation": false,
 
     // Calculates indentation automatically when pressing enter
     "auto_indent": true,
