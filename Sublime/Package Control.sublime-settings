@@ -24,11 +24,10 @@
         "LSP-file-watcher-chokidar",
         "LSP-json",
         "LSP-pyright",
+        "LSP-ruff",
         "Package Control",
         "PackageResourceViewer",
         "Status Bar File Size",
-        "Sublime​Linter",
-        "Sublime​Linter-contrib-ruff",
         "WordHighlight",
     ],
 
