@@ -64,7 +64,6 @@
             * [Tampermonkey](https://www.tampermonkey.net)
             * [几枝](https://github.com/unicar9/jizhi)
             * [沉浸式翻译](https://immersivetranslate.com)
-            * [Global Speed](https://github.com/polywock/globalSpeed)
 
 <br>
 
