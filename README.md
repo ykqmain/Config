@@ -94,11 +94,12 @@
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [_mysql_](https://dev.mysql.com/downloads/) ([_postgresql_](https://www.postgresql.org)、[_DBeaver_](https://dbeaver.io)、[_Navicat Premium Lite_](https://www.navicat.com.cn/products/navicat-premium-lite))
+        * [_mysql_](https://dev.mysql.com/downloads/) ([_DBeaver_](https://dbeaver.io)、[_Navicat Premium Lite_](https://www.navicat.com.cn/products/navicat-premium-lite))
+        * [_postgresql_](https://www.postgresql.org) ([_QGIS_](https://www.qgis.org/zh-Hans/site/))
         * [_duck_](https://duck.sh) ([_Cyberduck_](https://cyberduck.io))
         * [_httpie_](https://httpie.io) ([_Paw_](https://paw.cloud))
         * [_tcpdump_](https://www.tcpdump.org) ([_Wireshark_](https://www.wireshark.org))
-        * [_ffmpeg_](https://ffmpeg.org)
+        * [_ffmpeg_](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
     <br>
 
     * [Python](https://www.python.org) (`pip3 install -r requirements.txt`)
@@ -141,8 +142,6 @@
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com) (video recording and live streaming)
     * [Blender](https://www.blender.org) (3D creation suite)
-    * [HandBrake](https://handbrake.fr) ([_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
-    * [QGIS](https://www.qgis.org/zh-Hans/site/)
     <br>
 
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
