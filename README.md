@@ -97,8 +97,7 @@
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [_mysql_](https://dev.mysql.com/downloads/) ([_DBeaver_](https://dbeaver.io)、[_Navicat Premium Lite_](https://www.navicat.com.cn/products/navicat-premium-lite))
-        * [_postgresql_](https://www.postgresql.org) ([_QGIS_](https://www.qgis.org/zh-Hans/site/))
+        * [postgresql](https://www.postgresql.org) ([_mysql_](https://dev.mysql.com/downloads/)、[_DBeaver_](https://dbeaver.io)、[_Navicat Premium Lite_](https://www.navicat.com.cn/products/navicat-premium-lite))
         * [_duck_](https://duck.sh) ([_Cyberduck_](https://cyberduck.io))
         * [_httpie_](https://httpie.io) ([_Paw_](https://paw.cloud))
         * [_tcpdump_](https://www.tcpdump.org) ([_Wireshark_](https://www.wireshark.org))
@@ -145,6 +144,7 @@
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com) (video recording and live streaming)
     * [Blender](https://www.blender.org) (3D creation suite)
+    * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
     <br>
 
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
