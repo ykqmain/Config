@@ -22,11 +22,14 @@
 
 ## 在用硬件
 
-* ** MacBook Pro (13-inch, M1, 2020) [Anna]**
+* ** Mac mini (M4) [Anna]**
     *  Studio Display
     *  Magic Keyboard
     *  Magic Trackpad
     * DualSense Wireless Controller
+
+* ** iPad Air (M2) [Pena]**
+	*  Pencil Pro
 
 * ** iPhone 15 Pro [Nana]**
     *  AirPods 2
