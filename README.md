@@ -97,7 +97,8 @@
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [_mysql_](https://dev.mysql.com) ([_DBeaver_](https://dbeaver.io)、[_Navicat Premium Lite_](https://www.navicat.com.cn/products/navicat-premium-lite))
+        * [_mysql_](https://dev.mysql.com) ([_Navicat_](https://www.navicat.com.cn/products/navicat-premium-lite)、[_DBeaver_](https://dbeaver.io)、[~~Sequel Ace~~](https://sequel-ace.com)、[~~Sequel Pro~~](https://sequelpro.com)
+)
         * [_duck_](https://duck.sh) ([_Cyberduck_](https://cyberduck.io))
         * [_httpie_](https://httpie.io) ([_Paw_](https://paw.cloud))
         * [_tcpdump_](https://www.tcpdump.org) ([_Wireshark_](https://www.wireshark.org))
