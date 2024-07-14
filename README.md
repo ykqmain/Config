@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2024-7**</em></mark>
+<mark><em>**Update: 2024-07**</em></mark>
 
 <br>
 
@@ -97,10 +97,10 @@
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [postgresql](https://www.postgresql.org) ([_mysql_](https://dev.mysql.com/downloads/)、[_DBeaver_](https://dbeaver.io)、[_Navicat Premium Lite_](https://www.navicat.com.cn/products/navicat-premium-lite))
+        * [postgresql](https://www.postgresql.org) ([_mysql_](https://dev.mysql.com)、[_DBeaver_](https://dbeaver.io)、[_Navicat Premium Lite_](https://www.navicat.com.cn/products/navicat-premium-lite))
         * [_duck_](https://duck.sh) ([_Cyberduck_](https://cyberduck.io))
         * [_httpie_](https://httpie.io) ([_Paw_](https://paw.cloud))
-        * [_tcpdump_](https://www.tcpdump.org) ([_Wireshark_](https://www.wireshark.org))
+        * [_tcpdump_](https://tcpdump.org) ([_Wireshark_](https://wireshark.org))
         * [_ffmpeg_](https://ffmpeg.org) ([_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
     <br>
 
