@@ -128,7 +128,7 @@
     <br>
 
     * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [PostgreSQL](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[_pgAdmin_](https://www.pgadmin.org))
+    * [PostgreSQL](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[_pgAdmin_](https://www.pgadmin.org)、[_PostGIS_](https://postgis.net))
     * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
 
 <br>
