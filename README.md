@@ -100,7 +100,7 @@
         * [postgresql](https://www.postgresql.org) ([_mysql_](https://dev.mysql.com)、[_DBeaver_](https://dbeaver.io)、[_Navicat Premium Lite_](https://www.navicat.com.cn/products/navicat-premium-lite))
         * [_duck_](https://duck.sh) ([_Cyberduck_](https://cyberduck.io))
         * [_httpie_](https://httpie.io) ([_Paw_](https://paw.cloud))
-        * [_tcpdump_](https://tcpdump.org) ([_Wireshark_](https://wireshark.org))
+        * [_tcpdump_](https://www.tcpdump.org) ([_Wireshark_](https://www.wireshark.org))
         * [_ffmpeg_](https://ffmpeg.org) ([_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
     <br>
 
