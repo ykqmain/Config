@@ -54,7 +54,7 @@
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
     <br>
 
-    * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/)
+    * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([Chrome](https://www.google.com/chrome/))
         * _about:config_
             * `extensions.pocket.enabled`
             * `browser.tabs.closeTabByDblclick`
