@@ -162,7 +162,7 @@
 4. 工具
 
     * [**NetNewsWire**](https://netnewswire.com) (RSS reader)
-    * [微信](https://weixin.qq.com) ([QQ](https://im.qq.com)、[_企业微信_](https://work.weixin.qq.com)、[_腾讯会议_](https://meeting.tencent.com))
+    * [微信](https://weixin.qq.com) [App Store] ([QQ](https://im.qq.com)、[_企业微信_](https://work.weixin.qq.com)、[_腾讯会议_](https://meeting.tencent.com))
     * [Discord](https://discord.com) [Web] ([_飞书_](https://www.feishu.cn)、[_ChatGPT_](https://chatgpt.com)、[_文心一言_](https://yiyan.baidu.com))
     * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) (keep-awake) [App Store] ([_Keep Screen On_](https://www.keepscreenon.com)、[_nosleep.page_](https://nosleep.page))
     <br>
