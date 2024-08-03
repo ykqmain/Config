@@ -13,7 +13,7 @@
 <br>
 
 * [Windows Terminal](https://github.com/microsoft/terminal) ([_Git_](https://git-scm.com)、[_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org)、[_WinMerge_](https://winmerge.org))
-* [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)、[_DiskGenius_](https://www.diskgenius.cn)、[_Huorong_](https://www.huorong.cn))
+* [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Monitorian](https://github.com/emoacht/Monitorian)、[_DiskGenius_](https://www.diskgenius.cn)、[_Huorong_](https://www.huorong.cn))
 <br>
 
 * [More...](https://github.com/Awesome-Windows/Awesome)
