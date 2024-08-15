@@ -119,7 +119,8 @@
         * pygame
     <br>
 
-    * [**Sublime Text**](https://www.sublimetext.com) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~TextMate~~](https://github.com/textmate/textmate)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CotEditor~~](https://coteditor.com)、[~~CodeEdit~~](https://www.codeedit.app))
+    * [**CotEditor**](https://coteditor.com) [App Store]
+    * [**Sublime Text**](https://www.sublimetext.com) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~TextMate~~](https://github.com/textmate/textmate)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
         * [_Package Control_](https://packagecontrol.io)：[我的插件](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
@@ -164,8 +165,8 @@
     * [**NetNewsWire**](https://netnewswire.com) (RSS reader)
     * [微信](https://weixin.qq.com) [App Store]
     * [QQ](https://im.qq.com) [App Store]
-    * [飞书](https://www.feishu.cn) [Web]
-    * [Discord](https://discord.com) [Web]
+    * [_飞书_](https://www.feishu.cn) [Web]
+    * [_Discord_](https://discord.com) [Web]
     * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) (keep-awake) [App Store] ([_Keep Screen On_](https://www.keepscreenon.com)、[_nosleep.page_](https://nosleep.page))
     <br>
 
