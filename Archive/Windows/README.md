@@ -10,6 +10,7 @@
 * [Everything](https://www.voidtools.com/zh-cn/)
 * [Honeyview](https://www.bandisoft.com/honeyview/) ([~~Picasa~~](https://picasa.google.com))
 * [VLC](https://www.videolan.org) ([_ScreenToGif_](https://www.screentogif.com))
+* [Steam](https://store.steampowered.com)
 <br>
 
 * [Windows Terminal](https://github.com/microsoft/terminal) ([_Git_](https://git-scm.com)、[_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org)、[_WinMerge_](https://winmerge.org))
