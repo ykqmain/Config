@@ -9,7 +9,7 @@
 * [7-Zip](https://www.7-zip.org)
 * [Everything](https://www.voidtools.com/zh-cn/)
 * [Honeyview](https://www.bandisoft.com/honeyview/) ([~~Picasa~~](https://picasa.google.com))
-* [VLC](https://www.videolan.org) ([_ScreenToGif_](https://www.screentogif.com))
+* [VLC](https://www.videolan.org) ([_ScreenToGif_](https://www.screentogif.com)、[_OBS_](https://obsproject.com))
 * [Steam](https://store.steampowered.com) ([_PlayStation®Accessories_](https://play.st/3AC0qb0)、[_Xbox Accessories_](https://xbox.com/accessories-app))
 <br>
 
