@@ -10,11 +10,12 @@
 * [Everything](https://www.voidtools.com/zh-cn/)
 * [Honeyview](https://www.bandisoft.com/honeyview/) ([~~Picasa~~](https://picasa.google.com))
 * [VLC](https://www.videolan.org)
-* [Steam](https://store.steampowered.com) ([_PlayStation®Accessories_](https://play.st/3AC0qb0))
 <br>
 
-* [Windows Terminal](https://github.com/microsoft/terminal) ([_Git_](https://git-scm.com)、[_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org)、[_WinMerge_](https://winmerge.org))
+
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Monitorian](https://github.com/emoacht/Monitorian)、[_DiskGenius_](https://www.diskgenius.cn)、[_Huorong_](https://www.huorong.cn))
+* [Windows Terminal](https://github.com/microsoft/terminal) ([_Git_](https://git-scm.com)、[_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org)、[_WinMerge_](https://winmerge.org))
+* [Steam](https://store.steampowered.com) ([_PlayStation®Accessories_](https://play.st/3AC0qb0))
 <br>
 
 * [More...](https://github.com/Awesome-Windows/Awesome)
