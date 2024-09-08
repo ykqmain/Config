@@ -16,5 +16,5 @@
 
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Monitorian](https://github.com/emoacht/Monitorian)、[_Huorong_](https://www.huorong.cn))
 * [Windows Terminal](https://github.com/microsoft/terminal) ([_Git_](https://git-scm.com)、[_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org)、[_WinMerge_](https://winmerge.org))
-* [Steam](https://store.steampowered.com) ([Hearthstone](https://hs.blizzard.cn)、[Genshin impact](https://ys.mihoyo.com)、[_PlayStation®Accessories_](https://play.st/3AC0qb0))
+* [Steam](https://store.steampowered.com) ([Hearthstone](https://hs.blizzard.cn)、[Yuanshen](https://ys.mihoyo.com)、[_PlayStation®Accessories_](https://play.st/3AC0qb0))
 
