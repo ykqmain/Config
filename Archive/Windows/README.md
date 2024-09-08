@@ -4,12 +4,14 @@
 * [Sublime Text](https://www.sublimetext.com) ([Python](https://www.python.org)、[_LLVM-MinGW_](https://www.mingw-w64.org/downloads/#llvm-mingw))
 * [WPS Office](https://www.wps.cn)
 * [QQ](https://im.qq.com)
+
 <br>
 
 * [7-Zip](https://www.7-zip.org)
 * [Everything](https://www.voidtools.com/zh-cn/)
 * [Honeyview](https://www.bandisoft.com/honeyview/) ([~~Picasa~~](https://picasa.google.com))
 * [VLC](https://www.videolan.org)
+
 <br>
 
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Monitorian](https://github.com/emoacht/Monitorian)、[_DiskGenius_](https://www.diskgenius.cn)、[_Huorong_](https://www.huorong.cn))
