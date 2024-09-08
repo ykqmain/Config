@@ -168,9 +168,7 @@
 <br>
 
 
-## 生活利器
-
-生活不可无书。
+## 生活不可无书
 
 ![](https://github.com/ykqmain/Config/blob/master/Pix/sj.jpeg)
 
