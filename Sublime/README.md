@@ -2,8 +2,6 @@
 
 ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
 
-利用`PackageResourceViewer`插件可修改默认资源的配置文件，`Cmd`+`Shift`+`P`之后输入`prv`，选择`Open Resource`
-
 ```
 .
 ├── Snippet
