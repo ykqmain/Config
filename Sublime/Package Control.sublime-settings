@@ -9,7 +9,6 @@
 
     "installed_packages":
     [
-        "AutoDocstring",
         "BracketHighlighter",
         "Chinese Words Cutter",
         "Color Highlight",
