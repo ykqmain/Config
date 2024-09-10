@@ -1,4 +1,0 @@
-{
-    "cmd": ["opendiff", "$file1", "$file2"]
-    // "cmd": ["WinMergeU", "$file1", "$file2"]
-}
