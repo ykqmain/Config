@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2024-08**</em></mark>
+<mark><em>**Update: 2024-09**</em></mark>
 
 <br>
 
@@ -136,7 +136,7 @@
     * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[_必剪_](https://bcut.bilibili.cn))
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
-    * [OpenEmu](https://openemu.org) (游戏) ([Steam](https://store.steampowered.com)、[Hearthstone](https://hs.blizzard.cn))
+    * [OpenEmu](https://openemu.org) (游戏) ([Steam](https://store.steampowered.com))
 
 <br>
 
@@ -156,7 +156,7 @@
     * [Mactracker](https://mactracker.ca) (get info) [App Store]
     <br>
 
-    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix)、[_Rectangle_](https://github.com/rxhanson/Rectangle))
+    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Rectangle_](https://github.com/rxhanson/Rectangle)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
