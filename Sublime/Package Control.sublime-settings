@@ -9,6 +9,7 @@
 
     "installed_packages":
     [
+        "AlignTab",
         "BracketHighlighter",
         "Chinese Words Cutter",
         "Color Highlight",
