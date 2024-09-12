@@ -22,6 +22,7 @@
         "FileManager",
         "Filter Lines",
         "LSP",
+        "LSP-bash",
         "LSP-clangd",
         "LSP-file-watcher-chokidar",
         "LSP-json",
