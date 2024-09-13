@@ -18,5 +18,5 @@
 
 <br>
 
-* [LocalSend](https://localsend.org/zh-CN)
+* [LocalSend](https://localsend.org)
 
