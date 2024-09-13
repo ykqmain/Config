@@ -13,7 +13,7 @@
 
 * [百度网盘](https://pan.baidu.com)
 * [Kodi](https://kodi.tv)
-* [VLC](https://www.videolan.org/vlc/)
+* [VLC](https://www.videolan.org)
 
 * [LocalSend](https://localsend.org/zh-CN)
 
