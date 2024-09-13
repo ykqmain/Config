@@ -12,8 +12,11 @@
 <br>
 
 * [百度网盘](https://pan.baidu.com)
-* [Kodi](https://kodi.tv)
 * [VLC](https://www.videolan.org)
+* [Kodi](https://kodi.tv)
+* [TVBox](https://github.com/o0HalfLife0o/TVBoxOSC)
+
+<br>
 
 * [LocalSend](https://localsend.org/zh-CN)
 
