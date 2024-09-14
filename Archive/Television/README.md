@@ -15,6 +15,7 @@
 * [VLC](https://www.videolan.org)
 * [Kodi](https://kodi.tv)
 * [TVBox](https://github.com/o0HalfLife0o/TVBoxOSC)
+* [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 
 <br>
 
