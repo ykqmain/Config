@@ -1,5 +1,7 @@
 ## Television
 
+* [TVBox](https://github.com/o0HalfLife0o/TVBoxOSC)
+* [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
 * [Bilibili](https://app.bilibili.com)
 
 <br>
@@ -11,11 +13,9 @@
 
 <br>
 
-* [百度网盘](https://pan.baidu.com)
-* [VLC](https://www.videolan.org)
 * [Kodi](https://kodi.tv)
-* [TVBox](https://github.com/o0HalfLife0o/TVBoxOSC)
-* [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
+* [VLC](https://www.videolan.org)
+* [百度网盘](https://pan.baidu.com)
 
 <br>
 
