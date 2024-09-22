@@ -124,8 +124,8 @@
     * [Photomator](https://www.pixelmator.com/photomator/) (photo editor) [App Store] (换掉[~~Photoshop & Lightroom~~](https://www.adobe.com/creativecloud/photography.html)后达成「软件全部正版化」成就😌)
     <br>
 
-    * [**微信读书**](https://weread.qq.com/) [Web]
-    * [**QQ音乐**](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
+    * [微信读书](https://weread.qq.com/) [Web]
+    * [QQ音乐](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     * [Movist Pro](https://movistprime.com) (播放器)
     * [VLC](https://www.videolan.org) (播放器)
     * [OBS](https://obsproject.com) (video recording and live streaming)
