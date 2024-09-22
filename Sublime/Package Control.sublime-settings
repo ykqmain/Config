@@ -1,6 +1,6 @@
 {
     "auto_upgrade": true,
-    "auto_upgrade_frequency": 168,
+    "auto_upgrade_frequency": 360,
 
     // "http_proxy": "127.0.0.1:1087",
     // "https_proxy": "127.0.0.1:1087",
