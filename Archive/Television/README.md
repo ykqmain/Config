@@ -6,7 +6,7 @@
 
 <br>
 
-* [央视频](https://yangshipin.cn) ([爱奇艺](https://www.iqiyi.com)、[优酷](https://www.youku.com)、[腾讯视频](https://v.qq.com)、[芒果TV](https://www.mgtv.com)、[鲜时光](https://tv.ixigua.com))
+* [央视频](https://yangshipin.cn) ([爱奇艺](https://www.iqiyi.com)、[优酷](https://www.youku.com)、[腾讯视频](https://v.qq.com)、[鲜时光](https://tv.ixigua.com))
 * [QQ音乐](https://y.qq.com) ([全民K歌](https://kg.qq.com)、[糖豆](https://www.tangdou.com))
 * [Kodi](https://kodi.tv) ([VLC](https://www.videolan.org)、[LocalSend](https://localsend.org)、[百度网盘](https://pan.baidu.com))
 
