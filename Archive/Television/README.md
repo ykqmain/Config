@@ -11,11 +11,5 @@
 
 <br>
 
-* [Kodi](https://kodi.tv)
-* [VLC](https://www.videolan.org)
-* [百度网盘](https://pan.baidu.com)
-
-<br>
-
-* [LocalSend](https://localsend.org)
+* [Kodi](https://kodi.tv) ([VLC](https://www.videolan.org)、[LocalSend](https://localsend.org)、[百度网盘](https://pan.baidu.com))
 
