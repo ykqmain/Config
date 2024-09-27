@@ -7,10 +7,7 @@
 <br>
 
 * [Bilibili](https://app.bilibili.com)
-* [爱奇艺](https://app.iqiyi.com/tv/player/index.html)
-* [优酷](https://youku.com/product/index)
-* [腾讯视频](https://v.qq.com/download.html#TV)
-* [央视频](https://www.yangshipin.cn)
+* [央视频](https://www.yangshipin.cn) ([爱奇艺](https://app.iqiyi.com/tv/player/index.html)、[优酷](https://youku.com/product/index)、[腾讯视频](https://v.qq.com/download.html#TV))
 
 <br>
 
