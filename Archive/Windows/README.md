@@ -1,6 +1,6 @@
 ## Windows
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/)、[_Microsoft Edge_](https://www.microsoft.com/zh-cn/edge))
+* [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/)、[Microsoft Edge](https://www.microsoft.com/zh-cn/edge))
 * [Sublime Text](https://www.sublimetext.com) ([Python](https://www.python.org)、[_LLVM-MinGW_](https://www.mingw-w64.org/downloads/#llvm-mingw))
 * [WPS Office](https://www.wps.cn)
 * [QQ](https://im.qq.com)
@@ -14,7 +14,7 @@
 
 <br>
 
-* [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Monitorian](https://github.com/emoacht/Monitorian)、[_LocalSend_](https://localsend.org)、[_Huorong_](https://www.huorong.cn))
+* [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Monitorian](https://github.com/emoacht/Monitorian)、[LocalSend](https://localsend.org)、[Huorong](https://www.huorong.cn))
 * [Windows Terminal](https://github.com/microsoft/terminal) ([_Git_](https://git-scm.com)、[_Sourcetree_](https://sourcetreeapp.com)、[_TortoiseGit_](https://tortoisegit.org)、[_WinMerge_](https://winmerge.org))
 * [Steam](https://store.steampowered.com) ([_PlayStation®Accessories_](https://play.st/3AC0qb0))
 
