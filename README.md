@@ -20,6 +20,23 @@
 <br>
 
 
+## 在用硬件
+
+* ** Mac mini (M4) [Anna]**
+    *  Studio Display
+    *  Magic Keyboard
+    *  Magic Trackpad
+    * DualSense™ Wireless Controller
+
+* ** iPad Air (M2) [Pena]**
+    *  Pencil Pro
+
+* ** iPhone 15 Pro [Nana]**
+    *  AirPods 2
+
+<br>
+
+
 ## 推荐软件（macOS）
 
 **我喜欢精简，在满足自己所需功能的前提下，将自己的互联网账号数量降到最低，涉及的平台和APP减到最少。**
