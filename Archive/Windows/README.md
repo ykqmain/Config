@@ -10,7 +10,7 @@
 * [7-Zip](https://www.7-zip.org)
 * [Everything](https://www.voidtools.com/zh-cn/)
 * [Honeyview](https://www.bandisoft.com/honeyview/) ([~~Picasa~~](https://picasa.google.com))
-* [VLC](https://www.videolan.org) ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[_必剪_](https://bcut.bilibili.cn))
+* [VLC](https://www.videolan.org) ([_DaVinci Resolve_](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[_必剪_](https://bcut.bilibili.cn))
 
 <br>
 
