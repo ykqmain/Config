@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2024-09**</em></mark>
+<mark><em>**Update: 2024-10**</em></mark>
 
 <br>
 
@@ -65,9 +65,8 @@
             * [Firefox Multi-Account Containers](https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/)
             * [uBlock Origin](https://github.com/gorhill/uBlock)
             * [Tampermonkey](https://www.tampermonkey.net)
-            * [Global Speed](https://github.com/polywock/globalSpeed)
-            * [几枝](https://github.com/unicar9/jizhi)
             * [沉浸式翻译](https://immersivetranslate.com)
+            * [几枝](https://github.com/unicar9/jizhi)
 
 <br>
 
