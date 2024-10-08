@@ -54,6 +54,7 @@
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
             * [Bilibili 高级倍速功能](https://greasyfork.org/zh-CN/scripts/479080-bilibili-高级倍速功能)
         * [AdBlocker](https://adblockersafari.com) [App Store]
+        * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
         * [沉浸式翻译](https://immersivetranslate.com) [App Store]
     <br>
 
@@ -68,8 +69,8 @@
             * [Firefox Multi-Account Containers](https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/)
             * [Tampermonkey](https://www.tampermonkey.net)
             * [uBlock Origin](https://github.com/gorhill/uBlock)
-            * [沉浸式翻译](https://immersivetranslate.com)
             * [Global Speed](https://github.com/polywock/globalSpeed)
+            * [沉浸式翻译](https://immersivetranslate.com)
             * [几枝](https://github.com/unicar9/jizhi)
 
 <br>
