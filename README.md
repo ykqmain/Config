@@ -48,12 +48,12 @@
 1. 浏览器
 
     * [**Safari**](https://www.apple.com/safari/)
-        * [AdBlocker](https://adblockersafari.com) [App Store]
         * [Tampermonkey](https://www.tampermonkey.net) [App Store] ([_Greasy Fork_](https://greasyfork.org/zh-CN))
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
             * [Bilibili 高级倍速功能](https://greasyfork.org/zh-CN/scripts/479080-bilibili-高级倍速功能)
+        * [AdBlocker](https://adblockersafari.com) [App Store]
         * [沉浸式翻译](https://immersivetranslate.com) [App Store]
     <br>
 
@@ -66,8 +66,8 @@
             * [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
         * _Extensions_
             * [Firefox Multi-Account Containers](https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/)
-            * [uBlock Origin](https://github.com/gorhill/uBlock)
             * [Tampermonkey](https://www.tampermonkey.net)
+            * [uBlock Origin](https://github.com/gorhill/uBlock)
             * [Global Speed](https://github.com/polywock/globalSpeed)
             * [沉浸式翻译](https://immersivetranslate.com)
             * [几枝](https://github.com/unicar9/jizhi)
