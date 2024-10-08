@@ -54,6 +54,7 @@
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
             * [Bilibili 高级倍速功能](https://greasyfork.org/zh-CN/scripts/479080-bilibili-高级倍速功能)
+        * [沉浸式翻译](https://immersivetranslate.com) [App Store]
     <br>
 
     * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/)
