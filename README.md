@@ -68,8 +68,8 @@
             * [Firefox Multi-Account Containers](https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/)
             * [Tampermonkey](https://www.tampermonkey.net)
             * [uBlock Origin](https://github.com/gorhill/uBlock)
-            * [Global Speed](https://github.com/polywock/globalSpeed)
             * [沉浸式翻译](https://immersivetranslate.com)
+            * [Global Speed](https://github.com/polywock/globalSpeed)
             * [几枝](https://github.com/unicar9/jizhi)
 
 <br>
