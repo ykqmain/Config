@@ -26,7 +26,6 @@
     *  Studio Display
     *  Magic Keyboard
     *  Magic Trackpad
-    * DualSense™ Wireless Controller
 
 * ** iPad Air (M2) [Pena]**
     *  Pencil Pro
