@@ -149,8 +149,6 @@
     * [OBS](https://obsproject.com) (video recording and live streaming)
     <br>
 
-    * [微信读书](https://weread.qq.com/) [Web]
-    * [QQ音乐](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
     * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[_必剪_](https://bcut.bilibili.cn))
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
@@ -164,6 +162,8 @@
     * [**NetNewsWire**](https://netnewswire.com) (RSS reader)
     * [微信](https://weixin.qq.com) [App Store]
     * [QQ](https://im.qq.com) [App Store]
+    * [微信读书](https://weread.qq.com/) [Web]
+    * [QQ音乐](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     * [_飞书_](https://www.feishu.cn) [Web]
     * [_Discord_](https://discord.com) [Web]
     * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) (keep-awake) [App Store] ([_Keep Screen On_](https://www.keepscreenon.com))
