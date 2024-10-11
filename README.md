@@ -144,8 +144,8 @@
     * [_Procreate_](https://procreate.com) (Paint & Animate) [iPad App Store] ([~~Krita~~](https://krita.org/zh/))
     * [Vectornator](https://www.linearity.io) (designs and animations) [App Store] ([~~Inkscape~~](https://inkscape.org/zh-hans/))
     * [Blender](https://www.blender.org) (3D creation suite)
-    * [Movist Pro](https://movistprime.com) (播放器)
-    * [VLC](https://www.videolan.org) (播放器)
+    * [Movist Pro](https://movistprime.com) (player)
+    * [VLC](https://www.videolan.org) (player)
     * [OBS](https://obsproject.com) (video recording and live streaming)
     <br>
 
