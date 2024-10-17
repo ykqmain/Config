@@ -53,7 +53,6 @@
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
         * [AdBlocker](https://adblockersafari.com) [App Store]
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
-        * [沉浸式翻译](https://immersivetranslate.com) [App Store]
     <br>
 
     * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/)
