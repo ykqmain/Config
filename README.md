@@ -175,7 +175,6 @@
     * [Mactracker](https://mactracker.ca) (get info) [App Store]
     <br>
 
-    * [百度网盘](https://pan.baidu.com) [App Store]
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Rectangle_](https://github.com/rxhanson/Rectangle)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
