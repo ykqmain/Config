@@ -27,9 +27,6 @@
     *  Magic Keyboard
     *  Magic Trackpad
 
-* ** iPad Air (M2) [Pena]**
-    *  Pencil Pro
-
 * ** iPhone 15 Pro [Nana]**
     *  AirPods 2
 
@@ -137,11 +134,9 @@
 
 3. 效率与娱乐
 
-    * [**WPS Office**](https://www.wps.cn) [App Store] ([Goodnotes](https://www.goodnotes.com)、[PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_draw.io_](https://www.drawio.com)、[_Numbr_](https://numbr.dev))
-    * [Pixelmator Pro](https://www.pixelmator.com/pro/) (image editor) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~darktable~~](https://www.darktable.org))
+    * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_draw.io_](https://www.drawio.com)、[_Numbr_](https://numbr.dev))
+    * [Pixelmator Pro](https://www.pixelmator.com/pro/) (image editor) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~darktable~~](https://www.darktable.org)、[~~Vectornator~~](https://www.linearity.io)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/)、[~~_Procreate_~~](https://procreate.com))
     * [Photomator](https://www.pixelmator.com/photomator/) (photo editor) [App Store] (换掉[~~Photoshop & Lightroom~~](https://www.adobe.com/creativecloud/photography.html)后达成「软件全部正版化」成就😌)
-    * [_Procreate_](https://procreate.com) (Paint & Animate) [iPad App Store] ([~~Krita~~](https://krita.org/zh/))
-    * [Vectornator](https://www.linearity.io) (designs and animations) [App Store] ([~~Inkscape~~](https://inkscape.org/zh-hans/))
     * [Blender](https://www.blender.org) (3D creation suite)
     * [Movist Pro](https://movistprime.com) (player)
     * [VLC](https://www.videolan.org) (player)
