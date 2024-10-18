@@ -49,8 +49,8 @@
     * [**Safari**](https://www.apple.com/safari/)
         * [Tampermonkey](https://www.tampermonkey.net) [App Store] ([_Greasy Fork_](https://greasyfork.org/zh-CN))
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
-            * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
+            * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
         * [AdBlocker](https://adblockersafari.com) [App Store]
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
     <br>
