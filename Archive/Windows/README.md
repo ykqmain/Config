@@ -8,7 +8,7 @@
 
 * [Honeyview](https://www.bandisoft.com/honeyview/) ([~~Picasa~~](https://picasa.google.com))
 * [VLC](https://www.videolan.org) ([_DaVinci Resolve_](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[_必剪_](https://bcut.bilibili.cn))
-* [QQ](https://im.qq.com) ([_QQ音乐_](https://y.qq.com)、[_Steam_](https://store.steampowered.com)、[_PlayStation®Accessories_](https://play.st/3AC0qb0))
+* [QQ](https://im.qq.com) ([_QQ音乐_](https://y.qq.com))
 
 <br>
 
