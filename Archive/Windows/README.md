@@ -2,6 +2,7 @@
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/)、[Microsoft Edge](https://www.microsoft.com/zh-cn/edge))
 * [Sublime Text](https://www.sublimetext.com) ([Python](https://www.python.org)、[_LLVM-MinGW_](https://www.mingw-w64.org/downloads/#llvm-mingw))
+* [Steam](https://store.steampowered.com) ([_PlayStation®Accessories_](https://play.st/3AC0qb0))
 
 <br>
 
