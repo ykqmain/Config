@@ -1,6 +1,6 @@
 ## Windows
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/)、[Microsoft Edge](https://www.microsoft.com/zh-cn/edge))
+* [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/))
 * [Sublime Text](https://www.sublimetext.com) ([Python](https://www.python.org)、[_LLVM-MinGW_](https://www.mingw-w64.org/downloads/#llvm-mingw))
 
 <br>
