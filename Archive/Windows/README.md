@@ -5,9 +5,10 @@
 
 <br>
 
-* [WPS Office](https://www.wps.cn) ([QQ](https://im.qq.com)、[_QQ音乐_](https://y.qq.com))
+* [WPS Office](https://www.wps.cn)
 * [Honeyview](https://www.bandisoft.com/honeyview/) ([~~Picasa~~](https://picasa.google.com))
 * [VLC](https://www.videolan.org)
+* [QQ](https://im.qq.com)
 
 <br>
 
