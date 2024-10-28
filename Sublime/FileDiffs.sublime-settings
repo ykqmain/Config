@@ -1,0 +1,4 @@
+{
+    "open_in_sublime": true,
+    "cmd": ["opendiff", "$file1", "$file2"]
+}
