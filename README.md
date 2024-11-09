@@ -102,7 +102,6 @@
         * [httpie](https://httpie.io) ([Paw](https://paw.cloud))
         * [tcpdump](https://www.tcpdump.org) ([Wireshark](https://www.wireshark.org))
         * [ffmpeg](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
-        * [_postgresql_](https://www.postgresql.org) ([Postgres.app](https://postgresapp.com)、[_pgAdmin_](https://www.pgadmin.org)、[_PostGIS_](https://postgis.net)、[QGIS](https://www.qgis.org/zh-Hans/site/))
     <br>
 
     * [Python](https://www.python.org) (`pip3 install -r requirements.txt`)
@@ -130,6 +129,7 @@
     <br>
 
     * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
+    * [PostgreSQL](https://www.postgresql.org) ([Postgres.app](https://postgresapp.com)、[_pgAdmin_](https://www.pgadmin.org)、[_PostGIS_](https://postgis.net)、[QGIS](https://www.qgis.org/zh-Hans/site/))
 
 <br>
 
