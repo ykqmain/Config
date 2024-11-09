@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2024-10**</em></mark>
+<mark><em>**Update: 2024-11**</em></mark>
 
 <br>
 
@@ -97,11 +97,12 @@
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [_mysql_](https://dev.mysql.com) ([_Navicat_](https://www.navicat.com.cn/products/navicat-premium-lite)、[_DBeaver_](https://dbeaver.io)、[~~Sequel Ace~~](https://sequel-ace.com)、[~~Sequel Pro~~](https://sequelpro.com))
-        * [_duck_](https://duck.sh) ([_Cyberduck_](https://cyberduck.io))
-        * [_httpie_](https://httpie.io) ([_Paw_](https://paw.cloud))
-        * [_tcpdump_](https://www.tcpdump.org) ([_Wireshark_](https://www.wireshark.org))
-        * [_ffmpeg_](https://ffmpeg.org) ([_HandBrake_](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
+        * [_mysql_](https://dev.mysql.com) ([DBeaver](https://dbeaver.io)、[~~Sequel Ace~~](https://sequel-ace.com)、[~~Sequel Pro~~](https://sequelpro.com)、[~~Navicat~~](https://www.navicat.com.cn/products/navicat-premium-lite))
+        * [_postgresql_](https://www.postgresql.org) ([Postgres.app](https://postgresapp.com)、[_pgAdmin_](https://www.pgadmin.org)、[_PostGIS_](https://postgis.net)、[QGIS](https://www.qgis.org/zh-Hans/site/))
+        * [_duck_](https://duck.sh) ([Cyberduck](https://cyberduck.io))
+        * [_httpie_](https://httpie.io) ([Paw](https://paw.cloud))
+        * [_tcpdump_](https://www.tcpdump.org) ([Wireshark](https://www.wireshark.org))
+        * [_ffmpeg_](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
     <br>
 
     * [Python](https://www.python.org) (`pip3 install -r requirements.txt`)
@@ -119,7 +120,8 @@
         * pygame
     <br>
 
-    * [**Sublime Text**](https://www.sublimetext.com) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~TextMate~~](https://github.com/textmate/textmate)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CotEditor~~](https://coteditor.com)、[~~CodeEdit~~](https://www.codeedit.app))
+    * [CotEditor](https://coteditor.com)
+    * [**Sublime Text**](https://www.sublimetext.com) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~TextMate~~](https://github.com/textmate/textmate)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
         * [_Package Control_](https://packagecontrol.io)：[我的插件](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
@@ -128,8 +130,6 @@
     <br>
 
     * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [PostgreSQL](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[_pgAdmin_](https://www.pgadmin.org)、[_PostGIS_](https://postgis.net))
-    * [QGIS](https://www.qgis.org/zh-Hans/site/) (Geographic Information System)
 
 <br>
 
@@ -155,11 +155,11 @@
 
 4. 工具
 
-    * [**NetNewsWire**](https://netnewswire.com) (RSS reader)
     * [微信](https://weixin.qq.com) [App Store]
     * [QQ](https://im.qq.com) [App Store]
     * [微信读书](https://weread.qq.com/) [Web]
     * [QQ音乐](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
+    * [**NetNewsWire**](https://netnewswire.com) (RSS reader)
     * [_飞书_](https://www.feishu.cn) [Web]
     * [_Discord_](https://discord.com) [Web]
     * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) (keep-awake) [App Store] ([_Keep Screen On_](https://www.keepscreenon.com))
