@@ -146,7 +146,7 @@
     <br>
 
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
-    * [Goodnotes](https://www.goodnotes.com)
+    * [Goodnotes](https://www.goodnotes.com) [App Store]
     * [Vectornator](https://www.linearity.io) (designs and animations) [App Store] ([~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/)、[~~_Procreate_~~](https://procreate.com))
     * [Blender](https://www.blender.org) (3D creation suite)
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
