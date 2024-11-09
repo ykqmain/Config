@@ -97,12 +97,12 @@
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [_mysql_](https://dev.mysql.com) ([DBeaver](https://dbeaver.io)、[~~Sequel Ace~~](https://sequel-ace.com)、[~~Sequel Pro~~](https://sequelpro.com)、[~~Navicat~~](https://www.navicat.com.cn/products/navicat-premium-lite))
+        * [mysql](https://dev.mysql.com) ([DBeaver](https://dbeaver.io)、[~~Sequel Ace~~](https://sequel-ace.com)、[~~Sequel Pro~~](https://sequelpro.com)、[~~Navicat~~](https://www.navicat.com.cn/products/navicat-premium-lite))
+        * [duck](https://duck.sh) ([Cyberduck](https://cyberduck.io))
+        * [httpie](https://httpie.io) ([Paw](https://paw.cloud))
+        * [tcpdump](https://www.tcpdump.org) ([Wireshark](https://www.wireshark.org))
+        * [ffmpeg](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
         * [_postgresql_](https://www.postgresql.org) ([Postgres.app](https://postgresapp.com)、[_pgAdmin_](https://www.pgadmin.org)、[_PostGIS_](https://postgis.net)、[QGIS](https://www.qgis.org/zh-Hans/site/))
-        * [_duck_](https://duck.sh) ([Cyberduck](https://cyberduck.io))
-        * [_httpie_](https://httpie.io) ([Paw](https://paw.cloud))
-        * [_tcpdump_](https://www.tcpdump.org) ([Wireshark](https://www.wireshark.org))
-        * [_ffmpeg_](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
     <br>
 
     * [Python](https://www.python.org) (`pip3 install -r requirements.txt`)
