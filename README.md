@@ -154,7 +154,7 @@
     <br>
 
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
-    * [OpenEmu](https://openemu.org) (游戏) ([Steam](https://store.steampowered.com)、[Battle.net](https://hs.blizzard.cn)、[_PlayStation®Accessories_](https://play.st/3AC0qb0))
+    * [OpenEmu](https://openemu.org) (游戏) ([Steam](https://store.steampowered.com)、[_PlayStation®Accessories_](https://play.st/3AC0qb0))
 
 <br>
 
