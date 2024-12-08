@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2024-11**</em></mark>
+<mark><em>**Update: 2024-12**</em></mark>
 
 <br>
 
@@ -99,12 +99,10 @@
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [mysql](https://dev.mysql.com) ([DBeaver](https://dbeaver.io)、[~~Sequel Ace~~](https://sequel-ace.com)、[~~Sequel Pro~~](https://sequelpro.com)、[~~Navicat~~](https://www.navicat.com.cn/products/navicat-premium-lite))
-        * [duck](https://duck.sh) ([Cyberduck](https://cyberduck.io))
-        * [httpie](https://httpie.io) ([Paw](https://paw.cloud))
-        * [tcpdump](https://www.tcpdump.org) ([Wireshark](https://www.wireshark.org))
-        * [ffmpeg](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
+        * [mysql](https://dev.mysql.com) ([Navicat](https://www.navicat.com.cn/products/navicat-premium-lite)、[~~DBeaver~~](https://dbeaver.io)、[~~Sequel Ace~~](https://sequel-ace.com)、[~~Sequel Pro~~](https://sequelpro.com))
         * [_postgresql_](https://www.postgresql.org) ([Postgres.app](https://postgresapp.com)、[_pgAdmin_](https://www.pgadmin.org)、[_PostGIS_](https://postgis.net)、[QGIS](https://www.qgis.org/zh-Hans/site/))
+        * [_tcpdump_](https://www.tcpdump.org) ([Wireshark](https://www.wireshark.org))
+        * [_ffmpeg_](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
     <br>
 
     * [Python](https://www.python.org) (`pip3 install -r requirements.txt`)
