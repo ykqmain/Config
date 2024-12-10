@@ -2,7 +2,7 @@
 
 * [TVBox](https://github.com/o0HalfLife0o/TVBoxOSC)
 * [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
-* [Bilibili](https://app.bilibili.com) ([BBLL](https://github.com/xiaye13579/BBLL))
+* [BBLL](https://github.com/xiaye13579/BBLL) ([Bilibili](https://app.bilibili.com))
 
 <br>
 
