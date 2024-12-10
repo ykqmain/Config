@@ -6,7 +6,7 @@
 <br>
 
 * [WPS Office](https://www.wps.cn) ([QQ](https://im.qq.com))
-* [Honeyview](https://www.bandisoft.com/honeyview/) ([~~Picasa~~](https://picasa.google.com))
+* [Honeyview](https://www.bandisoft.com/honeyview/)
 * [VLC](https://www.videolan.org)
 
 <br>
