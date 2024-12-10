@@ -80,7 +80,7 @@
         * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前我发现的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
     <br>
 
-    * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] ([_CodeEdit_](https://www.codeedit.app)) [**`xcode-select --install`**]
+    * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] ([_CodeEdit_](https://www.codeedit.app)) {**`xcode-select --install`**}
     * [CotEditor](https://coteditor.com) [App Store] ([_Vim_](https://www.vim.org))
     <br>
 
@@ -95,7 +95,7 @@
             * `git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search`
     <br>
 
-    * [Homebrew](https://brew.sh) [`/opt/homebrew`]
+    * [Homebrew](https://brew.sh) {`/opt/homebrew`}
         * [wget](https://www.gnu.org/software/wget)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [tldr](https://github.com/tldr-pages/tldr)
@@ -107,7 +107,7 @@
         * [_ffmpeg_](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
     <br>
 
-    * [Python](https://www.python.org) [`pip3 install -r requirements.txt`]
+    * [Python](https://www.python.org) {`pip3 install -r requirements.txt`}
         * you-get
         * httpx
         * requests
