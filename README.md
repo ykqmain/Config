@@ -80,7 +80,7 @@
     <br>
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] ([_CodeEdit_](https://www.codeedit.app)) [**`xcode-select --install`**]
-    * [CotEditor](https://coteditor.com) [App Store] ([Vim](https://www.vim.org))
+    * [CotEditor](https://coteditor.com) [App Store] ([_Vim_](https://www.vim.org))
     <br>
 
     * [oh-my-zsh](https://ohmyz.sh)
