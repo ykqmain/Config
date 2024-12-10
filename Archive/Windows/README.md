@@ -10,4 +10,5 @@
 * [VLC](https://www.videolan.org)
 * [QQ](https://im.qq.com)
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Monitorian](https://github.com/emoacht/Monitorian)、[LocalSend](https://github.com/localsend/localsend)、[_火绒_](https://www.huorong.cn))
+* [Steam](https://store.steampowered.com) ([_PlayStation®Accessories_](https://play.st/3AC0qb0))
 
