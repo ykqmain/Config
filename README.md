@@ -94,7 +94,7 @@
             * `git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search`
     <br>
 
-    * [Homebrew](https://brew.sh) (`/opt/homebrew`)
+    * [Homebrew](https://brew.sh) [`/opt/homebrew`]
         * [wget](https://www.gnu.org/software/wget)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [tldr](https://github.com/tldr-pages/tldr)
@@ -106,7 +106,7 @@
         * [_ffmpeg_](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
     <br>
 
-    * [Python](https://www.python.org) (`pip3 install -r requirements.txt`)
+    * [Python](https://www.python.org) [`pip3 install -r requirements.txt`]
         * you-get
         * httpx
         * requests
