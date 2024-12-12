@@ -137,24 +137,25 @@
 3. 效率与娱乐
 
     * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_draw.io_](https://www.drawio.com)、[_Numbr_](https://numbr.dev))
-    * [Pixelmator Pro](https://www.pixelmator.com/pro/) (image editor) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~darktable~~](https://www.darktable.org))
-    * [Photomator](https://www.pixelmator.com/photomator/) (photo editor) [App Store] (换掉[~~Photoshop & Lightroom~~](https://www.adobe.com/creativecloud/photography.html)后达成「软件全部正版化」成就😌)
     * [Movist Pro](https://movistprime.com) (player)
     * [VLC](https://www.videolan.org) (player)
     * [OBS](https://obsproject.com) (video recording and live streaming)
     <br>
 
-    * [iWork](https://www.apple.com.cn/iwork/) [App Store]
-    * [Goodnotes](https://www.goodnotes.com) [App Store]
-    * [Vectornator](https://www.linearity.io) (designs and animations) [App Store] ([~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/)、[_Procreate_](https://procreate.com))
+    * [Pixelmator Pro](https://www.pixelmator.com/pro/) (image editor) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~darktable~~](https://www.darktable.org))
+    * [Photomator](https://www.pixelmator.com/photomator/) (photo editor) [App Store] (换掉[~~Photoshop & Lightroom~~](https://www.adobe.com/creativecloud/photography.html)后达成「软件全部正版化」成就😌)
+    * [Vectornator](https://www.linearity.io) (designs and animations) [App Store] ([~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/))
     * [Blender](https://www.blender.org) (3D creation suite)
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
     * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[_必剪_](https://bcut.bilibili.cn))
     <br>
 
+    * [Goodnotes](https://www.goodnotes.com) [App Store] ([_Procreate_](https://procreate.com))
+    * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (游戏)
+    * [百度网盘](https://pan.baidu.com) [App Store]
 
 <br>
 
