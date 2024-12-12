@@ -69,7 +69,6 @@
             * [几枝](https://github.com/unicar9/jizhi)
     <br>
 
-    * [**NetNewsWire**](https://netnewswire.com) (RSS reader)
 
 <br>
 
@@ -137,6 +136,8 @@
 3. 效率与娱乐
 
     * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_draw.io_](https://www.drawio.com)、[_Numbr_](https://numbr.dev))
+    * [微信读书](https://weread.qq.com/) [Web]
+    * [QQ音乐](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     * [Movist Pro](https://movistprime.com) (player)
     * [VLC](https://www.videolan.org) (player)
     * [OBS](https://obsproject.com) (video recording and live streaming)
@@ -163,10 +164,7 @@
 
     * [微信](https://weixin.qq.com) [App Store]
     * [QQ](https://im.qq.com) [App Store]
-    * [微信读书](https://weread.qq.com/) [Web]
-    * [QQ音乐](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
-    * [_飞书_](https://www.feishu.cn) [Web]
-    * [_Discord_](https://discord.com) [Web]
+    * [NetNewsWire](https://netnewswire.com) (RSS reader)
     * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) (keep-awake) [App Store] ([_Keep Screen On_](https://www.keepscreenon.com))
     <br>
 
