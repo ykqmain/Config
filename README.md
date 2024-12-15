@@ -98,7 +98,7 @@
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [mysql](https://dev.mysql.com) ([Navicat](https://www.navicat.com.cn/products/navicat-premium-lite)、[~~DBeaver~~](https://dbeaver.io)、[~~Sequel Ace~~](https://sequel-ace.com)、[~~Sequel Pro~~](https://sequelpro.com))
+        * [mysql](https://dev.mysql.com) ([Navicat](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver](https://dbeaver.io)、[~~Sequel Ace~~](https://sequel-ace.com)、[~~Sequel Pro~~](https://sequelpro.com))
         * [_postgresql_](https://www.postgresql.org) ([Postgres.app](https://postgresapp.com)、[_pgAdmin_](https://www.pgadmin.org)、[_PostGIS_](https://postgis.net)、[QGIS](https://www.qgis.org/zh-Hans/site/))
         * [_tcpdump_](https://www.tcpdump.org) ([Wireshark](https://www.wireshark.org))
         * [_ffmpeg_](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
@@ -154,7 +154,6 @@
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (游戏)
-    * [百度网盘](https://pan.baidu.com) [App Store]
 
 <br>
 
