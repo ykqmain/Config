@@ -81,13 +81,12 @@
 
 2. Developer Tools
 
-    * **Terminal.app**
+    * **Terminal.app** ([_Vim_](https://www.vim.org))
         ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
         * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前我发现的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
     <br>
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] ([_CodeEdit_](https://www.codeedit.app)) {**`xcode-select --install`**}
-    * [CotEditor](https://coteditor.com) [App Store] ([_Vim_](https://www.vim.org))
     <br>
 
     * [oh-my-zsh](https://ohmyz.sh)
