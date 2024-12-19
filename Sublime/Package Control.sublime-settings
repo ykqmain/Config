@@ -23,6 +23,7 @@
         "Filter Lines",
         "LSP",
         "LSP-clangd",
+        "LSP-copilot",
         "LSP-file-watcher-chokidar",
         "LSP-json",
         "LSP-pyright",
