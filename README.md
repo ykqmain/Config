@@ -87,7 +87,7 @@
     <br>
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] {**`xcode-select --install`**}
-    * [CotEditor](https://coteditor.com) ([_Vim_](https://www.vim.org)) [[_github.dev_](https://github.com/github/dev)]
+    * [CotEditor](https://coteditor.com) ([Vim](https://www.vim.org))
     <br>
 
     * [oh-my-zsh](https://ohmyz.sh)
