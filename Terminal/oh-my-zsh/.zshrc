@@ -77,9 +77,7 @@ source $ZSH/oh-my-zsh.sh
 # User configuration
 # export MANPATH="/usr/local/man:$MANPATH"
 # export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
-export MY_HOME="/usr/local/bin"
-export HOMEBREW="/opt/homebrew/bin"
-export PATH="$MY_HOME:$HOMEBREW:$PATH"
+
 
 # COLOR
 export HEI="\e[1;30m"
@@ -119,23 +117,13 @@ alias sha256='shasum -a 256'
 alias py="python3"
 alias clang++="clang++ -std=c++20"
 
-alias cip='curl cip.cc'
+
 function ip(){
     echo -e "${LV}ipip.net${RES}"
     curl myip.ipip.net
 
-    echo -e "\n${LV}tool.lu${RES}"
-    curl -L ip.tool.lu
-
     echo -e "\n${LV}cip.cc${RES}"
     curl cip.cc
-}
-
-function dl(){
-    # export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
-    # export http_proxy=http://127.0.0.1:1087;export https_proxy=http://127.0.0.1:1087;export ALL_PROXY=socks5://127.0.0.1:1080
-    curl -I www.google.com
-    # http -h www.google.com
 }
 
 function gitPush(){
