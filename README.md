@@ -86,7 +86,7 @@
         * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前我发现的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
     <br>
 
-    * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] ([_CodeEdit_](https://www.codeedit.app)) {**`xcode-select --install`**}
+    * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] {**`xcode-select --install`**}
     <br>
 
     * [oh-my-zsh](https://ohmyz.sh)
@@ -127,7 +127,7 @@
         * pygame
     <br>
 
-    * [**Sublime Text**](https://www.sublimetext.com) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev))
+    * [**Sublime Text**](https://www.sublimetext.com) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
         * [_Package Control_](https://packagecontrol.io)：[我的插件](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
