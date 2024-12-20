@@ -1,15 +1,23 @@
 {
-    "abbreviation_scopes": [
-        "text.html.markdown",
-        "text.html - text.html meta.tag - text.html meta.embedded - text.html meta.interpolation - text.html comment - text.html source",
-        "text.xml - text.xml meta.tag - text.xml meta.embedded - text.xml meta.interpolation - text.xml comment - text.xml source",
-        "source.sass - meta.property-value - meta.property-name - string - punctuation - comment",
-        "(source.css | source.scss | source.less | source.postcss | source.stylus) & meta.property-list",
-        "(source.css | source.scss | source.less | source.postcss | source.stylus) - meta.property-value - meta.property-name - string - comment",
-        "(source.tsx | source.js | source.jsx) - comment",
-        // Inline CSS
-        "text.html meta.attribute-with-value.style (string.quoted | source.css)"
-    ],
+    "syntax_scopes": {
+        "markdown": "text.html.markdown",
+
+        "html": "text.html - text.html source - meta.attribute-with-value.style",
+        "xml": "text.xml - text.xml.xsl",
+        "xsl": "text.xml.xsl",
+        "jsx": "source.js.jsx | source.tsx | source.js | source.jsx",
+        "haml": "source.haml",
+        "jade": "text.jade | source.pyjade",
+        "pug": "text.pug | source.pypug",
+        "slim": "text.slim",
+
+        "css": "source.css | source.postcss | meta.attribute-with-value.style.html string.quoted",
+        "sass": "source.sass",
+        "scss": "source.scss",
+        "less": "source.less",
+        "stylus": "source.stylus",
+        "sss": "source.sss"
+    },
 
 	"telemetry": false,
 }
