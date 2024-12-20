@@ -81,12 +81,13 @@
 
 2. Developer Tools
 
-    * **Terminal.app** ([_Vim_](https://www.vim.org))
+    * **Terminal.app**
         ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
         * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前我发现的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
     <br>
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] {**`xcode-select --install`**}
+    * [CotEditor](https://coteditor.com) ([_Vim_](https://www.vim.org)) [[_github.dev_](https://github.com/github/dev)]
     <br>
 
     * [oh-my-zsh](https://ohmyz.sh)
@@ -128,12 +129,10 @@
         * pygame
     <br>
 
-    * [**Sublime Text**](https://www.sublimetext.com) ([_Package Control_](https://packagecontrol.io))
+    * [**Sublime Text**](https://www.sublimetext.com) ([_Package Control_](https://packagecontrol.io)) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
-        * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、写写Python代码，Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
-    <br>
+        * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、写写Python罢了，Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
 
-    * [VS Code](https://code.visualstudio.com) [[_github.dev_](https://github.com/github/dev)] (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
 <br>
 
 3. 效率与娱乐
