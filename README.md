@@ -129,7 +129,8 @@
         * pygame
     <br>
 
-    * [**Sublime Text**](https://www.sublimetext.com) [[_Package Control_](https://packagecontrol.io)] (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、[~~VSCode~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
+    * [**Sublime Text**](https://www.sublimetext.com) [[_Package Control_](https://packagecontrol.io)]
+    (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、写写Python罢了，Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
 
