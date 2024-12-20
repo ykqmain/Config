@@ -106,7 +106,8 @@
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [mysql](https://dev.mysql.com) ([Navicat](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver](https://dbeaver.io)、[~~Sequel Ace~~](https://sequel-ace.com)、[~~Sequel Pro~~](https://sequelpro.com))
+        * [_Git_](https://git-scm.com) ([Sourcetree](https://sourcetreeapp.com))
+        * [_mysql_](https://dev.mysql.com) ([Navicat](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver](https://dbeaver.io)、[~~Sequel Ace~~](https://sequel-ace.com)、[~~Sequel Pro~~](https://sequelpro.com))
         * [_postgresql_](https://www.postgresql.org) ([Postgres.app](https://postgresapp.com)、[_pgAdmin_](https://www.pgadmin.org)、[_PostGIS_](https://postgis.net)、[QGIS](https://www.qgis.org/zh-Hans/site/))
         * [_tcpdump_](https://www.tcpdump.org) ([Wireshark](https://www.wireshark.org))
         * [_ffmpeg_](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
@@ -130,8 +131,9 @@
     * [**Sublime Text**](https://www.sublimetext.com) ([_Package Control_](https://packagecontrol.io)：[我的插件](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings))
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、写写Python代码，Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
-    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [VS Code](https://code.visualstudio.com) (IDE) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
+    <br>
+
+    * [VS Code](https://code.visualstudio.com) ([github.dev](https://github.com/github/dev)) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
 <br>
 
 3. 效率与娱乐
