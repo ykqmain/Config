@@ -128,12 +128,12 @@
         * pygame
     <br>
 
-    * [**Sublime Text**](https://www.sublimetext.com) ([_Package Control_](https://packagecontrol.io)：[我的插件](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings))
+    * [**Sublime Text**](https://www.sublimetext.com) ([_Package Control_](https://packagecontrol.io))
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、写写Python代码，Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [VS Code](https://code.visualstudio.com) ([github.dev](https://github.com/github/dev)) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
+    * [VS Code](https://code.visualstudio.com) [[_github.dev_](https://github.com/github/dev)] (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
 <br>
 
 3. 效率与娱乐
