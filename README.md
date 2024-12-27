@@ -81,13 +81,12 @@
 
 2. Developer Tools
 
-    * **Terminal.app**
+    * **Terminal.app** ([Vim](https://www.vim.org))
         ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
         * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前我发现的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
     <br>
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] {**`xcode-select --install`**}
-    * [CotEditor](https://coteditor.com) [App Store] ([Vim](https://www.vim.org))
     <br>
 
     * [oh-my-zsh](https://ohmyz.sh)
@@ -127,12 +126,12 @@
 
     * [**Sublime Text**](https://www.sublimetext.com) [[_Package Control_](https://packagecontrol.io)]
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
-        * ~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app)
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、写写Python罢了，Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
+    * [VSCode](https://code.visualstudio.com) (IDE)
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [Postgres](https://postgresapp.com) ([Navicat](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/))
+    * [Postgres](https://postgresapp.com) (Relational Database) ([Navicat](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/))
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
 
 <br>
