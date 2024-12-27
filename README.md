@@ -112,23 +112,21 @@
         * [_postgresql_](https://www.postgresql.org) ([Postgres.app](https://postgresapp.com)、[_pgAdmin_](https://www.pgadmin.org)、[_PostGIS_](https://postgis.net)、[QGIS](https://www.qgis.org/zh-Hans/site/))
         * [_tcpdump_](https://www.tcpdump.org) ([Wireshark](https://www.wireshark.org))
         * [_ffmpeg_](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
-    <br>
-
-    * [Python](https://www.python.org) {`pip3 install -r requirements.txt`}
-        * you-get
-        * httpx
-        * requests
-        * beautifulsoup4
-        * openpyxl
-        * pandas
-        * pillow
-        * matplotlib
-        * jieba
-        * wordcloud
-        * python-docx
-        * mysql-connector-python
-        * psycopg
-        * pygame
+        * [Python](https://www.python.org) {`pip3 install -r requirements.txt`}
+            * you-get
+            * httpx
+            * requests
+            * beautifulsoup4
+            * openpyxl
+            * pandas
+            * pillow
+            * matplotlib
+            * jieba
+            * wordcloud
+            * python-docx
+            * mysql-connector-python
+            * psycopg
+            * pygame
     <br>
 
     * [**Sublime Text**](https://www.sublimetext.com) [[_Package Control_](https://packagecontrol.io)]
