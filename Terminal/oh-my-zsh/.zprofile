@@ -3,5 +3,4 @@
 # export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 export MY_HOME="/usr/local/bin"
 export HOMEBREW="/opt/homebrew/bin"
-export MYSQL="/usr/local/mysql/bin"
-export PATH="$MY_HOME:$HOMEBREW:$MYSQL:$PATH"
+export PATH="$MY_HOME:$HOMEBREW:$PATH"

@@ -107,11 +107,7 @@
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [_Git_](https://git-scm.com) ([Sourcetree](https://sourcetreeapp.com))
-        * [_mysql_](https://dev.mysql.com) ([Navicat](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver](https://dbeaver.io)、[~~Sequel Ace~~](https://sequel-ace.com)、[~~Sequel Pro~~](https://sequelpro.com))
-        * [_postgresql_](https://www.postgresql.org) ([Postgres.app](https://postgresapp.com)、[_pgAdmin_](https://www.pgadmin.org)、[_PostGIS_](https://postgis.net)、[QGIS](https://www.qgis.org/zh-Hans/site/))
-        * [_tcpdump_](https://www.tcpdump.org) ([Wireshark](https://www.wireshark.org))
-        * [_ffmpeg_](https://ffmpeg.org) ([HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
+        * [mysql](https://dev.mysql.com)
         * [Python](https://www.python.org) {`pip3 install -r requirements.txt`}
             * you-get
             * httpx
@@ -133,6 +129,11 @@
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
         * ~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app)
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、写写Python罢了，Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
+    <br>
+
+    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
+    * [Postgres](https://postgresapp.com) ([Navicat](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/))
+    * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
 
 <br>
 
@@ -149,7 +150,7 @@
     * [Vectornator](https://www.linearity.io) (designs and animations) [App Store] ([~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/))
     * [Blender](https://www.blender.org) (3D creation suite)
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
-    * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[_必剪_](https://bcut.bilibili.cn))
+    * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[_必剪_](https://bcut.bilibili.cn)、[HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
     <br>
 
     * [Goodnotes](https://www.goodnotes.com) [App Store] ([_Procreate_](https://procreate.com))
