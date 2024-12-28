@@ -103,11 +103,11 @@
 
     * [Homebrew](https://brew.sh) {`/opt/homebrew`}
         * [wget](https://www.gnu.org/software/wget)
+        * [httpie](https://httpie.io)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [tldr](https://github.com/tldr-pages/tldr)
             * `tldr -u`
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [httpie](https://httpie.io)
         * [mysql](https://dev.mysql.com)
     <br>
 
