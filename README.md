@@ -173,7 +173,7 @@
     * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) (keep-awake) [App Store] ([_Keep Screen On_](https://www.keepscreenon.com))
     <br>
 
-    * [Keka](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store] ([KekaExternalHelper](https://www.keka.io/zh-cn/#defaultapp))
+    * [Keka](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store] ([_KekaExternalHelper_](https://www.keka.io/zh-cn/#defaultapp))
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
     * [pap.er](https://paper.photos) (壁纸) [App Store]
     * [Mactracker](https://mactracker.ca) (get info) [App Store]
