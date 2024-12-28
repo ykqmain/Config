@@ -135,7 +135,7 @@
     <br>
 
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [Postgres](https://postgresapp.com) (Relational Database) ([Navicat](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/))
+    * [PostgreSQL](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[Navicat](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/))
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
 
 <br>
