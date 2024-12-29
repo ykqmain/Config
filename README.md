@@ -107,7 +107,7 @@
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [tldr](https://github.com/tldr-pages/tldr) {`tldr -u`}
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [mysql](https://dev.mysql.com)
+        * [mysql](https://dev.mysql.com/downloads/)
         * [pyenv](https://github.com/pyenv/pyenv) ([pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)) {`pip3 install -r requirements.txt`}
             * you-get
             * httpx
