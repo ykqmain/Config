@@ -109,23 +109,21 @@
             * `tldr -u`
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
         * [mysql](https://dev.mysql.com)
-    <br>
-
-    * [Python](https://www.python.org) {`pip3 install -r requirements.txt`}
-        * you-get
-        * httpx
-        * requests
-        * beautifulsoup4
-        * openpyxl
-        * pandas
-        * pillow
-        * matplotlib
-        * jieba
-        * wordcloud
-        * python-docx
-        * mysql-connector-python
-        * psycopg
-        * pygame
+        * [pyenv](https://github.com/pyenv/pyenv) ([pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)) {`pip3 install -r requirements.txt`}
+            * you-get
+            * httpx
+            * requests
+            * beautifulsoup4
+            * openpyxl
+            * pandas
+            * pillow
+            * matplotlib
+            * jieba
+            * wordcloud
+            * python-docx
+            * mysql-connector-python
+            * psycopg
+            * pygame
     <br>
 
     * [**Sublime Text**](https://www.sublimetext.com) [[_Package Control_](https://packagecontrol.io)]
