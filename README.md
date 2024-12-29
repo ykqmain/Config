@@ -105,8 +105,7 @@
         * [wget](https://www.gnu.org/software/wget)
         * [httpie](https://httpie.io)
         * [tree](http://mama.indstate.edu/users/ice/tree)
-        * [tldr](https://github.com/tldr-pages/tldr)
-            * `tldr -u`
+        * [tldr](https://github.com/tldr-pages/tldr) {`tldr -u`}
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
         * [mysql](https://dev.mysql.com)
         * [pyenv](https://github.com/pyenv/pyenv) ([pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)) {`pip3 install -r requirements.txt`}
