@@ -5,7 +5,9 @@
 ```
 .
 ├── Snippet
-│ └── Python
+│ ├── C++
+│ ├── Python
+│ └── Text
 └── Theme
 ```
 
