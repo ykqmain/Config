@@ -68,6 +68,7 @@
             * [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
         * _Extensions_
             * [Firefox Multi-Account Containers](https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/)
+            * [Orbit](https://addons.mozilla.org/zh-CN/firefox/addon/orbit-summarizer/)
             * [uBlock Origin](https://github.com/gorhill/uBlock)
             * [Global Speed](https://github.com/polywock/globalSpeed)
             * [Tampermonkey](https://tampermonkey.net/)
