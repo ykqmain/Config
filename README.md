@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2024-12**</em></mark>
+<mark><em>**Update: 2025-01**</em></mark>
 
 <br>
 
@@ -177,9 +177,9 @@
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
     * [pap.er](https://paper.photos) (壁纸) [App Store]
     * [Mactracker](https://mactracker.ca) (get info) [App Store]
-    * [LocalSend](https://localsend.org/zh-CN) (share files) [App Store]
     <br>
 
+    * [LocalSend](https://localsend.org/zh-CN) (文件分享) [App Store]
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
