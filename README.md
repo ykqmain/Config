@@ -135,8 +135,7 @@
     * [CotEditor](https://coteditor.com) [App Store] ([Vim](https://www.vim.org))
     * [VS Code](https://code.visualstudio.com) (IDE) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [PostgreSQL](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[Navicat](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver](https://github.com/dbeaver/dbeaver)、[QGIS](https://www.qgis.org/zh-Hans/site/))
-    * [Paw](https://paw.cloud) (API tool)
+    * [PostgreSQL](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[Navicat](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver](https://github.com/dbeaver/dbeaver)、[QGIS](https://www.qgis.org/zh-Hans/site/)、[奥维地图](https://www.ovital.com))
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
 
 <br>
