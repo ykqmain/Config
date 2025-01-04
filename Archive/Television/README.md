@@ -1,7 +1,7 @@
 ## Television
 
 * [TVBox](https://github.com/o0HalfLife0o/TVBoxOSC)
-* [mytv-android](https://github.com/yaoxieyoulei/mytv-android)
+* [SimpleTV](https://github.com/Potato-66/SimpleTV)
 * [BBLL](https://github.com/xiaye13579/BBLL) ([Bilibili](https://app.bilibili.com))
 
 <br>
