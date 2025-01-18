@@ -88,6 +88,7 @@
     <br>
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] {**`xcode-select --install`**}
+    * [CotEditor](https://coteditor.com) [App Store] ([Vim](https://www.vim.org))
     <br>
 
     * [oh-my-zsh](https://ohmyz.sh)
@@ -129,11 +130,10 @@
 
     * [**Sublime Text**](https://www.sublimetext.com) [[_Package Control_](https://packagecontrol.io)]
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
+        * ~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app)
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、写写Python罢了，Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [CotEditor](https://coteditor.com) [App Store] ([Vim](https://www.vim.org))
-    * [VS Code](https://code.visualstudio.com) (IDE) (~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com.cn)、[~~Atom~~](https://github.com/atom/atom)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app))
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
     * [PostgreSQL](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[Navicat](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver](https://github.com/dbeaver/dbeaver)、[QGIS](https://www.qgis.org/zh-Hans/site/)、[奥维地图](https://www.ovital.com))
     * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
@@ -177,10 +177,11 @@
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
     * [pap.er](https://paper.photos) (壁纸) [App Store]
     * [Mactracker](https://mactracker.ca) (get info) [App Store]
+    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
     <br>
 
     * [LocalSend](https://localsend.org/zh-CN) (文件分享) [App Store]
-    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
+    * [百度网盘](https://pan.baidu.com) [App Store]
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
