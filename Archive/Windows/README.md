@@ -12,5 +12,5 @@
 <br>
 
 * [QQ](https://im.qq.com) ([_QQ音乐_](https://y.qq.com)、[_Steam_](https://store.steampowered.com)、[_PlayStation®Accessories_](https://play.st/3AC0qb0))
-* [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Monitorian](https://github.com/emoacht/Monitorian)、[LocalSend](https://github.com/localsend/localsend)、[_百度网盘_](https://pan.baidu.com)、[_火绒_](https://www.huorong.cn))
+* [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Monitorian](https://github.com/emoacht/Monitorian)、[_LocalSend_](https://github.com/localsend/localsend)、[_百度网盘_](https://pan.baidu.com)、[_火绒_](https://www.huorong.cn))
 
