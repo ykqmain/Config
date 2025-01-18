@@ -187,6 +187,9 @@
 <br>
 
 ![](https://github.com/ykqmain/Config/blob/master/Pix/macOS.png)
+![](https://github.com/ykqmain/Config/blob/master/Pix/macOS-1.png)
+![](https://github.com/ykqmain/Config/blob/master/Pix/macOS-2.png)
+![](https://github.com/ykqmain/Config/blob/master/Pix/macOS-3.png)
 
 **如无必要，勿增实体。保持愉悦，用就完了。**
 
