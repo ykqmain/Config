@@ -59,7 +59,7 @@
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
     <br>
 
-    * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Chrome_](https://www.google.com/chrome/))
+    * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/)
         * _about:config_
             * `extensions.pocket.enabled`
             * `browser.tabs.closeTabByDblclick`
