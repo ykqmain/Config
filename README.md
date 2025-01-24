@@ -119,7 +119,6 @@
             * jieba
             * wordcloud
             * python-docx
-            * psycopg
             * pygame
     <br>
 
