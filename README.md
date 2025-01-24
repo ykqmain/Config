@@ -107,9 +107,6 @@
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [tldr](https://github.com/tldr-pages/tldr) {`tldr -u`}
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [PostgreSQL](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/)、[奥维地图](https://www.ovital.com))
-        * [httpie](https://httpie.io) ([Paw](https://paw.cloud))
-        * [tcpdump](https://www.tcpdump.org) ([Wireshark](https://www.wireshark.org))
         * [pyenv](https://github.com/pyenv/pyenv) ([pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)) {`pip3 install -r requirements.txt`}
             * you-get
             * httpx
@@ -133,6 +130,7 @@
     <br>
 
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
+    * [PostgreSQL](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/)、[奥维地图](https://www.ovital.com))
 
 <br>
 
