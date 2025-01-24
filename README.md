@@ -104,13 +104,12 @@
 
     * [Homebrew](https://brew.sh) {`/opt/homebrew`}
         * [wget](https://www.gnu.org/software/wget)
-        * [httpie](https://httpie.io)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [tldr](https://github.com/tldr-pages/tldr) {`tldr -u`}
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [openjdk](https://openjdk.org) {`sudo ln -sfn /opt/homebrew/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk`}
-        * [mysql](https://dev.mysql.com/downloads/)
-        * [n](https://github.com/tj/n) {`sudo n lts`}
+        * [PostgreSQL](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/)、[奥维地图](https://www.ovital.com))
+        * [httpie](https://httpie.io) ([Paw](https://paw.cloud))
+        * [tcpdump](https://www.tcpdump.org) ([Wireshark](https://www.wireshark.org))
         * [pyenv](https://github.com/pyenv/pyenv) ([pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)) {`pip3 install -r requirements.txt`}
             * you-get
             * httpx
@@ -123,7 +122,6 @@
             * jieba
             * wordcloud
             * python-docx
-            * mysql-connector-python
             * psycopg
             * pygame
     <br>
@@ -135,8 +133,6 @@
     <br>
 
     * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI)
-    * [PostgreSQL](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/)、[奥维地图](https://www.ovital.com))
-    * [Wireshark](https://www.wireshark.org) (network protocol analyzer)
 
 <br>
 
