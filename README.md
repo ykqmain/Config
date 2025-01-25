@@ -129,7 +129,7 @@
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、写写Python罢了，Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([_PostgreSQL_](https://www.postgresql.org)、[Postgres.app](https://postgresapp.com)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/)、[奥维地图](https://www.ovital.com)、[Paw](https://paw.cloud)、[Wireshark](https://www.wireshark.org))
+    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([_PostgreSQL_](https://www.postgresql.org)、[Postgres.app](https://postgresapp.com)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/)、[奥维互动地图](https://www.ovital.com)、[Paw](https://paw.cloud)、[Wireshark](https://www.wireshark.org))
 
 <br>
 
