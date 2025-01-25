@@ -87,7 +87,7 @@
         * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前我发现的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
     <br>
 
-    * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] {**`xcode-select --install`**}
+    * [Xcode](https://developer.apple.com/cn/xcode/) [App Store] {**`xcode-select --install`**}
     * [CotEditor](https://coteditor.com) [App Store] ([Vim](https://www.vim.org))
     <br>
 
@@ -172,9 +172,9 @@
     * [Mactracker](https://mactracker.ca) (get info) [App Store]
     <br>
 
+    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
     * [LocalSend](https://localsend.org/zh-CN) (文件分享) [App Store]
     * [百度网盘](https://pan.baidu.com) [App Store]
-    * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
