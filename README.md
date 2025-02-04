@@ -55,7 +55,7 @@
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
         * [Tampermonkey](https://tampermonkey.net/) [App Store] [[_Greasy Fork_](https://greasyfork.org/zh-CN)]
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
-            * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
+            * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide) ([_BiliBili 高级倍速功能_](https://greasyfork.org/zh-CN/scripts/479080-bilibili-高级倍速功能))
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
             * [沉浸式翻译](https://immersivetranslate.com)
     <br>
