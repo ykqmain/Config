@@ -161,7 +161,6 @@
 
     * [微信](https://weixin.qq.com) [App Store]
     * [QQ](https://im.qq.com) [App Store]
-    * [微信读书](https://weread.qq.com/) [Web]
     * [QQ音乐](https://y.qq.com) (MAS版本也可以使用媒体键) [App Store]
     * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) (keep-awake) [App Store] ([_Keep Screen On_](https://www.keepscreenon.com))
     <br>
