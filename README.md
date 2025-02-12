@@ -151,7 +151,7 @@
 
     * [Goodnotes](https://www.goodnotes.com) [App Store] ([_Procreate_](https://procreate.com))
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
-    * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[Apple Music](https://www.apple.com.cn/apple-music/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/))
+    * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/))
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (游戏)
 
@@ -161,7 +161,7 @@
 
     * [微信](https://weixin.qq.com) [App Store]
     * [QQ](https://im.qq.com) [App Store]
-    * [汽水音乐](https://www.douyin.com/qishui/) [App Store]
+    * [QQ音乐](https://y.qq.com) [App Store]
     * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) (keep-awake) [App Store] ([_Keep Screen On_](https://www.keepscreenon.com))
     <br>
 
