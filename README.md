@@ -151,7 +151,7 @@
 
     * [Goodnotes](https://www.goodnotes.com) [App Store] ([_Procreate_](https://procreate.com))
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
-    * [iTunes](https://www.apple.com.cn/itunes/) (本地音乐播放器的纪念)
+    * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[Apple Music](https://www.apple.com.cn/apple-music/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/))
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (游戏)
 
