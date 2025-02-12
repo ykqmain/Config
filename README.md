@@ -53,10 +53,11 @@
     * [**Safari**](https://www.apple.com/safari/)
         * [AdBlocker](https://adblockersafari.com) [App Store]
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
+        * [沉浸式翻译](https://immersivetranslate.com) [App Store]
         * [Tampermonkey](https://tampermonkey.net/) [App Store] [[_Greasy Fork_](https://greasyfork.org/zh-CN)]
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
-            * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide) ([_BiliBili 高级倍速功能_](https://greasyfork.org/zh-CN/scripts/479080-bilibili-高级倍速功能))
-            * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制) ([_通用_](https://greasyfork.org/zh-CN/scripts/439557-文本选中复制-通用))
+            * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
+            * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
     <br>
 
     * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/)
@@ -71,8 +72,8 @@
             * [Orbit](https://addons.mozilla.org/zh-CN/firefox/addon/orbit-summarizer/)
             * [uBlock Origin](https://github.com/gorhill/uBlock)
             * [Global Speed](https://github.com/polywock/globalSpeed)
-            * [Tampermonkey](https://tampermonkey.net/)
             * [沉浸式翻译](https://immersivetranslate.com)
+            * [Tampermonkey](https://tampermonkey.net/)
             * [几枝](https://github.com/unicar9/jizhi)
     <br>
 
@@ -129,7 +130,7 @@
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、写写Python罢了，Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([_PostgreSQL_](https://www.postgresql.org)、[Postgres.app](https://postgresapp.com)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/)、[奥维互动地图](https://www.ovital.com)、[Paw](https://paw.cloud)、[Wireshark](https://www.wireshark.org))
+    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([_PostgreSQL_](https://www.postgresql.org)、[Postgres.app](https://postgresapp.com)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/)、[奥维互动地图](https://www.ovital.com)、[Wireshark](https://www.wireshark.org))
 
 <br>
 
