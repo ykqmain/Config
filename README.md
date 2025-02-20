@@ -137,6 +137,9 @@
 3. 效率与娱乐
 
     * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_draw.io_](https://www.drawio.com)、[_Numbr_](https://numbr.dev))
+    <br>
+
+    * [iTunes](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/))
     * [Movist Pro](https://movistprime.com) (player)
     * [VLC](https://www.videolan.org) (player)
     * [OBS](https://obsproject.com) (video recording and live streaming)
@@ -147,12 +150,11 @@
     * [Vectornator](https://www.linearity.io) (designs and animations) [App Store] ([~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/))
     * [Blender](https://www.blender.org) (3D creation suite)
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
-    * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[_必剪_](https://bcut.bilibili.cn)、[HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski)、[_XLD_](https://tmkk.undo.jp/xld/index_e.html))
+    * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[_必剪_](https://bcut.bilibili.cn)、[XLD](https://tmkk.undo.jp/xld/index_e.html)、[HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski))
     <br>
 
     * [Goodnotes](https://www.goodnotes.com) [App Store] ([_Procreate_](https://procreate.com))
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
-    * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/))
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (游戏)
 
