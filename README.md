@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2025-02**</em></mark>
+<mark><em>**Update: 2025-03**</em></mark>
 
 <br>
 
@@ -106,7 +106,6 @@
     * [Homebrew](https://brew.sh) {`/opt/homebrew`}
         * [wget](https://www.gnu.org/software/wget)
         * [tree](http://mama.indstate.edu/users/ice/tree)
-        * [tldr](https://github.com/tldr-pages/tldr) {`tldr -u`}
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
         * [pyenv](https://github.com/pyenv/pyenv) ([pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)) {`pip3 install -r requirements.txt`}
             * you-get
@@ -120,8 +119,8 @@
             * jieba
             * wordcloud
             * python-docx
-            * pygame
             * psycopg
+            * pygame
     <br>
 
     * [**Sublime Text**](https://www.sublimetext.com) [[_Package Control_](https://packagecontrol.io)]
@@ -143,9 +142,9 @@
 
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [Goodnotes](https://www.goodnotes.com) [App Store] ([_Procreate_](https://procreate.com))
+    * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[Apple Music](https://www.apple.com.cn/apple-music/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/))
     <br>
 
-    * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[Apple Music](https://www.apple.com.cn/apple-music/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/))
     * [Movist Pro](https://movistprime.com) (player)
     * [VLC](https://www.videolan.org) (player)
     * [OBS](https://obsproject.com) (video recording and live streaming)
