@@ -109,6 +109,7 @@
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
         * [pyenv](https://github.com/pyenv/pyenv) ([pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)) {`pip3 install -r requirements.txt`}
             * [tldr](https://tldr.sh) {`tldr -u`}
+            * [httpie](https://httpie.io)
             * [you-get](https://you-get.org)
             * [httpx](https://pypi.org/project/httpx/)
             * [requests](https://pypi.org/project/requests/)
