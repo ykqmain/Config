@@ -108,20 +108,20 @@
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
         * [pyenv](https://github.com/pyenv/pyenv) ([pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)) {`pip3 install -r requirements.txt`}
-            * [tldr](https://pypi.org/project/tldr/) {`tldr -u`}
-            * [you-get](https://pypi.org/project/you-get/)
+            * [tldr](https://tldr.sh) {`tldr -u`}
+            * [you-get](https://you-get.org)
             * [httpx](https://pypi.org/project/httpx/)
             * [requests](https://pypi.org/project/requests/)
             * [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
             * [openpyxl](https://pypi.org/project/openpyxl/)
-            * [pandas](https://pypi.org/project/pandas/)
-            * [pillow](https://pypi.org/project/pillow/)
-            * [matplotlib](https://pypi.org/project/matplotlib/)
-            * [jieba3](https://pypi.org/project/jieba3/)
-            * [wordcloud](https://pypi.org/project/wordcloud/)
-            * [python-docx](https://pypi.org/project/python-docx/)
-            * [psycopg](https://pypi.org/project/psycopg/)
-            * [pygame](https://pypi.org/project/pygame/)
+            * [pandas](https://pandas.pydata.org)
+            * [matplotlib](https://matplotlib.org)
+            * [pillow](https://github.com/python-pillow/Pillow)
+            * [jieba3](https://github.com/yansh97/jieba3)
+            * [wordcloud](https://github.com/amueller/word_cloud)
+            * [python-docx](https://github.com/python-openxml/python-docx)
+            * [psycopg](https://www.psycopg.org)
+            * [pygame](https://www.pygame.org)
     <br>
 
     * [**Sublime Text**](https://www.sublimetext.com) [[_Package Control_](https://packagecontrol.io)]
