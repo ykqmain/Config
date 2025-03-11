@@ -118,7 +118,7 @@
             * [pandas](https://pandas.pydata.org)
             * [matplotlib](https://matplotlib.org)
             * [pillow](https://github.com/python-pillow/Pillow)
-            * [jieba3](https://github.com/yansh97/jieba3)
+            * [jieba](https://github.com/fxsjy/jieba)
             * [wordcloud](https://github.com/amueller/word_cloud)
             * [python-docx](https://github.com/python-openxml/python-docx)
             * [psycopg](https://www.psycopg.org)
