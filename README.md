@@ -108,19 +108,20 @@
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
         * [pyenv](https://github.com/pyenv/pyenv) ([pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)) {`pip3 install -r requirements.txt`}
-            * you-get
-            * httpx
-            * requests
-            * beautifulsoup4
-            * openpyxl
-            * pandas
-            * pillow
-            * matplotlib
-            * jieba
-            * wordcloud
-            * python-docx
-            * psycopg
-            * pygame
+            * [tldr](https://pypi.org/project/tldr/) {`tldr -u`}
+            * [you-get](https://pypi.org/project/you-get/)
+            * [httpx](https://pypi.org/project/httpx/)
+            * [requests](https://pypi.org/project/requests/)
+            * [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
+            * [openpyxl](https://pypi.org/project/openpyxl/)
+            * [pandas](https://pypi.org/project/pandas/)
+            * [pillow](https://pypi.org/project/pillow/)
+            * [matplotlib](https://pypi.org/project/matplotlib/)
+            * [jieba3](https://pypi.org/project/jieba3/)
+            * [wordcloud](https://pypi.org/project/wordcloud/)
+            * [python-docx](https://pypi.org/project/python-docx/)
+            * [psycopg](https://pypi.org/project/psycopg/)
+            * [pygame](https://pypi.org/project/pygame/)
     <br>
 
     * [**Sublime Text**](https://www.sublimetext.com) [[_Package Control_](https://packagecontrol.io)]
