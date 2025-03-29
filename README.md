@@ -114,6 +114,8 @@
             * [httpx](https://pypi.org/project/httpx/)
             * [requests](https://pypi.org/project/requests/)
             * [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
+            * [django](https://www.djangoproject.com)
+            * [psycopg](https://www.psycopg.org)
             * [openpyxl](https://pypi.org/project/openpyxl/)
             * [pandas](https://pandas.pydata.org)
             * [matplotlib](https://matplotlib.org)
@@ -121,7 +123,6 @@
             * [jieba](https://github.com/fxsjy/jieba)
             * [wordcloud](https://github.com/amueller/word_cloud)
             * [python-docx](https://github.com/python-openxml/python-docx)
-            * [psycopg](https://www.psycopg.org)
             * [pygame](https://www.pygame.org)
     <br>
 
