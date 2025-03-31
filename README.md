@@ -156,7 +156,7 @@
 
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~MuseScore~~](https://github.com/musescore/MuseScore))
     * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[必剪](https://bcut.bilibili.cn)、[XLD](https://tmkk.undo.jp/xld/index_e.html)、[HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski))
-    * [LocalSend](https://localsend.org/zh-CN) (文件分享) [App Store]
+    * [LocalSend](https://localsend.org/zh-CN) (share files) [App Store]
     * [Mactracker](https://mactracker.ca) (get info) [App Store]
 
 <br>
