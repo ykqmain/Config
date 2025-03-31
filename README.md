@@ -158,10 +158,6 @@
     * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[必剪](https://bcut.bilibili.cn)、[XLD](https://tmkk.undo.jp/xld/index_e.html)、[HandBrake](https://handbrake.fr)、[_Gifski_](https://gif.ski))
     * [LocalSend](https://localsend.org/zh-CN) (文件分享) [App Store]
     * [Mactracker](https://mactracker.ca) (get info) [App Store]
-    <br>
-
-    * [OpenEmu](https://openemu.org) (video game emulation)
-    * [Steam](https://store.steampowered.com) (游戏)
 
 <br>
 
@@ -178,6 +174,8 @@
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
     <br>
 
+    * [OpenEmu](https://openemu.org) (video game emulation)
+    * [Steam](https://store.steampowered.com) (游戏)
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
