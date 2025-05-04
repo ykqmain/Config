@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2025-04**</em></mark>
+<mark><em>**Update: 2025-05**</em></mark>
 
 <br>
 
@@ -60,7 +60,7 @@
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
     <br>
 
-    * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/)
+    * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net))
         * _about:config_
             * `extensions.pocket.enabled`
             * `browser.tabs.closeTabByDblclick`
@@ -132,7 +132,7 @@
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、写写Python罢了，Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([_PostgreSQL_](https://www.postgresql.org)、[Postgres.app](https://postgresapp.com)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/)、[奥维互动地图](https://www.ovital.com)、[Wireshark](https://www.wireshark.org))
+    * [**Sourcetree**](https://sourcetreeapp.com) ([_Git_](https://git-scm.com) GUI) ([_PostgreSQL_](https://www.postgresql.org)、[Postgres.app](https://postgresapp.com)、[DBeaver](https://dbeaver.io)、[QGIS](https://www.qgis.org/zh-Hans/site/)、[奥维互动地图](https://www.ovital.com)、[Wireshark](https://www.wireshark.org))
 
 <br>
 
