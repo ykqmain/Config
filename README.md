@@ -155,7 +155,7 @@
     <br>
 
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~Audacity~~](https://www.audacityteam.org)、[~~MuseScore~~](https://musescore.org))
-    * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[Gifski](https://gif.ski)、[XLD](https://tmkk.undo.jp/xld/index_e.html)、[HandBrake](https://handbrake.fr))
+    * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[必剪](https://bcut.bilibili.cn)、[XLD](https://tmkk.undo.jp/xld/index_e.html)、[HandBrake](https://handbrake.fr))
     * [LocalSend](https://localsend.org/zh-CN) (share files) [App Store]
     * [Mactracker](https://mactracker.ca) (get info) [App Store]
 
