@@ -169,7 +169,7 @@
 
     * [Keka](https://www.keka.io/zh-cn) (压缩软件) (MAS版本支持一下) [App Store]
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
-    * [Unsplash Wallpapers](https://unsplash.com/apps) (desktop wallpaper) [App Store]
+    * [Unsplash Wallpapers](https://unsplash.com/apps) (desktop wallpaper, every day) [App Store]
     * [AppCleaner](https://freemacsoft.net/appcleaner) (卸载工具) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
     <br>
 
