@@ -20,6 +20,8 @@
     "font_face": "Source Code Pro",
     // "font_face": "思源等宽",
     "font_size": 14,
+    // The font size set when using "Reset Size"
+    "default_font_size": 10,
 
     // Valid options on all platforms are:
     //  - "no_bold": Disables bold text
@@ -408,8 +410,8 @@
     // Additional situations to trigger auto complete
     "auto_complete_triggers":
     [
-        {"selector": "text.html, text.xml", "characters": "<"},
-        {"selector": "punctuation.accessor", "rhs_empty": true},
+        {"selector": "text.html, text.xml", "characters": "<",},
+        {"selector": "punctuation.accessor", "rhs_empty": true,},
     ],
 
     // By default, auto complete will commit the current completion on enter.
@@ -656,6 +658,9 @@
     // Display the toggle sidebar button in the status bar
     "show_sidebar_button": true,
 
+    // Move the sidebar on the right side
+    "sidebar_on_right": false,
+
     // Display the git status in the status bar, requires the show_git_status
     // setting to be enabled
     "show_git_status_in_status_bar": true,
@@ -748,6 +753,9 @@
     // modified. If a file has unsaved changes, a prompt will always be shown.
     // Will only show if "reload_file_on_change" is true.
     "always_prompt_for_file_reload": false,
+
+    // Whether to reload files when Sublime Text is not in focus.
+    "reload_file_in_background": false,
 
     // When reopening Sublime Text close saved files that have been deleted from
     // the filesystem (Unsaved files will not be closed). If this setting is
@@ -852,6 +860,10 @@
     // Goto Anything or Find in Files
     "binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip"],
 
+    // Files that will be opened as an image rather than a text file. Files can
+    // still be opened as either text or an image vie the File menu
+    "image_file_patterns": ["*.jpeg", "*.jpg", "*.gif", "*.png", "*.ico", "*.bmp", "*.tga", "*.psd", "*.ppm", "*.pgm", "*.webp", "*.hdr"],
+
     // File indexing parses all files in the sidebar, and builds an index of
     // their symbols. This is required for Goto Definition to work.
     "index_files": true,
@@ -875,6 +887,9 @@
 
     // Determines whether Goto Anything should exclude files ignored by git.
     "goto_anything_exclude_gitignore": false,
+
+    // Preview file contents in Goto Anything
+    "goto_anything_file_preview": true,
 
     // When Vintage, the vi emulation package, is enabled
     // (see ignored_packages, below), this setting controls if files are opened
@@ -902,4 +917,5 @@
     ],
 
     "update_check": false,
+    "disable_plugin_host_3.3": true,
 }
