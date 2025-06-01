@@ -457,4 +457,3 @@ LNMP代表的就是`Linux+Nginx+MySQL/MariaDB+PHP/Python/Perl`。
 
 
 > 生命在于折腾，折腾趁年轻。
-
