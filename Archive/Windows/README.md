@@ -5,10 +5,9 @@
 
 <br>
 
-* [WPS Office](https://www.wps.cn) ([7-Zip](https://www.7-zip.org)、[Everything](https://www.voidtools.com/zh-cn/)、[QQ](https://im.qq.com))
-* [Honeyview](https://www.bandisoft.com/honeyview/)
-* [VLC](https://www.videolan.org)
-* [LocalSend](https://github.com/localsend/localsend)
+* [WPS Office](https://www.wps.cn) ([7-Zip](https://www.7-zip.org)、[Everything](https://www.voidtools.com/zh-cn/))
+* [Honeyview](https://www.bandisoft.com/honeyview/) ([VLC](https://www.videolan.org)、[LocalSend](https://github.com/localsend/localsend))
+* [QQ](https://im.qq.com)
 
 <br>
 
