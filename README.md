@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2025-05**</em></mark>
+<mark><em>**Update: 2025-06**</em></mark>
 
 <br>
 
@@ -62,7 +62,6 @@
 
     * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net))
         * _about:config_
-            * `extensions.pocket.enabled`
             * `browser.tabs.closeTabByDblclick`
             * `browser.compactmode.show`
         * _情怀主题_
