@@ -34,6 +34,9 @@
     *  Magic Trackpad
     * DualSense™ Wireless Controller
 
+* ** iPad Pro (M4) [Pena]**
+    *  Pencil Pro
+
 * ** iPhone 15 Pro [Nana]**
     *  AirPods 2
 
