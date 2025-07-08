@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2025-06**</em></mark>
+<mark><em>**Update: 2025-07**</em></mark>
 
 <br>
 
@@ -176,6 +176,7 @@
 
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (游戏)
+    * [Epic](https://store.epicgames.com) (游戏)
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
