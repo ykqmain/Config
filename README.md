@@ -157,7 +157,6 @@
     * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve))
     * [calibre](https://calibre-ebook.com/zh_CN) (e-book manager) ([XLD](https://tmkk.undo.jp/xld/index_e.html)、[HandBrake](https://handbrake.fr))
     * [LocalSend](https://localsend.org/zh-CN) (share files) [App Store]
-    * [Mactracker](https://mactracker.ca) (get info) [App Store]
 
 <br>
 
@@ -171,6 +170,7 @@
     * [Keka](https://www.keka.io/zh-cn) (file archiver) (MAS购买支持) [App Store]
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
     * [Unsplash Wallpapers](https://unsplash.com/apps) (desktop wallpaper, every day) [App Store]
+    * [Mactracker](https://mactracker.ca) (get info) [App Store]
     * [AppCleaner](https://freemacsoft.net/appcleaner) (thoroughly uninstall unwanted apps) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
     <br>
 
