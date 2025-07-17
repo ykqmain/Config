@@ -154,7 +154,6 @@ function hcd(){
     hexo g -d
 }
 
-
 e(){
     g=""
     line=$(ls -l $1 | grep -v "com.apple" | wc -l)
@@ -164,7 +163,6 @@ e(){
     echo ''
 }
 launch(){
-
     p1="/Users/yang/Library/LaunchAgents"
     echo -e "${LV}${p1}：用户自定义的启动项${RES}"
     e $p1
