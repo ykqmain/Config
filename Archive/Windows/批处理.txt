@@ -1,6 +1,0 @@
-# CMD
-del /s /q /f *.DS_Store
-
-
-# PowerShell
-Get-ChildItem -Path . -Recurse -Filter ".DS_Store" | Remove-Item -Force
