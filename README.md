@@ -63,7 +63,7 @@
             * [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-文本选中复制)
     <br>
 
-    * [**Firefox**](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net))
+    * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net)、[_Chrome_](https://www.google.com/chrome/))
         * _about:config_
             * `browser.tabs.closeTabByDblclick`
             * `browser.compactmode.show`
@@ -162,11 +162,7 @@
 
 4. 工具
 
-    * [微信](https://weixin.qq.com) [App Store]
-    * [QQ](https://im.qq.com) [App Store]
     * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) (keep-awake) [App Store] ([_Keep Screen On_](https://www.keepscreenon.com))
-    <br>
-
     * [Keka](https://www.keka.io/zh-cn) (file archiver) (MAS购买支持) [App Store]
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
     * [Unsplash Wallpapers](https://unsplash.com/apps) (desktop wallpaper, every day) [App Store]
@@ -174,6 +170,8 @@
     * [AppCleaner](https://freemacsoft.net/appcleaner) (thoroughly uninstall unwanted apps) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
     <br>
 
+    * [微信](https://weixin.qq.com) [App Store]
+    * [QQ](https://im.qq.com) [App Store]
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (游戏)
     * [Epic](https://store.epicgames.com) (游戏)

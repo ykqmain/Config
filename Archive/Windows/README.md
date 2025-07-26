@@ -1,6 +1,6 @@
 ## Windows
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net/zh-CN/))
+* [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net)、[_Chrome_](https://www.google.com/chrome/))
 * [Sublime Text](https://www.sublimetext.com) ([pymanager](https://github.com/python/pymanager)、[_llvm-mingw_](https://github.com/mstorsjo/llvm-mingw))
 * [Windows Terminal](https://github.com/microsoft/terminal) ([Git](https://git-scm.com)、[_TortoiseGit_](https://tortoisegit.org)、[_WinMerge_](https://winmerge.org))
 
