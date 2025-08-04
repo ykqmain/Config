@@ -1,0 +1,16 @@
+tldr
+you-get
+httpie
+httpx
+requests
+beautifulsoup4
+django
+psycopg
+openpyxl
+pandas
+matplotlib
+pillow
+jieba
+wordcloud
+python-docx
+pygame
