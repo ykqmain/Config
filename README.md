@@ -62,7 +62,7 @@
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
     <br>
 
-    * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net)、[_Chrome_](https://www.google.com/chrome/))
+    * [Firefox](https://www.firefox.com/en-US/download/all/) ([_Thunderbird_](https://www.thunderbird.net)、[_Chrome_](https://www.google.com/chrome/))
         * _about:config_
             * `browser.tabs.closeTabByDblclick`
             * `browser.compactmode.show`
