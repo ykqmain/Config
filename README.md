@@ -63,7 +63,7 @@
         * [_Web Inspector_](https://andadinosaur.com/launch-web-inspector-for-ios) [App Store]
     <br>
 
-    * [Firefox](https://www.firefox.com/en-US/download/all/) ([_Thunderbird_](https://www.thunderbird.net)、[_Chrome_](https://www.google.com/chrome/))
+    * [Firefox](https://www.firefox.com/en-US/download/all/) ([_Thunderbird_](https://www.thunderbird.net))
         * _about:config_
             * `browser.tabs.closeTabByDblclick`
             * `browser.compactmode.show`
