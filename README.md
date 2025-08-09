@@ -60,6 +60,7 @@
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
             * [沉浸式翻译](https://immersivetranslate.com)
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
+        * [_Web Inspector_](https://andadinosaur.com/launch-web-inspector-for-ios) [App Store]
     <br>
 
     * [Firefox](https://www.firefox.com/en-US/download/all/) ([_Thunderbird_](https://www.thunderbird.net)、[_Chrome_](https://www.google.com/chrome/))
