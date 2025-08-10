@@ -58,11 +58,12 @@
         * [Tampermonkey](https://tampermonkey.net/) [App Store] [[_Greasy Fork_](https://greasyfork.org/zh-CN)]
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
-        * [沉浸式翻译](https://immersivetranslate.com) [App Store]
+            * [沉浸式翻译](https://immersivetranslate.com)
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
+        * [_Web Inspector_](https://andadinosaur.com/launch-web-inspector-for-ios) [App Store]
     <br>
 
-    * [Firefox](https://www.mozilla.org/en-US/firefox/all/) ([_Thunderbird_](https://www.thunderbird.net)、[_Chrome_](https://www.google.com/chrome/))
+    * [Firefox](https://www.firefox.com/en-US/download/all/) ([_Thunderbird_](https://www.thunderbird.net))
         * _about:config_
             * `browser.tabs.closeTabByDblclick`
             * `browser.compactmode.show`
@@ -72,7 +73,6 @@
             * [Firefox Multi-Account Containers](https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/)
             * [uBlock Origin](https://github.com/gorhill/uBlock)
             * [Tampermonkey](https://tampermonkey.net/)
-            * [沉浸式翻译](https://immersivetranslate.com)
             * [Global Speed](https://github.com/polywock/globalSpeed)
             * [几枝](https://github.com/unicar9/jizhi)
     <br>
