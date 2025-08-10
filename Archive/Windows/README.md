@@ -8,7 +8,7 @@
 
 * [WPS Office](https://www.wps.cn) ([7-Zip](https://www.7-zip.org)、[Everything](https://www.voidtools.com/zh-cn/)、[QuickLook](https://github.com/QL-Win/QuickLook))
 * [Honeyview](https://www.bandisoft.com/honeyview/) ([_Paint.NET_](https://www.getpaint.net))
-* [VLC](https://www.videolan.org) ([_DaVinci Resolve_](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[_LocalSend_](https://github.com/localsend/localsend))
+* [VLC](https://www.videolan.org) ([_必剪_](https://bcut.bilibili.cn)、[_LocalSend_](https://github.com/localsend/localsend))
 * [QQ](https://im.qq.com)
 
 <br>
