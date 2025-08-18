@@ -57,6 +57,7 @@
         * [uBlock Origin Lite](https://github.com/uBlockOrigin/uBOL-home) [App Store]
         * [Tampermonkey](https://tampermonkey.net/) [App Store] [[_Greasy Fork_](https://greasyfork.org/zh-CN)]
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
+            * [Youtube HD Premium](https://greasyfork.org/zh-CN/scripts/498145-youtube-hd-premium)
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
             * [沉浸式翻译](https://immersivetranslate.com)
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
