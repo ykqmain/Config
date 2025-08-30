@@ -14,4 +14,4 @@
 <br>
 
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys) ([Monitorian](https://github.com/emoacht/Monitorian)、[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)、[火绒](https://www.huorong.cn))
-* [_Steam_](https://store.steampowered.com) ([_Epic_](https://store.epicgames.com)、[_PlayStation®Accessories_](https://controller.dl.playstation.net/controller/lang/cs/2100004.html))
+* [_Steam_](https://store.steampowered.com) ([_PlayStation®Accessories_](https://controller.dl.playstation.net/controller/lang/cs/2100004.html))

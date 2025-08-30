@@ -54,17 +54,16 @@
 1. 浏览器
 
     * [**Safari**](https://www.apple.com/safari/)
-        * [uBlock Origin Lite](https://github.com/uBlockOrigin/uBOL-home) [App Store]
+        * [AdBlock Pro](https://adblockpro.com) [App Store]
+        * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
         * [Tampermonkey](https://tampermonkey.net/) [App Store] [[_Greasy Fork_](https://greasyfork.org/zh-CN)]
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
             * [Youtube HD Premium](https://greasyfork.org/zh-CN/scripts/498145-youtube-hd-premium)
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
             * [沉浸式翻译](https://immersivetranslate.com)
-        * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
-        * [_Web Inspector_](https://andadinosaur.com/launch-web-inspector-for-ios) [App Store]
     <br>
 
-    * [Firefox](https://www.firefox.com/en-US/download/all/) ([_Thunderbird_](https://www.thunderbird.net))
+    * [Firefox](https://www.firefox.com/en-US/download/all/) ([_Thunderbird_](https://www.thunderbird.net)、[_Chrome_](https://www.google.com/chrome/))
         * _about:config_
             * `browser.tabs.closeTabByDblclick`
             * `browser.compactmode.show`
@@ -72,9 +71,9 @@
             * [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
         * _Extensions_
             * [Firefox Multi-Account Containers](https://addons.mozilla.org/zh-CN/firefox/addon/multi-account-containers/)
-            * [uBlock Origin](https://github.com/gorhill/uBlock)
-            * [Tampermonkey](https://tampermonkey.net/)
+            * [uBlock Origin](https://github.com/gorhill/uBlock) ([uBlock Origin Lite](https://github.com/uBlockOrigin/uBOL-home))
             * [Global Speed](https://github.com/polywock/globalSpeed)
+            * [Tampermonkey](https://tampermonkey.net/)
             * [几枝](https://github.com/unicar9/jizhi)
     <br>
 
@@ -173,7 +172,6 @@
     * [QQ](https://im.qq.com) [App Store]
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (游戏)
-    * [Epic](https://store.epicgames.com) (游戏)
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
