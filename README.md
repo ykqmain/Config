@@ -104,8 +104,7 @@
         * [wget](https://www.gnu.org/software/wget)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [pyenv](https://github.com/pyenv/pyenv) ([pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)) {`pyenv install 3.14` `pyenv global 3.14`}
-            * `pip3 install -r requirements.txt`
+        * [python](https://www.python.org) ([_pyenv_](https://github.com/pyenv/pyenv)) {`pip3 install -r requirements.txt`}
             * [tldr](https://tldr.sh) {`tldr -u`}
             * [you-get](https://you-get.org)
             * [httpie](https://httpie.io)
