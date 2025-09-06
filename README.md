@@ -172,6 +172,7 @@
     * [QQ](https://im.qq.com) [App Store]
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (游戏)
+    * [Epic](https://store.epicgames.com) (游戏)
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
