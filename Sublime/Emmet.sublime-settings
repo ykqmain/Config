@@ -1,0 +1,23 @@
+{
+    "syntax_scopes": {
+        "markdown": "text.html.markdown",
+
+        "html": "text.html - text.html source - meta.attribute-with-value.style",
+        "xml": "text.xml - text.xml.xsl",
+        "xsl": "text.xml.xsl",
+        "jsx": "source.js.jsx | source.tsx | source.js | source.jsx",
+        "haml": "source.haml",
+        "jade": "text.jade | source.pyjade",
+        "pug": "text.pug | source.pypug",
+        "slim": "text.slim",
+
+        "css": "source.css | source.postcss | meta.attribute-with-value.style.html string.quoted",
+        "sass": "source.sass",
+        "scss": "source.scss",
+        "less": "source.less",
+        "stylus": "source.stylus",
+        "sss": "source.sss",
+    },
+
+	"telemetry": false,
+}

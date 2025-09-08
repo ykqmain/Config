@@ -1,0 +1,24 @@
+{
+    "terminals": [
+        {
+            "name": "Terminal",
+            "cmd": ["open", "-a", "Terminal", "$cwd"],
+            "platform": "osx"
+        },
+        {
+            "name": "Windows Terminal",
+            "cmd": ["wt", "-d", "."],
+            "platform": "windows"
+        },
+        // {
+        //     "name": "iTerm",
+        //     "cmd": ["open", "-a", "iTerm", "$cwd"],
+        //     "platform": "osx"
+        // },
+        // {
+        //     "name": "GNOME Terminal",
+        //     "cmd": ["gnome-terminal"],
+        //     "platform": "linux"
+        // },
+    ]
+}
