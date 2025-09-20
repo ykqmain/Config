@@ -1,0 +1,39 @@
+{
+    "auto_upgrade": true,
+    "auto_upgrade_frequency": 168,
+
+    // "http_proxy": "127.0.0.1:1087",
+    // "https_proxy": "127.0.0.1:1087",
+
+    "bootstrapped": true,
+
+    "installed_packages":
+    [
+        "AlignTab",
+        "AutoDocstring",
+        "BracketHighlighter",
+        "Chinese Words Cutter",
+        "Color Highlight",
+        "Compare Side-By-Side",
+        "DocBlockr",
+        "Emmet",
+        "FileDiffs",
+        "FileIcons",
+        "FileManager",
+        "Filter Lines",
+        "LSP",
+        "LSP-clangd",
+        "LSP-copilot",
+        "LSP-file-watcher-chokidar",
+        "LSP-json",
+        "LSP-pyright",
+        "LSP-ruff",
+        "Package Control",
+        "Status Bar File Size",
+        "WordHighlight",
+    ],
+
+    "in_process_packages":
+    [
+    ],
+}

@@ -1,0 +1,38 @@
+<snippet>
+    <content><![CDATA[
+# from pathlib import Path
+def getFile(file_path, pattern="*"):
+    """获取指定目录下文件的绝对路径。
+
+    Args:
+        file_path (TYPE): 路径
+        pattern (str, optional): 文件类型（后缀）
+
+    Returns:
+        str: 绝对路径列表
+    """
+    all_file = []
+    files = Path(file_path).rglob(pattern)
+    for file in files:
+        if Path.is_file(file):
+            all_file.append(file)
+    return all_file
+
+
+file_list = getFile(Path.cwd(), '*.txt')
+print(file_list)
+
+for x in file_list:
+    with open(x, 'r') as f:
+        print(f.read())
+
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>getFile</tabTrigger>
+    <!-- Optional: Set a description, eg: List Comprehension -->
+    <description>获取文件路径</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+    <!-- Save as: X.sublime-snippet -->
+</snippet>
