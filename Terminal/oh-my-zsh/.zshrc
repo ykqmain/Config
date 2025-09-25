@@ -70,7 +70,7 @@ ZSH_THEME="cleanly"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search history macos encode64 extract z git brew python pip pyenv sublime web-search)
+plugins=(zsh-syntax-highlighting zsh-autosuggestions zsh-completions history-substring-search history macos encode64 extract z git brew httpie python pip sublime web-search)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -118,7 +118,7 @@ alias py="python3"
 alias clang++="clang++ -std=c++20"
 
 
-function ip(){
+ip(){
     echo -e "${LV}ipip.net${RES}"
     curl myip.ipip.net
 
@@ -126,43 +126,12 @@ function ip(){
     curl cip.cc
 }
 
-function gitPush(){
+gitPush(){
     git add .
     git commit -m "updated: $(date +"%Y-%m-%d %T")"
     git push
 }
 
-function b1(){
-    echo -e "${LV}更新Homebrew：${RES}"
-    brew update
-    echo -e "${HUANG}检查旧包：${RES}"
-    brew outdated
-}
-function b2(){
-    echo -e "${HONG}升级包：${RES}"
-    brew upgrade
-    echo -e "${LAN}清理包：${RES}"
-    brew cleanup
-}
-
-function hcd(){
-    cd /Users/yang/Developer/Blog
-    pwd
-    echo ''
-    hexo clean
-    echo ''
-    hexo g -d
-}
-
-
-e(){
-    g=""
-    line=$(ls -l $1 | grep -v "com.apple" | wc -l)
-    c=$(echo "$line - 1" | bc)
-    echo -e "${FEN}$c${RES} 个自启项"
-    ls $1 | grep -v "com.apple"
-    echo ''
-}
 launch(){
 
     p1="/Users/yang/Library/LaunchAgents"
@@ -195,6 +164,19 @@ launch(){
             open $p1 $p2 $p3 $p4 $p5
             ;;
     esac
+}
+
+b1(){
+    echo -e "${LV}更新Homebrew：${RES}"
+    brew update
+    echo -e "${HUANG}检查旧包：${RES}"
+    brew outdated
+}
+b2(){
+    echo -e "${HONG}升级包：${RES}"
+    brew upgrade
+    echo -e "${LAN}清理包：${RES}"
+    brew cleanup
 }
 
 

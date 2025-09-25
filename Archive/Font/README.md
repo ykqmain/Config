@@ -8,12 +8,13 @@
 * [思源等宽（Source Han Mono）](https://github.com/adobe-fonts/source-han-mono)
 
 
+**2、办公字体**
+
+* [方正小标宋](https://www.foundertype.com/index.php/FontInfo/index/id/164)
+* 仿宋_GB2312
+
+
 **2、艺术字体**
 
 * [汉仪新蒂（Senty）](http://sentyfont.com)
 
-
-**3、其他字体**
-
-* [方正小标宋](https://www.foundertype.com/index.php/FontInfo/index/id/164)
-* 仿宋_GB2312

@@ -16,7 +16,7 @@
         "scss": "source.scss",
         "less": "source.less",
         "stylus": "source.stylus",
-        "sss": "source.sss"
+        "sss": "source.sss",
     },
 
 	"telemetry": false,
