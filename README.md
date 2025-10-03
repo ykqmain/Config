@@ -121,7 +121,8 @@
         * 主题：Adaptive/Mariana
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、用用Python，应该不再需要集成开发环境（Integrated Development Environment）。Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
 
-    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([_PostgreSQL_](https://www.postgresql.org)、[Postgres.app](https://postgresapp.com)、[DataGrip](https://www.jetbrains.com.cn/datagrip/)、[Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver Community](https://dbeaver.io)、[QGIS](https://www.qgis.org)、[奥维互动地图](https://www.ovital.com)、[Wireshark](https://www.wireshark.org))
+    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Wireshark](https://www.wireshark.org))
+    * [_PostgreSQL_](https://www.postgresql.org) (Database) ([Postgres.app](https://postgresapp.com)、[DataGrip](https://www.jetbrains.com.cn/datagrip/)、[Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver Community](https://dbeaver.io)、[QGIS](https://www.qgis.org)、[奥维互动地图](https://www.ovital.com))
 
 <br>
 
