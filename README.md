@@ -152,6 +152,7 @@
 
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (games)
+    * [Epic](https://store.epicgames.com) (games)
 
 <br>
 
