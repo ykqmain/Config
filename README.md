@@ -127,7 +127,7 @@
 
 3. 效率与娱乐
 
-    * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_PDFgear_](https://www.pdfgear.com/zh/)、[_draw.io_](https://www.drawio.com)、[_Numbr_](https://numbr.dev))
+    * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_PDFgear_](https://www.pdfgear.com/zh/)、[_draw.io_](https://www.drawio.com)、[_Numbr_](https://numbr.dev)、[_LocalSend_](https://web.localsend.org))
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [Pixelmator Pro](https://www.pixelmator.com/pro/) (image editor) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~darktable~~](https://www.darktable.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/))
     * [Photomator](https://www.pixelmator.com/photomator/) (photo editor) [App Store] (换掉[~~Photoshop & Lightroom~~](https://www.adobe.com/creativecloud/photography.html)后达成「软件全部正版化」成就😌)
@@ -166,7 +166,7 @@
 
     * [AppCleaner](https://freemacsoft.net/appcleaner) (uninstall unwanted apps) ([_Amphetamine_](https://apps.apple.com/us/app/amphetamine/id937984704)、[_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
     * [ChatGPT](https://chatgpt.com/zh-Hans-CN/features/desktop/) (Large Language Model) ([_文心一言_](https://yiyan.baidu.com/)、[_豆包_](https://www.doubao.com))
-    * [_HTTPie_](https://httpie.io/app) (making APIs simple and intuitive) [Web] ([_测速_](https://test.ustc.edu.cn)、[_Keep Screen On_](https://www.keepscreenon.com)、[_LocalSend_](https://web.localsend.org))
+    * [_HTTPie_](https://httpie.io/app) (making APIs simple and intuitive) [Web] ([_测速_](https://test.ustc.edu.cn)、[_Keep Screen On_](https://www.keepscreenon.com))
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
