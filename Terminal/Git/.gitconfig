@@ -1,6 +1,6 @@
 [user]
 	name = Yang
-	email = i@ykqmain.net
+	email = ykqmain@126.com
 [core]
 	autocrlf = input
 	excludesfile = /Users/yang/.gitignore_global
