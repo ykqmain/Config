@@ -152,6 +152,7 @@
     * [HandBrake](https://handbrake.fr) (converting video)
     <br>
 
+    * [Apple Games](https://games.apple.com) ([_Apple Arcade_](https://www.apple.com/apple-arcade/)) [App Store]
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (games)
 
