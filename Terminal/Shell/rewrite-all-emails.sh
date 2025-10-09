@@ -14,28 +14,44 @@ fi
 echo "🔄 正在拉取远程分支和标签..."
 git fetch --all --tags
 
-echo "🔍 收集所有历史邮箱..."
+# 记录当前分支
+CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+
+# 生成临时分支列表
+echo "🔍 收集远程分支..."
+REMOTE_BRANCHES=$(git branch -r | grep -v 'HEAD' | sed 's/origin\///')
+
+TEMP_BRANCHES=()
+
+for branch in $REMOTE_BRANCHES; do
+  if ! git show-ref --verify --quiet refs/heads/$branch; then
+    git branch $branch origin/$branch
+    TEMP_BRANCHES+=("$branch")
+    echo "👉 临时创建本地分支: $branch"
+  fi
+done
+
+echo "📬 收集所有历史邮箱..."
 ALL_EMAILS=$(git log --all --format='%ae%n%ce' | sort -u)
 
 echo "发现以下邮箱:"
 echo "$ALL_EMAILS"
 echo "--------------------------------------"
-echo "它们将被替换为: $CORRECT_NAME <$CORRECT_EMAIL>"
-echo "(跳过 *@github.com 邮箱)"
+echo "它们将会被替换为: $CORRECT_NAME <$CORRECT_EMAIL>"
+echo "（跳过 *@github.com 与 *@users.noreply.github.com）"
 echo "--------------------------------------"
 
-# 检查 refs/original 是否存在
+# 清理旧备份
 if [ -d ".git/refs/original" ]; then
-  echo "⚠️ 检测到已有旧的 filter-branch 备份: .git/refs/original/"
-  echo "👉 正在清理旧备份..."
-  rm -rf .git/refs/original/
-  rm -rf .git/logs/
-  git gc --prune=now
+  echo "⚠️ 检测到旧的 filter-branch 备份，正在清理..."
+  rm -rf .git/refs/original/ .git/logs/
   git reflog expire --expire=now --all
+  git gc --prune=now
   echo "✅ 旧备份已清理完毕"
 fi
 
-# 改写所有引用（分支、远程分支、标签）
+# 改写历史
+echo "🧩 正在改写所有分支历史..."
 git filter-branch -f --env-filter "
 CORRECT_NAME=\"$CORRECT_NAME\"
 CORRECT_EMAIL=\"$CORRECT_EMAIL\"
@@ -64,5 +80,20 @@ fi
 " --tag-name-filter cat -- --all
 
 echo "✅ 历史邮箱替换完成！"
-echo "⚠️ 下一步你需要强制推送覆盖远程："
-echo "   git push --force --tags origin 'refs/heads/*'"
+echo "🚀 正在强制推送所有分支和标签到远程..."
+git push --force --tags origin 'refs/heads/*'
+
+# 清理临时分支
+echo "🧹 清理临时本地分支..."
+for b in "${TEMP_BRANCHES[@]}"; do
+  if [ "$b" != "$CURRENT_BRANCH" ]; then
+    git branch -D "$b" >/dev/null 2>&1
+    echo "🗑️ 删除本地分支: $b"
+  fi
+done
+
+echo "--------------------------------------"
+echo "🎉 所有操作完成！"
+echo "✔️ 历史邮箱已全部替换并推送"
+echo "✔️ 临时分支已清理，本地仓库已恢复"
+echo "--------------------------------------"
