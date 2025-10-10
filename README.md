@@ -136,7 +136,7 @@
     <br>
 
     * [Goodnotes](https://www.goodnotes.com) [App Store] ([_Procreate_](https://procreate.com))
-    * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[Apple Music](https://www.apple.com.cn/apple-music/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/))
+    * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[Apple Music](https://www.apple.com.cn/apple-music/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/)、[Apple Games](https://games.apple.com))
     <br>
 
     * [Movist Pro](https://movistprime.com) (player)
@@ -152,9 +152,8 @@
     * [HandBrake](https://handbrake.fr) (converting video)
     <br>
 
-    * [Apple Games](https://games.apple.com) ([_Apple Arcade_](https://www.apple.com/apple-arcade/)) [App Store]
-    * [Steam](https://store.steampowered.com) (games)
     * [OpenEmu](https://openemu.org) (video game emulation)
+    * [Steam](https://store.steampowered.com) (games)
 
 <br>
 
