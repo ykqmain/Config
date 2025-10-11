@@ -166,7 +166,7 @@
     <br>
 
     * [AppCleaner](https://freemacsoft.net/appcleaner) (uninstall unwanted apps) ([_Amphetamine_](https://apps.apple.com/us/app/amphetamine/id937984704)、[_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
-    * [ChatGPT](https://chatgpt.com/zh-Hans-CN/features/desktop/) (Large Language Model) ([_文心一言_](https://yiyan.baidu.com/)、[_豆包_](https://www.doubao.com))
+    * [ChatGPT](https://chatgpt.com/zh-Hans-CN/features/desktop/) (Large Language Model) ([_文心一言_](https://yiyan.baidu.com/))
     * [_HTTPie_](https://httpie.io/app) (making APIs simple and intuitive) [Web] ([_测速_](https://test.ustc.edu.cn)、[_Keep Screen On_](https://www.keepscreenon.com))
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
