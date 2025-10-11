@@ -1,6 +1,6 @@
 #!/bin/bash
 # 用法: ./rewrite-all-emails.sh "新名字" new@example.com
-# 示例: ./rewrite-all-emails.sh "Yang" yang@example.com
+# 示例: /Users/yang/Desktop/rewrite-all-emails.sh "Yang" yang@example.com
 
 CORRECT_NAME=$1
 CORRECT_EMAIL=$2
