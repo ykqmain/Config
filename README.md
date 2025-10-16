@@ -93,10 +93,12 @@
             * `git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:=~/.oh-my-zsh/custom}/plugins/zsh-completions`
 
     * [Homebrew](https://brew.sh) {`/opt/homebrew`}
-        * [wget](https://www.gnu.org/software/wget) ([httpie](https://httpie.io))
+        * [wget](https://www.gnu.org/software/wget)
+        * [httpie](https://httpie.io)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [Python](https://www.python.org) ([_pyenv_](https://github.com/pyenv/pyenv)) {`pip3 install -r requirements.txt`}
+        * [pyenv](https://github.com/pyenv/pyenv) {`pyenv install 3.14` `pyenv global 3.14`}
+            * `pip3 install -r requirements.txt`
             * [tldr](https://tldr.sh) {`tldr -u`}
             * [you-get](https://you-get.org)
             * [httpx](https://pypi.org/project/httpx/)
