@@ -31,7 +31,7 @@
 * ** iPad Pro (M4) [Pena]**
     *  Pencil Pro
 
-* ** iPhone 17 [Nana]**
+* ** iPhone 17 Pro [Nana]**
     *  AirPods 2
 
 <br>
@@ -117,15 +117,15 @@
 
     * [**Sublime Text**](https://www.sublimetext.com) \[[_Package Control_](https://packagecontrol.io)\]
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
-        * ~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~TextMate~~](https://github.com/textmate/textmate)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CotEditor~~](https://coteditor.com)、[~~CodeEdit~~](https://www.codeedit.app)
+        * ~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~TextMate~~](https://github.com/textmate/textmate)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CotEditor~~](https://coteditor.com)、[~~CodeEdit~~](https://www.codeedit.app)
         * 插件：[installed_packages](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
         * 主题：Adaptive/Mariana
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、用用Python，应该不再需要集成开发环境（Integrated Development Environment）。Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Paw](https://paw.cloud)、[Cyberduck](https://cyberduck.io)、[Wireshark](https://www.wireshark.org))
-    * [_PostgreSQL_](https://www.postgresql.org) (Database) ([Postgres.app](https://postgresapp.com)、[DataGrip](https://www.jetbrains.com.cn/datagrip/)、[Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)、[DBeaver Community](https://dbeaver.io)、[QGIS](https://www.qgis.org)、[奥维互动地图](https://www.ovital.com))
+    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Cyberduck](https://cyberduck.io)、[Wireshark](https://www.wireshark.org))
+    * [_PostgreSQL_](https://www.postgresql.org) (Database) ([Postgres.app](https://postgresapp.com)、[pgAdmin](https://www.pgadmin.org)、[Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)、[QGIS](https://www.qgis.org)、[奥维互动地图](https://www.ovital.com))
 
 <br>
 
@@ -168,7 +168,6 @@
     <br>
 
     * [AppCleaner](https://freemacsoft.net/appcleaner) (uninstall unwanted apps) ([_Amphetamine_](https://apps.apple.com/us/app/amphetamine/id937984704)、[_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
-    * [ChatGPT](https://chatgpt.com/zh-Hans-CN/features/desktop/) (Large Language Model) ([_文心一言_](https://yiyan.baidu.com/))
     * [_HTTPie_](https://httpie.io/app) (making APIs simple and intuitive) [Web] ([_测速_](https://test.ustc.edu.cn)、[_Keep Screen On_](https://www.keepscreenon.com))
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
