@@ -135,7 +135,7 @@
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [Pixelmator Pro](https://www.pixelmator.com/pro/) (image editor) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~darktable~~](https://www.darktable.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/))
     * [Photomator](https://www.pixelmator.com/photomator/) (photo editor) [App Store] (换掉[~~Photoshop & Lightroom~~](https://www.adobe.com/creativecloud/photography.html)后达成「软件全部正版化」成就😌)
-    * [Affinity](https://www.affinity.studio) (design and publishing tool) ([_Canva_](https://www.canva.com))
+    * [Affinity](https://www.affinity.studio) (design and publishing tool) ([_Canva_](https://www.canva.com)、[~~Figma~~](https://www.figma.com)、[~~Sketch~~](https://www.sketch.com))
     <br>
 
     * [Goodnotes](https://www.goodnotes.com) [App Store] ([_Procreate_](https://procreate.com))
