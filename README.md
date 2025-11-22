@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2025.10**</em></mark>
+<mark><em>**Update: 2025.11**</em></mark>
 
 <br>
 
@@ -55,6 +55,7 @@
         * [uBlock Origin Lite](https://github.com/uBlockOrigin/uBOL-home) [App Store]
         * [Tampermonkey](https://www.tampermonkey.net) [App Store] \[[_Greasy Fork_](https://greasyfork.org/zh-CN)\]
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
+            * [YouTube HD Premium](https://greasyfork.org/zh-CN/scripts/498145-youtube-hd-premium)
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
             * [沉浸式翻译](https://immersivetranslate.com)
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
