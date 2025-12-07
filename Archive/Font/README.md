@@ -16,7 +16,7 @@
 
 **3、艺术字体**
 
-* [汉仪新蒂（Senty）](http://sentyfont.com)
+* [汉仪新蒂（Senty）](https://sentyfont.com)
 
 
 **4、开发字体**
