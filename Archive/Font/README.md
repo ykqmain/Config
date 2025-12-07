@@ -19,7 +19,7 @@
 * [汉仪新蒂（Senty）](http://sentyfont.com)
 
 
-**4、Apple字体**
+**4、开发字体**
 
 * [San Francisco](https://developer.apple.com/fonts/)
 
