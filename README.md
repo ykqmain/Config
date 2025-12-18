@@ -60,7 +60,7 @@
             * [沉浸式翻译](https://immersivetranslate.com)
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
 
-    * [Firefox](https://www.firefox.com) ([_Thunderbird_](https://www.thunderbird.net))
+    * [Firefox](https://www.firefox.com) ([_Thunderbird_](https://www.thunderbird.net)、[Chrome](https://www.google.com/chrome/))
         * _about:config_
             * `browser.tabs.closeTabByDblclick`
             * `browser.compactmode.show`
@@ -158,6 +158,7 @@
 
     * [OpenEmu](https://openemu.org) (video game emulation)
     * [Steam](https://store.steampowered.com) (games)
+    * [Epic](https://store.epicgames.com) (games)
 
 <br>
 
