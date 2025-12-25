@@ -143,8 +143,9 @@
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[Apple Music](https://www.apple.com.cn/apple-music/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/)、[Apple Games](https://games.apple.com))
     <br>
 
-    * [Movist Pro](https://movistprime.com) (player)
-    * [VLC](https://www.videolan.org) (player)
+    * [网易云音乐](https://music.163.com) (Music) ([_汽水音乐_](https://www.qishui.com))
+    * [Movist Pro](https://movistprime.com) (Media player)
+    * [VLC](https://www.videolan.org) (multimedia player and framework)
     * [OBS](https://obsproject.com) (video recording and live streaming)
     * [Blender](https://www.blender.org) (3D creation suite)
     <br>
@@ -154,11 +155,7 @@
     * [calibre](https://calibre-ebook.com) (e-book manager)
     * [XLD](https://tmkk.undo.jp/xld/index_e.html) (Lossless audio decoder)
     * [HandBrake](https://handbrake.fr) (converting video)
-    <br>
-
-    * [OpenEmu](https://openemu.org) (video game emulation)
-    * [Steam](https://store.steampowered.com) (games)
-    * [Epic](https://store.epicgames.com) (games)
+    * [OpenEmu](https://openemu.org) (video game emulation) ([Steam](https://store.steampowered.com)、[Epic](https://store.epicgames.com))
 
 <br>
 
