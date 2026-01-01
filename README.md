@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2025.12**</em></mark>
+<mark><em>**Update: 2026.01**</em></mark>
 
 <br>
 
@@ -142,7 +142,7 @@
     * [Affinity](https://www.affinity.studio) (design and publishing tool) ([_Canva_](https://www.canva.com)、[~~Figma~~](https://www.figma.com)、[~~Sketch~~](https://www.sketch.com))
     <br>
 
-    * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[Apple Music](https://www.apple.com.cn/apple-music/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/)、[Apple Games](https://games.apple.com))
+    * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[**Apple Music**](https://www.apple.com.cn/apple-music/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/)、[Apple Games](https://games.apple.com))
     * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~Audacity~~](https://www.audacityteam.org)、[~~MuseScore~~](https://musescore.org))
     * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve))
     * [网易云音乐](https://music.163.com) [App Store] ([_汽水音乐_](https://www.qishui.com))
