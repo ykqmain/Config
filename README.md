@@ -82,7 +82,7 @@
         ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
         * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前我发现的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
 
-    * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] ([Swift Playground](https://developer.apple.com/swift-playground/)) {**`xcode-select --install`**}
+    * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] ([Swift Playground](https://developer.apple.com/cn/swift-playground/)、[Fonts](https://developer.apple.com/cn/fonts/)) {**`xcode-select --install`**}
 
     * [oh-my-zsh](https://ohmyz.sh)
         * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
@@ -132,30 +132,24 @@
 3. 效率与娱乐
 
     * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_PDFgear_](https://www.pdfgear.com/zh/)、[_Numbr_](https://numbr.dev)、[_LocalSend_](https://localsend.org/zh-CN))
-    * [iWork](https://www.apple.com.cn/iwork/) [App Store]
-    * [Goodnotes](https://www.goodnotes.com) [App Store] ([_Procreate_](https://procreate.com))
+    * [Goodnotes](https://www.goodnotes.com) [App Store] ([_Procreate & Dreams_](https://procreate.com))
+    * [calibre](https://calibre-ebook.com) (e-book manager)
+    * [Affinity](https://www.affinity.studio) (design and photo editing tools) ([_Canva_](https://www.canva.com)、[~~Figma~~](https://www.figma.com)、[~~Sketch~~](https://www.sketch.com))
+    * [Blender](https://www.blender.org) (The Freedom to Create)
     <br>
 
+    * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [Pixelmator Pro](https://www.pixelmator.com/pro/) (image editor) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~darktable~~](https://www.darktable.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/))
     * [Photomator](https://www.pixelmator.com/photomator/) (photo editor) [App Store] (换掉[~~Photoshop & Lightroom~~](https://www.adobe.com/creativecloud/photography.html)后达成「软件全部正版化」成就😌)
-    * [Affinity](https://www.affinity.studio) (design and publishing tool) ([_Canva_](https://www.canva.com)、[~~Figma~~](https://www.figma.com)、[~~Sketch~~](https://www.sketch.com))
+    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~Audacity~~](https://www.audacityteam.org)、[~~MuseScore~~](https://musescore.org)、[XLD](https://tmkk.undo.jp/xld/index_e.html))
+    * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[剪映](https://www.capcut.cn)、[必剪](https://bcut.bilibili.cn)、[HandBrake](https://handbrake.fr))
     <br>
 
     * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[**Apple Music**](https://www.apple.com.cn/apple-music/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/)、[Apple Games](https://games.apple.com))
-    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~Audacity~~](https://www.audacityteam.org)、[~~MuseScore~~](https://musescore.org))
-    * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[剪映](https://www.capcut.cn)、[必剪](https://bcut.bilibili.cn))
     * [网易云音乐](https://music.163.com) [App Store] ([_汽水音乐_](https://www.qishui.com))
-    <br>
-
     * [Movist Pro](https://movistprime.com) (Media player)
     * [VLC](https://www.videolan.org) (multimedia player and framework)
     * [OBS](https://obsproject.com) (video recording and live streaming)
-    * [Blender](https://www.blender.org) (3D creation suite)
-    <br>
-
-    * [calibre](https://calibre-ebook.com) (e-book manager)
-    * [XLD](https://tmkk.undo.jp/xld/index_e.html) (Lossless audio decoder)
-    * [HandBrake](https://handbrake.fr) (converting video)
     * [OpenEmu](https://openemu.org) (video game emulation) ([Steam](https://store.steampowered.com)、[Epic](https://store.epicgames.com))
 
 <br>
@@ -169,7 +163,7 @@
     <br>
 
     * [Pearcleaner](https://github.com/alienator88/Pearcleaner) (app cleaner) ([_Amphetamine_](https://apps.apple.com/us/app/amphetamine/id937984704)、[_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
-    * [_HTTPie_](https://httpie.io/app) (making APIs simple and intuitive) [Web] ([_测速_](https://test.ustc.edu.cn)、[_Keep Screen On_](https://www.keepscreenon.com))
+    * [_HTTPie_](https://httpie.io/app) (API testing client) [Web] ([_测速_](https://test.ustc.edu.cn)、[_Keep Screen On_](https://www.keepscreenon.com))
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
