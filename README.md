@@ -63,7 +63,6 @@
     * [Firefox](https://www.firefox.com) ([_Thunderbird_](https://www.thunderbird.net)、[Chrome](https://www.google.com/chrome/))
         * _about:config_
             * `browser.tabs.closeTabByDblclick`
-            * `browser.compactmode.show`
         * _情怀主题_
             * [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
         * _Extensions_
@@ -132,7 +131,7 @@
 
 3. 效率与娱乐
 
-    * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_PDFgear_](https://www.pdfgear.com/zh/)、[_draw.io_](https://www.drawio.com)、[_Numbr_](https://numbr.dev)、[_LocalSend_](https://localsend.org/zh-CN))
+    * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_PDFgear_](https://www.pdfgear.com/zh/)、[_Numbr_](https://numbr.dev)、[_LocalSend_](https://localsend.org/zh-CN))
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [Goodnotes](https://www.goodnotes.com) [App Store] ([_Procreate_](https://procreate.com))
     <br>
