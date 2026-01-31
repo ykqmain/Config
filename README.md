@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2025.11**</em></mark>
+<mark><em>**Update: 2026.01**</em></mark>
 
 <br>
 
@@ -27,9 +27,6 @@
     *  Magic Keyboard
     *  Magic Trackpad
     * DualSense™ Wireless Controller
-
-* ** iPad Pro (M4) [Pena]**
-    *  Pencil Pro
 
 * ** iPhone 17 Pro [Nana]**
     *  AirPods 2
@@ -60,10 +57,9 @@
             * [沉浸式翻译](https://immersivetranslate.com)
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
 
-    * [Firefox](https://www.firefox.com) ([_Thunderbird_](https://www.thunderbird.net))
+    * [Firefox](https://www.firefox.com) ([_Thunderbird_](https://www.thunderbird.net)、[Chrome](https://www.google.com/chrome/))
         * _about:config_
             * `browser.tabs.closeTabByDblclick`
-            * `browser.compactmode.show`
         * _情怀主题_
             * [A Web Browser Renaissance](https://addons.mozilla.org/zh-CN/firefox/addon/a-web-browser-renaissance/)
         * _Extensions_
@@ -83,7 +79,7 @@
         ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
         * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前我发现的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
 
-    * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] ([Swift Playground](https://developer.apple.com/swift-playground/)) {**`xcode-select --install`**}
+    * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] ([_Swift Playground_](https://developer.apple.com/cn/swift-playground/)) {**`xcode-select --install`**}
 
     * [oh-my-zsh](https://ohmyz.sh)
         * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
@@ -116,48 +112,43 @@
             * [python-docx](https://github.com/python-openxml/python-docx)
             * [pygame](https://www.pygame.org)
 
+    * [CotEditor](https://coteditor.com) (Plain-Text Editor) [App Store]
     * [**Sublime Text**](https://www.sublimetext.com) \[[_Package Control_](https://packagecontrol.io)\]
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
-        * ~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~TextMate~~](https://github.com/textmate/textmate)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~CotEditor~~](https://coteditor.com)、[~~CodeEdit~~](https://www.codeedit.app)、[~~Zed~~](https://zed.dev)
+        * ~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~TextMate~~](https://github.com/textmate/textmate)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~CodeEdit~~](https://www.codeedit.app)、[~~Zed~~](https://zed.dev)
         * 插件：[installed_packages](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
         * 主题：Adaptive/Mariana
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、用用Python，应该不再需要集成开发环境（Integrated Development Environment）。Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Cyberduck](https://cyberduck.io)、[Wireshark](https://www.wireshark.org))
+    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Cyberduck](https://cyberduck.io)、[Wireshark](https://www.wireshark.org))
     * [_PostgreSQL_](https://www.postgresql.org) (Database) ([Postgres.app](https://postgresapp.com)、[pgAdmin](https://www.pgadmin.org)、[Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)、[QGIS](https://www.qgis.org)、[奥维互动地图](https://www.ovital.com))
 
 <br>
 
 3. 效率与娱乐
 
-    * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_PDFgear_](https://www.pdfgear.com/zh/)、[_draw.io_](https://www.drawio.com)、[_Numbr_](https://numbr.dev)、[_LocalSend_](https://localsend.org/zh-CN))
+    * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_LocalSend_](https://localsend.org/zh-CN)、[_PDFgear_](https://www.pdfgear.com/zh/)、[_Numbr_](https://numbr.dev))
+    * [Goodnotes](https://www.goodnotes.com) [App Store] ([~~_Procreate & Dreams_~~](https://procreate.com))
+    * [calibre](https://calibre-ebook.com) (e-book manager)
+    * [Affinity](https://www.affinity.studio) (design and photo editing tools) ([_Canva_](https://www.canva.com)、[~~Figma~~](https://www.figma.com)、[~~Sketch~~](https://www.sketch.com))
+    * [Blender](https://www.blender.org) (The Freedom to Create)
+    <br>
+
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
     * [Pixelmator Pro](https://www.pixelmator.com/pro/) (image editor) [App Store] ([~~GIMP~~](https://www.gimp.org)、[~~darktable~~](https://www.darktable.org)、[~~Inkscape~~](https://inkscape.org/zh-hans/)、[~~Krita~~](https://krita.org/zh/))
     * [Photomator](https://www.pixelmator.com/photomator/) (photo editor) [App Store] (换掉[~~Photoshop & Lightroom~~](https://www.adobe.com/creativecloud/photography.html)后达成「软件全部正版化」成就😌)
-    * [Affinity](https://www.affinity.studio) (design and publishing tool) ([_Canva_](https://www.canva.com)、[~~Figma~~](https://www.figma.com)、[~~Sketch~~](https://www.sketch.com))
+    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~Audacity~~](https://www.audacityteam.org)、[~~MuseScore~~](https://musescore.org)、[XLD](https://tmkk.undo.jp/xld/index_e.html))
+    * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[必剪](https://bcut.bilibili.cn)、[HandBrake](https://handbrake.fr))
     <br>
 
-    * [Goodnotes](https://www.goodnotes.com) [App Store] ([_Procreate_](https://procreate.com))
-    * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[Apple Music](https://www.apple.com.cn/apple-music/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/)、[Apple Games](https://games.apple.com))
-    <br>
-
-    * [Movist Pro](https://movistprime.com) (player)
-    * [VLC](https://www.videolan.org) (player)
+    * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[**Apple Music**](https://www.apple.com.cn/apple-music/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/)、[Apple Games](https://games.apple.com))
+    * [Movist Pro](https://movistprime.com) (Media player)
+    * [VLC](https://www.videolan.org) (multimedia player and framework)
     * [OBS](https://obsproject.com) (video recording and live streaming)
-    * [Blender](https://www.blender.org) (3D creation suite)
-    <br>
-
-    * [GarageBand](https://www.apple.com.cn/mac/garageband/) [App Store] ([~~Audacity~~](https://www.audacityteam.org)、[~~MuseScore~~](https://musescore.org))
-    * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve))
-    * [calibre](https://calibre-ebook.com) (e-book manager)
-    * [XLD](https://tmkk.undo.jp/xld/index_e.html) (Lossless audio decoder)
-    * [HandBrake](https://handbrake.fr) (converting video)
-    <br>
-
-    * [OpenEmu](https://openemu.org) (video game emulation)
-    * [Steam](https://store.steampowered.com) (games)
+    * [OpenEmu](https://openemu.org) (Multiple Video Game System)
+    * [Steam](https://store.steampowered.com) (Game Platform)
 
 <br>
 
@@ -170,7 +161,7 @@
     <br>
 
     * [Pearcleaner](https://github.com/alienator88/Pearcleaner) (app cleaner) ([_Amphetamine_](https://apps.apple.com/us/app/amphetamine/id937984704)、[_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
-    * [_HTTPie_](https://httpie.io/app) (making APIs simple and intuitive) [Web] ([_测速_](https://test.ustc.edu.cn)、[_Keep Screen On_](https://www.keepscreenon.com))
+    * [_HTTPie_](https://httpie.io/app) (API testing client) [Web] ([_测速_](https://test.ustc.edu.cn)、[_Keep Screen On_](https://www.keepscreenon.com))
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>

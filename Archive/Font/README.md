@@ -14,7 +14,7 @@
 * 仿宋_GB2312
 
 
-**2、艺术字体**
+**3、艺术字体**
 
-* [汉仪新蒂（Senty）](http://sentyfont.com)
+* [汉仪新蒂（Senty）](https://sentyfont.com)
 
