@@ -84,6 +84,7 @@
         * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前我发现的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] ([_Swift Playground_](https://developer.apple.com/cn/swift-playground/)) {**`xcode-select --install`**}
+    * [`caffeinate`](https://keith.github.io/xcode-man-pages/caffeinate.8.html) ([_Awake_](https://ykqmain.net/awake/)、[~~Amphetamine~~](https://apps.apple.com/us/app/amphetamine/id937984704))
 
     * [oh-my-zsh](https://ohmyz.sh)
         * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
@@ -126,14 +127,14 @@
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、用用Python，应该不再需要集成开发环境（Integrated Development Environment）。Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Cyberduck](https://cyberduck.io)、[Wireshark](https://www.wireshark.org))
+    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Cyberduck](https://cyberduck.io)、[Wireshark](https://www.wireshark.org)、[Paw](https://paw.cloud)、[_HTTPie_](https://httpie.io)、[_测速_](https://test.ustc.edu.cn))
     * [_PostgreSQL_](https://www.postgresql.org) (Database) ([Postgres.app](https://postgresapp.com)、[pgAdmin](https://www.pgadmin.org)、[Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)、[QGIS](https://www.qgis.org)、[奥维互动地图](https://www.ovital.com))
 
 <br>
 
 3. 效率与娱乐
 
-    * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_LocalSend_](https://localsend.org/zh-CN)、[_PDFgear_](https://www.pdfgear.com/zh/)、[_Numbr_](https://numbr.dev))
+    * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_Numbr_](https://numbr.dev)、[_PDFgear_](https://www.pdfgear.com/zh/)、[_LocalSend_](https://localsend.org/zh-CN))
     * [Goodnotes](https://www.goodnotes.com) [App Store] ([~~_Procreate & Dreams_~~](https://procreate.com))
     * [Affinity](https://www.affinity.studio) (design and photo editing tools) ([_Canva_](https://www.canva.com)、[~~Figma~~](https://www.figma.com)、[~~Sketch~~](https://www.sketch.com))
     * [Blender](https://www.blender.org) (The Freedom to Create)
@@ -151,8 +152,11 @@
     * [Movist Pro](https://movistprime.com) (Media player)
     * [VLC](https://www.videolan.org) (multimedia player and framework)
     * [OBS](https://obsproject.com) (video recording and live streaming)
+    <br>
+
     * [OpenEmu](https://openemu.org) (Multiple Video Game System)
     * [Steam](https://store.steampowered.com) (Game Platform)
+    * [Epic](https://store.epicgames.com) (Games Store)
 
 <br>
 
@@ -164,8 +168,7 @@
     * [Mactracker](https://mactracker.ca) (get info) [App Store]
     <br>
 
-    * [Pearcleaner](https://github.com/alienator88/Pearcleaner) (app cleaner) ([_Amphetamine_](https://apps.apple.com/us/app/amphetamine/id937984704)、[_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
-    * [_HTTPie_](https://httpie.io/app) (API testing client) [Web] ([_测速_](https://test.ustc.edu.cn)、[_Keep Screen On_](https://www.keepscreenon.com))
+    * [Pearcleaner](https://github.com/alienator88/Pearcleaner) (app cleaner) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
