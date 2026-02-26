@@ -15,7 +15,7 @@
 
 🤓也用`Yang`这个昵称。
 
-📚业余中国古代史、🌏爱好地理，
+📚业余中国史、🌏爱好地理，
 
 💻CS专业、📺梦想做动画、🎮人生游戏玩家，
 
@@ -84,7 +84,7 @@
         * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前我发现的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] ([_Swift Playground_](https://developer.apple.com/cn/swift-playground/)) {**`xcode-select --install`**}
-    * [`caffeinate`](https://keith.github.io/xcode-man-pages/caffeinate.8.html) ([_Awake_](https://ykqmain.net/awake/)、[~~Amphetamine~~](https://apps.apple.com/us/app/amphetamine/id937984704))
+    * [`caffeinate`](https://keith.github.io/xcode-man-pages/caffeinate.8.html) ([_Awake_](https://ykqmain.net/awake/)、[_Count_](https://ykqmain.net/count/)、[~~Amphetamine~~](https://apps.apple.com/us/app/amphetamine/id937984704))
 
     * [oh-my-zsh](https://ohmyz.sh)
         * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
