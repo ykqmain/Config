@@ -6,8 +6,8 @@
 
 <br>
 
-* [WPS Office](https://www.wps.cn) ([7-Zip](https://www.7-zip.org)、[Everything](https://www.voidtools.com)、[_Numbr_](https://numbr.dev)、[_PDFgear_](https://www.pdfgear.com/zh/)、[_LocalSend_](https://localsend.org/zh-CN))
-* [QuickLook](https://github.com/QL-Win/QuickLook) ([Honeyview](https://www.bandisoft.com/honeyview/)、[_Paint.NET_](https://www.getpaint.net)、[VLC](https://www.videolan.org)、[_必剪_](https://bcut.bilibili.cn))
+* [WPS Office](https://www.wps.cn) ([7-Zip](https://www.7-zip.org)、[Everything](https://www.voidtools.com)、[_LocalSend_](https://localsend.org/zh-CN)、[_PDFgear_](https://www.pdfgear.com/zh/)、[_Numbr_](https://numbr.dev))
+* [QuickLook](https://github.com/QL-Win/QuickLook) ([Honeyview](https://www.bandisoft.com/honeyview/)、[_Paint.NET_](https://www.getpaint.net)、[VLC](https://www.videolan.org)、[_OBS_](https://obsproject.com)、[_必剪_](https://bcut.bilibili.cn))
 
 <br>
 

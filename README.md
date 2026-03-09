@@ -134,7 +134,7 @@
 
 3. 效率与娱乐
 
-    * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_Numbr_](https://numbr.dev)、[_PDFgear_](https://www.pdfgear.com/zh/)、[_LocalSend_](https://localsend.org/zh-CN))
+    * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_LocalSend_](https://localsend.org/zh-CN)、[_PDFgear_](https://www.pdfgear.com/zh/)、[_Numbr_](https://numbr.dev))
     * [Goodnotes](https://www.goodnotes.com) [App Store] ([~~_Procreate & Dreams_~~](https://procreate.com))
     * [Affinity](https://www.affinity.studio) (design and photo editing tools) ([_Canva_](https://www.canva.com)、[~~Figma~~](https://www.figma.com)、[~~Sketch~~](https://www.sketch.com))
     * [Blender](https://www.blender.org) (The Freedom to Create)
