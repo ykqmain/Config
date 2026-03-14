@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2026.02**</em></mark>
+<mark><em>**Update: 2026.03**</em></mark>
 
 <br>
 
@@ -127,8 +127,8 @@
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、用用Python，应该不再需要集成开发环境（Integrated Development Environment）。Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Cyberduck](https://cyberduck.io)、[Wireshark](https://www.wireshark.org)、[Paw](https://paw.cloud)、[_HTTPie_](https://httpie.io)、[_测速_](https://test.ustc.edu.cn))
-    * [_PostgreSQL_](https://www.postgresql.org) (Database) ([Postgres.app](https://postgresapp.com)、[pgAdmin](https://www.pgadmin.org)、[Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)、[QGIS](https://www.qgis.org)、[奥维互动地图](https://www.ovital.com))
+    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Cyberduck](https://cyberduck.io)、[Wireshark](https://www.wireshark.org)、[_HTTPie_](https://httpie.io)、[_测速_](https://test.ustc.edu.cn))
+    * [_PostgreSQL_](https://www.postgresql.org) (Database) ([Postgres.app](https://postgresapp.com)、[pgAdmin](https://www.pgadmin.org)、[QGIS](https://www.qgis.org)、[奥维互动地图](https://www.ovital.com))
 
 <br>
 
@@ -152,11 +152,7 @@
     * [Movist Pro](https://movistprime.com) (Media player)
     * [VLC](https://www.videolan.org) (multimedia player and framework)
     * [OBS](https://obsproject.com) (video recording and live streaming)
-    <br>
-
-    * [OpenEmu](https://openemu.org) (Multiple Video Game System)
-    * [Steam](https://store.steampowered.com) (Game Platform)
-    * [Epic](https://store.epicgames.com) (Games Store)
+    * [Steam](https://store.steampowered.com) (Game Platform) ([OpenEmu](https://openemu.org))
 
 <br>
 
