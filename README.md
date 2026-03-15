@@ -118,9 +118,10 @@
             * [pygame](https://www.pygame.org)
 
     * [CotEditor](https://coteditor.com) (Plain-Text Editor) [App Store]
+    * [Zed](https://zed.dev) (code editor)
     * [**Sublime Text**](https://www.sublimetext.com) \[[_Package Control_](https://packagecontrol.io)\]
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
-        * ~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~TextMate~~](https://github.com/textmate/textmate)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~CodeEdit~~](https://www.codeedit.app)、[~~Zed~~](https://zed.dev)
+        * ~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org)、[~~Eclipse~~](https://eclipseide.org)、[~~JetBrains~~](https://www.jetbrains.com)、[~~TextMate~~](https://github.com/textmate/textmate)、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~CodeEdit~~](https://www.codeedit.app)
         * 插件：[installed_packages](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
         * 主题：Adaptive/Mariana
@@ -164,7 +165,7 @@
     * [Mactracker](https://mactracker.ca) (get info) [App Store]
     <br>
 
-    * [Pearcleaner](https://github.com/alienator88/Pearcleaner) (app cleaner) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
+    * [AppCleaner](https://freemacsoft.net/appcleaner/) (uninstall unwanted apps) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
     * [**_更多软件_**](https://github.com/ykqmain?tab=stars)
 
 <br>
