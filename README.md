@@ -82,9 +82,11 @@
     * **Terminal.app** ([_Vim_](https://www.vim.org))
         ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
         * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前我发现的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
+    <br>
 
     * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] ([_Swift Playground_](https://developer.apple.com/cn/swift-playground/)) {**`xcode-select --install`**}
     * [`caffeinate`](https://keith.github.io/xcode-man-pages/caffeinate.8.html) ([_Awake_](https://ykqmain.net/awake/)、[_Count_](https://ykqmain.net/count/)、[~~Amphetamine~~](https://apps.apple.com/us/app/amphetamine/id937984704))
+    <br>
 
     * [oh-my-zsh](https://ohmyz.sh)
         * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
@@ -93,6 +95,7 @@
             * `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
         * [zsh-completions](https://github.com/zsh-users/zsh-completions)
             * `git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:=~/.oh-my-zsh/custom}/plugins/zsh-completions`
+    <br>
 
     * [Homebrew](https://brew.sh) {`/opt/homebrew`}
         * [wget](https://www.gnu.org/software/wget)
@@ -116,6 +119,7 @@
             * [wordcloud](https://github.com/amueller/word_cloud)
             * [python-docx](https://github.com/python-openxml/python-docx)
             * [pygame](https://www.pygame.org)
+    <br>
 
     * [CotEditor](https://coteditor.com) (Plain-Text Editor) [App Store]
     * [Zed](https://zed.dev) (code editor)
@@ -128,7 +132,7 @@
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、用用Python，应该不再需要集成开发环境（Integrated Development Environment）。Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [Sourcetree](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Cyberduck](https://cyberduck.io)、[Wireshark](https://www.wireshark.org)、[_HTTPie_](https://httpie.io)、[_测速_](https://test.ustc.edu.cn))
+    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Cyberduck](https://cyberduck.io)、[Wireshark](https://www.wireshark.org)、[_HTTPie_](https://httpie.io)、[_测速_](https://test.ustc.edu.cn))
     * [_PostgreSQL_](https://www.postgresql.org) (Database) ([Postgres.app](https://postgresapp.com)、[pgAdmin](https://www.pgadmin.org)、[QGIS](https://www.qgis.org)、[奥维互动地图](https://www.ovital.com))
 
 <br>
@@ -138,7 +142,7 @@
     * [**WPS Office**](https://www.wps.cn) [App Store] ([PDF Expert](https://pdfexpert.com)、[iThoughtsX](https://www.toketaware.com)、[_LocalSend_](https://localsend.org/zh-CN)、[_PDFgear_](https://www.pdfgear.com/zh/)、[_Numbr_](https://numbr.dev))
     * [Goodnotes](https://www.goodnotes.com) [App Store] ([~~_Procreate & Dreams_~~](https://procreate.com))
     * [Affinity](https://www.affinity.studio) (design and photo editing tools) ([_Canva_](https://www.canva.com)、[~~Figma~~](https://www.figma.com)、[~~Sketch~~](https://www.sketch.com))
-    * [Blender](https://www.blender.org) (The Freedom to Create)
+    * [Blender](https://www.blender.org) (3D Creation Software)
     <br>
 
     * [iWork](https://www.apple.com.cn/iwork/) [App Store]
