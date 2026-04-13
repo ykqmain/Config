@@ -62,7 +62,7 @@
             * [沉浸式翻译](https://immersivetranslate.com)
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
 
-    * [Firefox](https://www.firefox.com) ([_Thunderbird_](https://www.thunderbird.net)、[Chrome](https://www.google.com/chrome/))
+    * [Firefox](https://www.firefox.com) ([_Thunderbird_](https://www.thunderbird.net)、[_Chrome_](https://www.google.com/chrome/))
         * _about:config_
             * `browser.tabs.closeTabByDblclick`
         * _情怀主题_
