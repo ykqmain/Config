@@ -35,6 +35,8 @@
 * ** iPhone 17 Pro [Nana]**
     *  AirPods 2
 
+* ** Apple Watch Series 11 [XiaoNa]**
+
 <br>
 
 
