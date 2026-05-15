@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2026.04**</em></mark>
+<mark><em>**Update: 2026.05**</em></mark>
 
 <br>
 
@@ -160,7 +160,7 @@
     * [Movist Pro](https://movistprime.com) (Media player)
     * [VLC](https://www.videolan.org) (multimedia player and framework)
     * [OBS](https://obsproject.com) (video recording and live streaming)
-    * [Steam](https://store.steampowered.com) (Games) ([OpenEmu](https://openemu.org))
+    * [Steam](https://store.steampowered.com) (Games) ([Epic](https://store.epicgames.com)、[OpenEmu](https://openemu.org))
 
 <br>
 
