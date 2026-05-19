@@ -12,6 +12,7 @@
 
 * [方正小标宋](https://www.foundertype.com/index.php/FontInfo/index/id/164)
 * 仿宋_GB2312
+* 楷体_GB2312
 
 
 **3、艺术字体**
