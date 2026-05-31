@@ -168,7 +168,7 @@
     * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
     * [Unsplash Wallpapers](https://unsplash.com/apps) (desktop wallpaper, every day) [App Store]
     * [Mactracker](https://mactracker.ca) (get info) [App Store]
-    * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) (keep-awake) ([_Keep Screen On_](https://www.keepscreenon.com)、[`caffeinate`](https://keith.github.io/xcode-man-pages/caffeinate.8.html))
+    * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) (keep-awake) [App Store] ([_Keep Screen On_](https://www.keepscreenon.com)、[`caffeinate`](https://keith.github.io/xcode-man-pages/caffeinate.8.html))
     <br>
 
     * [AppCleaner](https://freemacsoft.net/appcleaner/) (uninstall unwanted apps) ([_MonitorControl_](https://github.com/MonitorControl/MonitorControl)、[_Mac Mouse Fix_](https://github.com/noah-nuebling/mac-mouse-fix))
