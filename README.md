@@ -60,6 +60,7 @@
             * [Google Hit Hider by Domain](https://greasyfork.org/zh-CN/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
             * [Bilibili AutoWide](https://greasyfork.org/zh-CN/scripts/375858-bilibili-autowide)
             * [YouTube HD Premium](https://greasyfork.org/zh-CN/scripts/498145-youtube-hd-premium)
+            * [视频网站增强工具](https://greasyfork.org/zh-CN/scripts/555977-视频网站增强工具)
             * [沉浸式翻译](https://immersivetranslate.com)
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
 
