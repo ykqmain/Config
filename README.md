@@ -159,7 +159,7 @@
     * [Movist Pro](https://movistprime.com) (Media player)
     * [VLC](https://www.videolan.org) (multimedia player and framework)
     * [OBS](https://obsproject.com) (video recording and live streaming)
-    * [Steam](https://store.steampowered.com) (Games) ([Epic](https://store.epicgames.com)、[OpenEmu](https://openemu.org))
+    * [Steam](https://store.steampowered.com) (Games) ([OpenEmu](https://openemu.org))
 
 <br>
 
