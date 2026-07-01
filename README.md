@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2026.06**</em></mark>
+<mark><em>**Update: 2026.07**</em></mark>
 
 <br>
 
@@ -98,25 +98,27 @@
     <br>
 
     * [Homebrew](https://brew.sh) {`/opt/homebrew`}
+        * [ffmpeg](https://www.ffmpeg.org)
         * [tree](http://mama.indstate.edu/users/ice/tree)
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
-        * [pyenv](https://github.com/pyenv/pyenv) {`pyenv install 3.14` `pyenv global 3.14`}
-            * `pip3 install -r requirements.txt`
-            * [tldr](https://tldr.sh) {`tldr -u`}
-            * [you-get](https://you-get.org)
-            * [httpx](https://pypi.org/project/httpx/)
-            * [requests](https://pypi.org/project/requests/)
-            * [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
-            * [django](https://www.djangoproject.com)
-            * [psycopg](https://www.psycopg.org)
-            * [openpyxl](https://pypi.org/project/openpyxl/)
-            * [pandas](https://pandas.pydata.org)
-            * [matplotlib](https://matplotlib.org)
-            * [pillow](https://github.com/python-pillow/Pillow)
-            * [jieba](https://github.com/fxsjy/jieba)
-            * [wordcloud](https://github.com/amueller/word_cloud)
-            * [python-docx](https://github.com/python-openxml/python-docx)
-            * [pygame](https://www.pygame.org)
+    <br>
+
+    * [Python](https://www.python.org) ([~~pyenv~~](https://github.com/pyenv/pyenv)) {`pip3 install -r requirements.txt`}
+        * [tldr](https://tldr.sh) {`tldr -u`}
+        * [you-get](https://you-get.org)
+        * [httpx](https://pypi.org/project/httpx/)
+        * [requests](https://pypi.org/project/requests/)
+        * [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
+        * [django](https://www.djangoproject.com)
+        * [psycopg](https://www.psycopg.org)
+        * [openpyxl](https://pypi.org/project/openpyxl/)
+        * [pandas](https://pandas.pydata.org)
+        * [matplotlib](https://matplotlib.org)
+        * [pillow](https://github.com/python-pillow/Pillow)
+        * [jieba](https://github.com/fxsjy/jieba)
+        * [wordcloud](https://github.com/amueller/word_cloud)
+        * [python-docx](https://github.com/python-openxml/python-docx)
+        * [pygame](https://www.pygame.org)
     <br>
 
     * [CotEditor](https://coteditor.com) (Plain-Text Editor) [App Store]
