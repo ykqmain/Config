@@ -35,8 +35,6 @@
 * ** iPhone 17 Pro [Nana]**
     *  AirPods 2
 
-* ** Watch Series 11 [XiaoNa]**
-
 <br>
 
 
@@ -166,7 +164,7 @@
 4. 工具
 
     * [Keka](https://www.keka.io/zh-cn) (file archiver) [App Store]
-    * [RunCat](https://kyome.io/runcat/index.html?lang=en) (check system information) [App Store]
+    * [RunCat Neo](https://github.com/runcat-dev/RunCatNeo) (system metrics) [App Store]
     * [Unsplash Wallpapers](https://unsplash.com/apps) (desktop wallpaper, every day) [App Store]
     * [Mactracker](https://mactracker.ca) (get info) [App Store]
     * [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) (keep-awake) [App Store] ([_Keep Screen On_](https://www.keepscreenon.com)、[`caffeinate`](https://keith.github.io/xcode-man-pages/caffeinate.8.html))
