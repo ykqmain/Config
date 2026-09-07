@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2026.08**</em></mark>
+<mark><em>**Update: 2026.09**</em></mark>
 
 <br>
 
@@ -62,7 +62,7 @@
             * [沉浸式翻译](https://immersivetranslate.com)
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
 
-    * [Firefox](https://www.firefox.com) ([_Thunderbird_](https://www.thunderbird.net)、[_Chrome_](https://www.google.com/chrome/))
+    * [Firefox](https://www.firefox.com) ([_Thunderbird_](https://www.thunderbird.net))
         * _about:config_
             * `browser.tabs.closeTabByDblclick`
         * _情怀主题_
