@@ -588,6 +588,11 @@
     "light_theme": "Default.sublime-theme",
     "dark_theme": "Default Dark.sublime-theme",
 
+    // The file icon theme controls which icons are used for files in the
+    // side-bar. This can either be a single or multiple file icon themes.
+    // Sublime Text does not come with any file icon themes.
+    "file_icon_theme": [],
+
     // Adaptive theme only: controls if a custom or default title bar is used.
     // Note that on Windows, the hamburger menu is used whenever this is
     // enabled and the adaptive theme is in use.
@@ -637,6 +642,14 @@
     // contains an entire project, thus allowing multiple projects in a single
     // window. Valid values are "system", "preferred" and "disabled".
     "native_tabs": "system",
+
+    // Mac only. Controls whether clicks on a non-focused windows are passed
+    // through to the window.
+    // - "always" will click-through on all elements.
+    // - "never" will never click-through. Clicking will only focus the window.
+    // - "native" follows platform conventions, buttons are clicked-through
+    //   but text selection isn't.
+    "click_through": "always",
 
     // Whether new tabs should favor opening after the current tab or at the end
     // of the list of tabs.
@@ -832,6 +845,15 @@
     // integrations.
     "sublime_merge_path": null,
 
+    // Shell command used to open a terminal emulator at a specified location.
+    // If left empty Sublime Text will attempt to open the default terminal
+    // emulator. The associated menu items can be disabled by setting this to
+    // null.
+    // Examples:
+    // - "git-bash.exe --cd=\"$dir\""
+    // - "alacritty --working-directory \"$dir\""
+    "terminal_command": "",
+
     // Preview file contents when clicking on a file in the sidebar. Double
     // clicking or editing the preview will open the file and assign it a tab.
     // - true: Always preview on click, including right click
@@ -909,6 +931,15 @@
     // the current line. Useful in conjunction with Vintage.
     "relative_line_numbers": false,
 
+    // Set the number of threads to use for background file operations.
+    // Increasing this can result in faster folder loading when using networked
+    // filesystems like NFS and SSHFS. The default and minimum is 2. This
+    // requires a restart to take effect.
+    "io_workers": 2,
+
+    // Determines whether the old 3.3 plugin host is enabled or not.
+    "disable_plugin_host_3.3": true,
+
     // List any packages to ignore here. When removing entries from this list,
     // a restart may be required if the package contains plugins.
     "ignored_packages":
@@ -917,5 +948,4 @@
     ],
 
     "update_check": false,
-    "disable_plugin_host_3.3": true,
 }
