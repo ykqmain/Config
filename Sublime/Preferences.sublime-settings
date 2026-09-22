@@ -649,7 +649,7 @@
     // - "never" will never click-through. Clicking will only focus the window.
     // - "native" follows platform conventions, buttons are clicked-through
     //   but text selection isn't.
-    "click_through": "always",
+    "click_through": "native",
 
     // Whether new tabs should favor opening after the current tab or at the end
     // of the list of tabs.
