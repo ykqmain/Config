@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2026.09**</em></mark>
+<mark><em>**Update: 2026.10**</em></mark>
 
 <br>
 
@@ -134,6 +134,7 @@
 
     * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Cyberduck](https://cyberduck.io)、[~~Wireshark~~](https://www.wireshark.org)、[~~Paw~~](https://paw.cloud)、[_测速_](https://test.ustc.edu.cn))
     * [_PostgreSQL_](https://www.postgresql.org) (Database) ([Postgres.app](https://postgresapp.com)、[pgAdmin](https://www.pgadmin.org)、[QGIS](https://www.qgis.org)、[奥维互动地图](https://www.ovital.com))
+    * [DeepSeek Harness](https://www.deepseek.com/harness/) (AI & LLM) ([_千问_](https://www.qianwen.com)、[_豆包_](https://www.doubao.com))
 
 <br>
 
