@@ -9,6 +9,7 @@
 
     "installed_packages":
     [
+        "A File Icon",
         "AlignTab",
         "BracketHighlighter",
         "Chinese Words Cutter",
@@ -18,7 +19,6 @@
         "DocBlockr_Python",
         "Emmet",
         "FileDiffs",
-        "FileIcons",
         "FileManager",
         "Filter Lines",
         "LSP",
