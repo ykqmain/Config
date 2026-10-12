@@ -710,7 +710,7 @@
     // - "opengl": Uses OpenGL for rendering. Minimum required version is 4.1
     //
     // On Mac, this value is overridden in the platform specific settings.
-    "hardware_acceleration": "none",
+    "hardware_acceleration": "opengl",
 
     //
     // Application Behavior Settings
