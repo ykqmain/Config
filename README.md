@@ -153,7 +153,7 @@
     * [iMovie](https://www.apple.com.cn/mac/imovie) [App Store] ([DaVinci Resolve](https://www.blackmagicdesign.com/cn/products/davinciresolve)、[美图秀秀](https://pc.meitu.com)、[必剪](https://bcut.bilibili.cn))
     <br>
 
-    * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[**Apple Music**](https://www.apple.com.cn/apple-music/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/)、[Apple Games](https://games.apple.com))
+    * [~~iTunes~~](https://www.apple.com.cn/itunes/) ([Apple Books](https://www.apple.com/apple-books/)、[**Apple Music**](https://www.apple.com.cn/apple-music/)、[Apple Podcasts](https://www.apple.com.cn/apple-podcasts/)、[Apple Games](https://games.apple.com)) ([_网易云音乐_](https://music.163.com)、[_汽水音乐_](https://www.qishui.com))
     * [calibre](https://calibre-ebook.com) (e-book manager) ([XLD](https://tmkk.undo.jp/xld/index_e.html)、[HandBrake](https://handbrake.fr))
     * [Movist Pro](https://movistprime.com) (Media player)
     * [VLC](https://www.videolan.org) (multimedia player and framework)
