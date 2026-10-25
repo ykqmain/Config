@@ -62,7 +62,7 @@
             * [沉浸式翻译](https://immersivetranslate.com)
         * [Accelerate](https://github.com/ritamsarmah/accelerate) [App Store]
 
-    * [Firefox](https://www.firefox.com) ([_Thunderbird_](https://www.thunderbird.net))
+    * [Firefox](https://www.firefox.com) ([_Thunderbird_](https://www.thunderbird.net)、[Chrome](https://www.google.com/chrome/))
         * _about:config_
             * `browser.tabs.closeTabByDblclick`
         * _情怀主题_
@@ -72,7 +72,8 @@
             * [uBlock Origin](https://github.com/gorhill/uBlock)
             * [Tampermonkey](https://www.tampermonkey.net)
             * [Global Speed](https://github.com/polywock/globalSpeed)
-            * [几枝](https://github.com/unicar9/jizhi)
+            * [_几枝_](https://github.com/unicar9/jizhi)
+            * [_Chrome Omnibox History Hider_](https://chromewebstore.google.com/detail/chrome-omnibox-history-hi/emkdecfgedmnajoijdafmfmgffljbmlc)
 
     * [**NetNewsWire**](https://netnewswire.com) (RSS reader)
 
