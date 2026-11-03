@@ -1,4 +1,9 @@
 {
+    "channels":
+    [
+        "https://packages.sublimetext.com/channel_v4.json",
+    ],
+
     "auto_upgrade": true,
     "auto_upgrade_frequency": 168,
 
@@ -21,9 +26,9 @@
         "FileDiffs",
         "FileManager",
         "Filter Lines",
+        "GitSavvy",
         "LSP",
         "LSP-basedpyright",
-        "LSP-bash",
         "LSP-clangd",
         "LSP-copilot",
         "LSP-css",
@@ -35,8 +40,9 @@
         "LSP-SourceKit",
         "LSP-typescript",
         "Package Control",
+        "PackageResourceViewer",
         "Status Bar File Size",
-        "Swift",
+        "Swift Next",
         "WordHighlight",
     ],
 
