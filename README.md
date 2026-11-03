@@ -2,7 +2,7 @@
 
 今天(2016-01-04)看到一个有意思的项目[利器社群计划](https://liqi.io/community/)，借此机会我也分享一下自己使用的一些小工具。
 
-<mark><em>**Update: 2026.10**</em></mark>
+<mark><em>**Update: 2026.11**</em></mark>
 
 <br>
 
@@ -81,12 +81,14 @@
 
 2. Developer Tools
 
-    * **Terminal.app** ([_Vim_](https://www.vim.org))
+    * **Terminal.app** ([_Shell_](https://www.zsh.org)、[_Vim_](https://www.vim.org))
         ![](https://github.com/ykqmain/Config/blob/master/Terminal/Terminal.png)
         * 为什么不是[_iTerm2_](https://www.iterm2.com)？iTerm2目前我发现的问题就是不能识别macOS的替身文件夹，需要用`ln`命令代替，除此之外比自带的终端好用。至于为什么不选择它，因为我确实不需要那么多的功能。（即便很怀念iTerm2的选中复制、右键粘贴和[_Shell Integration_](https://iterm2.com/documentation-shell-integration.html)功能）
     <br>
 
-    * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] ([_Swift Playground_](https://developer.apple.com/cn/swift-playground/)) {**`xcode-select --install`**}
+    * [**Xcode**](https://developer.apple.com/cn/xcode/) [App Store] {**`xcode-select --install`**}
+    * [_C90_](https://www.iso.org/standard/17782.html) / [_C++20_](https://isocpp.org) ([_LLVM_](https://llvm.org))
+    * [_Swift_](https://www.swift.org) ([_Swift Playground_](https://developer.apple.com/cn/swift-playground/))
     <br>
 
     * [oh-my-zsh](https://ohmyz.sh)
@@ -100,7 +102,7 @@
         * [fastfetch](https://github.com/fastfetch-cli/fastfetch) ([~~neofetch~~](https://github.com/dylanaraps/neofetch))
     <br>
 
-    * [Python](https://www.python.org) ([~~pyenv~~](https://github.com/pyenv/pyenv)) {`pip3 install -r requirements.txt`}
+    * [**Python**](https://www.python.org) ([~~pyenv~~](https://github.com/pyenv/pyenv)) {`pip3 install -r requirements.txt`}
         * [tldr](https://tldr.sh) {`tldr -u`}
         * [you-get](https://you-get.org)
         * [httpx](https://pypi.org/project/httpx/)
@@ -118,6 +120,11 @@
         * [pygame](https://www.pygame.org)
     <br>
 
+    * [_JavaScript_](https://developer.mozilla.org/) ([_Node.js_](https://nodejs.org)、[~~Deno (Cloudflare)~~](https://deno.com)、[~~Bun (Anthropic)~~](https://bun.com))
+    * [_Java_](https://www.java.com) ([_JDK_](https://www.oracle.com/java/technologies/downloads/)、[_OpenJDK_](https://openjdk.org))、[_C#_](https://dotnet.microsoft.com/zh-cn/languages/csharp)、[_Go_](https://go.dev)
+    * [_Rust_](https://rust-lang.org)、[_Ruby_](https://ruby-lang.org)
+    <br>
+
     * [CotEditor](https://coteditor.com) (Plain-Text Editor) [App Store]
     * [**Sublime Text**](https://www.sublimetext.com) \[[_Package Control_](https://packages.sublimetext.com)\]
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
@@ -129,8 +136,8 @@
     <br>
 
     * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Cyberduck](https://cyberduck.io)、[Paw](https://paw.cloud)、[Wireshark](https://www.wireshark.org)、[_测速_](https://test.ustc.edu.cn))
-    * [_PostgreSQL_](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[pgAdmin](https://www.pgadmin.org)、[QGIS](https://www.qgis.org)、[奥维互动地图](https://www.ovital.com)、[~~MySQL~~](https://www.mysql.com)、[~~Workbench~~](https://dev.mysql.com/downloads/workbench/)、[~~HeidiSQL~~](https://www.heidisql.com)、[~~Navicat~~](https://www.navicat.com.cn/products/navicat-premium-lite))
-    * [DeepSeek Harness](https://www.deepseek.com/harness/) (AI & LLM) ([_千问_](https://www.qianwen.com)、[_豆包_](https://www.doubao.com))
+    * [_PostgreSQL_](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[pgAdmin](https://www.pgadmin.org)、[QGIS](https://www.qgis.org)、[奥维互动地图](https://www.ovital.com)、[_R_](https://www.r-project.org)、[_Apache_](https://apache.org)、[_NGINX_](https://nginx.org)、[~~MySQL~~](https://www.mysql.com)、[~~Workbench~~](https://dev.mysql.com/downloads/workbench/)、[~~HeidiSQL~~](https://www.heidisql.com)、[~~Navicat~~](https://www.navicat.com.cn/products/navicat-premium-lite))
+    * [DeepSeek Harness](https://www.deepseek.com/harness/) (AI & LLM) ([Apple Intelligence](https://www.apple.com.cn/apple-intelligence/) [[_千问_](https://www.qianwen.com)]、[_豆包_](https://www.doubao.com))
 
 <br>
 
