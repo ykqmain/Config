@@ -125,18 +125,18 @@
     * [_Rust_](https://rust-lang.org)、[_Ruby_](https://ruby-lang.org)
     <br>
 
-    * [CotEditor](https://coteditor.com) (Plain-Text Editor) [App Store]
+    * [CotEditor](https://coteditor.com) (Plain-Text Editor) [App Store] ([~~CodeEdit~~](https://www.codeedit.app))
     * [**Sublime Text**](https://www.sublimetext.com) \[[_Package Control_](https://packages.sublimetext.com)\]
         ![](https://github.com/ykqmain/Config/blob/master/Sublime/Sublime.png)
-        * ~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/)、[~~NetBeans~~](https://netbeans.apache.org) ([~~Sequel Pro~~](https://github.com/sequelpro/sequelpro)、[~~Sequel Ace~~](https://github.com/Sequel-Ace/Sequel-Ace))、[~~Eclipse~~](https://eclipseide.org) ([~~DBeaver~~](https://dbeaver.io))、[~~JetBrains~~](https://www.jetbrains.com) ([~~DataGrip~~](https://www.jetbrains.com/datagrip/))、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)、[~~CodeEdit~~](https://www.codeedit.app)
+        * ~~Turbo C++~~、[~~Visual Studio~~](https://visualstudio.microsoft.com/zh-hans/) ([~~HeidiSQL~~](https://www.heidisql.com))、[~~Eclipse~~](https://eclipseide.org) ([~~DBeaver~~](https://dbeaver.io))、[~~JetBrains~~](https://www.jetbrains.com) ([~~DataGrip~~](https://www.jetbrains.com/datagrip/))、[~~Atom~~](https://github.com/atom/atom)、[~~VS Code~~](https://code.visualstudio.com)、[~~Zed~~](https://zed.dev)
         * 插件：[installed_packages](https://github.com/ykqmain/Config/blob/master/Sublime/Package%20Control.sublime-settings)
         * 字体：[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
         * 主题：Adaptive/Mariana
         * 兜兜转转还是回到了最初的Sublime Text，并购买了License支持一下。我认为IDE和编辑器，一个大而全、一个快而准，在我转行以后的生活和工作中估计也就编辑文本、用用Python，应该不再需要集成开发环境（Integrated Development Environment）。Sublime对我而言是足够且有纪念意义的，希望能一直陪伴着我。
     <br>
 
-    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Cyberduck](https://cyberduck.io)、[Paw](https://paw.cloud)、[Wireshark](https://www.wireshark.org)、[_测速_](https://test.ustc.edu.cn))
-    * [_PostgreSQL_](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[pgAdmin](https://www.pgadmin.org)、[QGIS](https://www.qgis.org)、[奥维互动地图](https://www.ovital.com)、[_R_](https://www.r-project.org)、[_Apache_](https://apache.org)、[_NGINX_](https://nginx.org)、[~~MySQL~~](https://www.mysql.com)、[~~Workbench~~](https://dev.mysql.com/downloads/workbench/)、[~~HeidiSQL~~](https://www.heidisql.com)、[~~Navicat~~](https://www.navicat.com.cn/products/navicat-premium-lite))
+    * [**Sourcetree**](https://sourcetreeapp.com) ([Git](https://git-scm.com) GUI) ([Cyberduck](https://cyberduck.io)、[Paw](https://paw.cloud)、[Wireshark](https://www.wireshark.org)、[_测速_](https://test.ustc.edu.cn)、[_Speedtest_](https://www.speedtest.net))
+    * [_PostgreSQL_](https://www.postgresql.org) (Relational Database) ([Postgres.app](https://postgresapp.com)、[pgAdmin](https://www.pgadmin.org)、[QGIS](https://www.qgis.org)、[奥维互动地图](https://www.ovital.com)、[_R_](https://www.r-project.org)、[_Apache_](https://apache.org)、[_NGINX_](https://nginx.org)、[~~MySQL~~](https://www.mysql.com)、[~~Workbench~~](https://dev.mysql.com/downloads/workbench/)、[~~Sequel Pro~~](https://github.com/sequelpro/sequelpro)、[~~Sequel Ace~~](https://github.com/Sequel-Ace/Sequel-Ace)、[~~Navicat~~](https://www.navicat.com.cn/products/navicat-premium-lite))
     * [DeepSeek Harness](https://www.deepseek.com/harness/) (AI & LLM) ([Apple Intelligence](https://www.apple.com.cn/apple-intelligence/) [[_千问_](https://www.qianwen.com)]、[_豆包_](https://www.doubao.com))
 
 <br>
